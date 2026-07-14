@@ -1,6 +1,94 @@
 {
   "offers": [
     {
+      "id": "032026005366",
+      "title": "Chófer de camión bañera y camión de obra (ref.5366)",
+      "date": "14/07/2026",
+      "municipio": "Llanes",
+      "provincia": "Asturias",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005366&ret=B"
+    },
+    {
+      "id": "032026005365",
+      "title": "Graduado social (ref.: 5365)",
+      "date": "14/07/2026",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005365&ret=B"
+    },
+    {
+      "id": "032026005362",
+      "title": "2 puestos de ayudante de camarero",
+      "date": "14/07/2026",
+      "municipio": "Mieres",
+      "provincia": "Asturias",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005362&ret=B"
+    },
+    {
+      "id": "032026005363",
+      "title": "Limpiador/a para residencia geriátrica (ref. 5363)",
+      "date": "14/07/2026",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005363&ret=B"
+    },
+    {
+      "id": "032026005361",
+      "title": "Auxiliar administrativo (ref.5361)",
+      "date": "14/07/2026",
+      "municipio": "Villanueva de oscos",
+      "provincia": "Asturias",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005361&ret=B"
+    },
+    {
+      "id": "032026005360",
+      "title": "Carpintero/a de madera (ref. 5360).",
+      "date": "14/07/2026",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005360&ret=B"
+    },
+    {
+      "id": "032026005358",
+      "title": "10 puestos de limpiador/a (ref. 5358)",
+      "date": "14/07/2026",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005358&ret=B"
+    },
+    {
+      "id": "032026005355",
+      "title": "2 técnicos de desarrollo local (ref.5355)",
+      "date": "14/07/2026",
+      "municipio": "Vegadeo",
+      "provincia": "Asturias",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005355&ret=B"
+    },
+    {
+      "id": "032026005359",
+      "title": "Camarero/a (ref.:5359)",
+      "date": "14/07/2026",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005359&ret=B"
+    },
+    {
+      "id": "032026005356",
+      "title": "Conductor/a de camión de mercancías peligrosas (ref.: 5356)",
+      "date": "14/07/2026",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005356&ret=B"
+    },
+    {
+      "id": "032026005357",
+      "title": "Fontanero/a (ref.: 5357)",
+      "date": "14/07/2026",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005357&ret=B"
+    },
+    {
       "id": "032026005353",
       "title": "Ayudante camarero/a (ref.: 5353)",
       "date": "14/07/2026",
@@ -1593,14 +1681,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005220&ret=B"
     },
     {
-      "id": "032026005223",
-      "title": "Educador/a social(ref.5223).",
-      "date": "09/07/2026",
-      "municipio": "Aller",
-      "provincia": "Asturias",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005223&ret=B"
-    },
-    {
       "id": "032026005222",
       "title": "Conductores/as de tráiler (ref. 5222 )",
       "date": "09/07/2026",
@@ -2087,14 +2167,6 @@
       "municipio": "Pravia",
       "provincia": "Asturias",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005174&ret=B"
-    },
-    {
-      "id": "032026005177",
-      "title": "Peón construcción (ref.5177)",
-      "date": "08/07/2026",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005177&ret=B"
     },
     {
       "id": "032026005173",
@@ -4727,78 +4799,6 @@
       "municipio": "Salas",
       "provincia": "Asturias",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004642&ret=B"
-    },
-    {
-      "id": "032026004644",
-      "title": "Operarios/as de montaje industrial (ref.: 4644)",
-      "date": "19/06/2026",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004644&ret=B"
-    },
-    {
-      "id": "032026004632",
-      "title": "Procesista de producción con discapacidad (ref.4632).",
-      "date": "19/06/2026",
-      "municipio": "Salas",
-      "provincia": "Asturias",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004632&ret=B"
-    },
-    {
-      "id": "032026004630",
-      "title": "1 camarero/a (ref: 4630)",
-      "date": "19/06/2026",
-      "municipio": "Cudillero",
-      "provincia": "Asturias",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004630&ret=B"
-    },
-    {
-      "id": "032026004628",
-      "title": "Tractorista de pomaradas (ref.: 4628)",
-      "date": "19/06/2026",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004628&ret=B"
-    },
-    {
-      "id": "032026004617",
-      "title": "Carpintero/montador de carpintería metálica de aluminio y pvc (ref. 4617)",
-      "date": "19/06/2026",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004617&ret=B"
-    },
-    {
-      "id": "032026004623",
-      "title": "Ayudante de cocina (ref.: 4623)",
-      "date": "19/06/2026",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004623&ret=B"
-    },
-    {
-      "id": "032026004620",
-      "title": "3 puestos de croupier para casino (ref.: 4620)",
-      "date": "19/06/2026",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004620&ret=B"
-    },
-    {
-      "id": "032026004621",
-      "title": "Conductor/a camión (ref.4621)",
-      "date": "19/06/2026",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004621&ret=B"
-    },
-    {
-      "id": "032026004609",
-      "title": "Vendedor/a ferretería (ref.4609)",
-      "date": "19/06/2026",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004609&ret=B"
     }
   ],
   "count": 600,
