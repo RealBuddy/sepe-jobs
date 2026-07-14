@@ -1,0 +1,12 @@
+# Operarios/as de obra  albañiles y encofradores
+
+- **Профессия (ES):** Operarios/as de obra  albañiles y encofradores
+- **Оригинальное название:** Operarios/as de obra  albañiles y encofradores (ref.: 5262)
+- **Город:** Oviedo (Asturias)
+- **Дата публикации:** 10/07/2026
+- **ID оферты:** 032026005262
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005262&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._

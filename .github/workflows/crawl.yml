@@ -1,0 +1,47 @@
+name: Daily SEPE Asturias crawl
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # 01:00 UTC ≈ 02:00–03:00 ночи по Мадриду
+  workflow_dispatch: {}    # ручной запуск кнопкой
+
+permissions:
+  contents: write          # чтобы коммитить свежие данные/кэш переводов обратно
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Scrape Asturias (polite, throttled)
+        run: python scrape_asturias.py
+
+      - name: Translate new occupations (Google, cached)
+        run: python translate.py
+
+      - name: Build catalog (index.html, csv, offers/)
+        run: python build_catalog.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "sepe-crawler[bot]"
+          git config user.email "sepe-crawler@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: daily SEPE Asturias refresh ($(date -u +%Y-%m-%d))"
+            git push
+          fi
