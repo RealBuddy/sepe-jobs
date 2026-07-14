@@ -40,8 +40,12 @@ jobs:
           git config user.email "sepe-crawler@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
-            echo "no changes"
-          else
-            git commit -m "chore: daily SEPE Asturias refresh ($(date -u +%Y-%m-%d))"
-            git push
+            echo "no changes"; exit 0
           fi
+          git commit -m "chore: daily SEPE Asturias refresh ($(date -u +%Y-%m-%d))"
+          # Resilient push: rebase onto any concurrent update, retry a few times.
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "push attempt $i failed, retrying..."; sleep 5
+          done
+          echo "push failed after retries"; exit 1
