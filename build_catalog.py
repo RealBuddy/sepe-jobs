@@ -2,6 +2,7 @@
 """Build index.html (searchable) + catalog.csv + offers/<municipio>/*.md
 from asturias_offers.json + translations.json. Portable (relative paths)."""
 import json, csv, collections, html, os, re, shutil
+from datetime import datetime, timezone
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 offs = json.load(open(os.path.join(BASE, "asturias_offers.json")))
@@ -18,6 +19,11 @@ def norm(t):
     t = re.sub(r"[.\s]+$", "", t).strip(" .:-")
     return re.sub(r"\s+", " ", t)
 
+def iso(d):
+    """dd/mm/yyyy -> yyyy-mm-dd (sortable). Empty string if unparseable."""
+    m = re.match(r"\s*(\d{2})/(\d{2})/(\d{4})\s*$", d or "")
+    return f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else ""
+
 rows = []
 miss = 0
 for o in offs:
@@ -29,7 +35,7 @@ for o in offs:
         "id": o["id"], "occupation_es": base, "occupation_ru": ru,
         "title_full_es": o.get("title", ""), "municipio": o.get("municipio") or "",
         "provincia": o.get("provincia") or "Asturias", "date": o.get("date") or "",
-        "url": o.get("url") or "",
+        "date_iso": iso(o.get("date")), "url": o.get("url") or "",
     })
 rows.sort(key=lambda r: (r["municipio"], r["occupation_ru"] or r["occupation_es"]))
 print(f"offers: {len(rows)}, without RU translation: {miss}")
@@ -37,7 +43,7 @@ print(f"offers: {len(rows)}, without RU translation: {miss}")
 # --- CSV ---
 with open(os.path.join(BASE, "catalog.csv"), "w", newline="", encoding="utf-8-sig") as f:
     w = csv.DictWriter(f, fieldnames=["id", "occupation_ru", "occupation_es", "title_full_es",
-                                      "municipio", "provincia", "date", "url"])
+                                      "municipio", "provincia", "date", "date_iso", "url"])
     w.writeheader()
     w.writerows(rows)
 
@@ -65,6 +71,12 @@ _На странице SEPE — раздел «Datos de contacto» (email/тел
     open(os.path.join(d, f"{safe(occ)[:50]} — {r['id']}.md"), "w", encoding="utf-8").write(body)
 
 # --- HTML ---
+try:
+    from zoneinfo import ZoneInfo
+    now, tzlabel = datetime.now(ZoneInfo("Europe/Madrid")), "Мадрид"
+except Exception:  # no tzdata on the host
+    now, tzlabel = datetime.now(timezone.utc), "UTC"
+updated = f"{now:%d.%m.%Y, %H:%M} ({tzlabel})"
 by_muni = collections.Counter(r["municipio"] for r in rows)
 by_occ = collections.Counter(r["occupation_ru"] or r["occupation_es"] for r in rows)
 munis = sorted(by_muni, key=lambda m: -by_muni[m])
@@ -82,6 +94,7 @@ HTML = f"""<!doctype html><html lang="ru"><head><meta charset="utf-8">
 body{{margin:0;background:var(--bg);color:var(--txt);font:15px/1.45 -apple-system,Segoe UI,Roboto,sans-serif}}
 header{{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--line);padding:14px 18px;z-index:5}}
 h1{{margin:0 0 4px;font-size:18px}} .sub{{color:var(--mut);font-size:13px}}
+.sub .upd{{color:var(--txt);font-weight:600}}
 .controls{{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}}
 input,select{{background:var(--card);border:1px solid var(--line);color:var(--txt);border-radius:8px;padding:9px 12px;font-size:14px}}
 input#q{{flex:1;min-width:220px}}
@@ -99,7 +112,8 @@ a.src{{color:var(--acc);text-decoration:none;white-space:nowrap}} a.src:hover{{t
 </style></head><body>
 <header>
   <h1>Вакансии Астурии · SEPE</h1>
-  <div class="sub">{len(rows)} вакансий · {len(munis)} населённых пунктов · источник: Sistema Nacional de Empleo. Обновляется автоматически.</div>
+  <div class="sub">{len(rows)} вакансий · {len(munis)} населённых пунктов · источник: Sistema Nacional de Empleo.
+    <br>Обновлено: <b class="upd">{updated}</b> · обновляется автоматически каждую ночь.</div>
   <div class="controls">
     <input id="q" placeholder="Поиск (рус/исп): повар, limpiador, сиделка, gijón…" oninput="render()">
     <select id="muni" onchange="render()"><option value="">Все города ({len(rows)})</option>{muni_opts}</select>
@@ -110,7 +124,7 @@ a.src{{color:var(--acc);text-decoration:none;white-space:nowrap}} a.src:hover{{t
   <table><thead><tr>
     <th onclick="sortBy('occupation_ru')">Профессия (RU)</th>
     <th onclick="sortBy('municipio')">Город</th>
-    <th onclick="sortBy('date')">Дата</th><th>Отклик</th>
+    <th onclick="sortBy('date_iso')">Дата</th><th>Отклик</th>
   </tr></thead><tbody id="rows"></tbody></table></div>
 <script>
 const DATA={data_json};
