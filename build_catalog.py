@@ -128,7 +128,7 @@ a.src{{color:var(--acc);text-decoration:none;white-space:nowrap}} a.src:hover{{t
   </tr></thead><tbody id="rows"></tbody></table></div>
 <script>
 const DATA={data_json};
-let sortKey='municipio',sortDir=1;const el=(id)=>document.getElementById(id);
+let sortKey='date_iso',sortDir=-1;const el=(id)=>document.getElementById(id);
 function setSearch(q){{el('q').value=q;render();}}
 function sortBy(k){{sortDir=(sortKey===k)?-sortDir:1;sortKey=k;render();}}
 function render(){{
