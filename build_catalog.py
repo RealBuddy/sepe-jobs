@@ -54,7 +54,9 @@ for o in offs:
         "date_iso": iso(o.get("date")), "sector": o.get("sector") or "",
         "sector_es": SECTOR_NAMES.get(o.get("sector"), ""), "url": o.get("url") or "",
     })
-rows.sort(key=lambda r: (r["municipio"], r["occupation_ru"] or r["occupation_es"]))
+# id breaks ties: without it equal (municipio, occupation) rows keep the store's order,
+# so any reshuffle upstream rewrites unrelated CSV lines.
+rows.sort(key=lambda r: (r["municipio"], r["occupation_ru"] or r["occupation_es"], r["id"]))
 print(f"offers: {len(rows)}, without RU translation: {miss}")
 
 # --- CSV ---
