@@ -11,6 +11,22 @@ if isinstance(offs, dict):
 tr = json.load(open(os.path.join(BASE, "translations.json")))
 cf = {k.lower(): v for k, v in tr.items()}
 
+SECTOR_NAMES = {
+    "AO": "Administración y oficinas", "AA": "Agrario", "AR": "Artesanía", "AU": "Automoción",
+    "CC": "Comercio", "DO": "Docencia e investigación", "EO": "Edificación y obras públicas",
+    "IP": "Industria pesada y construcciones metálicas", "IA": "Industrias alimentarias",
+    "FE": "Industrias de fabricación de equipos electromecánicos",
+    "MD": "Industrias de la madera y corcho", "IG": "Industrias gráficas",
+    "MT": "Industrias manufactureras diversas", "IQ": "Industrias químicas",
+    "IT": "Industrias textiles", "IM": "Información y manifestaciones artísticas",
+    "MR": "Mantenimiento y reparación", "MN": "Minería y primeras transformaciones",
+    "MO": "Montaje e instalación", "PA": "Pesca y acuicultura", "PC": "Piel y cuero",
+    "PT": "Producción, transformación y distribución de energía y agua", "SA": "Sanidad",
+    "SF": "Seguros y finanzas", "SP": "Servicios a la comunidad y personales",
+    "EM": "Servicios a las empresas", "TC": "Transportes y comunicaciones",
+    "TH": "Turismo y hostelería",
+}
+
 def norm(t):
     t = re.sub(r"\(\s*ref[^)]*\)", "", t or "", flags=re.I)
     t = re.sub(r"ref[.:]\s*\d+", "", t, flags=re.I)
@@ -35,7 +51,8 @@ for o in offs:
         "id": o["id"], "occupation_es": base, "occupation_ru": ru,
         "title_full_es": o.get("title", ""), "municipio": o.get("municipio") or "",
         "provincia": o.get("provincia") or "Asturias", "date": o.get("date") or "",
-        "date_iso": iso(o.get("date")), "url": o.get("url") or "",
+        "date_iso": iso(o.get("date")), "sector": o.get("sector") or "",
+        "sector_es": SECTOR_NAMES.get(o.get("sector"), ""), "url": o.get("url") or "",
     })
 rows.sort(key=lambda r: (r["municipio"], r["occupation_ru"] or r["occupation_es"]))
 print(f"offers: {len(rows)}, without RU translation: {miss}")
@@ -43,7 +60,8 @@ print(f"offers: {len(rows)}, without RU translation: {miss}")
 # --- CSV ---
 with open(os.path.join(BASE, "catalog.csv"), "w", newline="", encoding="utf-8-sig") as f:
     w = csv.DictWriter(f, fieldnames=["id", "occupation_ru", "occupation_es", "title_full_es",
-                                      "municipio", "provincia", "date", "date_iso", "url"])
+                                      "municipio", "provincia", "date", "date_iso",
+                                      "sector", "sector_es", "url"])
     w.writeheader()
     w.writerows(rows)
 

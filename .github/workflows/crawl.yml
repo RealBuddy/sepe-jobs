@@ -2,8 +2,19 @@ name: Daily SEPE Asturias crawl
 
 on:
   schedule:
-    - cron: "0 1 * * *"   # 01:00 UTC ≈ 02:00–03:00 ночи по Мадриду
-  workflow_dispatch: {}    # ручной запуск кнопкой
+    # Four night slots (~03:00-06:00 Madrid), one sector group each, to keep the
+    # instantaneous footprint on SEPE low. github.event.schedule maps cron -> slot.
+    # GitHub's scheduler is best-effort: a dropped slot just leaves its sectors on
+    # yesterday's data until the next night, and the other slots still refresh.
+    - cron: "0 1 * * *"   # slot 1
+    - cron: "0 2 * * *"   # slot 2
+    - cron: "0 3 * * *"   # slot 3
+    - cron: "0 4 * * *"   # slot 4
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "scraper args: --all, --slot N, or --sectors AA,TH"
+        default: "--all"
 
 permissions:
   contents: write          # чтобы коммитить свежие данные/кэш переводов обратно
@@ -25,8 +36,24 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
+      - name: Pick scraper args
+        id: pick
+        env:
+          SCHED: ${{ github.event.schedule }}
+          IN: ${{ inputs.args }}
+        run: |
+          case "$SCHED" in
+            "0 1 * * *") A="--slot 1" ;;
+            "0 2 * * *") A="--slot 2" ;;
+            "0 3 * * *") A="--slot 3" ;;
+            "0 4 * * *") A="--slot 4" ;;
+            *)           A="${IN:---all}" ;;
+          esac
+          echo "args=$A" >> "$GITHUB_OUTPUT"
+          echo "crawling with: $A"
+
       - name: Scrape Asturias (polite, throttled)
-        run: python scrape_asturias.py
+        run: python scrape_asturias.py ${{ steps.pick.outputs.args }}
 
       - name: Translate new occupations (Google, cached)
         run: python translate.py
@@ -42,7 +69,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "no changes"; exit 0
           fi
-          git commit -m "chore: daily SEPE Asturias refresh ($(date -u +%Y-%m-%d))"
+          git commit -m "chore: SEPE Asturias refresh ${{ steps.pick.outputs.args }} ($(date -u +%Y-%m-%d))"
           # Resilient push: rebase onto any concurrent update, retry a few times.
           for i in 1 2 3; do
             git pull --rebase --autostash origin main && git push && exit 0
