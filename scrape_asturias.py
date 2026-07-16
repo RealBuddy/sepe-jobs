@@ -179,9 +179,13 @@ def main():
     if len(dedup) != len(offers):
         print(f"note: {len(offers) - len(dedup)} offer(s) appeared in more than one sector")
 
+    # Stable order, or every run rewrites the whole file: refreshed sectors would land
+    # wherever the merge happened to put them and git would diff ~6k lines for a handful
+    # of real changes -- noisy history and a needlessly wide conflict surface.
+    dedup.sort(key=lambda o: o["id"])
     res = {"offers": dedup, "count": len(dedup), "sectors": store["sectors"],
-           "updated": now, "failed_sectors": failed}
-    json.dump(res, open(OUT, "w"), ensure_ascii=False, indent=2)
+           "updated": now, "failed_sectors": sorted(failed)}
+    json.dump(res, open(OUT, "w"), ensure_ascii=False, indent=2, sort_keys=True)
     print(f"\nDONE: {len(dedup)} Asturias offers across {len(store['sectors'])} sector(s) -> {OUT}")
     if failed: print(f"failed (kept previous data): {', '.join(failed)}")
 
