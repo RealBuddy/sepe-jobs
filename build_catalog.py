@@ -93,21 +93,61 @@ _На странице SEPE — раздел «Datos de contacto» (email/тел
 # --- HTML ---
 try:
     from zoneinfo import ZoneInfo
-    now, tzlabel = datetime.now(ZoneInfo("Europe/Madrid")), "Мадрид"
+    now, tz_ru, tz_es = datetime.now(ZoneInfo("Europe/Madrid")), "Мадрид", "Madrid"
 except Exception:  # no tzdata on the host
-    now, tzlabel = datetime.now(timezone.utc), "UTC"
-updated = f"{now:%d.%m.%Y, %H:%M} ({tzlabel})"
+    now, tz_ru, tz_es = datetime.now(timezone.utc), "UTC", "UTC"
 by_muni = collections.Counter(r["municipio"] for r in rows)
-by_occ = collections.Counter(r["occupation_ru"] or r["occupation_es"] for r in rows)
 munis = sorted(by_muni, key=lambda m: -by_muni[m])
-top_occ = by_occ.most_common(12)
 data_json = json.dumps(rows, ensure_ascii=False)
 muni_opts = "".join(f'<option value="{html.escape(m)}">{html.escape(m)} ({by_muni[m]})</option>' for m in munis)
-top_chips = "".join(f'<span class="chip" onclick="setSearch(this.dataset.q)" data-q="{html.escape(o)}">{html.escape(o)} · {c}</span>' for o, c in top_occ)
 
-HTML = f"""<!doctype html><html lang="ru"><head><meta charset="utf-8">
+def chips(field):
+    # Group case-insensitively: SEPE's own titles mix casing, so a raw Counter renders
+    # "Gerocultor/a · 20" next to "gerocultor/a · 7" as if they were different jobs.
+    groups = collections.defaultdict(collections.Counter)
+    for r in rows:
+        v = r[field] or r["occupation_es"]
+        groups[v.lower()][v] += 1
+    top = sorted(groups.values(), key=lambda c: -sum(c.values()))[:12]
+    return "".join(f'<span class="chip" onclick="setSearch(this.dataset.q)" data-q="{html.escape(c.most_common(1)[0][0])}">'
+                   f'{html.escape(c.most_common(1)[0][0])} · {sum(c.values())}</span>' for c in top)
+
+# Both pages are the same catalogue over the same data; they differ only in wording and in
+# which occupation field leads. The ES page shows SEPE's own titles, so it needs no translation.
+LANGS = {
+    "index.html": dict(
+        lang="ru", tz=tz_ru, fmt="%d.%m.%Y, %H:%M",
+        title="Вакансии Астурии (SEPE) — каталог", h1="Вакансии Астурии · SEPE",
+        sub=f"{len(rows)} вакансий · {len(munis)} населённых пунктов · источник: Sistema Nacional de Empleo.",
+        updated="Обновлено", auto="обновляется автоматически каждую ночь",
+        ph="Поиск (рус/исп): повар, limpiador, сиделка, gijón…",
+        all_munis=f"Все города ({len(rows)})",
+        th_occ="Профессия (RU)", th_muni="Город", th_date="Дата", th_apply="Отклик",
+        apply="Откликнуться ↗", found="Найдено", sort_key="occupation_ru",
+        primary="x.occupation_ru||x.occupation_es", secondary="x.occupation_es",
+        alt_href="index_es.html", alt_label="Español", chips=chips("occupation_ru"),
+    ),
+    "index_es.html": dict(
+        lang="es", tz=tz_es, fmt="%d/%m/%Y, %H:%M",
+        title="Ofertas de empleo en Asturias (SEPE) — catálogo", h1="Ofertas de empleo en Asturias · SEPE",
+        sub=f"{len(rows)} ofertas · {len(munis)} municipios · fuente: Sistema Nacional de Empleo.",
+        updated="Actualizado", auto="se actualiza automáticamente cada noche",
+        ph="Buscar: cocinero, limpiador, gijón…",
+        all_munis=f"Todos los municipios ({len(rows)})",
+        th_occ="Profesión", th_muni="Municipio", th_date="Fecha", th_apply="Oferta",
+        apply="Ver oferta ↗", found="Encontradas", sort_key="occupation_es",
+        # Not title_full_es: it is occupation_es plus a ref number, so it renders as a
+        # near-duplicate of the line above it. The sector is the useful second line here.
+        primary="x.occupation_es", secondary="x.sector_es",
+        alt_href="index.html", alt_label="Русский", chips=chips("occupation_es"),
+    ),
+}
+
+def page(c):
+    updated = f"{now:{c['fmt']}} ({c['tz']})"
+    return f"""<!doctype html><html lang="{c['lang']}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Вакансии Астурии (SEPE) — каталог</title>
+<title>{c['title']}</title>
 <style>
 :root{{--bg:#0f1216;--card:#171b21;--line:#2a313b;--txt:#e7ecf2;--mut:#93a1b0;--acc:#4ea1ff;}}
 *{{box-sizing:border-box}}
@@ -125,26 +165,29 @@ input#q{{flex:1;min-width:220px}}
 table{{width:100%;border-collapse:collapse}}
 th,td{{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}}
 th{{position:sticky;top:0;background:var(--card);font-size:12px;color:var(--mut);cursor:pointer;user-select:none}}
-tr:hover td{{background:#1b2028}} .ru{{font-weight:600}} .es{{color:var(--mut);font-size:12.5px}}
+tr:hover td{{background:#1b2028}} .occ{{font-weight:600}} .alt{{color:var(--mut);font-size:12.5px}}
 .muni{{white-space:nowrap}} .date{{color:var(--mut);white-space:nowrap;font-variant-numeric:tabular-nums}}
 a.src{{color:var(--acc);text-decoration:none;white-space:nowrap}} a.src:hover{{text-decoration:underline}}
-@media(max-width:640px){{.es{{display:none}}}}
+a.lang{{float:right;color:var(--acc);text-decoration:none;font-size:13px;border:1px solid var(--line);border-radius:20px;padding:3px 12px}}
+a.lang:hover{{border-color:var(--acc)}}
+@media(max-width:640px){{.alt{{display:none}}}}
 </style></head><body>
 <header>
-  <h1>Вакансии Астурии · SEPE</h1>
-  <div class="sub">{len(rows)} вакансий · {len(munis)} населённых пунктов · источник: Sistema Nacional de Empleo.
-    <br>Обновлено: <b class="upd">{updated}</b> · обновляется автоматически каждую ночь.</div>
+  <a class="lang" href="{c['alt_href']}">{c['alt_label']}</a>
+  <h1>{c['h1']}</h1>
+  <div class="sub">{c['sub']}
+    <br>{c['updated']}: <b class="upd">{updated}</b> · {c['auto']}.</div>
   <div class="controls">
-    <input id="q" placeholder="Поиск (рус/исп): повар, limpiador, сиделка, gijón…" oninput="render()">
-    <select id="muni" onchange="render()"><option value="">Все города ({len(rows)})</option>{muni_opts}</select>
+    <input id="q" placeholder="{c['ph']}" oninput="render()">
+    <select id="muni" onchange="render()"><option value="">{c['all_munis']}</option>{muni_opts}</select>
   </div>
-  <div class="chips">{top_chips}</div>
+  <div class="chips">{c['chips']}</div>
 </header>
 <div class="wrap"><div class="count" id="count"></div>
   <table><thead><tr>
-    <th onclick="sortBy('occupation_ru')">Профессия (RU)</th>
-    <th onclick="sortBy('municipio')">Город</th>
-    <th onclick="sortBy('date_iso')">Дата</th><th>Отклик</th>
+    <th onclick="sortBy('{c['sort_key']}')">{c['th_occ']}</th>
+    <th onclick="sortBy('municipio')">{c['th_muni']}</th>
+    <th onclick="sortBy('date_iso')">{c['th_date']}</th><th>{c['th_apply']}</th>
   </tr></thead><tbody id="rows"></tbody></table></div>
 <script>
 const DATA={data_json};
@@ -156,14 +199,16 @@ function render(){{
   let r=DATA.filter(x=>{{if(m&&x.municipio!==m)return false;if(!q)return true;
     return (x.occupation_ru+' '+x.occupation_es+' '+x.title_full_es+' '+x.municipio).toLowerCase().includes(q);}});
   r.sort((a,b)=>{{const A=(a[sortKey]||'')+'',B=(b[sortKey]||'')+'';return A<B?-sortDir:A>B?sortDir:0;}});
-  el('count').textContent=`Найдено: ${{r.length}}`;
+  el('count').textContent=`{c['found']}: ${{r.length}}`;
   el('rows').innerHTML=r.map(x=>`<tr>
-    <td><div class="ru">${{esc(x.occupation_ru||x.occupation_es)}}</div><div class="es">${{esc(x.occupation_es)}}</div></td>
+    <td><div class="occ">${{esc({c['primary']})}}</div><div class="alt">${{esc({c['secondary']})}}</div></td>
     <td class="muni">${{esc(x.municipio)}}</td><td class="date">${{esc(x.date)}}</td>
-    <td><a class="src" href="${{x.url}}" target="_blank" rel="noopener noreferrer">Откликнуться ↗</a></td></tr>`).join('');
+    <td><a class="src" href="${{x.url}}" target="_blank" rel="noopener noreferrer">{c['apply']}</a></td></tr>`).join('');
 }}
 function esc(s){{return (s||'').replace(/[&<>"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]));}}
 render();
 </script></body></html>"""
-open(os.path.join(BASE, "index.html"), "w", encoding="utf-8").write(HTML)
-print(f"wrote index.html, catalog.csv, offers/ ({len(rows)} offers, {len(munis)} municipios)")
+
+for fname, cfg in LANGS.items():
+    open(os.path.join(BASE, fname), "w", encoding="utf-8").write(page(cfg))
+print(f"wrote {', '.join(LANGS)}, catalog.csv, offers/ ({len(rows)} offers, {len(munis)} municipios)")
