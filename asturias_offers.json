@@ -1,5 +1,5 @@
 {
-  "count": 689,
+  "count": 686,
   "failed_sectors": [],
   "offers": [
     {
@@ -1975,15 +1975,6 @@
     },
     {
       "date": "17/06/2026",
-      "id": "032026004526",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Técnico/a en regulación y calidad de productos sanitarios software(salud digital) programa investigo asturias(ref:4526)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004526&ret=B"
-    },
-    {
-      "date": "17/06/2026",
       "id": "032026004528",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -1999,15 +1990,6 @@
       "sector": "SA",
       "title": "2 puestos fisioterapeuta (ref.4529)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004529&ret=B"
-    },
-    {
-      "date": "17/06/2026",
-      "id": "032026004530",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Electricistas oficial de 1ª y 2ª ( ref. 4530 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004530&ret=B"
     },
     {
       "date": "17/06/2026",
@@ -2080,15 +2062,6 @@
       "sector": "AO",
       "title": "1 puesto de contabilidad para autónomos",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004567&ret=B"
-    },
-    {
-      "date": "18/06/2026",
-      "id": "032026004573",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "13 of. 1ª montaje y mnto. de vía férrea (ref.4573)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004573&ret=B"
     },
     {
       "date": "18/06/2026",
@@ -2791,15 +2764,6 @@
       "sector": "SP",
       "title": "Operario/a de lavandería industrial (ref.: 4888)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004888&ret=B"
-    },
-    {
-      "date": "13/07/2026",
-      "id": "032026004889",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Técnico/a para departamento jurídico (ref.: 4889)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004889&ret=B"
     },
     {
       "date": "26/06/2026",
@@ -6195,6 +6159,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005458&ret=B"
     },
     {
+      "date": "17/07/2026",
+      "id": "032026005459",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Controlador/a de accesos (ref.:5459)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005459&ret=B"
+    },
+    {
       "date": "06/07/2026",
       "id": "062026002297",
       "municipio": "Ribadedeva",
@@ -6215,7 +6188,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-07-16T16:51:21Z"
+      "last_crawled": "2026-07-17T06:17:17Z"
     },
     "AU": {
       "count": 9,
@@ -6230,8 +6203,8 @@
       "last_crawled": "2026-07-17T03:58:32Z"
     },
     "EM": {
-      "count": 13,
-      "last_crawled": "2026-07-16T16:51:21Z"
+      "count": 12,
+      "last_crawled": "2026-07-17T06:17:17Z"
     },
     "EO": {
       "count": 53,
@@ -6259,11 +6232,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-07-16T16:51:21Z"
+      "last_crawled": "2026-07-17T06:17:17Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-07-16T16:51:21Z"
+      "last_crawled": "2026-07-17T06:17:17Z"
     },
     "MD": {
       "count": 11,
@@ -6274,8 +6247,8 @@
       "last_crawled": "2026-07-17T05:35:40Z"
     },
     "MO": {
-      "count": 15,
-      "last_crawled": "2026-07-16T16:51:21Z"
+      "count": 13,
+      "last_crawled": "2026-07-17T06:17:17Z"
     },
     "MR": {
       "count": 16,
@@ -6283,7 +6256,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-07-16T16:51:21Z"
+      "last_crawled": "2026-07-17T06:17:17Z"
     },
     "PA": {
       "count": 0,
@@ -6295,7 +6268,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-07-16T16:51:21Z"
+      "last_crawled": "2026-07-17T06:17:17Z"
     },
     "SA": {
       "count": 93,
@@ -6318,5 +6291,5 @@
       "last_crawled": "2026-07-17T05:14:44Z"
     }
   },
-  "updated": "2026-07-17T05:35:40Z"
+  "updated": "2026-07-17T06:17:17Z"
 }
