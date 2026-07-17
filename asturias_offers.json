@@ -1,5 +1,5 @@
 {
-  "count": 721,
+  "count": 716,
   "failed_sectors": [],
   "offers": [
     {
@@ -118,15 +118,6 @@
       "sector": "EO",
       "title": "Fontanero/a (ref.: 1673)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026001673&ret=B"
-    },
-    {
-      "date": "29/06/2026",
-      "id": "032026001716",
-      "municipio": "Valdes",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Peon/a de limpieza viaria (ref.1716) modificada",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026001716&ret=B"
     },
     {
       "date": "10/06/2026",
@@ -1018,15 +1009,6 @@
       "sector": "SA",
       "title": "1 fisioterapeuta (ref: 3567)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003567&ret=B"
-    },
-    {
-      "date": "06/07/2026",
-      "id": "032026003609",
-      "municipio": "Coaña",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Operario/a de limpieza ayuntamiento de coaña ple itinerarios integrales de activación en el ámbito local (ref.:3609)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003609&ret=B"
     },
     {
       "date": "10/07/2026",
@@ -1983,6 +1965,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004407&ret=B"
     },
     {
+      "date": "17/07/2026",
+      "id": "032026004416",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "DO",
+      "title": "Docentes c.p. \"o. a. de acabados rígidos y urbanización\"(eocb209) - ayuntamiento de somiedo (ref.:4416)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004416&ret=B"
+    },
+    {
       "date": "16/07/2026",
       "id": "032026004426",
       "municipio": "Gijón",
@@ -2071,15 +2062,6 @@
       "sector": "CC",
       "title": "Operario/a de almacén (ref.4475)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004475&ret=B"
-    },
-    {
-      "date": "03/07/2026",
-      "id": "032026004492",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Personal de limpieza (ref. 4492)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004492&ret=B"
     },
     {
       "date": "16/06/2026",
@@ -3631,15 +3613,6 @@
     },
     {
       "date": "03/07/2026",
-      "id": "032026005053",
-      "municipio": "Villaviciosa",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Animador/a sociocultural (ref.:5053)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005053&ret=B"
-    },
-    {
-      "date": "03/07/2026",
       "id": "032026005054",
       "municipio": "Cangas de onis",
       "provincia": "Asturias",
@@ -3727,15 +3700,6 @@
       "sector": "TH",
       "title": "2 puestos camareras/os de pisos ref.:(5071)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005071&ret=B"
-    },
-    {
-      "date": "03/07/2026",
-      "id": "032026005073",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a para pruvia (ref.:5073)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005073&ret=B"
     },
     {
       "date": "16/07/2026",
@@ -5368,15 +5332,6 @@
     },
     {
       "date": "13/07/2026",
-      "id": "032026005320",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Psicóloga/o (ref.: 5320)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005320&ret=B"
-    },
-    {
-      "date": "13/07/2026",
       "id": "032026005321",
       "municipio": "Llanes",
       "provincia": "Asturias",
@@ -6495,7 +6450,7 @@
   "sectors": {
     "AA": {
       "count": 20,
-      "last_crawled": "2026-07-16T15:05:28Z"
+      "last_crawled": "2026-07-17T03:58:32Z"
     },
     "AO": {
       "count": 29,
@@ -6511,11 +6466,11 @@
     },
     "CC": {
       "count": 61,
-      "last_crawled": "2026-07-16T15:05:28Z"
+      "last_crawled": "2026-07-17T03:58:32Z"
     },
     "DO": {
-      "count": 5,
-      "last_crawled": "2026-07-16T15:05:28Z"
+      "count": 6,
+      "last_crawled": "2026-07-17T03:58:32Z"
     },
     "EM": {
       "count": 13,
@@ -6535,7 +6490,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-07-16T15:05:28Z"
+      "last_crawled": "2026-07-17T03:58:32Z"
     },
     "IM": {
       "count": 0,
@@ -6555,7 +6510,7 @@
     },
     "MD": {
       "count": 11,
-      "last_crawled": "2026-07-16T15:05:28Z"
+      "last_crawled": "2026-07-17T03:58:32Z"
     },
     "MN": {
       "count": 0,
@@ -6575,7 +6530,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-07-16T15:05:28Z"
+      "last_crawled": "2026-07-17T03:58:32Z"
     },
     "PC": {
       "count": 0,
@@ -6594,8 +6549,8 @@
       "last_crawled": "2026-07-16T15:00:12Z"
     },
     "SP": {
-      "count": 141,
-      "last_crawled": "2026-07-16T15:05:28Z"
+      "count": 135,
+      "last_crawled": "2026-07-17T03:58:32Z"
     },
     "TC": {
       "count": 48,
@@ -6606,5 +6561,5 @@
       "last_crawled": "2026-07-16T15:03:15Z"
     }
   },
-  "updated": "2026-07-16T16:51:21Z"
+  "updated": "2026-07-17T03:58:32Z"
 }
