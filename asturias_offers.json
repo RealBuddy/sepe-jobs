@@ -1,5 +1,5 @@
 {
-  "count": 710,
+  "count": 711,
   "failed_sectors": [],
   "offers": [
     {
@@ -19,15 +19,6 @@
       "sector": "SA",
       "title": "Enfermero/a (ref. 356)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000356&ret=B"
-    },
-    {
-      "date": "02/06/2026",
-      "id": "032026000450",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Teleoperador/a servicio técnico (ref.: 450)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000450&ret=B"
     },
     {
       "date": "09/07/2026",
@@ -6070,6 +6061,15 @@
     },
     {
       "date": "17/07/2026",
+      "id": "032026005470",
+      "municipio": "Belmonte de miranda",
+      "provincia": "Asturias",
+      "sector": "PT",
+      "title": "Operario/a planta medioambiente (ref. 5470)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005470&ret=B"
+    },
+    {
+      "date": "17/07/2026",
       "id": "032026005471",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -6130,6 +6130,15 @@
       "sector": "SP",
       "title": "Trabajador/a social (ref.: 5477)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005477&ret=B"
+    },
+    {
+      "date": "17/07/2026",
+      "id": "032026005478",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Teleoperador/a de call center (ref.5478)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005478&ret=B"
     },
     {
       "date": "17/07/2026",
@@ -6404,7 +6413,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-07-17T06:17:17Z"
+      "last_crawled": "2026-07-18T06:06:24Z"
     },
     "AU": {
       "count": 9,
@@ -6420,7 +6429,7 @@
     },
     "EM": {
       "count": 12,
-      "last_crawled": "2026-07-17T06:17:17Z"
+      "last_crawled": "2026-07-18T06:06:24Z"
     },
     "EO": {
       "count": 59,
@@ -6448,11 +6457,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-07-17T06:17:17Z"
+      "last_crawled": "2026-07-18T06:06:24Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-07-17T06:17:17Z"
+      "last_crawled": "2026-07-18T06:06:24Z"
     },
     "MD": {
       "count": 10,
@@ -6464,7 +6473,7 @@
     },
     "MO": {
       "count": 13,
-      "last_crawled": "2026-07-17T06:17:17Z"
+      "last_crawled": "2026-07-18T06:06:24Z"
     },
     "MR": {
       "count": 20,
@@ -6472,7 +6481,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-07-17T06:17:17Z"
+      "last_crawled": "2026-07-18T06:06:24Z"
     },
     "PA": {
       "count": 0,
@@ -6483,8 +6492,8 @@
       "last_crawled": "2026-07-18T04:50:04Z"
     },
     "PT": {
-      "count": 0,
-      "last_crawled": "2026-07-17T06:17:17Z"
+      "count": 1,
+      "last_crawled": "2026-07-18T06:06:24Z"
     },
     "SA": {
       "count": 89,
@@ -6507,5 +6516,5 @@
       "last_crawled": "2026-07-18T04:50:04Z"
     }
   },
-  "updated": "2026-07-18T05:19:19Z"
+  "updated": "2026-07-18T06:06:24Z"
 }
