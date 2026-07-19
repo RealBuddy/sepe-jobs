@@ -1,5 +1,5 @@
 {
-  "count": 705,
+  "count": 703,
   "failed_sectors": [],
   "offers": [
     {
@@ -865,15 +865,6 @@
       "sector": "SP",
       "title": "2 personal de limpieza (ref: 3551)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003551&ret=B"
-    },
-    {
-      "date": "20/05/2026",
-      "id": "032026003567",
-      "municipio": "Pravia",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "1 fisioterapeuta (ref: 3567)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003567&ret=B"
     },
     {
       "date": "10/07/2026",
@@ -1990,15 +1981,6 @@
       "sector": "TH",
       "title": "3 puestos de croupier para casino (ref.: 4620)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004620&ret=B"
-    },
-    {
-      "date": "19/06/2026",
-      "id": "032026004621",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a camión (ref.4621)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004621&ret=B"
     },
     {
       "date": "10/07/2026",
@@ -6387,7 +6369,7 @@
     },
     "IA": {
       "count": 5,
-      "last_crawled": "2026-07-18T05:19:19Z"
+      "last_crawled": "2026-07-19T05:44:56Z"
     },
     "IG": {
       "count": 0,
@@ -6399,7 +6381,7 @@
     },
     "IP": {
       "count": 30,
-      "last_crawled": "2026-07-18T05:19:19Z"
+      "last_crawled": "2026-07-19T05:44:56Z"
     },
     "IQ": {
       "count": 1,
@@ -6415,7 +6397,7 @@
     },
     "MN": {
       "count": 1,
-      "last_crawled": "2026-07-18T05:19:19Z"
+      "last_crawled": "2026-07-19T05:44:56Z"
     },
     "MO": {
       "count": 13,
@@ -6423,7 +6405,7 @@
     },
     "MR": {
       "count": 20,
-      "last_crawled": "2026-07-18T05:19:19Z"
+      "last_crawled": "2026-07-19T05:44:56Z"
     },
     "MT": {
       "count": 6,
@@ -6442,25 +6424,25 @@
       "last_crawled": "2026-07-18T06:06:24Z"
     },
     "SA": {
-      "count": 89,
-      "last_crawled": "2026-07-18T05:19:19Z"
+      "count": 88,
+      "last_crawled": "2026-07-19T05:44:56Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-07-18T05:19:19Z"
+      "last_crawled": "2026-07-19T05:44:56Z"
     },
     "SP": {
       "count": 134,
       "last_crawled": "2026-07-19T04:20:19Z"
     },
     "TC": {
-      "count": 43,
-      "last_crawled": "2026-07-18T05:19:19Z"
+      "count": 42,
+      "last_crawled": "2026-07-19T05:44:56Z"
     },
     "TH": {
       "count": 136,
       "last_crawled": "2026-07-19T05:22:58Z"
     }
   },
-  "updated": "2026-07-19T05:22:58Z"
+  "updated": "2026-07-19T05:44:56Z"
 }
