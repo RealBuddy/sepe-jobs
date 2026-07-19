@@ -1,5 +1,5 @@
 {
-  "count": 711,
+  "count": 708,
   "failed_sectors": [],
   "offers": [
     {
@@ -919,24 +919,6 @@
       "sector": "TH",
       "title": "1 ayudante de camarero/a (ref: 3628)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003628&ret=B"
-    },
-    {
-      "date": "21/05/2026",
-      "id": "032026003629",
-      "municipio": "Muros de nalon",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "1 personal de limpieza (ref. 3629)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003629&ret=B"
-    },
-    {
-      "date": "21/05/2026",
-      "id": "032026003650",
-      "municipio": "Muros de nalon",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "1 esteticiasta (ref. 3650)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003650&ret=B"
     },
     {
       "date": "29/06/2026",
@@ -1999,15 +1981,6 @@
       "sector": "TH",
       "title": "2 ayudantes de cocina (ref: 4603)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004603&ret=B"
-    },
-    {
-      "date": "19/06/2026",
-      "id": "032026004609",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Vendedor/a ferretería (ref.4609)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004609&ret=B"
     },
     {
       "date": "19/06/2026",
@@ -6405,7 +6378,7 @@
   "sectors": {
     "AA": {
       "count": 21,
-      "last_crawled": "2026-07-18T03:53:29Z"
+      "last_crawled": "2026-07-19T04:20:19Z"
     },
     "AO": {
       "count": 35,
@@ -6420,12 +6393,12 @@
       "last_crawled": "2026-07-18T04:50:04Z"
     },
     "CC": {
-      "count": 62,
-      "last_crawled": "2026-07-18T03:53:29Z"
+      "count": 61,
+      "last_crawled": "2026-07-19T04:20:19Z"
     },
     "DO": {
       "count": 13,
-      "last_crawled": "2026-07-18T03:53:29Z"
+      "last_crawled": "2026-07-19T04:20:19Z"
     },
     "EM": {
       "count": 12,
@@ -6445,7 +6418,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-07-18T03:53:29Z"
+      "last_crawled": "2026-07-19T04:20:19Z"
     },
     "IM": {
       "count": 0,
@@ -6465,7 +6438,7 @@
     },
     "MD": {
       "count": 10,
-      "last_crawled": "2026-07-18T03:53:29Z"
+      "last_crawled": "2026-07-19T04:20:19Z"
     },
     "MN": {
       "count": 1,
@@ -6485,7 +6458,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-07-18T03:53:29Z"
+      "last_crawled": "2026-07-19T04:20:19Z"
     },
     "PC": {
       "count": 0,
@@ -6504,8 +6477,8 @@
       "last_crawled": "2026-07-18T05:19:19Z"
     },
     "SP": {
-      "count": 136,
-      "last_crawled": "2026-07-18T03:53:29Z"
+      "count": 134,
+      "last_crawled": "2026-07-19T04:20:19Z"
     },
     "TC": {
       "count": 43,
@@ -6516,5 +6489,5 @@
       "last_crawled": "2026-07-18T04:50:04Z"
     }
   },
-  "updated": "2026-07-18T06:06:24Z"
+  "updated": "2026-07-19T04:20:19Z"
 }
