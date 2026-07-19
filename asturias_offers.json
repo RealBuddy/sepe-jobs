@@ -1,5 +1,5 @@
 {
-  "count": 708,
+  "count": 705,
   "failed_sectors": [],
   "offers": [
     {
@@ -714,15 +714,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003328&ret=B"
     },
     {
-      "date": "19/06/2026",
-      "id": "032026003334",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocinero/a (ref.: 3334)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003334&ret=B"
-    },
-    {
       "date": "08/07/2026",
       "id": "032026003343",
       "municipio": "Gijón",
@@ -901,15 +892,6 @@
       "sector": "SP",
       "title": "2 puestos de terapeuta ocupacional / animador sociocultural (ref.: 3620)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003620&ret=B"
-    },
-    {
-      "date": "21/05/2026",
-      "id": "032026003627",
-      "municipio": "Muros de nalon",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "1 ayudante de cocina (ref. 3627)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003627&ret=B"
     },
     {
       "date": "21/05/2026",
@@ -1936,15 +1918,6 @@
       "sector": "SA",
       "title": "1 gerocultor/a (ref: 4575)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004575&ret=B"
-    },
-    {
-      "date": "18/06/2026",
-      "id": "032026004577",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Albañil- oficial de 2ª (ref.: 4577)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004577&ret=B"
     },
     {
       "date": "18/06/2026",
@@ -6382,7 +6355,7 @@
     },
     "AO": {
       "count": 35,
-      "last_crawled": "2026-07-18T04:50:04Z"
+      "last_crawled": "2026-07-19T05:22:58Z"
     },
     "AR": {
       "count": 1,
@@ -6390,7 +6363,7 @@
     },
     "AU": {
       "count": 9,
-      "last_crawled": "2026-07-18T04:50:04Z"
+      "last_crawled": "2026-07-19T05:22:58Z"
     },
     "CC": {
       "count": 61,
@@ -6405,12 +6378,12 @@
       "last_crawled": "2026-07-18T06:06:24Z"
     },
     "EO": {
-      "count": 59,
-      "last_crawled": "2026-07-18T04:50:04Z"
+      "count": 58,
+      "last_crawled": "2026-07-19T05:22:58Z"
     },
     "FE": {
       "count": 3,
-      "last_crawled": "2026-07-18T04:50:04Z"
+      "last_crawled": "2026-07-19T05:22:58Z"
     },
     "IA": {
       "count": 5,
@@ -6422,7 +6395,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-07-18T04:50:04Z"
+      "last_crawled": "2026-07-19T05:22:58Z"
     },
     "IP": {
       "count": 30,
@@ -6462,7 +6435,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-07-18T04:50:04Z"
+      "last_crawled": "2026-07-19T05:22:58Z"
     },
     "PT": {
       "count": 1,
@@ -6485,9 +6458,9 @@
       "last_crawled": "2026-07-18T05:19:19Z"
     },
     "TH": {
-      "count": 138,
-      "last_crawled": "2026-07-18T04:50:04Z"
+      "count": 136,
+      "last_crawled": "2026-07-19T05:22:58Z"
     }
   },
-  "updated": "2026-07-19T04:20:19Z"
+  "updated": "2026-07-19T05:22:58Z"
 }
