@@ -1,5 +1,5 @@
 {
-  "count": 693,
+  "count": 687,
   "failed_sectors": [],
   "offers": [
     {
@@ -28,15 +28,6 @@
       "sector": "EO",
       "title": "Operador/a de maquinaria de movimiento de tierras y similares (ref. 844)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000844&ret=B"
-    },
-    {
-      "date": "30/06/2026",
-      "id": "032026000907",
-      "municipio": "Coaña",
-      "provincia": "Asturias",
-      "sector": "AU",
-      "title": "Pintor/a de vehículos -nueva difusión- (ref.:907)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000907&ret=B"
     },
     {
       "date": "08/07/2026",
@@ -874,15 +865,6 @@
       "sector": "SP",
       "title": "2 puestos de terapeuta ocupacional / animador sociocultural (ref.: 3620)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003620&ret=B"
-    },
-    {
-      "date": "21/05/2026",
-      "id": "032026003628",
-      "municipio": "Soto del barco",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "1 ayudante de camarero/a (ref: 3628)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003628&ret=B"
     },
     {
       "date": "29/06/2026",
@@ -2650,15 +2632,6 @@
     },
     {
       "date": "30/06/2026",
-      "id": "032026004947",
-      "municipio": "Boal",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Vigilante-control de calidad de obra (ref.:4947)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004947&ret=B"
-    },
-    {
-      "date": "30/06/2026",
       "id": "032026004948",
       "municipio": "Cudillero",
       "provincia": "Asturias",
@@ -3019,15 +2992,6 @@
     },
     {
       "date": "02/07/2026",
-      "id": "032026005035",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "Administrativo/a contable (ref. 5035)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005035&ret=B"
-    },
-    {
-      "date": "02/07/2026",
       "id": "032026005039",
       "municipio": "Piloña",
       "provincia": "Asturias",
@@ -3124,15 +3088,6 @@
       "sector": "EM",
       "title": "Limpiador/a en geriátrico (ref. 5051)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005051&ret=B"
-    },
-    {
-      "date": "03/07/2026",
-      "id": "032026005054",
-      "municipio": "Cangas de onis",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camarero/a de pisos(soto de cangas)(ref:5054)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005054&ret=B"
     },
     {
       "date": "03/07/2026",
@@ -3313,15 +3268,6 @@
       "sector": "SP",
       "title": "Responsable de equipo de limpieza (ref.: 5100)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005100&ret=B"
-    },
-    {
-      "date": "06/07/2026",
-      "id": "032026005102",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "AU",
-      "title": "Mecánico/a automóvil (ref.:5102)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005102&ret=B"
     },
     {
       "date": "06/07/2026",
@@ -6246,16 +6192,16 @@
       "last_crawled": "2026-07-20T04:34:40Z"
     },
     "AO": {
-      "count": 35,
-      "last_crawled": "2026-07-19T05:22:58Z"
+      "count": 34,
+      "last_crawled": "2026-07-20T05:40:42Z"
     },
     "AR": {
       "count": 1,
       "last_crawled": "2026-07-19T06:30:56Z"
     },
     "AU": {
-      "count": 9,
-      "last_crawled": "2026-07-19T05:22:58Z"
+      "count": 7,
+      "last_crawled": "2026-07-20T05:40:42Z"
     },
     "CC": {
       "count": 58,
@@ -6270,12 +6216,12 @@
       "last_crawled": "2026-07-19T06:30:56Z"
     },
     "EO": {
-      "count": 58,
-      "last_crawled": "2026-07-19T05:22:58Z"
+      "count": 57,
+      "last_crawled": "2026-07-20T05:40:42Z"
     },
     "FE": {
       "count": 3,
-      "last_crawled": "2026-07-19T05:22:58Z"
+      "last_crawled": "2026-07-20T05:40:42Z"
     },
     "IA": {
       "count": 5,
@@ -6287,7 +6233,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-07-19T05:22:58Z"
+      "last_crawled": "2026-07-20T05:40:42Z"
     },
     "IP": {
       "count": 30,
@@ -6327,7 +6273,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-07-19T05:22:58Z"
+      "last_crawled": "2026-07-20T05:40:42Z"
     },
     "PT": {
       "count": 1,
@@ -6350,9 +6296,9 @@
       "last_crawled": "2026-07-19T05:44:56Z"
     },
     "TH": {
-      "count": 136,
-      "last_crawled": "2026-07-19T05:22:58Z"
+      "count": 134,
+      "last_crawled": "2026-07-20T05:40:42Z"
     }
   },
-  "updated": "2026-07-20T04:34:40Z"
+  "updated": "2026-07-20T05:40:42Z"
 }
