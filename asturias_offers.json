@@ -1,5 +1,5 @@
 {
-  "count": 687,
+  "count": 683,
   "failed_sectors": [],
   "offers": [
     {
@@ -1092,15 +1092,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003831&ret=B"
     },
     {
-      "date": "23/06/2026",
-      "id": "032026003836",
-      "municipio": "Carreño",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Auxiliar de geriatría (ref: 3836)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003836&ret=B"
-    },
-    {
       "date": "09/07/2026",
       "id": "032026003838",
       "municipio": "Villaviciosa",
@@ -2011,15 +2002,6 @@
     },
     {
       "date": "22/06/2026",
-      "id": "032026004686",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Pintor/a industrial (ref: 4686)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004686&ret=B"
-    },
-    {
-      "date": "22/06/2026",
       "id": "032026004687",
       "municipio": "Cangas del narcea",
       "provincia": "Asturias",
@@ -2215,15 +2197,6 @@
       "sector": "TH",
       "title": "1 puesto de limpiador/a de habitaciones",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004796&ret=B"
-    },
-    {
-      "date": "24/06/2026",
-      "id": "032026004803",
-      "municipio": "Pravia",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Operario/a de mantenimiento (ref: 4803)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004803&ret=B"
     },
     {
       "date": "24/06/2026",
@@ -3214,15 +3187,6 @@
       "sector": "SA",
       "title": "1 gerocultor/a (ref: 5086)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005086&ret=B"
-    },
-    {
-      "date": "06/07/2026",
-      "id": "032026005089",
-      "municipio": "Castrillon",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Ayudante/a de confiteria (ref: 5089)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005089&ret=B"
     },
     {
       "date": "16/07/2026",
@@ -6224,8 +6188,8 @@
       "last_crawled": "2026-07-20T05:40:42Z"
     },
     "IA": {
-      "count": 5,
-      "last_crawled": "2026-07-19T05:44:56Z"
+      "count": 4,
+      "last_crawled": "2026-07-20T06:10:28Z"
     },
     "IG": {
       "count": 0,
@@ -6236,8 +6200,8 @@
       "last_crawled": "2026-07-20T05:40:42Z"
     },
     "IP": {
-      "count": 30,
-      "last_crawled": "2026-07-19T05:44:56Z"
+      "count": 28,
+      "last_crawled": "2026-07-20T06:10:28Z"
     },
     "IQ": {
       "count": 1,
@@ -6253,7 +6217,7 @@
     },
     "MN": {
       "count": 1,
-      "last_crawled": "2026-07-19T05:44:56Z"
+      "last_crawled": "2026-07-20T06:10:28Z"
     },
     "MO": {
       "count": 13,
@@ -6261,7 +6225,7 @@
     },
     "MR": {
       "count": 20,
-      "last_crawled": "2026-07-19T05:44:56Z"
+      "last_crawled": "2026-07-20T06:10:28Z"
     },
     "MT": {
       "count": 6,
@@ -6280,12 +6244,12 @@
       "last_crawled": "2026-07-19T06:30:56Z"
     },
     "SA": {
-      "count": 88,
-      "last_crawled": "2026-07-19T05:44:56Z"
+      "count": 87,
+      "last_crawled": "2026-07-20T06:10:28Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-07-19T05:44:56Z"
+      "last_crawled": "2026-07-20T06:10:28Z"
     },
     "SP": {
       "count": 128,
@@ -6293,12 +6257,12 @@
     },
     "TC": {
       "count": 42,
-      "last_crawled": "2026-07-19T05:44:56Z"
+      "last_crawled": "2026-07-20T06:10:28Z"
     },
     "TH": {
       "count": 134,
       "last_crawled": "2026-07-20T05:40:42Z"
     }
   },
-  "updated": "2026-07-20T05:40:42Z"
+  "updated": "2026-07-20T06:10:28Z"
 }
