@@ -1,5 +1,5 @@
 {
-  "count": 676,
+  "count": 677,
   "failed_sectors": [],
   "offers": [
     {
@@ -120,15 +120,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026001972&ret=B"
     },
     {
-      "date": "08/06/2026",
-      "id": "032026001977",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Intérprete de lengua de signos española (ref. 1977)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026001977&ret=B"
-    },
-    {
       "date": "20/07/2026",
       "id": "032026002009",
       "municipio": "Cangas del narcea",
@@ -217,6 +208,15 @@
       "sector": "SA",
       "title": "Fisioterapeuta (ref: 2579)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002579&ret=B"
+    },
+    {
+      "date": "21/07/2026",
+      "id": "032026002634",
+      "municipio": "Mieres",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a de producción (ref. 2634)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002634&ret=B"
     },
     {
       "date": "19/06/2026",
@@ -397,15 +397,6 @@
       "sector": "MT",
       "title": "Peón/as de producción - ribadesella (ref. 2931)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002931&ret=B"
-    },
-    {
-      "date": "07/07/2026",
-      "id": "032026002939",
-      "municipio": "Cangas de onis",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Peon de la producción( ref:2939) nueva difusión",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002939&ret=B"
     },
     {
       "date": "01/07/2026",
@@ -894,6 +885,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003742&ret=B"
     },
     {
+      "date": "20/07/2026",
+      "id": "032026003744",
+      "municipio": "Villaviciosa",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "4 puestos de operario/a de producción (ref.: 3744)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003744&ret=B"
+    },
+    {
       "date": "10/07/2026",
       "id": "032026003747",
       "municipio": "Belmonte de miranda",
@@ -1209,7 +1209,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004072&ret=B"
     },
     {
-      "date": "30/06/2026",
+      "date": "21/07/2026",
       "id": "032026004076",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -2116,15 +2116,6 @@
       "sector": "EO",
       "title": "Operador/a de pala cargadora (ref. 4818)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004818&ret=B"
-    },
-    {
-      "date": "25/06/2026",
-      "id": "032026004820",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Electricista industrial (ref: 4820)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004820&ret=B"
     },
     {
       "date": "09/07/2026",
@@ -4855,15 +4846,6 @@
     },
     {
       "date": "15/07/2026",
-      "id": "032026005412",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Vigilante de seguridad (ref.5412)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005412&ret=B"
-    },
-    {
-      "date": "15/07/2026",
       "id": "032026005413",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -5836,6 +5818,15 @@
     },
     {
       "date": "21/07/2026",
+      "id": "032026005534",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a microinformático (ref.5534)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005534&ret=B"
+    },
+    {
+      "date": "21/07/2026",
       "id": "032026005535",
       "municipio": "Ribadedeva",
       "provincia": "Asturias",
@@ -5860,6 +5851,15 @@
       "sector": "TC",
       "title": "Conductor/a camion (ref.: 5537)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005537&ret=B"
+    },
+    {
+      "date": "21/07/2026",
+      "id": "032026005538",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Intalador/a de conductos de ventilación ref.:(5538)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005538&ret=B"
     },
     {
       "date": "21/07/2026",
@@ -6085,6 +6085,15 @@
       "sector": "SP",
       "title": "Limpiador/a (ref.: 5563)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005563&ret=B"
+    },
+    {
+      "date": "22/07/2026",
+      "id": "032026005565",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "4 puestos de teleoperador/a comercial (ref.: 5565)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005565&ret=B"
     }
   ],
   "sectors": {
@@ -6098,7 +6107,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-07-20T06:47:07Z"
+      "last_crawled": "2026-07-22T06:29:05Z"
     },
     "AU": {
       "count": 6,
@@ -6114,7 +6123,7 @@
     },
     "EM": {
       "count": 12,
-      "last_crawled": "2026-07-20T06:47:07Z"
+      "last_crawled": "2026-07-22T06:29:05Z"
     },
     "EO": {
       "count": 55,
@@ -6142,11 +6151,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-07-20T06:47:07Z"
+      "last_crawled": "2026-07-22T06:29:05Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-07-20T06:47:07Z"
+      "last_crawled": "2026-07-22T06:29:05Z"
     },
     "MD": {
       "count": 9,
@@ -6158,15 +6167,15 @@
     },
     "MO": {
       "count": 13,
-      "last_crawled": "2026-07-20T06:47:07Z"
+      "last_crawled": "2026-07-22T06:29:05Z"
     },
     "MR": {
       "count": 20,
       "last_crawled": "2026-07-22T05:42:57Z"
     },
     "MT": {
-      "count": 6,
-      "last_crawled": "2026-07-20T06:47:07Z"
+      "count": 7,
+      "last_crawled": "2026-07-22T06:29:05Z"
     },
     "PA": {
       "count": 0,
@@ -6178,7 +6187,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-07-20T06:47:07Z"
+      "last_crawled": "2026-07-22T06:29:05Z"
     },
     "SA": {
       "count": 82,
@@ -6201,5 +6210,5 @@
       "last_crawled": "2026-07-22T05:20:34Z"
     }
   },
-  "updated": "2026-07-22T05:42:57Z"
+  "updated": "2026-07-22T06:29:05Z"
 }
