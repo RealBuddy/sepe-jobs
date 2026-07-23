@@ -1,5 +1,5 @@
 {
-  "count": 679,
+  "count": 683,
   "failed_sectors": [],
   "offers": [
     {
@@ -10,6 +10,15 @@
       "sector": "SA",
       "title": "Gerocultor/a(ref.95).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000095&ret=B"
+    },
+    {
+      "date": "02/06/2026",
+      "id": "032026000450",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Teleoperador/a servicio técnico (ref.: 450)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000450&ret=B"
     },
     {
       "date": "23/06/2026",
@@ -1405,15 +1414,6 @@
       "sector": "CC",
       "title": "Dependiente/a de comercio (ref.4257)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004257&ret=B"
-    },
-    {
-      "date": "16/07/2026",
-      "id": "032026004262",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Oficial electricista(ref.4262).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004262&ret=B"
     },
     {
       "date": "10/06/2026",
@@ -3475,15 +3475,6 @@
       "sector": "IP",
       "title": "10 puestos de calderero/a (ref.: 5232)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005232&ret=B"
-    },
-    {
-      "date": "09/07/2026",
-      "id": "032026005234",
-      "municipio": "Carreño",
-      "provincia": "Asturias",
-      "sector": "AR",
-      "title": "Cerrajero/a metalico (ref: 5234)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005234&ret=B"
     },
     {
       "date": "09/07/2026",
@@ -5899,6 +5890,15 @@
     },
     {
       "date": "22/07/2026",
+      "id": "032026005568",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Montador/a de estructuras (ref. 5568)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005568&ret=B"
+    },
+    {
+      "date": "22/07/2026",
       "id": "032026005569",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -5926,6 +5926,15 @@
     },
     {
       "date": "22/07/2026",
+      "id": "032026005572",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Asesor/a laboral (ref.: 5572)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005572&ret=B"
+    },
+    {
+      "date": "22/07/2026",
       "id": "032026005573",
       "municipio": "Valdes",
       "provincia": "Asturias",
@@ -5950,6 +5959,15 @@
       "sector": "MR",
       "title": "Soldador/a (ref: 5575)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005575&ret=B"
+    },
+    {
+      "date": "22/07/2026",
+      "id": "032026005576",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Adjunto/a de producción (ref. 5576)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005576&ret=B"
     },
     {
       "date": "22/07/2026",
@@ -5995,6 +6013,15 @@
       "sector": "SA",
       "title": "Gerocultor/a (ref.: 5581)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005581&ret=B"
+    },
+    {
+      "date": "22/07/2026",
+      "id": "032026005582",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "PT",
+      "title": "2 puestos de operador/a de planta (ref.:5582)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005582&ret=B"
     },
     {
       "date": "22/07/2026",
@@ -6061,6 +6088,15 @@
     },
     {
       "date": "22/07/2026",
+      "id": "032026005590",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Diseñador/a gráfico (ref. 5590)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005590&ret=B"
+    },
+    {
+      "date": "22/07/2026",
       "id": "032026005591",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -6124,8 +6160,8 @@
       "last_crawled": "2026-07-23T05:25:59Z"
     },
     "AR": {
-      "count": 1,
-      "last_crawled": "2026-07-22T06:29:05Z"
+      "count": 0,
+      "last_crawled": "2026-07-23T06:31:04Z"
     },
     "AU": {
       "count": 6,
@@ -6140,8 +6176,8 @@
       "last_crawled": "2026-07-23T04:13:39Z"
     },
     "EM": {
-      "count": 12,
-      "last_crawled": "2026-07-22T06:29:05Z"
+      "count": 16,
+      "last_crawled": "2026-07-23T06:31:04Z"
     },
     "EO": {
       "count": 56,
@@ -6169,11 +6205,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-07-22T06:29:05Z"
+      "last_crawled": "2026-07-23T06:31:04Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-07-22T06:29:05Z"
+      "last_crawled": "2026-07-23T06:31:04Z"
     },
     "MD": {
       "count": 9,
@@ -6185,7 +6221,7 @@
     },
     "MO": {
       "count": 13,
-      "last_crawled": "2026-07-22T06:29:05Z"
+      "last_crawled": "2026-07-23T06:31:04Z"
     },
     "MR": {
       "count": 22,
@@ -6193,7 +6229,7 @@
     },
     "MT": {
       "count": 7,
-      "last_crawled": "2026-07-22T06:29:05Z"
+      "last_crawled": "2026-07-23T06:31:04Z"
     },
     "PA": {
       "count": 0,
@@ -6204,8 +6240,8 @@
       "last_crawled": "2026-07-23T05:25:59Z"
     },
     "PT": {
-      "count": 1,
-      "last_crawled": "2026-07-22T06:29:05Z"
+      "count": 2,
+      "last_crawled": "2026-07-23T06:31:04Z"
     },
     "SA": {
       "count": 79,
@@ -6228,5 +6264,5 @@
       "last_crawled": "2026-07-23T05:25:59Z"
     }
   },
-  "updated": "2026-07-23T05:48:20Z"
+  "updated": "2026-07-23T06:31:04Z"
 }
