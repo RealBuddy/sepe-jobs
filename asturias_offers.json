@@ -1,5 +1,5 @@
 {
-  "count": 666,
+  "count": 665,
   "failed_sectors": [],
   "offers": [
     {
@@ -397,15 +397,6 @@
       "sector": "EO",
       "title": "Ingeniero/a civil (ref.2919)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002919&ret=B"
-    },
-    {
-      "date": "10/07/2026",
-      "id": "032026002931",
-      "municipio": "Ribadesella",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Peón/as de producción - ribadesella (ref. 2931)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002931&ret=B"
     },
     {
       "date": "01/07/2026",
@@ -1243,15 +1234,6 @@
       "sector": "CC",
       "title": "Atención al cliente en salones de apuestas deportivas (ref.: 4170)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004170&ret=B"
-    },
-    {
-      "date": "10/07/2026",
-      "id": "032026004183",
-      "municipio": "Ribadesella",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Peón/a de producción industrial - ribadesella (ref. 4183)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004183&ret=B"
     },
     {
       "date": "22/07/2026",
@@ -4207,15 +4189,6 @@
     },
     {
       "date": "15/07/2026",
-      "id": "032026005391",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Delineante (ref.:5391)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005391&ret=B"
-    },
-    {
-      "date": "15/07/2026",
       "id": "032026005393",
       "municipio": "Villaviciosa",
       "provincia": "Asturias",
@@ -5782,6 +5755,15 @@
     },
     {
       "date": "23/07/2026",
+      "id": "032026005597",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Administrativo/a (ref.: 5597)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005597&ret=B"
+    },
+    {
+      "date": "23/07/2026",
       "id": "032026005598",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -5944,6 +5926,15 @@
     },
     {
       "date": "23/07/2026",
+      "id": "032026005619",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Auxiliar administrativo/a área contabilidad (ref.: 5619)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005619&ret=B"
+    },
+    {
+      "date": "23/07/2026",
       "id": "032026005620",
       "municipio": "Castrillon",
       "provincia": "Asturias",
@@ -6008,7 +5999,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-07-23T06:31:04Z"
+      "last_crawled": "2026-07-24T06:26:52Z"
     },
     "AU": {
       "count": 8,
@@ -6023,8 +6014,8 @@
       "last_crawled": "2026-07-24T04:12:33Z"
     },
     "EM": {
-      "count": 16,
-      "last_crawled": "2026-07-23T06:31:04Z"
+      "count": 17,
+      "last_crawled": "2026-07-24T06:26:52Z"
     },
     "EO": {
       "count": 55,
@@ -6052,11 +6043,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-07-23T06:31:04Z"
+      "last_crawled": "2026-07-24T06:26:52Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-07-23T06:31:04Z"
+      "last_crawled": "2026-07-24T06:26:52Z"
     },
     "MD": {
       "count": 7,
@@ -6068,15 +6059,15 @@
     },
     "MO": {
       "count": 13,
-      "last_crawled": "2026-07-23T06:31:04Z"
+      "last_crawled": "2026-07-24T06:26:52Z"
     },
     "MR": {
       "count": 22,
       "last_crawled": "2026-07-23T05:48:20Z"
     },
     "MT": {
-      "count": 7,
-      "last_crawled": "2026-07-23T06:31:04Z"
+      "count": 5,
+      "last_crawled": "2026-07-24T06:26:52Z"
     },
     "PA": {
       "count": 0,
@@ -6088,7 +6079,7 @@
     },
     "PT": {
       "count": 2,
-      "last_crawled": "2026-07-23T06:31:04Z"
+      "last_crawled": "2026-07-24T06:26:52Z"
     },
     "SA": {
       "count": 79,
@@ -6111,5 +6102,5 @@
       "last_crawled": "2026-07-24T05:21:28Z"
     }
   },
-  "updated": "2026-07-24T05:21:28Z"
+  "updated": "2026-07-24T06:26:52Z"
 }
