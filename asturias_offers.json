@@ -1,5 +1,5 @@
 {
-  "count": 684,
+  "count": 685,
   "failed_sectors": [],
   "offers": [
     {
@@ -406,6 +406,15 @@
       "sector": "EO",
       "title": "Ingeniero/a civil (ref.2919)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002919&ret=B"
+    },
+    {
+      "date": "24/07/2026",
+      "id": "032026002931",
+      "municipio": "Ribadesella",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Peón/as de producción - ribadesella (ref. 2931)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002931&ret=B"
     },
     {
       "date": "01/07/2026",
@@ -1812,7 +1821,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004772&ret=B"
     },
     {
-      "date": "24/06/2026",
+      "date": "24/07/2026",
       "id": "032026004779",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -5800,15 +5809,6 @@
     },
     {
       "date": "23/07/2026",
-      "id": "032026005619",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Auxiliar administrativo/a área contabilidad (ref.: 5619)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005619&ret=B"
-    },
-    {
-      "date": "23/07/2026",
       "id": "032026005620",
       "municipio": "Castrillon",
       "provincia": "Asturias",
@@ -6106,6 +6106,15 @@
     },
     {
       "date": "24/07/2026",
+      "id": "032026005656",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "1 plaza de personal programador informático (ref.: 5656)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005656&ret=B"
+    },
+    {
+      "date": "24/07/2026",
       "id": "032026005657",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -6170,7 +6179,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-07-24T06:26:52Z"
+      "last_crawled": "2026-07-25T06:18:48Z"
     },
     "AU": {
       "count": 8,
@@ -6186,7 +6195,7 @@
     },
     "EM": {
       "count": 17,
-      "last_crawled": "2026-07-24T06:26:52Z"
+      "last_crawled": "2026-07-25T06:18:48Z"
     },
     "EO": {
       "count": 55,
@@ -6214,11 +6223,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-07-24T06:26:52Z"
+      "last_crawled": "2026-07-25T06:18:48Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-07-24T06:26:52Z"
+      "last_crawled": "2026-07-25T06:18:48Z"
     },
     "MD": {
       "count": 8,
@@ -6230,15 +6239,15 @@
     },
     "MO": {
       "count": 13,
-      "last_crawled": "2026-07-24T06:26:52Z"
+      "last_crawled": "2026-07-25T06:18:48Z"
     },
     "MR": {
       "count": 22,
       "last_crawled": "2026-07-25T05:37:49Z"
     },
     "MT": {
-      "count": 5,
-      "last_crawled": "2026-07-24T06:26:52Z"
+      "count": 6,
+      "last_crawled": "2026-07-25T06:18:48Z"
     },
     "PA": {
       "count": 0,
@@ -6250,7 +6259,7 @@
     },
     "PT": {
       "count": 2,
-      "last_crawled": "2026-07-24T06:26:52Z"
+      "last_crawled": "2026-07-25T06:18:48Z"
     },
     "SA": {
       "count": 82,
@@ -6273,5 +6282,5 @@
       "last_crawled": "2026-07-25T05:15:53Z"
     }
   },
-  "updated": "2026-07-25T05:37:49Z"
+  "updated": "2026-07-25T06:18:48Z"
 }
