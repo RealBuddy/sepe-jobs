@@ -1,5 +1,5 @@
 {
-  "count": 683,
+  "count": 682,
   "failed_sectors": [],
   "offers": [
     {
@@ -163,15 +163,6 @@
       "sector": "IA",
       "title": "Panadero/a ( ref. 2200 )",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002200&ret=B"
-    },
-    {
-      "date": "06/07/2026",
-      "id": "032026002383",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "3 instaladores/as eléctricos/as (ref.:2383)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002383&ret=B"
     },
     {
       "date": "14/07/2026",
@@ -6161,7 +6152,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-07-25T06:18:48Z"
+      "last_crawled": "2026-07-26T06:37:43Z"
     },
     "AU": {
       "count": 8,
@@ -6177,7 +6168,7 @@
     },
     "EM": {
       "count": 17,
-      "last_crawled": "2026-07-25T06:18:48Z"
+      "last_crawled": "2026-07-26T06:37:43Z"
     },
     "EO": {
       "count": 55,
@@ -6205,11 +6196,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-07-25T06:18:48Z"
+      "last_crawled": "2026-07-26T06:37:43Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-07-25T06:18:48Z"
+      "last_crawled": "2026-07-26T06:37:43Z"
     },
     "MD": {
       "count": 8,
@@ -6220,8 +6211,8 @@
       "last_crawled": "2026-07-26T05:54:19Z"
     },
     "MO": {
-      "count": 13,
-      "last_crawled": "2026-07-25T06:18:48Z"
+      "count": 12,
+      "last_crawled": "2026-07-26T06:37:43Z"
     },
     "MR": {
       "count": 22,
@@ -6229,7 +6220,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-07-25T06:18:48Z"
+      "last_crawled": "2026-07-26T06:37:43Z"
     },
     "PA": {
       "count": 0,
@@ -6241,7 +6232,7 @@
     },
     "PT": {
       "count": 2,
-      "last_crawled": "2026-07-25T06:18:48Z"
+      "last_crawled": "2026-07-26T06:37:43Z"
     },
     "SA": {
       "count": 81,
@@ -6264,5 +6255,5 @@
       "last_crawled": "2026-07-26T05:33:13Z"
     }
   },
-  "updated": "2026-07-26T05:54:19Z"
+  "updated": "2026-07-26T06:37:43Z"
 }
