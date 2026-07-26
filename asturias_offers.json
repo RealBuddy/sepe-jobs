@@ -1,5 +1,5 @@
 {
-  "count": 684,
+  "count": 683,
   "failed_sectors": [],
   "offers": [
     {
@@ -2566,15 +2566,6 @@
       "sector": "EO",
       "title": "Albañil (ref. 5082)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005082&ret=B"
-    },
-    {
-      "date": "06/07/2026",
-      "id": "032026005085",
-      "municipio": "Coaña",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Médico/a (ref.:5085)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005085&ret=B"
     },
     {
       "date": "06/07/2026",
@@ -6198,7 +6189,7 @@
     },
     "IA": {
       "count": 7,
-      "last_crawled": "2026-07-25T05:37:49Z"
+      "last_crawled": "2026-07-26T05:54:19Z"
     },
     "IG": {
       "count": 0,
@@ -6210,7 +6201,7 @@
     },
     "IP": {
       "count": 22,
-      "last_crawled": "2026-07-25T05:37:49Z"
+      "last_crawled": "2026-07-26T05:54:19Z"
     },
     "IQ": {
       "count": 1,
@@ -6226,7 +6217,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-07-25T05:37:49Z"
+      "last_crawled": "2026-07-26T05:54:19Z"
     },
     "MO": {
       "count": 13,
@@ -6234,7 +6225,7 @@
     },
     "MR": {
       "count": 22,
-      "last_crawled": "2026-07-25T05:37:49Z"
+      "last_crawled": "2026-07-26T05:54:19Z"
     },
     "MT": {
       "count": 6,
@@ -6253,12 +6244,12 @@
       "last_crawled": "2026-07-25T06:18:48Z"
     },
     "SA": {
-      "count": 82,
-      "last_crawled": "2026-07-25T05:37:49Z"
+      "count": 81,
+      "last_crawled": "2026-07-26T05:54:19Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-07-25T05:37:49Z"
+      "last_crawled": "2026-07-26T05:54:19Z"
     },
     "SP": {
       "count": 129,
@@ -6266,12 +6257,12 @@
     },
     "TC": {
       "count": 49,
-      "last_crawled": "2026-07-25T05:37:49Z"
+      "last_crawled": "2026-07-26T05:54:19Z"
     },
     "TH": {
       "count": 137,
       "last_crawled": "2026-07-26T05:33:13Z"
     }
   },
-  "updated": "2026-07-26T05:33:13Z"
+  "updated": "2026-07-26T05:54:19Z"
 }
