@@ -1,5 +1,5 @@
 {
-  "count": 685,
+  "count": 684,
   "failed_sectors": [],
   "offers": [
     {
@@ -4468,15 +4468,6 @@
     },
     {
       "date": "16/07/2026",
-      "id": "032026005448",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocinero/a-parrillero/a (ref.: 5448)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005448&ret=B"
-    },
-    {
-      "date": "16/07/2026",
       "id": "032026005449",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -6175,7 +6166,7 @@
     },
     "AO": {
       "count": 28,
-      "last_crawled": "2026-07-25T05:15:53Z"
+      "last_crawled": "2026-07-26T05:33:13Z"
     },
     "AR": {
       "count": 0,
@@ -6183,7 +6174,7 @@
     },
     "AU": {
       "count": 8,
-      "last_crawled": "2026-07-25T05:15:53Z"
+      "last_crawled": "2026-07-26T05:33:13Z"
     },
     "CC": {
       "count": 57,
@@ -6199,11 +6190,11 @@
     },
     "EO": {
       "count": 55,
-      "last_crawled": "2026-07-25T05:15:53Z"
+      "last_crawled": "2026-07-26T05:33:13Z"
     },
     "FE": {
       "count": 5,
-      "last_crawled": "2026-07-25T05:15:53Z"
+      "last_crawled": "2026-07-26T05:33:13Z"
     },
     "IA": {
       "count": 7,
@@ -6215,7 +6206,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-07-25T05:15:53Z"
+      "last_crawled": "2026-07-26T05:33:13Z"
     },
     "IP": {
       "count": 22,
@@ -6255,7 +6246,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-07-25T05:15:53Z"
+      "last_crawled": "2026-07-26T05:33:13Z"
     },
     "PT": {
       "count": 2,
@@ -6278,9 +6269,9 @@
       "last_crawled": "2026-07-25T05:37:49Z"
     },
     "TH": {
-      "count": 138,
-      "last_crawled": "2026-07-25T05:15:53Z"
+      "count": 137,
+      "last_crawled": "2026-07-26T05:33:13Z"
     }
   },
-  "updated": "2026-07-25T06:18:48Z"
+  "updated": "2026-07-26T05:33:13Z"
 }
