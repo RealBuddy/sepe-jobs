@@ -1,5 +1,5 @@
 {
-  "count": 660,
+  "count": 658,
   "failed_sectors": [],
   "offers": [
     {
@@ -3460,15 +3460,6 @@
     },
     {
       "date": "13/07/2026",
-      "id": "032026005314",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Operario/a de almacén (ref. 5314)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005314&ret=B"
-    },
-    {
-      "date": "13/07/2026",
       "id": "032026005317",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5269,15 +5260,6 @@
     },
     {
       "date": "22/07/2026",
-      "id": "032026005582",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "PT",
-      "title": "2 puestos de operador/a de planta (ref.:5582)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005582&ret=B"
-    },
-    {
-      "date": "22/07/2026",
       "id": "032026005583",
       "municipio": "Grado",
       "provincia": "Asturias",
@@ -5954,7 +5936,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-07-26T06:37:43Z"
+      "last_crawled": "2026-07-27T07:32:46Z"
     },
     "AU": {
       "count": 8,
@@ -5970,7 +5952,7 @@
     },
     "EM": {
       "count": 17,
-      "last_crawled": "2026-07-26T06:37:43Z"
+      "last_crawled": "2026-07-27T07:32:46Z"
     },
     "EO": {
       "count": 54,
@@ -5998,11 +5980,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-07-26T06:37:43Z"
+      "last_crawled": "2026-07-27T07:32:46Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-07-26T06:37:43Z"
+      "last_crawled": "2026-07-27T07:32:46Z"
     },
     "MD": {
       "count": 7,
@@ -6014,15 +5996,15 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-07-26T06:37:43Z"
+      "last_crawled": "2026-07-27T07:32:46Z"
     },
     "MR": {
       "count": 22,
       "last_crawled": "2026-07-27T06:22:17Z"
     },
     "MT": {
-      "count": 6,
-      "last_crawled": "2026-07-26T06:37:43Z"
+      "count": 5,
+      "last_crawled": "2026-07-27T07:32:46Z"
     },
     "PA": {
       "count": 0,
@@ -6033,8 +6015,8 @@
       "last_crawled": "2026-07-27T05:51:36Z"
     },
     "PT": {
-      "count": 2,
-      "last_crawled": "2026-07-26T06:37:43Z"
+      "count": 1,
+      "last_crawled": "2026-07-27T07:32:46Z"
     },
     "SA": {
       "count": 81,
@@ -6057,5 +6039,5 @@
       "last_crawled": "2026-07-27T05:51:36Z"
     }
   },
-  "updated": "2026-07-27T06:22:17Z"
+  "updated": "2026-07-27T07:32:46Z"
 }
