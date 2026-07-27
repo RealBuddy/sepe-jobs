@@ -1,5 +1,5 @@
 {
-  "count": 661,
+  "count": 660,
   "failed_sectors": [],
   "offers": [
     {
@@ -471,15 +471,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003054&ret=B"
     },
     {
-      "date": "29/06/2026",
-      "id": "032026003069",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Transportista (ref: 3069)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003069&ret=B"
-    },
-    {
       "date": "24/07/2026",
       "id": "032026003076",
       "municipio": "Ribadesella",
@@ -568,15 +559,6 @@
       "sector": "SA",
       "title": "Auxiliar de enfermeria (ref.3190)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003190&ret=B"
-    },
-    {
-      "date": "26/06/2026",
-      "id": "032026003227",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "4 puestos de repartidor/a (ref.: 3227)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003227&ret=B"
     },
     {
       "date": "13/07/2026",
@@ -784,6 +766,15 @@
       "sector": "SP",
       "title": "Auxiliar de ayuda a domicilio (ref.:3727)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003727&ret=B"
+    },
+    {
+      "date": "27/07/2026",
+      "id": "032026003733",
+      "municipio": "Ribadedeva",
+      "provincia": "Asturias",
+      "sector": "IP",
+      "title": "Soldador de estructuras metálicas ligeras, oficial 1ª, 2ª y 3ª ó especialista - ribadedeva (ref. 3733)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003733&ret=B"
     },
     {
       "date": "09/07/2026",
@@ -5991,7 +5982,7 @@
     },
     "IA": {
       "count": 7,
-      "last_crawled": "2026-07-26T05:54:19Z"
+      "last_crawled": "2026-07-27T06:22:17Z"
     },
     "IG": {
       "count": 0,
@@ -6002,8 +5993,8 @@
       "last_crawled": "2026-07-27T05:51:36Z"
     },
     "IP": {
-      "count": 22,
-      "last_crawled": "2026-07-26T05:54:19Z"
+      "count": 23,
+      "last_crawled": "2026-07-27T06:22:17Z"
     },
     "IQ": {
       "count": 1,
@@ -6019,7 +6010,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-07-26T05:54:19Z"
+      "last_crawled": "2026-07-27T06:22:17Z"
     },
     "MO": {
       "count": 12,
@@ -6027,7 +6018,7 @@
     },
     "MR": {
       "count": 22,
-      "last_crawled": "2026-07-26T05:54:19Z"
+      "last_crawled": "2026-07-27T06:22:17Z"
     },
     "MT": {
       "count": 6,
@@ -6047,24 +6038,24 @@
     },
     "SA": {
       "count": 81,
-      "last_crawled": "2026-07-26T05:54:19Z"
+      "last_crawled": "2026-07-27T06:22:17Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-07-26T05:54:19Z"
+      "last_crawled": "2026-07-27T06:22:17Z"
     },
     "SP": {
       "count": 119,
       "last_crawled": "2026-07-27T04:34:25Z"
     },
     "TC": {
-      "count": 49,
-      "last_crawled": "2026-07-26T05:54:19Z"
+      "count": 47,
+      "last_crawled": "2026-07-27T06:22:17Z"
     },
     "TH": {
       "count": 135,
       "last_crawled": "2026-07-27T05:51:36Z"
     }
   },
-  "updated": "2026-07-27T05:51:36Z"
+  "updated": "2026-07-27T06:22:17Z"
 }
