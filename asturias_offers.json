@@ -1,5 +1,5 @@
 {
-  "count": 665,
+  "count": 661,
   "failed_sectors": [],
   "offers": [
     {
@@ -2073,15 +2073,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004951&ret=B"
     },
     {
-      "date": "22/07/2026",
-      "id": "032026004952",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Fontanero/a oficial 1ª (ref. 4952)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004952&ret=B"
-    },
-    {
       "date": "30/06/2026",
       "id": "032026004955",
       "municipio": "Siero",
@@ -3424,30 +3415,12 @@
     },
     {
       "date": "13/07/2026",
-      "id": "032026005294",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "Auxiliar administrativo/a (ref.:5294)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005294&ret=B"
-    },
-    {
-      "date": "13/07/2026",
       "id": "032026005295",
       "municipio": "Gijón",
       "provincia": "Asturias",
       "sector": "SA",
       "title": "Optometrista (ref.: 5295)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005295&ret=B"
-    },
-    {
-      "date": "13/07/2026",
-      "id": "032026005296",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camarero/a (ref.5296)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005296&ret=B"
     },
     {
       "date": "16/07/2026",
@@ -5296,15 +5269,6 @@
     },
     {
       "date": "22/07/2026",
-      "id": "032026005580",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Recepcionista hotel (ref.: 5580)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005580&ret=B"
-    },
-    {
-      "date": "22/07/2026",
       "id": "032026005581",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -5994,8 +5958,8 @@
       "last_crawled": "2026-07-27T04:34:25Z"
     },
     "AO": {
-      "count": 28,
-      "last_crawled": "2026-07-26T05:33:13Z"
+      "count": 27,
+      "last_crawled": "2026-07-27T05:51:36Z"
     },
     "AR": {
       "count": 0,
@@ -6003,7 +5967,7 @@
     },
     "AU": {
       "count": 8,
-      "last_crawled": "2026-07-26T05:33:13Z"
+      "last_crawled": "2026-07-27T05:51:36Z"
     },
     "CC": {
       "count": 53,
@@ -6018,12 +5982,12 @@
       "last_crawled": "2026-07-26T06:37:43Z"
     },
     "EO": {
-      "count": 55,
-      "last_crawled": "2026-07-26T05:33:13Z"
+      "count": 54,
+      "last_crawled": "2026-07-27T05:51:36Z"
     },
     "FE": {
       "count": 5,
-      "last_crawled": "2026-07-26T05:33:13Z"
+      "last_crawled": "2026-07-27T05:51:36Z"
     },
     "IA": {
       "count": 7,
@@ -6035,7 +5999,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-07-26T05:33:13Z"
+      "last_crawled": "2026-07-27T05:51:36Z"
     },
     "IP": {
       "count": 22,
@@ -6075,7 +6039,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-07-26T05:33:13Z"
+      "last_crawled": "2026-07-27T05:51:36Z"
     },
     "PT": {
       "count": 2,
@@ -6098,9 +6062,9 @@
       "last_crawled": "2026-07-26T05:54:19Z"
     },
     "TH": {
-      "count": 137,
-      "last_crawled": "2026-07-26T05:33:13Z"
+      "count": 135,
+      "last_crawled": "2026-07-27T05:51:36Z"
     }
   },
-  "updated": "2026-07-27T04:34:25Z"
+  "updated": "2026-07-27T05:51:36Z"
 }
