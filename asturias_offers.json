@@ -1029,15 +1029,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004117&ret=B"
     },
     {
-      "date": "13/07/2026",
-      "id": "032026004124",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "3 puestos operarios/as de empresa manufacturera (ref.: 4124)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004124&ret=B"
-    },
-    {
       "date": "05/06/2026",
       "id": "032026004127",
       "municipio": "Colunga",
@@ -2307,15 +2298,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005050&ret=B"
     },
     {
-      "date": "02/07/2026",
-      "id": "032026005051",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Limpiador/a en geriátrico (ref. 5051)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005051&ret=B"
-    },
-    {
       "date": "03/07/2026",
       "id": "032026005055",
       "municipio": "Cudillero",
@@ -2899,15 +2881,6 @@
       "sector": "SP",
       "title": "Personal de limpieza (ref. 5254)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005254&ret=B"
-    },
-    {
-      "date": "10/07/2026",
-      "id": "032026005255",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IT",
-      "title": "Operario/a de línea de producción (ref.: 5255)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005255&ret=B"
     },
     {
       "date": "13/07/2026",
@@ -5440,6 +5413,15 @@
     },
     {
       "date": "27/07/2026",
+      "id": "032026005668",
+      "municipio": "Navia",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a de la gerencia (ref.:5668)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005668&ret=B"
+    },
+    {
+      "date": "27/07/2026",
       "id": "032026005669",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5665,6 +5647,15 @@
     },
     {
       "date": "28/07/2026",
+      "id": "032026005698",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "4 puestos de ingeniero/a informático/a desarrollador/a de software (ref.: 5698).",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005698&ret=B"
+    },
+    {
+      "date": "28/07/2026",
       "id": "032026005699",
       "municipio": "Soto del barco",
       "provincia": "Asturias",
@@ -5770,6 +5761,15 @@
       "sector": "TH",
       "title": "Camarero/a (ref.:5710)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005710&ret=B"
+    },
+    {
+      "date": "28/07/2026",
+      "id": "032026005711",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "5 puestos de vigilante de seguridad (ref. 5711)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005711&ret=B"
     },
     {
       "date": "28/07/2026",
@@ -5891,7 +5891,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-07-27T07:32:46Z"
+      "last_crawled": "2026-07-29T06:31:44Z"
     },
     "AU": {
       "count": 7,
@@ -5906,8 +5906,8 @@
       "last_crawled": "2026-07-29T04:10:06Z"
     },
     "EM": {
-      "count": 17,
-      "last_crawled": "2026-07-27T07:32:46Z"
+      "count": 19,
+      "last_crawled": "2026-07-29T06:31:44Z"
     },
     "EO": {
       "count": 55,
@@ -5935,11 +5935,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-07-27T07:32:46Z"
+      "last_crawled": "2026-07-29T06:31:44Z"
     },
     "IT": {
-      "count": 1,
-      "last_crawled": "2026-07-27T07:32:46Z"
+      "count": 0,
+      "last_crawled": "2026-07-29T06:31:44Z"
     },
     "MD": {
       "count": 7,
@@ -5951,15 +5951,15 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-07-27T07:32:46Z"
+      "last_crawled": "2026-07-29T06:31:44Z"
     },
     "MR": {
       "count": 20,
       "last_crawled": "2026-07-29T05:45:21Z"
     },
     "MT": {
-      "count": 5,
-      "last_crawled": "2026-07-27T07:32:46Z"
+      "count": 4,
+      "last_crawled": "2026-07-29T06:31:44Z"
     },
     "PA": {
       "count": 0,
@@ -5971,7 +5971,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-07-27T07:32:46Z"
+      "last_crawled": "2026-07-29T06:31:44Z"
     },
     "SA": {
       "count": 76,
@@ -5994,5 +5994,5 @@
       "last_crawled": "2026-07-29T05:22:52Z"
     }
   },
-  "updated": "2026-07-29T05:45:21Z"
+  "updated": "2026-07-29T06:31:44Z"
 }
