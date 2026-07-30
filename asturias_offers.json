@@ -1,5 +1,5 @@
 {
-  "count": 653,
+  "count": 654,
   "failed_sectors": [],
   "offers": [
     {
@@ -147,6 +147,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002200&ret=B"
     },
     {
+      "date": "29/07/2026",
+      "id": "032026002383",
+      "municipio": "Navia",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "3 instaladores/as eléctricos/as (ref.:2383)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002383&ret=B"
+    },
+    {
       "date": "14/07/2026",
       "id": "032026002511",
       "municipio": "Mieres",
@@ -181,15 +190,6 @@
       "sector": "SA",
       "title": "Fisioterapeuta (ref: 2579)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002579&ret=B"
-    },
-    {
-      "date": "21/07/2026",
-      "id": "032026002634",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Operario/a de producción (ref. 2634)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002634&ret=B"
     },
     {
       "date": "19/06/2026",
@@ -937,15 +937,6 @@
       "sector": "IP",
       "title": "Operario/a acristalamiento carpintería metálica (ref. 4072)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004072&ret=B"
-    },
-    {
-      "date": "21/07/2026",
-      "id": "032026004076",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Montadores/as de estructuras metálicas (ref: 4076 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004076&ret=B"
     },
     {
       "date": "04/06/2026",
@@ -3007,6 +2998,15 @@
       "sector": "CC",
       "title": "Dependiente/a de comercio (ref.5313)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005313&ret=B"
+    },
+    {
+      "date": "29/07/2026",
+      "id": "032026005314",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a de almacén (ref. 5314)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005314&ret=B"
     },
     {
       "date": "13/07/2026",
@@ -5683,6 +5683,15 @@
     },
     {
       "date": "29/07/2026",
+      "id": "032026005731",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "2 puestos de operario/a de producción (ref. 5731)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005731&ret=B"
+    },
+    {
+      "date": "29/07/2026",
       "id": "032026005732",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5891,7 +5900,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-07-29T06:31:44Z"
+      "last_crawled": "2026-07-30T06:29:03Z"
     },
     "AU": {
       "count": 7,
@@ -5907,7 +5916,7 @@
     },
     "EM": {
       "count": 19,
-      "last_crawled": "2026-07-29T06:31:44Z"
+      "last_crawled": "2026-07-30T06:29:03Z"
     },
     "EO": {
       "count": 53,
@@ -5935,11 +5944,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-07-29T06:31:44Z"
+      "last_crawled": "2026-07-30T06:29:03Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-07-29T06:31:44Z"
+      "last_crawled": "2026-07-30T06:29:03Z"
     },
     "MD": {
       "count": 7,
@@ -5951,15 +5960,15 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-07-29T06:31:44Z"
+      "last_crawled": "2026-07-30T06:29:03Z"
     },
     "MR": {
       "count": 19,
       "last_crawled": "2026-07-30T05:33:55Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-07-29T06:31:44Z"
+      "count": 5,
+      "last_crawled": "2026-07-30T06:29:03Z"
     },
     "PA": {
       "count": 0,
@@ -5971,7 +5980,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-07-29T06:31:44Z"
+      "last_crawled": "2026-07-30T06:29:03Z"
     },
     "SA": {
       "count": 82,
@@ -5994,5 +6003,5 @@
       "last_crawled": "2026-07-30T04:59:27Z"
     }
   },
-  "updated": "2026-07-30T05:33:55Z"
+  "updated": "2026-07-30T06:29:03Z"
 }
