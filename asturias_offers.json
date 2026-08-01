@@ -1,5 +1,5 @@
 {
-  "count": 396,
+  "count": 390,
   "failed_sectors": [],
   "offers": [
     {
@@ -867,15 +867,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004427&ret=B"
     },
     {
-      "date": "09/07/2026",
-      "id": "032026004435",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "2 puestos de ingeniero/a de software - especialista en automatización de procesos y crm (ref.4435)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004435&ret=B"
-    },
-    {
       "date": "30/07/2026",
       "id": "032026004436",
       "municipio": "Aller",
@@ -1497,24 +1488,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005145&ret=B"
     },
     {
-      "date": "08/07/2026",
-      "id": "032026005150",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "2 puestos de electricista (ref. 5150)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005150&ret=B"
-    },
-    {
-      "date": "08/07/2026",
-      "id": "032026005151",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "2 puestos de ayudante de electricista (ref. 5151)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005151&ret=B"
-    },
-    {
       "date": "30/07/2026",
       "id": "032026005164",
       "municipio": "Aviles",
@@ -1648,15 +1621,6 @@
       "sector": "EO",
       "title": "Albañil (ref: 5270)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005270&ret=B"
-    },
-    {
-      "date": "10/07/2026",
-      "id": "032026005274",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Electricista (ref.: 5274)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005274&ret=B"
     },
     {
       "date": "13/07/2026",
@@ -1857,15 +1821,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005357&ret=B"
     },
     {
-      "date": "14/07/2026",
-      "id": "032026005365",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Graduado social (ref.: 5365)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005365&ret=B"
-    },
-    {
       "date": "29/07/2026",
       "id": "032026005366",
       "municipio": "Llanes",
@@ -2037,15 +1992,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005429&ret=B"
     },
     {
-      "date": "16/07/2026",
-      "id": "032026005431",
-      "municipio": "Carreño",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "3 puestos operario/a ensamblador con discapacidad (ref: 5431)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005431&ret=B"
-    },
-    {
       "date": "29/07/2026",
       "id": "032026005433",
       "municipio": "Llanes",
@@ -2170,15 +2116,6 @@
       "sector": "TH",
       "title": "Camareros/as (ref: 5467)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005467&ret=B"
-    },
-    {
-      "date": "17/07/2026",
-      "id": "032026005470",
-      "municipio": "Belmonte de miranda",
-      "provincia": "Asturias",
-      "sector": "PT",
-      "title": "Operario/a planta medioambiente (ref. 5470)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005470&ret=B"
     },
     {
       "date": "17/07/2026",
@@ -2620,15 +2557,6 @@
       "sector": "TH",
       "title": "Cocinero/a (ref.: 5595)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005595&ret=B"
-    },
-    {
-      "date": "23/07/2026",
-      "id": "032026005597",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Administrativo/a (ref.: 5597)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005597&ret=B"
     },
     {
       "date": "23/07/2026",
@@ -3514,6 +3442,15 @@
     },
     {
       "date": "31/07/2026",
+      "id": "032026005782",
+      "municipio": "Belmonte de miranda",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "1 mecanico/a de mina (ref.5782)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005782&ret=B"
+    },
+    {
+      "date": "31/07/2026",
       "id": "032026005784",
       "municipio": "Coaña",
       "provincia": "Asturias",
@@ -3550,6 +3487,15 @@
     },
     {
       "date": "31/07/2026",
+      "id": "032026005789",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Montador/a de chapa y panel (ref. 5789)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005789&ret=B"
+    },
+    {
+      "date": "31/07/2026",
       "id": "032026005790",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -3578,7 +3524,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-07-31T06:44:23Z"
+      "last_crawled": "2026-08-01T06:30:06Z"
     },
     "AU": {
       "count": 7,
@@ -3593,8 +3539,8 @@
       "last_crawled": "2026-08-01T04:19:02Z"
     },
     "EM": {
-      "count": 15,
-      "last_crawled": "2026-07-31T06:44:23Z"
+      "count": 12,
+      "last_crawled": "2026-08-01T06:30:06Z"
     },
     "EO": {
       "count": 50,
@@ -3622,11 +3568,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-07-31T06:44:23Z"
+      "last_crawled": "2026-08-01T06:30:06Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-07-31T06:44:23Z"
+      "last_crawled": "2026-08-01T06:30:06Z"
     },
     "MD": {
       "count": 0,
@@ -3637,8 +3583,8 @@
       "last_crawled": "2026-08-01T05:49:16Z"
     },
     "MO": {
-      "count": 11,
-      "last_crawled": "2026-07-31T06:44:23Z"
+      "count": 9,
+      "last_crawled": "2026-08-01T06:30:06Z"
     },
     "MR": {
       "count": 16,
@@ -3646,7 +3592,7 @@
     },
     "MT": {
       "count": 5,
-      "last_crawled": "2026-07-31T06:44:23Z"
+      "last_crawled": "2026-08-01T06:30:06Z"
     },
     "PA": {
       "count": 0,
@@ -3657,8 +3603,8 @@
       "last_crawled": "2026-08-01T05:28:14Z"
     },
     "PT": {
-      "count": 1,
-      "last_crawled": "2026-07-31T06:44:23Z"
+      "count": 0,
+      "last_crawled": "2026-08-01T06:30:06Z"
     },
     "SA": {
       "count": 80,
@@ -3681,5 +3627,5 @@
       "last_crawled": "2026-08-01T05:28:14Z"
     }
   },
-  "updated": "2026-08-01T05:49:16Z"
+  "updated": "2026-08-01T06:30:06Z"
 }
