@@ -1,5 +1,5 @@
 {
-  "count": 401,
+  "count": 396,
   "failed_sectors": [],
   "offers": [
     {
@@ -100,15 +100,6 @@
       "sector": "TH",
       "title": "2 puestos de ayudante de cocina (ref.: 1878)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026001878&ret=B"
-    },
-    {
-      "date": "02/07/2026",
-      "id": "032026001934",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "nueva difusión gerocultor/a (ref. 1934)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026001934&ret=B"
     },
     {
       "date": "03/07/2026",
@@ -318,15 +309,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002990&ret=B"
     },
     {
-      "date": "13/05/2026",
-      "id": "032026003023",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Podólogo/a (ref.3023)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003023&ret=B"
-    },
-    {
       "date": "22/07/2026",
       "id": "032026003041",
       "municipio": "Llanera",
@@ -489,12 +471,12 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003526&ret=B"
     },
     {
-      "date": "21/07/2026",
+      "date": "31/07/2026",
       "id": "032026003533",
       "municipio": "Mieres",
       "provincia": "Asturias",
       "sector": "SA",
-      "title": "Fisioterapueta (ref. 3533)",
+      "title": "Nueva difusión: fisioterapueta (ref. 3533)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003533&ret=B"
     },
     {
@@ -1056,12 +1038,12 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004707&ret=B"
     },
     {
-      "date": "21/07/2026",
+      "date": "31/07/2026",
       "id": "032026004721",
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "SA",
-      "title": "Higienista dental (ref. 4721)",
+      "title": "Nueva difusión: higienista dental (ref. 4721)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004721&ret=B"
     },
     {
@@ -1234,15 +1216,6 @@
       "sector": "TH",
       "title": "1 limpiador/a habitaciones de hotel (ref. 4948)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004948&ret=B"
-    },
-    {
-      "date": "22/07/2026",
-      "id": "032026004951",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "MR",
-      "title": "Electricista oficial 1ª (ref. 4951)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004951&ret=B"
     },
     {
       "date": "31/07/2026",
@@ -1459,15 +1432,6 @@
       "sector": "SA",
       "title": "Nueva difusión: 3 puestos de auxiliar de ayuda a domicilio (ref. 5084)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005084&ret=B"
-    },
-    {
-      "date": "06/07/2026",
-      "id": "032026005086",
-      "municipio": "Pravia",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "1 gerocultor/a (ref: 5086)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005086&ret=B"
     },
     {
       "date": "06/07/2026",
@@ -1695,15 +1659,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005274&ret=B"
     },
     {
-      "date": "10/07/2026",
-      "id": "032026005275",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "2 puestos de conductor/a camión (ref.: 5275)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005275&ret=B"
-    },
-    {
       "date": "13/07/2026",
       "id": "032026005278",
       "municipio": "Siero",
@@ -1738,15 +1693,6 @@
       "sector": "SA",
       "title": "Fisioterapeuta (ref. 5282)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005282&ret=B"
-    },
-    {
-      "date": "13/07/2026",
-      "id": "032026005284",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a camión tres ejes (ref.5284)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005284&ret=B"
     },
     {
       "date": "13/07/2026",
@@ -1891,15 +1837,6 @@
       "sector": "TC",
       "title": "Conductor/a de camión tráiler (ref.: 5351)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005351&ret=B"
-    },
-    {
-      "date": "14/07/2026",
-      "id": "032026005352",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "2 puestos de repartidores/as autoventa (ref. 5352)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005352&ret=B"
     },
     {
       "date": "31/07/2026",
@@ -2377,15 +2314,6 @@
       "sector": "EO",
       "title": "Albañil/a (ref. 5530)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005530&ret=B"
-    },
-    {
-      "date": "20/07/2026",
-      "id": "032026005531",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de furgoneta (ref.5531)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005531&ret=B"
     },
     {
       "date": "20/07/2026",
@@ -3460,15 +3388,6 @@
     },
     {
       "date": "30/07/2026",
-      "id": "032026005757",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Gerocultor/a ( ref. 5757 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005757&ret=B"
-    },
-    {
-      "date": "30/07/2026",
       "id": "032026005759",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -3586,6 +3505,15 @@
     },
     {
       "date": "31/07/2026",
+      "id": "032026005781",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "TC",
+      "title": "Repartidor/a vendedor/a (ref.: 5781)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005781&ret=B"
+    },
+    {
+      "date": "31/07/2026",
       "id": "032026005784",
       "municipio": "Coaña",
       "provincia": "Asturias",
@@ -3595,12 +3523,39 @@
     },
     {
       "date": "31/07/2026",
+      "id": "032026005785",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "IP",
+      "title": "Oficial carpintería metálica (ref. 5785)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005785&ret=B"
+    },
+    {
+      "date": "31/07/2026",
+      "id": "032026005787",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Fisioterapeuta (ref.: 5787)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005787&ret=B"
+    },
+    {
+      "date": "31/07/2026",
       "id": "032026005788",
       "municipio": "Castrillon",
       "provincia": "Asturias",
       "sector": "AU",
       "title": "Montador/a de neumáticos y mecanica rapida(ref: 5788)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005788&ret=B"
+    },
+    {
+      "date": "31/07/2026",
+      "id": "032026005790",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Fisioterapeuta (ref.:5790)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005790&ret=B"
     },
     {
       "date": "31/07/2026",
@@ -3651,7 +3606,7 @@
     },
     "IA": {
       "count": 8,
-      "last_crawled": "2026-07-31T05:59:53Z"
+      "last_crawled": "2026-08-01T05:49:16Z"
     },
     "IG": {
       "count": 0,
@@ -3662,8 +3617,8 @@
       "last_crawled": "2026-08-01T05:28:14Z"
     },
     "IP": {
-      "count": 21,
-      "last_crawled": "2026-07-31T05:59:53Z"
+      "count": 22,
+      "last_crawled": "2026-08-01T05:49:16Z"
     },
     "IQ": {
       "count": 0,
@@ -3679,15 +3634,15 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-07-31T05:59:53Z"
+      "last_crawled": "2026-08-01T05:49:16Z"
     },
     "MO": {
       "count": 11,
       "last_crawled": "2026-07-31T06:44:23Z"
     },
     "MR": {
-      "count": 17,
-      "last_crawled": "2026-07-31T05:59:53Z"
+      "count": 16,
+      "last_crawled": "2026-08-01T05:49:16Z"
     },
     "MT": {
       "count": 5,
@@ -3706,25 +3661,25 @@
       "last_crawled": "2026-07-31T06:44:23Z"
     },
     "SA": {
-      "count": 82,
-      "last_crawled": "2026-07-31T05:59:53Z"
+      "count": 80,
+      "last_crawled": "2026-08-01T05:49:16Z"
     },
     "SF": {
       "count": 0,
-      "last_crawled": "2026-07-31T05:59:53Z"
+      "last_crawled": "2026-08-01T05:49:16Z"
     },
     "SP": {
       "count": 0,
       "last_crawled": "2026-08-01T04:19:02Z"
     },
     "TC": {
-      "count": 40,
-      "last_crawled": "2026-07-31T05:59:53Z"
+      "count": 37,
+      "last_crawled": "2026-08-01T05:49:16Z"
     },
     "TH": {
       "count": 112,
       "last_crawled": "2026-08-01T05:28:14Z"
     }
   },
-  "updated": "2026-08-01T05:28:14Z"
+  "updated": "2026-08-01T05:49:16Z"
 }
