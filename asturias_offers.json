@@ -1,5 +1,5 @@
 {
-  "count": 582,
+  "count": 581,
   "failed_sectors": [],
   "offers": [
     {
@@ -4666,15 +4666,6 @@
     },
     {
       "date": "28/07/2026",
-      "id": "032026005721",
-      "municipio": "Valdes",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de cocina (ref.:5721)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005721&ret=B"
-    },
-    {
-      "date": "28/07/2026",
       "id": "032026005722",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -5248,7 +5239,7 @@
     },
     "AO": {
       "count": 26,
-      "last_crawled": "2026-08-01T05:28:14Z"
+      "last_crawled": "2026-08-02T05:28:14Z"
     },
     "AR": {
       "count": 0,
@@ -5256,7 +5247,7 @@
     },
     "AU": {
       "count": 7,
-      "last_crawled": "2026-08-01T05:28:14Z"
+      "last_crawled": "2026-08-02T05:28:14Z"
     },
     "CC": {
       "count": 52,
@@ -5272,11 +5263,11 @@
     },
     "EO": {
       "count": 50,
-      "last_crawled": "2026-08-01T05:28:14Z"
+      "last_crawled": "2026-08-02T05:28:14Z"
     },
     "FE": {
       "count": 6,
-      "last_crawled": "2026-08-01T05:28:14Z"
+      "last_crawled": "2026-08-02T05:28:14Z"
     },
     "IA": {
       "count": 8,
@@ -5288,7 +5279,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-08-01T05:28:14Z"
+      "last_crawled": "2026-08-02T05:28:14Z"
     },
     "IP": {
       "count": 22,
@@ -5328,7 +5319,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-08-01T05:28:14Z"
+      "last_crawled": "2026-08-02T05:28:14Z"
     },
     "PT": {
       "count": 0,
@@ -5351,9 +5342,9 @@
       "last_crawled": "2026-08-01T05:49:16Z"
     },
     "TH": {
-      "count": 112,
-      "last_crawled": "2026-08-01T05:28:14Z"
+      "count": 111,
+      "last_crawled": "2026-08-02T05:28:14Z"
     }
   },
-  "updated": "2026-08-02T04:21:58Z"
+  "updated": "2026-08-02T05:28:14Z"
 }
