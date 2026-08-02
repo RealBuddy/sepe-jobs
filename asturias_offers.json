@@ -1,5 +1,5 @@
 {
-  "count": 581,
+  "count": 580,
   "failed_sectors": [],
   "offers": [
     {
@@ -1873,15 +1873,6 @@
       "sector": "SP",
       "title": "Cuidador/a personas dependientes (ref.5039)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005039&ret=B"
-    },
-    {
-      "date": "02/07/2026",
-      "id": "032026005040",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Auxiliar de geriatría (ref.:5040)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005040&ret=B"
     },
     {
       "date": "24/07/2026",
@@ -5271,7 +5262,7 @@
     },
     "IA": {
       "count": 8,
-      "last_crawled": "2026-08-01T05:49:16Z"
+      "last_crawled": "2026-08-02T05:50:02Z"
     },
     "IG": {
       "count": 0,
@@ -5283,7 +5274,7 @@
     },
     "IP": {
       "count": 22,
-      "last_crawled": "2026-08-01T05:49:16Z"
+      "last_crawled": "2026-08-02T05:50:02Z"
     },
     "IQ": {
       "count": 0,
@@ -5299,7 +5290,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-08-01T05:49:16Z"
+      "last_crawled": "2026-08-02T05:50:02Z"
     },
     "MO": {
       "count": 9,
@@ -5307,7 +5298,7 @@
     },
     "MR": {
       "count": 16,
-      "last_crawled": "2026-08-01T05:49:16Z"
+      "last_crawled": "2026-08-02T05:50:02Z"
     },
     "MT": {
       "count": 5,
@@ -5326,12 +5317,12 @@
       "last_crawled": "2026-08-01T06:30:06Z"
     },
     "SA": {
-      "count": 80,
-      "last_crawled": "2026-08-01T05:49:16Z"
+      "count": 79,
+      "last_crawled": "2026-08-02T05:50:02Z"
     },
     "SF": {
       "count": 0,
-      "last_crawled": "2026-08-01T05:49:16Z"
+      "last_crawled": "2026-08-02T05:50:02Z"
     },
     "SP": {
       "count": 106,
@@ -5339,12 +5330,12 @@
     },
     "TC": {
       "count": 37,
-      "last_crawled": "2026-08-01T05:49:16Z"
+      "last_crawled": "2026-08-02T05:50:02Z"
     },
     "TH": {
       "count": 111,
       "last_crawled": "2026-08-02T05:28:14Z"
     }
   },
-  "updated": "2026-08-02T05:28:14Z"
+  "updated": "2026-08-02T05:50:02Z"
 }
