@@ -1,5 +1,5 @@
 {
-  "count": 580,
+  "count": 577,
   "failed_sectors": [],
   "offers": [
     {
@@ -1660,15 +1660,6 @@
     },
     {
       "date": "30/06/2026",
-      "id": "032026004945",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Frigorista (ref.: 4845)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004945&ret=B"
-    },
-    {
-      "date": "30/06/2026",
       "id": "032026004948",
       "municipio": "Cudillero",
       "provincia": "Asturias",
@@ -1945,15 +1936,6 @@
       "sector": "TH",
       "title": "Camarero/a de pisos (ref:5076)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005076&ret=B"
-    },
-    {
-      "date": "03/07/2026",
-      "id": "032026005077",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Administrador/a de fincas (ref.: 5077)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005077&ret=B"
     },
     {
       "date": "28/07/2026",
@@ -2431,15 +2413,6 @@
       "sector": "SP",
       "title": "4 operarios/as de lavandería (ref: 5290)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005290&ret=B"
-    },
-    {
-      "date": "13/07/2026",
-      "id": "032026005291",
-      "municipio": "Castropol",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "2 operarios/as de montaje (ref.:5291)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005291&ret=B"
     },
     {
       "date": "24/07/2026",
@@ -5234,7 +5207,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-01T06:30:06Z"
+      "last_crawled": "2026-08-02T06:33:55Z"
     },
     "AU": {
       "count": 7,
@@ -5249,8 +5222,8 @@
       "last_crawled": "2026-08-02T04:21:58Z"
     },
     "EM": {
-      "count": 12,
-      "last_crawled": "2026-08-01T06:30:06Z"
+      "count": 11,
+      "last_crawled": "2026-08-02T06:33:55Z"
     },
     "EO": {
       "count": 50,
@@ -5278,11 +5251,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-01T06:30:06Z"
+      "last_crawled": "2026-08-02T06:33:55Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-08-01T06:30:06Z"
+      "last_crawled": "2026-08-02T06:33:55Z"
     },
     "MD": {
       "count": 6,
@@ -5293,8 +5266,8 @@
       "last_crawled": "2026-08-02T05:50:02Z"
     },
     "MO": {
-      "count": 9,
-      "last_crawled": "2026-08-01T06:30:06Z"
+      "count": 7,
+      "last_crawled": "2026-08-02T06:33:55Z"
     },
     "MR": {
       "count": 16,
@@ -5302,7 +5275,7 @@
     },
     "MT": {
       "count": 5,
-      "last_crawled": "2026-08-01T06:30:06Z"
+      "last_crawled": "2026-08-02T06:33:55Z"
     },
     "PA": {
       "count": 0,
@@ -5314,7 +5287,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-01T06:30:06Z"
+      "last_crawled": "2026-08-02T06:33:55Z"
     },
     "SA": {
       "count": 79,
@@ -5337,5 +5310,5 @@
       "last_crawled": "2026-08-02T05:28:14Z"
     }
   },
-  "updated": "2026-08-02T05:50:02Z"
+  "updated": "2026-08-02T06:33:55Z"
 }
