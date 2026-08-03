@@ -1,5 +1,5 @@
 {
-  "count": 572,
+  "count": 568,
   "failed_sectors": [],
   "offers": [
     {
@@ -460,15 +460,6 @@
       "sector": "EO",
       "title": "Encofrador albañil de 1ª - llanes (ref. 3314)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003314&ret=B"
-    },
-    {
-      "date": "21/07/2026",
-      "id": "032026003323",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocinero/a (ref.:3323)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003323&ret=B"
     },
     {
       "date": "22/07/2026",
@@ -1108,15 +1099,6 @@
       "sector": "TC",
       "title": "Conductor/a de tráiler (h/m/x). ref.: 4368",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004368&ret=B"
-    },
-    {
-      "date": "15/06/2026",
-      "id": "032026004389",
-      "municipio": "Soto del barco",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "1 cocinero/a. san juan de la arena. (ref. 4389)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004389&ret=B"
     },
     {
       "date": "16/07/2026",
@@ -2631,15 +2613,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005366&ret=B"
     },
     {
-      "date": "14/07/2026",
-      "id": "032026005367",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "1 camarero/a y 1 ayudante de camarero/a (ref.: 5367)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005367&ret=B"
-    },
-    {
       "date": "15/07/2026",
       "id": "032026005368",
       "municipio": "Oviedo",
@@ -2773,15 +2746,6 @@
       "sector": "SP",
       "title": "Empleado/a de hogar interno/a (ref.: 5402)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005402&ret=B"
-    },
-    {
-      "date": "15/07/2026",
-      "id": "032026005403",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "Responsable recursos humanos (ref.5403)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005403&ret=B"
     },
     {
       "date": "15/07/2026",
@@ -5157,8 +5121,8 @@
       "last_crawled": "2026-08-03T04:27:58Z"
     },
     "AO": {
-      "count": 26,
-      "last_crawled": "2026-08-02T05:28:14Z"
+      "count": 25,
+      "last_crawled": "2026-08-03T05:42:42Z"
     },
     "AR": {
       "count": 0,
@@ -5166,7 +5130,7 @@
     },
     "AU": {
       "count": 7,
-      "last_crawled": "2026-08-02T05:28:14Z"
+      "last_crawled": "2026-08-03T05:42:42Z"
     },
     "CC": {
       "count": 50,
@@ -5182,11 +5146,11 @@
     },
     "EO": {
       "count": 50,
-      "last_crawled": "2026-08-02T05:28:14Z"
+      "last_crawled": "2026-08-03T05:42:42Z"
     },
     "FE": {
       "count": 6,
-      "last_crawled": "2026-08-02T05:28:14Z"
+      "last_crawled": "2026-08-03T05:42:42Z"
     },
     "IA": {
       "count": 8,
@@ -5198,7 +5162,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-08-02T05:28:14Z"
+      "last_crawled": "2026-08-03T05:42:42Z"
     },
     "IP": {
       "count": 22,
@@ -5238,7 +5202,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-08-02T05:28:14Z"
+      "last_crawled": "2026-08-03T05:42:42Z"
     },
     "PT": {
       "count": 0,
@@ -5261,9 +5225,9 @@
       "last_crawled": "2026-08-02T05:50:02Z"
     },
     "TH": {
-      "count": 111,
-      "last_crawled": "2026-08-02T05:28:14Z"
+      "count": 108,
+      "last_crawled": "2026-08-03T05:42:42Z"
     }
   },
-  "updated": "2026-08-03T04:27:58Z"
+  "updated": "2026-08-03T05:42:42Z"
 }
