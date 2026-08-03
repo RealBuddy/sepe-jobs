@@ -1,5 +1,5 @@
 {
-  "count": 577,
+  "count": 572,
   "failed_sectors": [],
   "offers": [
     {
@@ -1011,15 +1011,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004248&ret=B"
     },
     {
-      "date": "13/07/2026",
-      "id": "032026004257",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Dependiente/a de comercio (ref.4257)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004257&ret=B"
-    },
-    {
       "date": "28/07/2026",
       "id": "032026004266",
       "municipio": "Candamo",
@@ -1801,15 +1792,6 @@
       "sector": "EO",
       "title": "Operador/a de maquinaria movimiento de tierras:miniretroexcavadoras, palas mixtas (ref.: 5013) nueva difusion",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005013&ret=B"
-    },
-    {
-      "date": "27/07/2026",
-      "id": "032026005014",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "3 puestos dependiente/a (ref.:5014)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005014&ret=B"
     },
     {
       "date": "28/07/2026",
@@ -2713,15 +2695,6 @@
     },
     {
       "date": "15/07/2026",
-      "id": "032026005385",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Peluquero/a para residencia geriátrica (ref.5385)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005385&ret=B"
-    },
-    {
-      "date": "15/07/2026",
       "id": "032026005386",
       "municipio": "Colunga",
       "provincia": "Asturias",
@@ -3127,15 +3100,6 @@
     },
     {
       "date": "17/07/2026",
-      "id": "032026005494",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Educador/a social (ref.: 5494)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005494&ret=B"
-    },
-    {
-      "date": "17/07/2026",
       "id": "032026005497",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -3313,15 +3277,6 @@
       "sector": "CC",
       "title": "Dependiente/a de floristería (ref. 5526)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005526&ret=B"
-    },
-    {
-      "date": "20/07/2026",
-      "id": "032026005527",
-      "municipio": "Peñamellera baja",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Peón recogida de residuos (ref.5527)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005527&ret=B"
     },
     {
       "date": "21/07/2026",
@@ -5199,7 +5154,7 @@
   "sectors": {
     "AA": {
       "count": 16,
-      "last_crawled": "2026-08-02T04:21:58Z"
+      "last_crawled": "2026-08-03T04:27:58Z"
     },
     "AO": {
       "count": 26,
@@ -5214,12 +5169,12 @@
       "last_crawled": "2026-08-02T05:28:14Z"
     },
     "CC": {
-      "count": 52,
-      "last_crawled": "2026-08-02T04:21:58Z"
+      "count": 50,
+      "last_crawled": "2026-08-03T04:27:58Z"
     },
     "DO": {
       "count": 12,
-      "last_crawled": "2026-08-02T04:21:58Z"
+      "last_crawled": "2026-08-03T04:27:58Z"
     },
     "EM": {
       "count": 11,
@@ -5239,7 +5194,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-08-02T04:21:58Z"
+      "last_crawled": "2026-08-03T04:27:58Z"
     },
     "IM": {
       "count": 0,
@@ -5259,7 +5214,7 @@
     },
     "MD": {
       "count": 6,
-      "last_crawled": "2026-08-02T04:21:58Z"
+      "last_crawled": "2026-08-03T04:27:58Z"
     },
     "MN": {
       "count": 0,
@@ -5279,7 +5234,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-08-02T04:21:58Z"
+      "last_crawled": "2026-08-03T04:27:58Z"
     },
     "PC": {
       "count": 0,
@@ -5298,8 +5253,8 @@
       "last_crawled": "2026-08-02T05:50:02Z"
     },
     "SP": {
-      "count": 106,
-      "last_crawled": "2026-08-02T04:21:58Z"
+      "count": 103,
+      "last_crawled": "2026-08-03T04:27:58Z"
     },
     "TC": {
       "count": 37,
@@ -5310,5 +5265,5 @@
       "last_crawled": "2026-08-02T05:28:14Z"
     }
   },
-  "updated": "2026-08-02T06:33:55Z"
+  "updated": "2026-08-03T04:27:58Z"
 }
