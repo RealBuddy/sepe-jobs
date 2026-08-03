@@ -1,5 +1,5 @@
 {
-  "count": 568,
+  "count": 561,
   "failed_sectors": [],
   "offers": [
     {
@@ -1173,15 +1173,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004480&ret=B"
     },
     {
-      "date": "13/07/2026",
-      "id": "032026004529",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "2 puestos fisioterapeuta (ref.4529)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004529&ret=B"
-    },
-    {
       "date": "24/07/2026",
       "id": "032026004537",
       "municipio": "Llanes",
@@ -1362,15 +1353,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004687&ret=B"
     },
     {
-      "date": "20/07/2026",
-      "id": "032026004707",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Operario/a de perfiladora (ref. 4707)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004707&ret=B"
-    },
-    {
       "date": "27/07/2026",
       "id": "032026004713",
       "municipio": "Parres",
@@ -1396,15 +1378,6 @@
       "sector": "CC",
       "title": "Dependiente/a de frutería (ref. 4728)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004728&ret=B"
-    },
-    {
-      "date": "13/07/2026",
-      "id": "032026004740",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Técnico/a en farmacia y parafarmacia (ref.4740)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004740&ret=B"
     },
     {
       "date": "23/06/2026",
@@ -1876,15 +1849,6 @@
     },
     {
       "date": "03/07/2026",
-      "id": "032026005058",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "2 enfermeros/as valdesoto (ref. 5058)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005058&ret=B"
-    },
-    {
-      "date": "03/07/2026",
       "id": "032026005068",
       "municipio": "Pravia",
       "provincia": "Asturias",
@@ -1999,15 +1963,6 @@
       "sector": "SP",
       "title": "1 auxiliar de limpieza (ref: 5120)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005120&ret=B"
-    },
-    {
-      "date": "20/07/2026",
-      "id": "032026005130",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "2 puestos de conductor/a de camión portacontenedores (ref. 5130)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005130&ret=B"
     },
     {
       "date": "07/07/2026",
@@ -3226,15 +3181,6 @@
     },
     {
       "date": "20/07/2026",
-      "id": "032026005525",
-      "municipio": "Ribadesella",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a camión - recogida de residuos (ref.5525)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005525&ret=B"
-    },
-    {
-      "date": "20/07/2026",
       "id": "032026005526",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -3448,15 +3394,6 @@
       "sector": "CC",
       "title": "Mozo/a de almacén (ref. 5560)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005560&ret=B"
-    },
-    {
-      "date": "21/07/2026",
-      "id": "032026005561",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Personal de gestión de flota de vehículos eléctricos (ref.5561)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005561&ret=B"
     },
     {
       "date": "22/07/2026",
@@ -5154,7 +5091,7 @@
     },
     "IA": {
       "count": 8,
-      "last_crawled": "2026-08-02T05:50:02Z"
+      "last_crawled": "2026-08-03T06:14:15Z"
     },
     "IG": {
       "count": 0,
@@ -5165,8 +5102,8 @@
       "last_crawled": "2026-08-03T05:42:42Z"
     },
     "IP": {
-      "count": 22,
-      "last_crawled": "2026-08-02T05:50:02Z"
+      "count": 21,
+      "last_crawled": "2026-08-03T06:14:15Z"
     },
     "IQ": {
       "count": 0,
@@ -5182,7 +5119,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-08-02T05:50:02Z"
+      "last_crawled": "2026-08-03T06:14:15Z"
     },
     "MO": {
       "count": 7,
@@ -5190,7 +5127,7 @@
     },
     "MR": {
       "count": 16,
-      "last_crawled": "2026-08-02T05:50:02Z"
+      "last_crawled": "2026-08-03T06:14:15Z"
     },
     "MT": {
       "count": 5,
@@ -5209,25 +5146,25 @@
       "last_crawled": "2026-08-02T06:33:55Z"
     },
     "SA": {
-      "count": 79,
-      "last_crawled": "2026-08-02T05:50:02Z"
+      "count": 76,
+      "last_crawled": "2026-08-03T06:14:15Z"
     },
     "SF": {
       "count": 0,
-      "last_crawled": "2026-08-02T05:50:02Z"
+      "last_crawled": "2026-08-03T06:14:15Z"
     },
     "SP": {
       "count": 103,
       "last_crawled": "2026-08-03T04:27:58Z"
     },
     "TC": {
-      "count": 37,
-      "last_crawled": "2026-08-02T05:50:02Z"
+      "count": 34,
+      "last_crawled": "2026-08-03T06:14:15Z"
     },
     "TH": {
       "count": 108,
       "last_crawled": "2026-08-03T05:42:42Z"
     }
   },
-  "updated": "2026-08-03T05:42:42Z"
+  "updated": "2026-08-03T06:14:15Z"
 }
