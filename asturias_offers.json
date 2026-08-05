@@ -1,5 +1,5 @@
 {
-  "count": 586,
+  "count": 590,
   "failed_sectors": [],
   "offers": [
     {
@@ -10,6 +10,15 @@
       "sector": "SA",
       "title": "Gerocultor/a(ref.95).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000095&ret=B"
+    },
+    {
+      "date": "04/08/2026",
+      "id": "032026000244",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a con discapacidad (ref: 244)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000244&ret=B"
     },
     {
       "date": "04/08/2026",
@@ -3280,15 +3289,6 @@
     },
     {
       "date": "22/07/2026",
-      "id": "032026005568",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Montador/a de estructuras (ref. 5568)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005568&ret=B"
-    },
-    {
-      "date": "22/07/2026",
       "id": "032026005570",
       "municipio": "Parres",
       "provincia": "Asturias",
@@ -5134,6 +5134,15 @@
     },
     {
       "date": "04/08/2026",
+      "id": "032026005831",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Instalador/a de alarmas (ref. 5831)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005831&ret=B"
+    },
+    {
+      "date": "04/08/2026",
       "id": "032026005832",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -5149,6 +5158,15 @@
       "sector": "SP",
       "title": "1 empleado/a de hogar interno/a (ref.5835)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005835&ret=B"
+    },
+    {
+      "date": "04/08/2026",
+      "id": "032026005836",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "1 plaza de personal programador informático-titulado medio (ref.: 5836)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005836&ret=B"
     },
     {
       "date": "04/08/2026",
@@ -5179,12 +5197,30 @@
     },
     {
       "date": "04/08/2026",
+      "id": "032026005841",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "1 plaza de personal programador informático-titulado superior (ref.: 5841)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005841&ret=B"
+    },
+    {
+      "date": "04/08/2026",
       "id": "032026005842",
       "municipio": "Aviles",
       "provincia": "Asturias",
       "sector": "IP",
       "title": "Carpintero/a metálico- oficial de 1ª ( ref. 5842 )",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005842&ret=B"
+    },
+    {
+      "date": "04/08/2026",
+      "id": "032026005844",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Vigilantes de seguridad sin arma (ref.: 5844)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005844&ret=B"
     },
     {
       "date": "04/08/2026",
@@ -5288,7 +5324,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-04T06:28:40Z"
+      "last_crawled": "2026-08-05T06:29:03Z"
     },
     "AU": {
       "count": 7,
@@ -5303,8 +5339,8 @@
       "last_crawled": "2026-08-05T03:58:23Z"
     },
     "EM": {
-      "count": 11,
-      "last_crawled": "2026-08-04T06:28:40Z"
+      "count": 14,
+      "last_crawled": "2026-08-05T06:29:03Z"
     },
     "EO": {
       "count": 51,
@@ -5332,11 +5368,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-04T06:28:40Z"
+      "last_crawled": "2026-08-05T06:29:03Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-08-04T06:28:40Z"
+      "last_crawled": "2026-08-05T06:29:03Z"
     },
     "MD": {
       "count": 5,
@@ -5348,15 +5384,15 @@
     },
     "MO": {
       "count": 7,
-      "last_crawled": "2026-08-04T06:28:40Z"
+      "last_crawled": "2026-08-05T06:29:03Z"
     },
     "MR": {
       "count": 18,
       "last_crawled": "2026-08-05T05:40:29Z"
     },
     "MT": {
-      "count": 5,
-      "last_crawled": "2026-08-04T06:28:40Z"
+      "count": 6,
+      "last_crawled": "2026-08-05T06:29:03Z"
     },
     "PA": {
       "count": 0,
@@ -5368,7 +5404,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-04T06:28:40Z"
+      "last_crawled": "2026-08-05T06:29:03Z"
     },
     "SA": {
       "count": 79,
@@ -5391,5 +5427,5 @@
       "last_crawled": "2026-08-04T05:15:33Z"
     }
   },
-  "updated": "2026-08-05T05:40:29Z"
+  "updated": "2026-08-05T06:29:03Z"
 }
