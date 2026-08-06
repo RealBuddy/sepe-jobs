@@ -9,7 +9,7 @@ slice: a run may refresh any subset of sectors, and only those get swept.
 
 Polite: one session for the whole run, 3-4.5s throttle, stop-on-block.
 """
-import re, html as H, json, time, random, os, sys, argparse, urllib.parse, urllib.request, http.cookiejar
+import re, html as H, json, time, random, os, sys, argparse, urllib.parse, urllib.request, urllib.error, http.cookiejar
 from datetime import datetime, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -40,16 +40,35 @@ op.addheaders = [("User-Agent", UA), ("Accept-Language", "es-ES,es;q=0.9")]
 
 def nap(): time.sleep(3.0 + random.random() * 1.5)
 
+TRIES = 3  # SEPE drops the odd TCP connect at night; one timeout used to kill the whole run
+
+def fetch(r):
+    """Send a request, retrying transient network faults. Returns (status, body).
+
+    An HTTP error status is a real answer, not a fault: it comes back as (code, body)
+    unretried so the caller's `st != 200` / WAF checks treat it as a block and we back
+    off instead of hammering. Only connection-level failures (timeout, reset, DNS) are
+    retried -- those are the ones that were aborting runs before a single sector ran.
+    """
+    for i in range(TRIES):
+        try:
+            with op.open(r, timeout=25) as x: return x.status, x.read().decode("iso-8859-1", "replace")
+        except urllib.error.HTTPError as e:
+            return e.code, e.read().decode("iso-8859-1", "replace")
+        except OSError as e:  # URLError and TimeoutError both land here
+            if i == TRIES - 1: raise
+            wait = 15 * (i + 1) + random.random() * 5
+            print(f"  network error ({e}); retry {i+1}/{TRIES-1} in {wait:.0f}s", flush=True)
+            time.sleep(wait)
+
 def get(url, ref=None):
-    r = urllib.request.Request(url, headers={"Referer": ref} if ref else {})
-    with op.open(r, timeout=25) as x: return x.status, x.read().decode("iso-8859-1", "replace")
+    return fetch(urllib.request.Request(url, headers={"Referer": ref} if ref else {}))
 
 def post(url, data, ref=None):
     body = "&".join(f"{k}={urllib.parse.quote(str(v), encoding='iso-8859-1')}" for k, v in data.items())
     h = {"Content-Type": "application/x-www-form-urlencoded"}
     if ref: h["Referer"] = ref
-    r = urllib.request.Request(url, data=body.encode("iso-8859-1", "replace"), headers=h)
-    with op.open(r, timeout=25) as x: return x.status, x.read().decode("iso-8859-1", "replace")
+    return fetch(urllib.request.Request(url, data=body.encode("iso-8859-1", "replace"), headers=h))
 
 def parse(doc):
     out = []
@@ -71,8 +90,14 @@ def parse(doc):
 
 def open_session():
     """Form -> advanced search. Returns idFlujo, reusable for every search in this run."""
-    st, form = get(FORM, FORM)
-    idf = re.search(r'name="idFlujo"\s+value="([^"]+)"', form).group(1)
+    try:
+        st, form = get(FORM, FORM)
+    except OSError as e:
+        sys.exit(f"cannot reach SEPE after {TRIES} tries ({e}); store left untouched.")
+    m = re.search(r'name="idFlujo"\s+value="([^"]+)"', form)
+    if not m:
+        sys.exit(f"no idFlujo in the search form (status {st}) -- blocked or markup changed; store left untouched.")
+    idf = m.group(1)
     nap()
     get(DO + f"?modo=cambiarModo&idFlujo={idf}", FORM)
     return idf
@@ -144,7 +169,11 @@ def main():
     fresh, failed = {}, []
     for sec in want:
         nap()
-        got = crawl_sector(idf, sec)
+        try:
+            got = crawl_sector(idf, sec)
+        except OSError as e:  # exhausted retries: lose this sector, not the whole run
+            print(f"  {sec}: network error after {TRIES} tries ({e})", flush=True)
+            got = None
         if got is None: failed.append(sec)
         else: fresh[sec] = got
 
