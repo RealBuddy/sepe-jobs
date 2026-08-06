@@ -1,5 +1,5 @@
 {
-  "count": 600,
+  "count": 601,
   "failed_sectors": [],
   "offers": [
     {
@@ -3225,6 +3225,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005567&ret=B"
     },
     {
+      "date": "05/08/2026",
+      "id": "032026005568",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Montador/a de estructuras (ref. 5568)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005568&ret=B"
+    },
+    {
       "date": "22/07/2026",
       "id": "032026005570",
       "municipio": "Parres",
@@ -5414,7 +5423,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-05T06:29:03Z"
+      "last_crawled": "2026-08-06T06:31:23Z"
     },
     "AU": {
       "count": 7,
@@ -5430,7 +5439,7 @@
     },
     "EM": {
       "count": 14,
-      "last_crawled": "2026-08-05T06:29:03Z"
+      "last_crawled": "2026-08-06T06:31:23Z"
     },
     "EO": {
       "count": 51,
@@ -5458,11 +5467,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-05T06:29:03Z"
+      "last_crawled": "2026-08-06T06:31:23Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-08-05T06:29:03Z"
+      "last_crawled": "2026-08-06T06:31:23Z"
     },
     "MD": {
       "count": 5,
@@ -5473,8 +5482,8 @@
       "last_crawled": "2026-08-06T05:41:54Z"
     },
     "MO": {
-      "count": 7,
-      "last_crawled": "2026-08-05T06:29:03Z"
+      "count": 8,
+      "last_crawled": "2026-08-06T06:31:23Z"
     },
     "MR": {
       "count": 18,
@@ -5482,7 +5491,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-08-05T06:29:03Z"
+      "last_crawled": "2026-08-06T06:31:23Z"
     },
     "PA": {
       "count": 0,
@@ -5494,7 +5503,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-05T06:29:03Z"
+      "last_crawled": "2026-08-06T06:31:23Z"
     },
     "SA": {
       "count": 79,
@@ -5517,5 +5526,5 @@
       "last_crawled": "2026-08-04T05:15:33Z"
     }
   },
-  "updated": "2026-08-06T05:41:54Z"
+  "updated": "2026-08-06T06:31:23Z"
 }
