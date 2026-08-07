@@ -1,5 +1,5 @@
 {
-  "count": 595,
+  "count": 593,
   "failed_sectors": [],
   "offers": [
     {
@@ -325,15 +325,6 @@
       "sector": "EO",
       "title": "Ingeniero/a civil (ref.2919)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002919&ret=B"
-    },
-    {
-      "date": "24/07/2026",
-      "id": "032026002931",
-      "municipio": "Ribadesella",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Peón/as de producción - ribadesella (ref. 2931)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002931&ret=B"
     },
     {
       "date": "29/07/2026",
@@ -3658,15 +3649,6 @@
     },
     {
       "date": "28/07/2026",
-      "id": "032026005698",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "4 puestos de ingeniero/a informático/a desarrollador/a de software (ref.: 5698).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005698&ret=B"
-    },
-    {
-      "date": "28/07/2026",
       "id": "032026005699",
       "municipio": "Soto del barco",
       "provincia": "Asturias",
@@ -5369,7 +5351,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-06T06:31:23Z"
+      "last_crawled": "2026-08-07T05:40:49Z"
     },
     "AU": {
       "count": 7,
@@ -5384,8 +5366,8 @@
       "last_crawled": "2026-08-07T03:48:10Z"
     },
     "EM": {
-      "count": 14,
-      "last_crawled": "2026-08-06T06:31:23Z"
+      "count": 13,
+      "last_crawled": "2026-08-07T05:40:49Z"
     },
     "EO": {
       "count": 56,
@@ -5413,11 +5395,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-06T06:31:23Z"
+      "last_crawled": "2026-08-07T05:40:49Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-08-06T06:31:23Z"
+      "last_crawled": "2026-08-07T05:40:49Z"
     },
     "MD": {
       "count": 4,
@@ -5429,15 +5411,15 @@
     },
     "MO": {
       "count": 8,
-      "last_crawled": "2026-08-06T06:31:23Z"
+      "last_crawled": "2026-08-07T05:40:49Z"
     },
     "MR": {
       "count": 19,
       "last_crawled": "2026-08-07T04:51:02Z"
     },
     "MT": {
-      "count": 6,
-      "last_crawled": "2026-08-06T06:31:23Z"
+      "count": 5,
+      "last_crawled": "2026-08-07T05:40:49Z"
     },
     "PA": {
       "count": 0,
@@ -5449,7 +5431,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-06T12:44:57Z"
+      "last_crawled": "2026-08-07T05:40:49Z"
     },
     "SA": {
       "count": 78,
@@ -5472,5 +5454,5 @@
       "last_crawled": "2026-08-07T04:26:20Z"
     }
   },
-  "updated": "2026-08-07T04:51:02Z"
+  "updated": "2026-08-07T05:40:49Z"
 }
