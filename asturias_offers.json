@@ -1,5 +1,5 @@
 {
-  "count": 593,
+  "count": 587,
   "failed_sectors": [],
   "offers": [
     {
@@ -786,15 +786,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004117&ret=B"
     },
     {
-      "date": "08/06/2026",
-      "id": "032026004150",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Mediador/a comunicativo/a (ref.: 4150)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004150&ret=B"
-    },
-    {
       "date": "27/07/2026",
       "id": "032026004151",
       "municipio": "Gijón",
@@ -802,15 +793,6 @@
       "sector": "AO",
       "title": "Auxiliar administrativo/a para administración de fincas (ref.: 4151)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004151&ret=B"
-    },
-    {
-      "date": "08/07/2026",
-      "id": "032026004170",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Atención al cliente en salones de apuestas deportivas (ref.: 4170)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004170&ret=B"
     },
     {
       "date": "22/07/2026",
@@ -1794,15 +1776,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005194&ret=B"
     },
     {
-      "date": "09/07/2026",
-      "id": "032026005200",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "2 limpiadores/as industriales (ref. 5200)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005200&ret=B"
-    },
-    {
       "date": "04/08/2026",
       "id": "032026005201",
       "municipio": "Oviedo",
@@ -1837,15 +1810,6 @@
       "sector": "CC",
       "title": "Vendedor/a de equipos de descanso y sofás (ref. 5227)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005227&ret=B"
-    },
-    {
-      "date": "09/07/2026",
-      "id": "032026005230",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Auxiliar de servicios (ref.: 5230)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005230&ret=B"
     },
     {
       "date": "09/07/2026",
@@ -2143,15 +2107,6 @@
       "sector": "EO",
       "title": "Fontanero/a (ref. 5348)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005348&ret=B"
-    },
-    {
-      "date": "14/07/2026",
-      "id": "032026005350",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Gestor/a comercial de oficina (ref.: 5350)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005350&ret=B"
     },
     {
       "date": "31/07/2026",
@@ -3637,15 +3592,6 @@
       "sector": "AO",
       "title": "Responsable de desarrollo de negocio / business development manager (ref.: 5712)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005712&ret=B"
-    },
-    {
-      "date": "28/07/2026",
-      "id": "032026005714",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Dependienta/e de tienda de segunda mano (ref.: 5714)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005714&ret=B"
     },
     {
       "date": "28/07/2026",
@@ -5343,7 +5289,7 @@
   "sectors": {
     "AA": {
       "count": 18,
-      "last_crawled": "2026-08-08T02:53:45Z"
+      "last_crawled": "2026-08-09T03:01:00Z"
     },
     "AO": {
       "count": 22,
@@ -5358,12 +5304,12 @@
       "last_crawled": "2026-08-08T03:25:46Z"
     },
     "CC": {
-      "count": 48,
-      "last_crawled": "2026-08-08T02:53:45Z"
+      "count": 45,
+      "last_crawled": "2026-08-09T03:01:00Z"
     },
     "DO": {
       "count": 16,
-      "last_crawled": "2026-08-08T02:53:45Z"
+      "last_crawled": "2026-08-09T03:01:00Z"
     },
     "EM": {
       "count": 12,
@@ -5383,7 +5329,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-08-08T02:53:45Z"
+      "last_crawled": "2026-08-09T03:01:00Z"
     },
     "IM": {
       "count": 0,
@@ -5403,7 +5349,7 @@
     },
     "MD": {
       "count": 3,
-      "last_crawled": "2026-08-08T02:53:45Z"
+      "last_crawled": "2026-08-09T03:01:00Z"
     },
     "MN": {
       "count": 2,
@@ -5423,7 +5369,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-08-08T02:53:45Z"
+      "last_crawled": "2026-08-09T03:01:00Z"
     },
     "PC": {
       "count": 0,
@@ -5442,8 +5388,8 @@
       "last_crawled": "2026-08-07T04:51:02Z"
     },
     "SP": {
-      "count": 126,
-      "last_crawled": "2026-08-08T02:53:45Z"
+      "count": 123,
+      "last_crawled": "2026-08-09T03:01:00Z"
     },
     "TC": {
       "count": 31,
@@ -5454,5 +5400,5 @@
       "last_crawled": "2026-08-08T03:25:46Z"
     }
   },
-  "updated": "2026-08-08T04:57:33Z"
+  "updated": "2026-08-09T03:01:00Z"
 }
