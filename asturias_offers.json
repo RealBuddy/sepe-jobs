@@ -1,5 +1,5 @@
 {
-  "count": 587,
+  "count": 584,
   "failed_sectors": [],
   "offers": [
     {
@@ -1821,15 +1821,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005231&ret=B"
     },
     {
-      "date": "09/07/2026",
-      "id": "032026005235",
-      "municipio": "Tineo",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "Empleado/a administrativo/a. (ref: 5235)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005235&ret=B"
-    },
-    {
       "date": "30/07/2026",
       "id": "032026005243",
       "municipio": "Pravia",
@@ -1900,15 +1891,6 @@
       "sector": "CC",
       "title": "Mozo/a de almacen (ref: 5260)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005260&ret=B"
-    },
-    {
-      "date": "10/07/2026",
-      "id": "032026005263",
-      "municipio": "Tineo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Recepcionista de hotel (ref: 5263)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005263&ret=B"
     },
     {
       "date": "10/07/2026",
@@ -2629,15 +2611,6 @@
       "sector": "AO",
       "title": "1 puesto de auxiliar administrativo (ref: 5513)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005513&ret=B"
-    },
-    {
-      "date": "20/07/2026",
-      "id": "032026005516",
-      "municipio": "Valdes",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camarero/a (ref.:5516)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005516&ret=B"
     },
     {
       "date": "20/07/2026",
@@ -5292,8 +5265,8 @@
       "last_crawled": "2026-08-09T03:01:00Z"
     },
     "AO": {
-      "count": 22,
-      "last_crawled": "2026-08-08T03:25:46Z"
+      "count": 21,
+      "last_crawled": "2026-08-09T03:42:39Z"
     },
     "AR": {
       "count": 0,
@@ -5301,7 +5274,7 @@
     },
     "AU": {
       "count": 7,
-      "last_crawled": "2026-08-08T03:25:46Z"
+      "last_crawled": "2026-08-09T03:42:39Z"
     },
     "CC": {
       "count": 45,
@@ -5317,11 +5290,11 @@
     },
     "EO": {
       "count": 57,
-      "last_crawled": "2026-08-08T03:25:46Z"
+      "last_crawled": "2026-08-09T03:42:39Z"
     },
     "FE": {
       "count": 6,
-      "last_crawled": "2026-08-08T03:25:46Z"
+      "last_crawled": "2026-08-09T03:42:39Z"
     },
     "IA": {
       "count": 11,
@@ -5333,7 +5306,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-08-08T03:25:46Z"
+      "last_crawled": "2026-08-09T03:42:39Z"
     },
     "IP": {
       "count": 18,
@@ -5373,7 +5346,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-08-08T03:25:46Z"
+      "last_crawled": "2026-08-09T03:42:39Z"
     },
     "PT": {
       "count": 0,
@@ -5396,9 +5369,9 @@
       "last_crawled": "2026-08-07T04:51:02Z"
     },
     "TH": {
-      "count": 106,
-      "last_crawled": "2026-08-08T03:25:46Z"
+      "count": 104,
+      "last_crawled": "2026-08-09T03:42:39Z"
     }
   },
-  "updated": "2026-08-09T03:01:00Z"
+  "updated": "2026-08-09T03:42:39Z"
 }
