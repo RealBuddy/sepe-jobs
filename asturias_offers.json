@@ -1,5 +1,5 @@
 {
-  "count": 563,
+  "count": 553,
   "failed_sectors": [],
   "offers": [
     {
@@ -262,15 +262,6 @@
       "sector": "SP",
       "title": "Cuidador/a residencia personas con discapacidad (ref.:2877)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002877&ret=B"
-    },
-    {
-      "date": "09/07/2026",
-      "id": "032026002879",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocinero/a (ref.: 2879)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002879&ret=B"
     },
     {
       "date": "28/04/2026",
@@ -1030,15 +1021,6 @@
     },
     {
       "date": "18/06/2026",
-      "id": "032026004589",
-      "municipio": "Cudillero",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "2 camareros/as (ref. 4589)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004589&ret=B"
-    },
-    {
-      "date": "18/06/2026",
       "id": "032026004603",
       "municipio": "Cudillero",
       "provincia": "Asturias",
@@ -1677,15 +1659,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005201&ret=B"
     },
     {
-      "date": "13/07/2026",
-      "id": "032026005203",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "2 puestos de ayudante de cocina (ref.: 5203)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005203&ret=B"
-    },
-    {
       "date": "09/07/2026",
       "id": "032026005219",
       "municipio": "Piloña",
@@ -1720,15 +1693,6 @@
       "sector": "TH",
       "title": "1 cocinero/a (ref: 5243)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005243&ret=B"
-    },
-    {
-      "date": "30/07/2026",
-      "id": "032026005244",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "2 puestos de camarero/a (ref.: 5244)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005244&ret=B"
     },
     {
       "date": "31/07/2026",
@@ -2308,15 +2272,6 @@
     },
     {
       "date": "17/07/2026",
-      "id": "032026005467",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camareros/as (ref: 5467)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005467&ret=B"
-    },
-    {
-      "date": "17/07/2026",
       "id": "032026005471",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -2326,30 +2281,12 @@
     },
     {
       "date": "17/07/2026",
-      "id": "032026005472",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocineros/as (ref: 5472)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005472&ret=B"
-    },
-    {
-      "date": "17/07/2026",
       "id": "032026005474",
       "municipio": "Castrillon",
       "provincia": "Asturias",
       "sector": "DO",
       "title": "Profesor/a formacion no reglada para el empleo \"rama cocina\" (ref: 5474)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005474&ret=B"
-    },
-    {
-      "date": "17/07/2026",
-      "id": "032026005475",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Pasteleros/as (ref: 5475)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005475&ret=B"
     },
     {
       "date": "17/07/2026",
@@ -3190,39 +3127,12 @@
     },
     {
       "date": "27/07/2026",
-      "id": "032026005688",
-      "municipio": "Ribadesella",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de cocina (ref. 5688)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005688&ret=B"
-    },
-    {
-      "date": "27/07/2026",
       "id": "032026005689",
       "municipio": "Oviedo",
       "provincia": "Asturias",
       "sector": "EO",
       "title": "Albañil (ref.: 5689)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005689&ret=B"
-    },
-    {
-      "date": "27/07/2026",
-      "id": "032026005691",
-      "municipio": "Llanes",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de cocina (ref. 5691)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005691&ret=B"
-    },
-    {
-      "date": "27/07/2026",
-      "id": "032026005692",
-      "municipio": "Llanes",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante camarero/a (ref. 5692)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005692&ret=B"
     },
     {
       "date": "27/07/2026",
@@ -5077,7 +4987,7 @@
     },
     "AO": {
       "count": 21,
-      "last_crawled": "2026-08-09T03:42:39Z"
+      "last_crawled": "2026-08-10T03:54:40Z"
     },
     "AR": {
       "count": 0,
@@ -5085,7 +4995,7 @@
     },
     "AU": {
       "count": 7,
-      "last_crawled": "2026-08-09T03:42:39Z"
+      "last_crawled": "2026-08-10T03:54:40Z"
     },
     "CC": {
       "count": 40,
@@ -5101,11 +5011,11 @@
     },
     "EO": {
       "count": 57,
-      "last_crawled": "2026-08-09T03:42:39Z"
+      "last_crawled": "2026-08-10T03:54:40Z"
     },
     "FE": {
       "count": 6,
-      "last_crawled": "2026-08-09T03:42:39Z"
+      "last_crawled": "2026-08-10T03:54:40Z"
     },
     "IA": {
       "count": 10,
@@ -5117,7 +5027,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-08-09T03:42:39Z"
+      "last_crawled": "2026-08-10T03:54:40Z"
     },
     "IP": {
       "count": 21,
@@ -5157,7 +5067,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-08-09T03:42:39Z"
+      "last_crawled": "2026-08-10T03:54:40Z"
     },
     "PT": {
       "count": 0,
@@ -5180,9 +5090,9 @@
       "last_crawled": "2026-08-09T04:13:17Z"
     },
     "TH": {
-      "count": 104,
-      "last_crawled": "2026-08-09T03:42:39Z"
+      "count": 94,
+      "last_crawled": "2026-08-10T03:54:40Z"
     }
   },
-  "updated": "2026-08-10T03:10:08Z"
+  "updated": "2026-08-10T03:54:40Z"
 }
