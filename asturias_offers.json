@@ -1,5 +1,5 @@
 {
-  "count": 553,
+  "count": 546,
   "failed_sectors": [],
   "offers": [
     {
@@ -444,15 +444,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003587&ret=B"
     },
     {
-      "date": "21/07/2026",
-      "id": "032026003610",
-      "municipio": "Valdes",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Odontólogo/a generalista (ref.:3610)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003610&ret=B"
-    },
-    {
       "date": "30/07/2026",
       "id": "032026003696",
       "municipio": "Mieres",
@@ -588,15 +579,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003831&ret=B"
     },
     {
-      "date": "09/07/2026",
-      "id": "032026003838",
-      "municipio": "Villaviciosa",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Operario/a de llagar (ref.: 3838)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003838&ret=B"
-    },
-    {
       "date": "27/05/2026",
       "id": "032026003841",
       "municipio": "Cabranes",
@@ -694,15 +676,6 @@
       "sector": "EM",
       "title": "Ingeniero/a de proyectos (ref: 4097)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004097&ret=B"
-    },
-    {
-      "date": "09/07/2026",
-      "id": "032026004098",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Fisioterapeuta (ref.:4098)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004098&ret=B"
     },
     {
       "date": "28/07/2026",
@@ -847,15 +820,6 @@
       "sector": "EO",
       "title": "2 peones/as señalistas (ref. 4306)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004306&ret=B"
-    },
-    {
-      "date": "11/06/2026",
-      "id": "032026004315",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermero/a (ref.: 4315)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004315&ret=B"
     },
     {
       "date": "07/08/2026",
@@ -1711,15 +1675,6 @@
       "sector": "IP",
       "title": "Nueva difusión: 2 caldereros/as (ref. 5252)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005252&ret=B"
-    },
-    {
-      "date": "10/07/2026",
-      "id": "032026005253",
-      "municipio": "Tineo",
-      "provincia": "Asturias",
-      "sector": "MR",
-      "title": "Mecánico/a de maquinaria en general (fer: 5253)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005253&ret=B"
     },
     {
       "date": "10/07/2026",
@@ -3144,15 +3099,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005694&ret=B"
     },
     {
-      "date": "27/07/2026",
-      "id": "032026005695",
-      "municipio": "Ribadesella",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Oficial para obrador (ref. 5695)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005695&ret=B"
-    },
-    {
       "date": "28/07/2026",
       "id": "032026005699",
       "municipio": "Soto del barco",
@@ -3700,15 +3646,6 @@
       "sector": "MO",
       "title": "Montador/a de chapa y panel (ref. 5789)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005789&ret=B"
-    },
-    {
-      "date": "31/07/2026",
-      "id": "032026005790",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Fisioterapeuta (ref.:5790)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005790&ret=B"
     },
     {
       "date": "31/07/2026",
@@ -5018,8 +4955,8 @@
       "last_crawled": "2026-08-10T03:54:40Z"
     },
     "IA": {
-      "count": 10,
-      "last_crawled": "2026-08-09T04:13:17Z"
+      "count": 8,
+      "last_crawled": "2026-08-10T04:25:14Z"
     },
     "IG": {
       "count": 0,
@@ -5031,7 +4968,7 @@
     },
     "IP": {
       "count": 21,
-      "last_crawled": "2026-08-09T04:13:17Z"
+      "last_crawled": "2026-08-10T04:25:14Z"
     },
     "IQ": {
       "count": 0,
@@ -5047,15 +4984,15 @@
     },
     "MN": {
       "count": 2,
-      "last_crawled": "2026-08-09T04:13:17Z"
+      "last_crawled": "2026-08-10T04:25:14Z"
     },
     "MO": {
       "count": 9,
       "last_crawled": "2026-08-09T05:05:33Z"
     },
     "MR": {
-      "count": 19,
-      "last_crawled": "2026-08-09T04:13:17Z"
+      "count": 18,
+      "last_crawled": "2026-08-10T04:25:14Z"
     },
     "MT": {
       "count": 4,
@@ -5074,12 +5011,12 @@
       "last_crawled": "2026-08-09T05:05:33Z"
     },
     "SA": {
-      "count": 81,
-      "last_crawled": "2026-08-09T04:13:17Z"
+      "count": 77,
+      "last_crawled": "2026-08-10T04:25:14Z"
     },
     "SF": {
       "count": 0,
-      "last_crawled": "2026-08-09T04:13:17Z"
+      "last_crawled": "2026-08-10T04:25:14Z"
     },
     "SP": {
       "count": 109,
@@ -5087,12 +5024,12 @@
     },
     "TC": {
       "count": 30,
-      "last_crawled": "2026-08-09T04:13:17Z"
+      "last_crawled": "2026-08-10T04:25:14Z"
     },
     "TH": {
       "count": 94,
       "last_crawled": "2026-08-10T03:54:40Z"
     }
   },
-  "updated": "2026-08-10T03:54:40Z"
+  "updated": "2026-08-10T04:25:14Z"
 }
