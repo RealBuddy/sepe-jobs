@@ -1,5 +1,5 @@
 {
-  "count": 546,
+  "count": 544,
   "failed_sectors": [],
   "offers": [
     {
@@ -487,15 +487,6 @@
       "sector": "TH",
       "title": "Ayudante de camarero/a (ref.: 3739)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003739&ret=B"
-    },
-    {
-      "date": "31/07/2026",
-      "id": "032026003744",
-      "municipio": "Villaviciosa",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "4 puestos de operario/a de producción (ref.: 3744)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003744&ret=B"
     },
     {
       "date": "10/07/2026",
@@ -1981,15 +1972,6 @@
       "sector": "TH",
       "title": "4 camareros/as de piso (ref.5386)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005386&ret=B"
-    },
-    {
-      "date": "15/07/2026",
-      "id": "032026005387",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Delineante-proyectista (ref: 5387)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005387&ret=B"
     },
     {
       "date": "15/07/2026",
@@ -4928,7 +4910,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-09T05:05:33Z"
+      "last_crawled": "2026-08-10T05:27:36Z"
     },
     "AU": {
       "count": 7,
@@ -4943,8 +4925,8 @@
       "last_crawled": "2026-08-10T03:10:08Z"
     },
     "EM": {
-      "count": 12,
-      "last_crawled": "2026-08-09T05:05:33Z"
+      "count": 11,
+      "last_crawled": "2026-08-10T05:27:36Z"
     },
     "EO": {
       "count": 57,
@@ -4972,11 +4954,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-09T05:05:33Z"
+      "last_crawled": "2026-08-10T05:27:36Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-08-09T05:05:33Z"
+      "last_crawled": "2026-08-10T05:27:36Z"
     },
     "MD": {
       "count": 1,
@@ -4988,15 +4970,15 @@
     },
     "MO": {
       "count": 9,
-      "last_crawled": "2026-08-09T05:05:33Z"
+      "last_crawled": "2026-08-10T05:27:36Z"
     },
     "MR": {
       "count": 18,
       "last_crawled": "2026-08-10T04:25:14Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-08-09T05:05:33Z"
+      "count": 3,
+      "last_crawled": "2026-08-10T05:27:36Z"
     },
     "PA": {
       "count": 0,
@@ -5008,7 +4990,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-09T05:05:33Z"
+      "last_crawled": "2026-08-10T05:27:36Z"
     },
     "SA": {
       "count": 77,
@@ -5031,5 +5013,5 @@
       "last_crawled": "2026-08-10T03:54:40Z"
     }
   },
-  "updated": "2026-08-10T04:25:14Z"
+  "updated": "2026-08-10T05:27:36Z"
 }
