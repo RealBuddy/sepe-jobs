@@ -1,5 +1,5 @@
 {
-  "count": 595,
+  "count": 598,
   "failed_sectors": [],
   "offers": [
     {
@@ -919,6 +919,15 @@
       "sector": "CC",
       "title": "Mozo/a de almacén-repartidor/a (ref.: 4426)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004426&ret=B"
+    },
+    {
+      "date": "12/08/2026",
+      "id": "032026004435",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "2 puestos de ingeniero/a de software - especialista en automatización de procesos y crm (ref.4435)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004435&ret=B"
     },
     {
       "date": "10/08/2026",
@@ -1864,6 +1873,15 @@
       "sector": "CC",
       "title": "Dependiente/a de comercio (ref.5313)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005313&ret=B"
+    },
+    {
+      "date": "12/08/2026",
+      "id": "032026005314",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a de almacén (ref. 5314)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005314&ret=B"
     },
     {
       "date": "06/08/2026",
@@ -5161,6 +5179,15 @@
     },
     {
       "date": "12/08/2026",
+      "id": "032026006019",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Teleoperador/a (ref.6019)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006019&ret=B"
+    },
+    {
+      "date": "12/08/2026",
       "id": "032026006020",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -5369,7 +5396,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-12T05:38:10Z"
+      "last_crawled": "2026-08-13T05:40:54Z"
     },
     "AU": {
       "count": 10,
@@ -5384,8 +5411,8 @@
       "last_crawled": "2026-08-13T03:25:36Z"
     },
     "EM": {
-      "count": 11,
-      "last_crawled": "2026-08-12T05:38:10Z"
+      "count": 13,
+      "last_crawled": "2026-08-13T05:40:54Z"
     },
     "EO": {
       "count": 56,
@@ -5413,11 +5440,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-12T05:38:10Z"
+      "last_crawled": "2026-08-13T05:40:54Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-12T05:38:10Z"
+      "last_crawled": "2026-08-13T05:40:54Z"
     },
     "MD": {
       "count": 2,
@@ -5429,15 +5456,15 @@
     },
     "MO": {
       "count": 14,
-      "last_crawled": "2026-08-12T05:38:10Z"
+      "last_crawled": "2026-08-13T05:40:54Z"
     },
     "MR": {
       "count": 20,
       "last_crawled": "2026-08-13T04:47:27Z"
     },
     "MT": {
-      "count": 2,
-      "last_crawled": "2026-08-12T05:38:10Z"
+      "count": 3,
+      "last_crawled": "2026-08-13T05:40:54Z"
     },
     "PA": {
       "count": 0,
@@ -5449,7 +5476,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-12T05:38:10Z"
+      "last_crawled": "2026-08-13T05:40:54Z"
     },
     "SA": {
       "count": 82,
@@ -5472,5 +5499,5 @@
       "last_crawled": "2026-08-13T04:12:28Z"
     }
   },
-  "updated": "2026-08-13T04:47:27Z"
+  "updated": "2026-08-13T05:40:54Z"
 }
