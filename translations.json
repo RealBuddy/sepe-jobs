@@ -66,6 +66,7 @@
   "Auxiliar de lavandería": "Работник прачечной",
   "Auxiliar de mantenimiento": "Помощник по техническому обслуживанию",
   "Auxiliar de mantenimiento para residencia gerontológica": "Ассистент по обслуживанию геронтологической ординатуры",
+  "Auxiliar de ruta con discapacidad": "Отключен помощник маршрута",
   "Auxiliar de servicios": "Работник обслуживания",
   "Auxiliar enfermería": "Младшая медсестра (санитар)",
   "Auxiliares de cocina": "Кухонные помощники",
@@ -133,6 +134,7 @@
   "Carpintero/a de muebles ( 9": "Столяр-мебельщик",
   "Carpintero/a metálico": "Столяр по металлу (металлоконструкции)",
   "Carpintero/a metálico- oficial de 1ª": "Плотник по металлу - 1-й помощник",
+  "Carpintero/a-montador/a": "Плотник",
   "Carpintero/montador de carpintería metálica de aluminio y pvc": "Монтажник алюминиевых и ПВХ конструкций",
   "Carretillero": "вилочный погрузчик",
   "Cerrajero/a metalico": "Слесарь по металлу",
@@ -568,6 +570,7 @@
   "Peón carpintero/a": "Плотник, рабочий",
   "Peón construcción": "Разнорабочий на стройке",
   "Peón de albañileria": "Каменщик",
+  "Peón jardinero/a": "Садовник",
   "Peón recogida de residuos": "Рабочий по сбору мусора",
   "Peón sector cárnico": "Рабочий мясного сектора",
   "Peón-jardinero/a": "Разнорабочий-садовник",
@@ -647,6 +650,7 @@
   "Tractorista de pomaradas": "Тракторист в яблоневых садах",
   "Transportista": "Перевозчик (водитель-экспедитор)",
   "Técnico de rrhh": "Техник по кадрам",
+  "Técnico de spa-masajista": "Техник спа-массажа",
   "Técnico en gestión de desarrollo local - ayto.cabrales": "Специалист по местному развитию (мэрия Cabrales)",
   "Técnico/a administración-serida": "Техник серийного администрирования",
   "Técnico/a administrativo/a - contrato prácticas profesional del ayuntamiento de ibias": "Административный специалист (стажировка, мэрия Ibias)",
@@ -923,5 +927,6 @@
   "técnico/a auxiliar de spa": "Ассистент спа-техника",
   "técnico/a fiscal contable": "Специалист по налогам и бухучёту",
   "técnicos de desarrollo local": "местные специалисты по развитию",
+  "vendedor/a electrodomésticos": "продавец бытовой техники",
   "vigilante estacionamiento": "Контролёр парковки"
 }
