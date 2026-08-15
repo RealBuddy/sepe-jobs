@@ -1,7 +1,7 @@
-# Официант (начальник сектора)
+# Camarero/a( parres) (jefe de sector)
 
-- **Профессия (ES):** Camarero(jefe de sector)
-- **Оригинальное название:** Camarero(jefe de sector)(ref:5887)
+- **Профессия (ES):** Camarero/a( parres) (jefe de sector)
+- **Оригинальное название:** Camarero/a( parres) (jefe de sector)(ref:5887)
 - **Город:** Cangas de onis (Asturias)
 - **Дата публикации:** 05/08/2026
 - **ID оферты:** 032026005887
