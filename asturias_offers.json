@@ -1,5 +1,5 @@
 {
-  "count": 418,
+  "count": 414,
   "failed_sectors": [],
   "offers": [
     {
@@ -172,15 +172,6 @@
       "sector": "TH",
       "title": "Camarero/a (ref.2775)nueva difusion",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002775&ret=B"
-    },
-    {
-      "date": "27/07/2026",
-      "id": "032026002814",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MR",
-      "title": "Electricista mantenimiento industrial (ref.:2814)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002814&ret=B"
     },
     {
       "date": "13/08/2026",
@@ -1525,15 +1516,6 @@
     },
     {
       "date": "16/07/2026",
-      "id": "032026005425",
-      "municipio": "Valdes",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermero/a (ref.5425)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005425&ret=B"
-    },
-    {
-      "date": "16/07/2026",
       "id": "032026005434",
       "municipio": "Pravia",
       "provincia": "Asturias",
@@ -1567,15 +1549,6 @@
       "sector": "TH",
       "title": "Recepcionista para central de reservas (ref.5442)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005442&ret=B"
-    },
-    {
-      "date": "16/07/2026",
-      "id": "032026005444",
-      "municipio": "Tineo",
-      "provincia": "Asturias",
-      "sector": "MR",
-      "title": "Mecánico/a de maquinaria industrial (ref: 5444)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005444&ret=B"
     },
     {
       "date": "11/08/2026",
@@ -2071,15 +2044,6 @@
       "sector": "IA",
       "title": "Operario/a de produccion industria alimentaria (ref.: 5679)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005679&ret=B"
-    },
-    {
-      "date": "27/07/2026",
-      "id": "032026005680",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Operario/a control calidad sector metal (laboratorio) ref.: 5680",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005680&ret=B"
     },
     {
       "date": "28/07/2026",
@@ -3804,7 +3768,7 @@
     },
     "IA": {
       "count": 9,
-      "last_crawled": "2026-08-15T03:33:14Z"
+      "last_crawled": "2026-08-16T03:42:20Z"
     },
     "IG": {
       "count": 0,
@@ -3815,8 +3779,8 @@
       "last_crawled": "2026-08-15T02:52:07Z"
     },
     "IP": {
-      "count": 21,
-      "last_crawled": "2026-08-15T03:33:14Z"
+      "count": 20,
+      "last_crawled": "2026-08-16T03:42:20Z"
     },
     "IQ": {
       "count": 1,
@@ -3832,15 +3796,15 @@
     },
     "MN": {
       "count": 2,
-      "last_crawled": "2026-08-15T03:33:14Z"
+      "last_crawled": "2026-08-16T03:42:20Z"
     },
     "MO": {
       "count": 15,
       "last_crawled": "2026-08-15T04:31:54Z"
     },
     "MR": {
-      "count": 21,
-      "last_crawled": "2026-08-15T03:33:14Z"
+      "count": 19,
+      "last_crawled": "2026-08-16T03:42:20Z"
     },
     "MT": {
       "count": 2,
@@ -3859,12 +3823,12 @@
       "last_crawled": "2026-08-15T04:31:54Z"
     },
     "SA": {
-      "count": 84,
-      "last_crawled": "2026-08-15T03:33:14Z"
+      "count": 83,
+      "last_crawled": "2026-08-16T03:42:20Z"
     },
     "SF": {
       "count": 0,
-      "last_crawled": "2026-08-15T03:33:14Z"
+      "last_crawled": "2026-08-16T03:42:20Z"
     },
     "SP": {
       "count": 0,
@@ -3872,12 +3836,12 @@
     },
     "TC": {
       "count": 47,
-      "last_crawled": "2026-08-15T03:33:14Z"
+      "last_crawled": "2026-08-16T03:42:20Z"
     },
     "TH": {
       "count": 112,
       "last_crawled": "2026-08-15T02:52:07Z"
     }
   },
-  "updated": "2026-08-16T02:19:45Z"
+  "updated": "2026-08-16T03:42:20Z"
 }
