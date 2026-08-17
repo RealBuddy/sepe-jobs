@@ -1,5 +1,5 @@
 {
-  "count": 584,
+  "count": 579,
   "failed_sectors": [],
   "offers": [
     {
@@ -921,15 +921,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004537&ret=B"
     },
     {
-      "date": "18/06/2026",
-      "id": "032026004575",
-      "municipio": "Soto del barco",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "1 gerocultor/a (ref: 4575)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004575&ret=B"
-    },
-    {
       "date": "19/06/2026",
       "id": "032026004587",
       "municipio": "Llanera",
@@ -1767,15 +1758,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005290&ret=B"
     },
     {
-      "date": "24/07/2026",
-      "id": "032026005293",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Gerocultor/a (ref.5293)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005293&ret=B"
-    },
-    {
       "date": "14/08/2026",
       "id": "032026005296",
       "municipio": "Aviles",
@@ -2037,24 +2019,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005434&ret=B"
     },
     {
-      "date": "16/07/2026",
-      "id": "032026005435",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Repartidores/as de paqueteria (ref.: 5435)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005435&ret=B"
-    },
-    {
-      "date": "16/07/2026",
-      "id": "032026005437",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "2 puestos de gerocultor/a (ref: 5437)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005437&ret=B"
-    },
-    {
       "date": "07/08/2026",
       "id": "032026005442",
       "municipio": "Cangas de onis",
@@ -2089,15 +2053,6 @@
       "sector": "TH",
       "title": "Ayudante de cocina (ref.: 5457)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005457&ret=B"
-    },
-    {
-      "date": "17/07/2026",
-      "id": "032026005464",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "3 gerocultores (ref. 5464).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005464&ret=B"
     },
     {
       "date": "17/07/2026",
@@ -5298,7 +5253,7 @@
     },
     "IA": {
       "count": 9,
-      "last_crawled": "2026-08-16T03:42:20Z"
+      "last_crawled": "2026-08-17T03:43:46Z"
     },
     "IG": {
       "count": 0,
@@ -5310,7 +5265,7 @@
     },
     "IP": {
       "count": 20,
-      "last_crawled": "2026-08-16T03:42:20Z"
+      "last_crawled": "2026-08-17T03:43:46Z"
     },
     "IQ": {
       "count": 1,
@@ -5326,7 +5281,7 @@
     },
     "MN": {
       "count": 2,
-      "last_crawled": "2026-08-16T03:42:20Z"
+      "last_crawled": "2026-08-17T03:43:46Z"
     },
     "MO": {
       "count": 15,
@@ -5334,7 +5289,7 @@
     },
     "MR": {
       "count": 19,
-      "last_crawled": "2026-08-16T03:42:20Z"
+      "last_crawled": "2026-08-17T03:43:46Z"
     },
     "MT": {
       "count": 2,
@@ -5353,25 +5308,25 @@
       "last_crawled": "2026-08-16T04:36:12Z"
     },
     "SA": {
-      "count": 83,
-      "last_crawled": "2026-08-16T03:42:20Z"
+      "count": 79,
+      "last_crawled": "2026-08-17T03:43:46Z"
     },
     "SF": {
       "count": 0,
-      "last_crawled": "2026-08-16T03:42:20Z"
+      "last_crawled": "2026-08-17T03:43:46Z"
     },
     "SP": {
       "count": 107,
       "last_crawled": "2026-08-17T02:18:32Z"
     },
     "TC": {
-      "count": 47,
-      "last_crawled": "2026-08-16T03:42:20Z"
+      "count": 46,
+      "last_crawled": "2026-08-17T03:43:46Z"
     },
     "TH": {
       "count": 101,
       "last_crawled": "2026-08-17T02:59:50Z"
     }
   },
-  "updated": "2026-08-17T02:59:50Z"
+  "updated": "2026-08-17T03:43:46Z"
 }
