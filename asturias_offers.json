@@ -1,5 +1,5 @@
 {
-  "count": 583,
+  "count": 584,
   "failed_sectors": [],
   "offers": [
     {
@@ -91,15 +91,6 @@
       "sector": "SP",
       "title": "Nueva difusión: terapeuta ocupacional (ref.1940)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026001940&ret=B"
-    },
-    {
-      "date": "29/07/2026",
-      "id": "032026002383",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "3 instaladores/as eléctricos/as (ref.:2383)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002383&ret=B"
     },
     {
       "date": "04/08/2026",
@@ -253,6 +244,15 @@
       "sector": "SP",
       "title": "7 puestos de auxiliar de ayuda a domicilio (ref.: 3054)nueva difusión",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003054&ret=B"
+    },
+    {
+      "date": "17/08/2026",
+      "id": "032026003087",
+      "municipio": "Salas",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a para planta de reciclaje (ref. 3087).nueva difusión",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003087&ret=B"
     },
     {
       "date": "11/08/2026",
@@ -1704,15 +1704,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005313&ret=B"
     },
     {
-      "date": "12/08/2026",
-      "id": "032026005314",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Operario/a de almacén (ref. 5314)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005314&ret=B"
-    },
-    {
       "date": "14/08/2026",
       "id": "032026005325",
       "municipio": "Aviles",
@@ -2242,6 +2233,15 @@
       "sector": "CC",
       "title": "Mozo/a de almacén (ref.5570)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005570&ret=B"
+    },
+    {
+      "date": "17/08/2026",
+      "id": "032026005572",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Asesor/a laboral (ref.: 5572)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005572&ret=B"
     },
     {
       "date": "31/07/2026",
@@ -5179,6 +5179,15 @@
     },
     {
       "date": "17/08/2026",
+      "id": "032026006115",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Tco./a de prevención de riesgos laborales (ref: 6115)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006115&ret=B"
+    },
+    {
+      "date": "17/08/2026",
       "id": "032026006116",
       "municipio": "Piloña",
       "provincia": "Asturias",
@@ -5261,7 +5270,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-17T04:42:16Z"
+      "last_crawled": "2026-08-18T04:35:37Z"
     },
     "AU": {
       "count": 9,
@@ -5276,8 +5285,8 @@
       "last_crawled": "2026-08-18T02:14:26Z"
     },
     "EM": {
-      "count": 10,
-      "last_crawled": "2026-08-17T04:42:16Z"
+      "count": 12,
+      "last_crawled": "2026-08-18T04:35:37Z"
     },
     "EO": {
       "count": 58,
@@ -5305,11 +5314,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-08-17T04:42:16Z"
+      "last_crawled": "2026-08-18T04:35:37Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-17T04:42:16Z"
+      "last_crawled": "2026-08-18T04:35:37Z"
     },
     "MD": {
       "count": 3,
@@ -5320,8 +5329,8 @@
       "last_crawled": "2026-08-18T03:38:42Z"
     },
     "MO": {
-      "count": 15,
-      "last_crawled": "2026-08-17T04:42:16Z"
+      "count": 14,
+      "last_crawled": "2026-08-18T04:35:37Z"
     },
     "MR": {
       "count": 20,
@@ -5329,7 +5338,7 @@
     },
     "MT": {
       "count": 2,
-      "last_crawled": "2026-08-17T04:42:16Z"
+      "last_crawled": "2026-08-18T04:35:37Z"
     },
     "PA": {
       "count": 0,
@@ -5341,7 +5350,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-17T04:42:16Z"
+      "last_crawled": "2026-08-18T04:35:37Z"
     },
     "SA": {
       "count": 77,
@@ -5364,5 +5373,5 @@
       "last_crawled": "2026-08-18T02:55:35Z"
     }
   },
-  "updated": "2026-08-18T03:38:42Z"
+  "updated": "2026-08-18T04:35:37Z"
 }
