@@ -1,5 +1,5 @@
 {
-  "count": 580,
+  "count": 585,
   "failed_sectors": [],
   "offers": [
     {
@@ -768,15 +768,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004216&ret=B"
     },
     {
-      "date": "04/08/2026",
-      "id": "032026004217",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "2 puestos de camarero/a (ref. 4217)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004217&ret=B"
-    },
-    {
       "date": "12/08/2026",
       "id": "032026004248",
       "municipio": "Gijón",
@@ -922,15 +913,6 @@
     },
     {
       "date": "19/06/2026",
-      "id": "032026004587",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de cocina (ref. 4587)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004587&ret=B"
-    },
-    {
-      "date": "19/06/2026",
       "id": "032026004612",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -964,6 +946,15 @@
       "sector": "SA",
       "title": "Fisioterapeuta (ref.:4639)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004639&ret=B"
+    },
+    {
+      "date": "17/08/2026",
+      "id": "032026004655",
+      "municipio": "Navia",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "2 operarios/as de montaje de andamios y/o aislamientos (ref.:4655)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004655&ret=B"
     },
     {
       "date": "28/07/2026",
@@ -1135,15 +1126,6 @@
       "sector": "CC",
       "title": "2 puestos account manager comercial marketing empresas (ref.4849)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004849&ret=B"
-    },
-    {
-      "date": "26/06/2026",
-      "id": "032026004863",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Albañil oficial 1ª (ref. 4863)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004863&ret=B"
     },
     {
       "date": "23/07/2026",
@@ -1497,15 +1479,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005107&ret=B"
     },
     {
-      "date": "30/07/2026",
-      "id": "032026005108",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "3 albañiles/as of.3ª por parada industrial(ref.5108).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005108&ret=B"
-    },
-    {
       "date": "07/07/2026",
       "id": "032026005140",
       "municipio": "Valdes",
@@ -1693,15 +1666,6 @@
       "sector": "EO",
       "title": "Albañil (ref: 5270)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005270&ret=B"
-    },
-    {
-      "date": "14/08/2026",
-      "id": "032026005273",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Peón/a de la construcción (ref: 5273)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005273&ret=B"
     },
     {
       "date": "11/08/2026",
@@ -2125,6 +2089,15 @@
       "sector": "DO",
       "title": "Profesor/a de pedagogia terapeutica (ref. 5500).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005500&ret=B"
+    },
+    {
+      "date": "17/08/2026",
+      "id": "032026005501",
+      "municipio": "Llanes",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "Administrativo/a sap - cualidades comerciales (ref.5501)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005501&ret=B"
     },
     {
       "date": "17/07/2026",
@@ -2847,6 +2820,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005746&ret=B"
     },
     {
+      "date": "17/08/2026",
+      "id": "032026005747",
+      "municipio": "Ribadesella",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "Administrativo/a contable - ribadesella (ref. 29/07/2026)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005747&ret=B"
+    },
+    {
       "date": "29/07/2026",
       "id": "032026005750",
       "municipio": "Oviedo",
@@ -3054,6 +3036,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005801&ret=B"
     },
     {
+      "date": "17/08/2026",
+      "id": "032026005802",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "5 puestos personal de obra publica (ref.5802)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005802&ret=B"
+    },
+    {
       "date": "03/08/2026",
       "id": "032026005803",
       "municipio": "Gijón",
@@ -3097,15 +3088,6 @@
       "sector": "TH",
       "title": "Ayudante/a de cocina (ref.: 5810)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005810&ret=B"
-    },
-    {
-      "date": "03/08/2026",
-      "id": "032026005811",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocinero/a (ref.: 5811)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005811&ret=B"
     },
     {
       "date": "11/08/2026",
@@ -3171,15 +3153,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005824&ret=B"
     },
     {
-      "date": "04/08/2026",
-      "id": "032026005828",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudantes de camarero/a (ref: 5828 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005828&ret=B"
-    },
-    {
       "date": "17/08/2026",
       "id": "032026005829",
       "municipio": "Gijón",
@@ -3232,15 +3205,6 @@
       "sector": "SP",
       "title": "Auxiliar de limpieza (ref.5839)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005839&ret=B"
-    },
-    {
-      "date": "06/08/2026",
-      "id": "032026005840",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de camarero/a (ref: 5840)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005840&ret=B"
     },
     {
       "date": "04/08/2026",
@@ -3664,15 +3628,6 @@
       "sector": "MR",
       "title": "Oficial electricista (ref. 5914).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005914&ret=B"
-    },
-    {
-      "date": "06/08/2026",
-      "id": "032026005915",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Encargado/a electricista (ref. 5915).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005915&ret=B"
     },
     {
       "date": "07/08/2026",
@@ -4918,15 +4873,6 @@
     },
     {
       "date": "13/08/2026",
-      "id": "032026006072",
-      "municipio": "Castrillon",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camarero/a de pisos (ref: 6072)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006072&ret=B"
-    },
-    {
-      "date": "13/08/2026",
       "id": "032026006073",
       "municipio": "Aller",
       "provincia": "Asturias",
@@ -5170,6 +5116,42 @@
     },
     {
       "date": "17/08/2026",
+      "id": "032026006100",
+      "municipio": "Piloña",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Ayudante de cocina (ref.6100)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006100&ret=B"
+    },
+    {
+      "date": "17/08/2026",
+      "id": "032026006102",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "Encargado/a de obra (ref.: 6102)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006102&ret=B"
+    },
+    {
+      "date": "17/08/2026",
+      "id": "032026006104",
+      "municipio": "Soto del barco",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "2 operarios/as de limpieza viaria (ref. 6104)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006104&ret=B"
+    },
+    {
+      "date": "17/08/2026",
+      "id": "032026006105",
+      "municipio": "Llanes",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Camarero/a de pisos - llanes (ref. 6105)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006105&ret=B"
+    },
+    {
+      "date": "17/08/2026",
       "id": "032026006106",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5185,6 +5167,15 @@
       "sector": "CC",
       "title": "Vendedor/a tienda de electrodomésticos (ref. 6107)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006107&ret=B"
+    },
+    {
+      "date": "17/08/2026",
+      "id": "032026006109",
+      "municipio": "Llanes",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Camarero/a de cafetería y restaurante - llanes (ref. 6109)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006109&ret=B"
     },
     {
       "date": "17/08/2026",
@@ -5206,6 +5197,33 @@
     },
     {
       "date": "17/08/2026",
+      "id": "032026006113",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "Operario/a etap (ref: 6113)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006113&ret=B"
+    },
+    {
+      "date": "17/08/2026",
+      "id": "032026006114",
+      "municipio": "Quiros",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "1 recepcionista / restaurante para barzana. quiros (ref.: 6114)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006114&ret=B"
+    },
+    {
+      "date": "18/08/2026",
+      "id": "032026006117",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Cocinero/a especializado/a en cocina siria y palestina. (ref.: 6117)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006117&ret=B"
+    },
+    {
+      "date": "17/08/2026",
       "id": "032026006119",
       "municipio": "Cangas del narcea",
       "provincia": "Asturias",
@@ -5215,12 +5233,39 @@
     },
     {
       "date": "17/08/2026",
+      "id": "032026006120",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Camarero/a (ref.: 6120)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006120&ret=B"
+    },
+    {
+      "date": "17/08/2026",
       "id": "032026006121",
       "municipio": "Cangas del narcea",
       "provincia": "Asturias",
       "sector": "SP",
       "title": "1 limpiador/a (ref.6121)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006121&ret=B"
+    },
+    {
+      "date": "17/08/2026",
+      "id": "032026006123",
+      "municipio": "Noreña",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Ayudante de cocina (ref. 6123)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006123&ret=B"
+    },
+    {
+      "date": "17/08/2026",
+      "id": "032026006124",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Cocinero/a (ref: 6124)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006124&ret=B"
     }
   ],
   "sectors": {
@@ -5229,8 +5274,8 @@
       "last_crawled": "2026-08-18T02:14:26Z"
     },
     "AO": {
-      "count": 17,
-      "last_crawled": "2026-08-17T02:59:50Z"
+      "count": 19,
+      "last_crawled": "2026-08-18T02:55:35Z"
     },
     "AR": {
       "count": 0,
@@ -5238,7 +5283,7 @@
     },
     "AU": {
       "count": 9,
-      "last_crawled": "2026-08-17T02:59:50Z"
+      "last_crawled": "2026-08-18T02:55:35Z"
     },
     "CC": {
       "count": 54,
@@ -5253,12 +5298,12 @@
       "last_crawled": "2026-08-17T04:42:16Z"
     },
     "EO": {
-      "count": 57,
-      "last_crawled": "2026-08-17T02:59:50Z"
+      "count": 58,
+      "last_crawled": "2026-08-18T02:55:35Z"
     },
     "FE": {
       "count": 5,
-      "last_crawled": "2026-08-17T02:59:50Z"
+      "last_crawled": "2026-08-18T02:55:35Z"
     },
     "IA": {
       "count": 9,
@@ -5270,7 +5315,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-08-17T02:59:50Z"
+      "last_crawled": "2026-08-18T02:55:35Z"
     },
     "IP": {
       "count": 20,
@@ -5310,7 +5355,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-08-17T02:59:50Z"
+      "last_crawled": "2026-08-18T02:55:35Z"
     },
     "PT": {
       "count": 0,
@@ -5333,9 +5378,9 @@
       "last_crawled": "2026-08-17T03:43:46Z"
     },
     "TH": {
-      "count": 101,
-      "last_crawled": "2026-08-17T02:59:50Z"
+      "count": 103,
+      "last_crawled": "2026-08-18T02:55:35Z"
     }
   },
-  "updated": "2026-08-18T02:14:26Z"
+  "updated": "2026-08-18T02:55:35Z"
 }
