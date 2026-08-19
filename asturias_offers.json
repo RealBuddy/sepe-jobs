@@ -1,5 +1,5 @@
 {
-  "count": 594,
+  "count": 597,
   "failed_sectors": [],
   "offers": [
     {
@@ -2118,7 +2118,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005567&ret=B"
     },
     {
-      "date": "05/08/2026",
+      "date": "18/08/2026",
       "id": "032026005568",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -5332,6 +5332,33 @@
     },
     {
       "date": "18/08/2026",
+      "id": "032026006150",
+      "municipio": "Mieres",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a de cadena de producción (ref. 6150)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006150&ret=B"
+    },
+    {
+      "date": "18/08/2026",
+      "id": "032026006151",
+      "municipio": "Ribadesella",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Peón/a industria cerámica (ref.: 6151)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006151&ret=B"
+    },
+    {
+      "date": "18/08/2026",
+      "id": "032026006152",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "3 puestos de tecnico/a en prevencion de riesgos laborales (ref.: 6152)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006152&ret=B"
+    },
+    {
+      "date": "18/08/2026",
       "id": "032026006153",
       "municipio": "Parres",
       "provincia": "Asturias",
@@ -5360,7 +5387,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-18T04:35:37Z"
+      "last_crawled": "2026-08-19T04:37:04Z"
     },
     "AU": {
       "count": 11,
@@ -5375,8 +5402,8 @@
       "last_crawled": "2026-08-19T02:17:11Z"
     },
     "EM": {
-      "count": 12,
-      "last_crawled": "2026-08-18T04:35:37Z"
+      "count": 13,
+      "last_crawled": "2026-08-19T04:37:04Z"
     },
     "EO": {
       "count": 53,
@@ -5404,11 +5431,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-08-18T04:35:37Z"
+      "last_crawled": "2026-08-19T04:37:04Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-18T04:35:37Z"
+      "last_crawled": "2026-08-19T04:37:04Z"
     },
     "MD": {
       "count": 3,
@@ -5420,15 +5447,15 @@
     },
     "MO": {
       "count": 14,
-      "last_crawled": "2026-08-18T04:35:37Z"
+      "last_crawled": "2026-08-19T04:37:04Z"
     },
     "MR": {
       "count": 22,
       "last_crawled": "2026-08-19T03:40:36Z"
     },
     "MT": {
-      "count": 2,
-      "last_crawled": "2026-08-18T04:35:37Z"
+      "count": 4,
+      "last_crawled": "2026-08-19T04:37:04Z"
     },
     "PA": {
       "count": 0,
@@ -5440,7 +5467,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-18T04:35:37Z"
+      "last_crawled": "2026-08-19T04:37:04Z"
     },
     "SA": {
       "count": 79,
@@ -5463,5 +5490,5 @@
       "last_crawled": "2026-08-19T02:57:18Z"
     }
   },
-  "updated": "2026-08-19T03:40:36Z"
+  "updated": "2026-08-19T04:37:04Z"
 }
