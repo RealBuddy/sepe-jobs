@@ -93,6 +93,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026001991&ret=B"
     },
     {
+      "date": "19/08/2026",
+      "id": "032026002383",
+      "municipio": "Navia",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "3 instaladores/as eléctricos/as (ref.:2383)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002383&ret=B"
+    },
+    {
       "date": "04/08/2026",
       "id": "032026002511",
       "municipio": "Mieres",
@@ -4648,15 +4657,6 @@
     },
     {
       "date": "14/08/2026",
-      "id": "032026006094",
-      "municipio": "Villaviciosa",
-      "provincia": "Asturias",
-      "sector": "IQ",
-      "title": "Analista de laboratorio (ref. 6094)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006094&ret=B"
-    },
-    {
-      "date": "14/08/2026",
       "id": "032026006095",
       "municipio": "Mieres",
       "provincia": "Asturias",
@@ -5423,7 +5423,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-19T04:37:04Z"
+      "last_crawled": "2026-08-20T04:37:14Z"
     },
     "AU": {
       "count": 12,
@@ -5439,7 +5439,7 @@
     },
     "EM": {
       "count": 13,
-      "last_crawled": "2026-08-19T04:37:04Z"
+      "last_crawled": "2026-08-20T04:37:14Z"
     },
     "EO": {
       "count": 57,
@@ -5466,12 +5466,12 @@
       "last_crawled": "2026-08-20T03:40:25Z"
     },
     "IQ": {
-      "count": 1,
-      "last_crawled": "2026-08-19T04:37:04Z"
+      "count": 0,
+      "last_crawled": "2026-08-20T04:37:14Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-19T04:37:04Z"
+      "last_crawled": "2026-08-20T04:37:14Z"
     },
     "MD": {
       "count": 3,
@@ -5482,8 +5482,8 @@
       "last_crawled": "2026-08-20T03:40:25Z"
     },
     "MO": {
-      "count": 14,
-      "last_crawled": "2026-08-19T04:37:04Z"
+      "count": 15,
+      "last_crawled": "2026-08-20T04:37:14Z"
     },
     "MR": {
       "count": 23,
@@ -5491,7 +5491,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-08-19T04:37:04Z"
+      "last_crawled": "2026-08-20T04:37:14Z"
     },
     "PA": {
       "count": 0,
@@ -5503,7 +5503,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-19T04:37:04Z"
+      "last_crawled": "2026-08-20T04:37:14Z"
     },
     "SA": {
       "count": 79,
@@ -5526,5 +5526,5 @@
       "last_crawled": "2026-08-20T02:56:22Z"
     }
   },
-  "updated": "2026-08-20T03:40:25Z"
+  "updated": "2026-08-20T04:37:14Z"
 }
