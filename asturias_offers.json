@@ -1948,15 +1948,6 @@
     },
     {
       "date": "21/07/2026",
-      "id": "032026005538",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Intalador/a de conductos de ventilación ref.:(5538)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005538&ret=B"
-    },
-    {
-      "date": "21/07/2026",
       "id": "032026005547",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -5323,6 +5314,15 @@
     },
     {
       "date": "20/08/2026",
+      "id": "032026006186",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "2 puestos especialista en marketing integral (ref.6186)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006186&ret=B"
+    },
+    {
+      "date": "20/08/2026",
       "id": "032026006187",
       "municipio": "Villaviciosa",
       "provincia": "Asturias",
@@ -5441,7 +5441,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-20T04:37:14Z"
+      "last_crawled": "2026-08-21T04:38:33Z"
     },
     "AU": {
       "count": 9,
@@ -5456,8 +5456,8 @@
       "last_crawled": "2026-08-20T02:15:49Z"
     },
     "EM": {
-      "count": 13,
-      "last_crawled": "2026-08-20T04:37:14Z"
+      "count": 14,
+      "last_crawled": "2026-08-21T04:38:33Z"
     },
     "EO": {
       "count": 60,
@@ -5485,11 +5485,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-20T04:37:14Z"
+      "last_crawled": "2026-08-21T04:38:33Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-20T04:37:14Z"
+      "last_crawled": "2026-08-21T04:38:33Z"
     },
     "MD": {
       "count": 3,
@@ -5500,8 +5500,8 @@
       "last_crawled": "2026-08-21T03:44:46Z"
     },
     "MO": {
-      "count": 15,
-      "last_crawled": "2026-08-20T04:37:14Z"
+      "count": 14,
+      "last_crawled": "2026-08-21T04:38:33Z"
     },
     "MR": {
       "count": 24,
@@ -5509,7 +5509,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-08-20T04:37:14Z"
+      "last_crawled": "2026-08-21T04:38:33Z"
     },
     "PA": {
       "count": 0,
@@ -5521,7 +5521,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-20T04:37:14Z"
+      "last_crawled": "2026-08-21T04:38:33Z"
     },
     "SA": {
       "count": 81,
@@ -5544,5 +5544,5 @@
       "last_crawled": "2026-08-21T03:02:56Z"
     }
   },
-  "updated": "2026-08-21T03:44:46Z"
+  "updated": "2026-08-21T04:38:33Z"
 }
