@@ -1,5 +1,5 @@
 {
-  "count": 605,
+  "count": 608,
   "failed_sectors": [],
   "offers": [
     {
@@ -3549,7 +3549,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005973&ret=B"
     },
     {
-      "date": "10/08/2026",
+      "date": "21/08/2026",
       "id": "032026005975",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4845,7 +4845,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006149&ret=B"
     },
     {
-      "date": "18/08/2026",
+      "date": "21/08/2026",
       "id": "032026006150",
       "municipio": "Mieres",
       "provincia": "Asturias",
@@ -5332,6 +5332,15 @@
     },
     {
       "date": "21/08/2026",
+      "id": "032026006207",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Diseñador/a gráfico/a (ref.: 6207)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006207&ret=B"
+    },
+    {
+      "date": "21/08/2026",
       "id": "032026006208",
       "municipio": "Tineo",
       "provincia": "Asturias",
@@ -5383,6 +5392,15 @@
       "sector": "TC",
       "title": "20 puestos de conductor/a de camión (ref.: 6213)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006213&ret=B"
+    },
+    {
+      "date": "21/08/2026",
+      "id": "032026006214",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a de sistemas (ref.6214)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006214&ret=B"
     },
     {
       "date": "21/08/2026",
@@ -5446,6 +5464,15 @@
       "sector": "SP",
       "title": "Empleada/o de hogar (ref.: 6221)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006221&ret=B"
+    },
+    {
+      "date": "21/08/2026",
+      "id": "032026006223",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "2 puestos de vigilante de seguridad (ref. 6223)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006223&ret=B"
     }
   ],
   "sectors": {
@@ -5459,7 +5486,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-21T04:38:33Z"
+      "last_crawled": "2026-08-22T04:33:16Z"
     },
     "AU": {
       "count": 10,
@@ -5474,8 +5501,8 @@
       "last_crawled": "2026-08-22T02:14:44Z"
     },
     "EM": {
-      "count": 14,
-      "last_crawled": "2026-08-21T04:38:33Z"
+      "count": 17,
+      "last_crawled": "2026-08-22T04:33:16Z"
     },
     "EO": {
       "count": 59,
@@ -5503,11 +5530,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-21T04:38:33Z"
+      "last_crawled": "2026-08-22T04:33:16Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-21T04:38:33Z"
+      "last_crawled": "2026-08-22T04:33:16Z"
     },
     "MD": {
       "count": 4,
@@ -5519,7 +5546,7 @@
     },
     "MO": {
       "count": 14,
-      "last_crawled": "2026-08-21T04:38:33Z"
+      "last_crawled": "2026-08-22T04:33:16Z"
     },
     "MR": {
       "count": 24,
@@ -5527,7 +5554,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-08-21T04:38:33Z"
+      "last_crawled": "2026-08-22T04:33:16Z"
     },
     "PA": {
       "count": 0,
@@ -5539,7 +5566,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-21T04:38:33Z"
+      "last_crawled": "2026-08-22T04:33:16Z"
     },
     "SA": {
       "count": 79,
@@ -5562,5 +5589,5 @@
       "last_crawled": "2026-08-22T02:53:45Z"
     }
   },
-  "updated": "2026-08-22T03:36:31Z"
+  "updated": "2026-08-22T04:33:16Z"
 }
