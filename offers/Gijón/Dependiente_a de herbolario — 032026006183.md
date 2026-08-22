@@ -1,0 +1,12 @@
+# Dependiente/a de herbolario
+
+- **Профессия (ES):** Dependiente/a de herbolario
+- **Оригинальное название:** Dependiente/a de herbolario (ref. 6183)
+- **Город:** Gijón (Asturias)
+- **Дата публикации:** 20/08/2026
+- **ID оферты:** 032026006183
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006183&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
