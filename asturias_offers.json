@@ -1,5 +1,5 @@
 {
-  "count": 606,
+  "count": 605,
   "failed_sectors": [],
   "offers": [
     {
@@ -2026,15 +2026,6 @@
       "sector": "TH",
       "title": "Camarero/a de pisos (ref. 5594)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005594&ret=B"
-    },
-    {
-      "date": "22/07/2026",
-      "id": "032026005595",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocinero/a (ref.: 5595)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005595&ret=B"
     },
     {
       "date": "23/07/2026",
@@ -5464,7 +5455,7 @@
     },
     "AO": {
       "count": 16,
-      "last_crawled": "2026-08-22T02:53:45Z"
+      "last_crawled": "2026-08-23T03:02:37Z"
     },
     "AR": {
       "count": 0,
@@ -5472,7 +5463,7 @@
     },
     "AU": {
       "count": 10,
-      "last_crawled": "2026-08-22T02:53:45Z"
+      "last_crawled": "2026-08-23T03:02:37Z"
     },
     "CC": {
       "count": 63,
@@ -5488,11 +5479,11 @@
     },
     "EO": {
       "count": 59,
-      "last_crawled": "2026-08-22T02:53:45Z"
+      "last_crawled": "2026-08-23T03:02:37Z"
     },
     "FE": {
       "count": 7,
-      "last_crawled": "2026-08-22T02:53:45Z"
+      "last_crawled": "2026-08-23T03:02:37Z"
     },
     "IA": {
       "count": 10,
@@ -5504,7 +5495,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-08-22T02:53:45Z"
+      "last_crawled": "2026-08-23T03:02:37Z"
     },
     "IP": {
       "count": 21,
@@ -5544,7 +5535,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-08-22T02:53:45Z"
+      "last_crawled": "2026-08-23T03:02:37Z"
     },
     "PT": {
       "count": 0,
@@ -5567,9 +5558,9 @@
       "last_crawled": "2026-08-22T03:36:31Z"
     },
     "TH": {
-      "count": 98,
-      "last_crawled": "2026-08-22T02:53:45Z"
+      "count": 97,
+      "last_crawled": "2026-08-23T03:02:37Z"
     }
   },
-  "updated": "2026-08-23T02:23:01Z"
+  "updated": "2026-08-23T03:02:37Z"
 }
