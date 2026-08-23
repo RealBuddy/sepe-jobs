@@ -1,5 +1,5 @@
 {
-  "count": 608,
+  "count": 606,
   "failed_sectors": [],
   "offers": [
     {
@@ -2062,15 +2062,6 @@
       "sector": "TH",
       "title": "Cocinero/a (ref. 5604)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005604&ret=B"
-    },
-    {
-      "date": "06/08/2026",
-      "id": "032026005607",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "12 puestos limpiador/a de instalaciones deportivas (ref.5607)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005607&ret=B"
     },
     {
       "date": "23/07/2026",
@@ -4306,15 +4297,6 @@
     },
     {
       "date": "14/08/2026",
-      "id": "032026006085",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Auxiliar pmr (ref: 6085)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006085&ret=B"
-    },
-    {
-      "date": "14/08/2026",
       "id": "032026006086",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -5478,7 +5460,7 @@
   "sectors": {
     "AA": {
       "count": 8,
-      "last_crawled": "2026-08-22T02:14:44Z"
+      "last_crawled": "2026-08-23T02:23:01Z"
     },
     "AO": {
       "count": 16,
@@ -5494,11 +5476,11 @@
     },
     "CC": {
       "count": 63,
-      "last_crawled": "2026-08-22T02:14:44Z"
+      "last_crawled": "2026-08-23T02:23:01Z"
     },
     "DO": {
       "count": 9,
-      "last_crawled": "2026-08-22T02:14:44Z"
+      "last_crawled": "2026-08-23T02:23:01Z"
     },
     "EM": {
       "count": 17,
@@ -5518,7 +5500,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-08-22T02:14:44Z"
+      "last_crawled": "2026-08-23T02:23:01Z"
     },
     "IM": {
       "count": 0,
@@ -5538,7 +5520,7 @@
     },
     "MD": {
       "count": 4,
-      "last_crawled": "2026-08-22T02:14:44Z"
+      "last_crawled": "2026-08-23T02:23:01Z"
     },
     "MN": {
       "count": 1,
@@ -5558,7 +5540,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-08-22T02:14:44Z"
+      "last_crawled": "2026-08-23T02:23:01Z"
     },
     "PC": {
       "count": 0,
@@ -5577,8 +5559,8 @@
       "last_crawled": "2026-08-22T03:36:31Z"
     },
     "SP": {
-      "count": 115,
-      "last_crawled": "2026-08-22T02:14:44Z"
+      "count": 113,
+      "last_crawled": "2026-08-23T02:23:01Z"
     },
     "TC": {
       "count": 48,
@@ -5589,5 +5571,5 @@
       "last_crawled": "2026-08-22T02:53:45Z"
     }
   },
-  "updated": "2026-08-22T04:33:16Z"
+  "updated": "2026-08-23T02:23:01Z"
 }
