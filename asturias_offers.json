@@ -1,5 +1,5 @@
 {
-  "count": 604,
+  "count": 603,
   "failed_sectors": [],
   "offers": [
     {
@@ -1936,15 +1936,6 @@
       "sector": "SP",
       "title": "Limpiadores/as (ref.: 5559)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005559&ret=B"
-    },
-    {
-      "date": "22/07/2026",
-      "id": "032026005565",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "4 puestos de teleoperador/a comercial (ref.: 5565)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005565&ret=B"
     },
     {
       "date": "18/08/2026",
@@ -5450,7 +5441,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-22T04:33:16Z"
+      "last_crawled": "2026-08-23T04:37:09Z"
     },
     "AU": {
       "count": 10,
@@ -5465,8 +5456,8 @@
       "last_crawled": "2026-08-23T02:23:01Z"
     },
     "EM": {
-      "count": 17,
-      "last_crawled": "2026-08-22T04:33:16Z"
+      "count": 16,
+      "last_crawled": "2026-08-23T04:37:09Z"
     },
     "EO": {
       "count": 59,
@@ -5494,11 +5485,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-22T04:33:16Z"
+      "last_crawled": "2026-08-23T04:37:09Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-22T04:33:16Z"
+      "last_crawled": "2026-08-23T04:37:09Z"
     },
     "MD": {
       "count": 4,
@@ -5510,7 +5501,7 @@
     },
     "MO": {
       "count": 14,
-      "last_crawled": "2026-08-22T04:33:16Z"
+      "last_crawled": "2026-08-23T04:37:09Z"
     },
     "MR": {
       "count": 24,
@@ -5518,7 +5509,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-08-22T04:33:16Z"
+      "last_crawled": "2026-08-23T04:37:09Z"
     },
     "PA": {
       "count": 0,
@@ -5530,7 +5521,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-22T04:33:16Z"
+      "last_crawled": "2026-08-23T04:37:09Z"
     },
     "SA": {
       "count": 78,
@@ -5553,5 +5544,5 @@
       "last_crawled": "2026-08-23T03:02:37Z"
     }
   },
-  "updated": "2026-08-23T03:44:25Z"
+  "updated": "2026-08-23T04:37:09Z"
 }
