@@ -1,5 +1,5 @@
 {
-  "count": 605,
+  "count": 604,
   "failed_sectors": [],
   "offers": [
     {
@@ -37,15 +37,6 @@
       "sector": "IA",
       "title": "Oficial/a panadero - pastelero con discapacidad (ref: 251)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000251&ret=B"
-    },
-    {
-      "date": "23/07/2026",
-      "id": "032026001354",
-      "municipio": "Sariego",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "nueva difusión: fisioterapeuta (ref. 1354)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026001354&ret=B"
     },
     {
       "date": "21/07/2026",
@@ -5487,7 +5478,7 @@
     },
     "IA": {
       "count": 10,
-      "last_crawled": "2026-08-22T03:36:31Z"
+      "last_crawled": "2026-08-23T03:44:25Z"
     },
     "IG": {
       "count": 0,
@@ -5499,7 +5490,7 @@
     },
     "IP": {
       "count": 21,
-      "last_crawled": "2026-08-22T03:36:31Z"
+      "last_crawled": "2026-08-23T03:44:25Z"
     },
     "IQ": {
       "count": 0,
@@ -5515,7 +5506,7 @@
     },
     "MN": {
       "count": 1,
-      "last_crawled": "2026-08-22T03:36:31Z"
+      "last_crawled": "2026-08-23T03:44:25Z"
     },
     "MO": {
       "count": 14,
@@ -5523,7 +5514,7 @@
     },
     "MR": {
       "count": 24,
-      "last_crawled": "2026-08-22T03:36:31Z"
+      "last_crawled": "2026-08-23T03:44:25Z"
     },
     "MT": {
       "count": 4,
@@ -5542,12 +5533,12 @@
       "last_crawled": "2026-08-22T04:33:16Z"
     },
     "SA": {
-      "count": 79,
-      "last_crawled": "2026-08-22T03:36:31Z"
+      "count": 78,
+      "last_crawled": "2026-08-23T03:44:25Z"
     },
     "SF": {
       "count": 0,
-      "last_crawled": "2026-08-22T03:36:31Z"
+      "last_crawled": "2026-08-23T03:44:25Z"
     },
     "SP": {
       "count": 113,
@@ -5555,12 +5546,12 @@
     },
     "TC": {
       "count": 48,
-      "last_crawled": "2026-08-22T03:36:31Z"
+      "last_crawled": "2026-08-23T03:44:25Z"
     },
     "TH": {
       "count": 97,
       "last_crawled": "2026-08-23T03:02:37Z"
     }
   },
-  "updated": "2026-08-23T03:02:37Z"
+  "updated": "2026-08-23T03:44:25Z"
 }
