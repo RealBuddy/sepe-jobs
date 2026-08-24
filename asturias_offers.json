@@ -1,5 +1,5 @@
 {
-  "count": 603,
+  "count": 598,
   "failed_sectors": [],
   "offers": [
     {
@@ -262,15 +262,6 @@
       "sector": "EO",
       "title": "Albañil (ref.3377)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003377&ret=B"
-    },
-    {
-      "date": "04/08/2026",
-      "id": "032026003380",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a (ref.:3380)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003380&ret=B"
     },
     {
       "date": "10/08/2026",
@@ -910,15 +901,6 @@
       "sector": "EO",
       "title": "Jefe de equipo (ref.4806)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004806&ret=B"
-    },
-    {
-      "date": "25/06/2026",
-      "id": "032026004813",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Expendedor/a de gasolinera (ref.: 4813)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004813&ret=B"
     },
     {
       "date": "11/08/2026",
@@ -2092,15 +2074,6 @@
     },
     {
       "date": "24/07/2026",
-      "id": "032026005631",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Mozo/a de almacén (ref. 5631)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005631&ret=B"
-    },
-    {
-      "date": "24/07/2026",
       "id": "032026005635",
       "municipio": "Cudillero",
       "provincia": "Asturias",
@@ -2332,6 +2305,15 @@
       "sector": "SP",
       "title": "Personal de limpieza industrial (ref.5713)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005713&ret=B"
+    },
+    {
+      "date": "24/08/2026",
+      "id": "032026005714",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "CC",
+      "title": "Dependienta/e de tienda de segunda mano (ref.: 5714)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005714&ret=B"
     },
     {
       "date": "28/07/2026",
@@ -3108,15 +3090,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005904&ret=B"
     },
     {
-      "date": "06/08/2026",
-      "id": "032026005905",
-      "municipio": "Villaviciosa",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a doméstico/a (ref.: 5905)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005905&ret=B"
-    },
-    {
       "date": "19/08/2026",
       "id": "032026005906",
       "municipio": "Gijón",
@@ -3333,15 +3306,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005944&ret=B"
     },
     {
-      "date": "10/08/2026",
-      "id": "032026005945",
-      "municipio": "Salas",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Mozo/a de almacén/recambista (ref.: 5945)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005945&ret=B"
-    },
-    {
       "date": "07/08/2026",
       "id": "032026005947",
       "municipio": "Gijón",
@@ -3412,15 +3376,6 @@
       "sector": "MR",
       "title": "Técnico/a de equipos electromecánicos (ref: 5958)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005958&ret=B"
-    },
-    {
-      "date": "10/08/2026",
-      "id": "032026005959",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a (ref.:5959)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005959&ret=B"
     },
     {
       "date": "11/08/2026",
@@ -5433,7 +5388,7 @@
   "sectors": {
     "AA": {
       "count": 8,
-      "last_crawled": "2026-08-23T02:23:01Z"
+      "last_crawled": "2026-08-24T02:21:46Z"
     },
     "AO": {
       "count": 16,
@@ -5448,12 +5403,12 @@
       "last_crawled": "2026-08-23T03:02:37Z"
     },
     "CC": {
-      "count": 63,
-      "last_crawled": "2026-08-23T02:23:01Z"
+      "count": 61,
+      "last_crawled": "2026-08-24T02:21:46Z"
     },
     "DO": {
       "count": 9,
-      "last_crawled": "2026-08-23T02:23:01Z"
+      "last_crawled": "2026-08-24T02:21:46Z"
     },
     "EM": {
       "count": 16,
@@ -5473,7 +5428,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-08-23T02:23:01Z"
+      "last_crawled": "2026-08-24T02:21:46Z"
     },
     "IM": {
       "count": 0,
@@ -5493,7 +5448,7 @@
     },
     "MD": {
       "count": 4,
-      "last_crawled": "2026-08-23T02:23:01Z"
+      "last_crawled": "2026-08-24T02:21:46Z"
     },
     "MN": {
       "count": 1,
@@ -5513,7 +5468,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-08-23T02:23:01Z"
+      "last_crawled": "2026-08-24T02:21:46Z"
     },
     "PC": {
       "count": 0,
@@ -5532,8 +5487,8 @@
       "last_crawled": "2026-08-23T03:44:25Z"
     },
     "SP": {
-      "count": 113,
-      "last_crawled": "2026-08-23T02:23:01Z"
+      "count": 110,
+      "last_crawled": "2026-08-24T02:21:46Z"
     },
     "TC": {
       "count": 48,
@@ -5544,5 +5499,5 @@
       "last_crawled": "2026-08-23T03:02:37Z"
     }
   },
-  "updated": "2026-08-23T04:37:09Z"
+  "updated": "2026-08-24T02:21:46Z"
 }
