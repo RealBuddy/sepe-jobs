@@ -1,5 +1,5 @@
 {
-  "count": 593,
+  "count": 585,
   "failed_sectors": [],
   "offers": [
     {
@@ -2047,39 +2047,12 @@
     },
     {
       "date": "24/07/2026",
-      "id": "032026005638",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermero/a (ref.: 5638)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005638&ret=B"
-    },
-    {
-      "date": "24/07/2026",
       "id": "032026005639",
       "municipio": "Gijón",
       "provincia": "Asturias",
       "sector": "SA",
       "title": "1 puesto de fisioterapeuta",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005639&ret=B"
-    },
-    {
-      "date": "24/07/2026",
-      "id": "032026005640",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Operario/a de cadena de pintura (ref.: 5640)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005640&ret=B"
-    },
-    {
-      "date": "10/08/2026",
-      "id": "032026005643",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Oficial/a confitero/a (ref.: 5643)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005643&ret=B"
     },
     {
       "date": "24/07/2026",
@@ -2353,30 +2326,12 @@
     },
     {
       "date": "29/07/2026",
-      "id": "032026005742",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MR",
-      "title": "Técnico/a en mantenimiento industrial (ref: 5742)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005742&ret=B"
-    },
-    {
-      "date": "29/07/2026",
       "id": "032026005743",
       "municipio": "Oviedo",
       "provincia": "Asturias",
       "sector": "SA",
       "title": "Enfermero/a (ref.: 5743)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005743&ret=B"
-    },
-    {
-      "date": "10/08/2026",
-      "id": "032026005746",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermero/a (ref. 5746)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005746&ret=B"
     },
     {
       "date": "17/08/2026",
@@ -2548,15 +2503,6 @@
       "sector": "TH",
       "title": "Ayudante de cocina - llanes (ref. 5791)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005791&ret=B"
-    },
-    {
-      "date": "03/08/2026",
-      "id": "032026005795",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "1 oficial fresador/a cnc heidenhain ref.:(5795)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005795&ret=B"
     },
     {
       "date": "03/08/2026",
@@ -3379,15 +3325,6 @@
     },
     {
       "date": "10/08/2026",
-      "id": "032026005968",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "1 puesto conductor/a de camión (ref: 5968)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005968&ret=B"
-    },
-    {
-      "date": "10/08/2026",
       "id": "032026005969",
       "municipio": "Corvera de asturias",
       "provincia": "Asturias",
@@ -3412,15 +3349,6 @@
       "sector": "TH",
       "title": "Camarero/a de pisos (ref.: 5971)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005971&ret=B"
-    },
-    {
-      "date": "10/08/2026",
-      "id": "032026005973",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "2 puestos de auxiliar de enfermería (ref. 5973)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005973&ret=B"
     },
     {
       "date": "21/08/2026",
@@ -5378,8 +5306,8 @@
       "last_crawled": "2026-08-24T03:03:00Z"
     },
     "IA": {
-      "count": 10,
-      "last_crawled": "2026-08-23T03:44:25Z"
+      "count": 9,
+      "last_crawled": "2026-08-24T03:48:29Z"
     },
     "IG": {
       "count": 0,
@@ -5390,8 +5318,8 @@
       "last_crawled": "2026-08-24T03:03:00Z"
     },
     "IP": {
-      "count": 21,
-      "last_crawled": "2026-08-23T03:44:25Z"
+      "count": 19,
+      "last_crawled": "2026-08-24T03:48:29Z"
     },
     "IQ": {
       "count": 0,
@@ -5407,15 +5335,15 @@
     },
     "MN": {
       "count": 1,
-      "last_crawled": "2026-08-23T03:44:25Z"
+      "last_crawled": "2026-08-24T03:48:29Z"
     },
     "MO": {
       "count": 14,
       "last_crawled": "2026-08-23T04:37:09Z"
     },
     "MR": {
-      "count": 24,
-      "last_crawled": "2026-08-23T03:44:25Z"
+      "count": 23,
+      "last_crawled": "2026-08-24T03:48:29Z"
     },
     "MT": {
       "count": 4,
@@ -5434,25 +5362,25 @@
       "last_crawled": "2026-08-23T04:37:09Z"
     },
     "SA": {
-      "count": 78,
-      "last_crawled": "2026-08-23T03:44:25Z"
+      "count": 75,
+      "last_crawled": "2026-08-24T03:48:29Z"
     },
     "SF": {
       "count": 0,
-      "last_crawled": "2026-08-23T03:44:25Z"
+      "last_crawled": "2026-08-24T03:48:29Z"
     },
     "SP": {
       "count": 110,
       "last_crawled": "2026-08-24T02:21:46Z"
     },
     "TC": {
-      "count": 48,
-      "last_crawled": "2026-08-23T03:44:25Z"
+      "count": 47,
+      "last_crawled": "2026-08-24T03:48:29Z"
     },
     "TH": {
       "count": 94,
       "last_crawled": "2026-08-24T03:03:00Z"
     }
   },
-  "updated": "2026-08-24T03:03:00Z"
+  "updated": "2026-08-24T03:48:29Z"
 }
