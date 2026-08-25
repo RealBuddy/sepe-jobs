@@ -543,15 +543,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004094&ret=B"
     },
     {
-      "date": "30/07/2026",
-      "id": "032026004097",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Ingeniero/a de proyectos (ref: 4097)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004097&ret=B"
-    },
-    {
       "date": "11/08/2026",
       "id": "032026004108",
       "municipio": "Siero",
@@ -865,15 +856,6 @@
       "sector": "EO",
       "title": "nueva difusión tres montadores de carpas (ref. 4773)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004773&ret=B"
-    },
-    {
-      "date": "24/07/2026",
-      "id": "032026004779",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Instalador/a de ascensores (ref:4779)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004779&ret=B"
     },
     {
       "date": "20/08/2026",
@@ -2299,15 +2281,6 @@
     },
     {
       "date": "30/07/2026",
-      "id": "032026005769",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Ajustador/a (ref: 5769)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005769&ret=B"
-    },
-    {
-      "date": "30/07/2026",
       "id": "032026005771",
       "municipio": "Nava",
       "provincia": "Asturias",
@@ -2611,15 +2584,6 @@
       "sector": "TH",
       "title": "Cocinero/a (ref. 5843)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005843&ret=B"
-    },
-    {
-      "date": "04/08/2026",
-      "id": "032026005844",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Vigilantes de seguridad sin arma (ref.: 5844)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005844&ret=B"
     },
     {
       "date": "04/08/2026",
@@ -3163,15 +3127,6 @@
     },
     {
       "date": "10/08/2026",
-      "id": "032026005967",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Diseñador/a gráfico/a (ref.: 5967)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005967&ret=B"
-    },
-    {
-      "date": "10/08/2026",
       "id": "032026005969",
       "municipio": "Corvera de asturias",
       "provincia": "Asturias",
@@ -3367,15 +3322,6 @@
       "sector": "SP",
       "title": "2 puestos de limpiador/a office (ref. 5999)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005999&ret=B"
-    },
-    {
-      "date": "11/08/2026",
-      "id": "032026006001",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Electricista (ref.:6001)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006001&ret=B"
     },
     {
       "date": "11/08/2026",
@@ -5062,12 +5008,30 @@
     },
     {
       "date": "24/08/2026",
+      "id": "032026006225",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Técnico/a eléctrico/a (ref.: 6225)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006225&ret=B"
+    },
+    {
+      "date": "24/08/2026",
       "id": "032026006226",
       "municipio": "Gijón",
       "provincia": "Asturias",
       "sector": "SP",
       "title": "1 puesto de educador/a (ref: 6226)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006226&ret=B"
+    },
+    {
+      "date": "24/08/2026",
+      "id": "032026006227",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Gestor/a de comunidades de propietarios (ref.: 6227)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006227&ret=B"
     },
     {
       "date": "24/08/2026",
@@ -5122,6 +5086,24 @@
       "sector": "SP",
       "title": "Limpiador/a industrial (ref. 6233)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006233&ret=B"
+    },
+    {
+      "date": "24/08/2026",
+      "id": "032026006234",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Instalador/a de portones y puertas automáticas (ref. 6234)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006234&ret=B"
+    },
+    {
+      "date": "24/08/2026",
+      "id": "032026006235",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "1 puesto de instalador/a de tuberías de saneamiento y abastecimiento (ref: 6235)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006235&ret=B"
     },
     {
       "date": "24/08/2026",
@@ -5188,6 +5170,15 @@
     },
     {
       "date": "24/08/2026",
+      "id": "032026006243",
+      "municipio": "Cangas de onis",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "2 puestos de peon de produccion (6243)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006243&ret=B"
+    },
+    {
+      "date": "24/08/2026",
       "id": "032026006244",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5203,6 +5194,15 @@
       "sector": "DO",
       "title": "Porofesor/a de ballet (ref: 6245)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006245&ret=B"
+    },
+    {
+      "date": "24/08/2026",
+      "id": "032026006246",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Full-stack / mobile developer para healthtech e ia - programa investigo (ref.: 6246)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006246&ret=B"
     },
     {
       "date": "24/08/2026",
@@ -5261,7 +5261,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-08-24T04:44:42Z"
+      "last_crawled": "2026-08-25T04:39:15Z"
     },
     "AU": {
       "count": 9,
@@ -5276,8 +5276,8 @@
       "last_crawled": "2026-08-25T02:16:53Z"
     },
     "EM": {
-      "count": 15,
-      "last_crawled": "2026-08-24T04:44:42Z"
+      "count": 14,
+      "last_crawled": "2026-08-25T04:39:15Z"
     },
     "EO": {
       "count": 59,
@@ -5305,11 +5305,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-24T04:44:42Z"
+      "last_crawled": "2026-08-25T04:39:15Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-24T04:44:42Z"
+      "last_crawled": "2026-08-25T04:39:15Z"
     },
     "MD": {
       "count": 4,
@@ -5321,15 +5321,15 @@
     },
     "MO": {
       "count": 14,
-      "last_crawled": "2026-08-24T04:44:42Z"
+      "last_crawled": "2026-08-25T04:39:15Z"
     },
     "MR": {
       "count": 25,
       "last_crawled": "2026-08-25T03:42:23Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-08-24T04:44:42Z"
+      "count": 5,
+      "last_crawled": "2026-08-25T04:39:15Z"
     },
     "PA": {
       "count": 0,
@@ -5341,7 +5341,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-24T04:44:42Z"
+      "last_crawled": "2026-08-25T04:39:15Z"
     },
     "SA": {
       "count": 78,
@@ -5364,5 +5364,5 @@
       "last_crawled": "2026-08-25T02:58:41Z"
     }
   },
-  "updated": "2026-08-25T03:42:23Z"
+  "updated": "2026-08-25T04:39:15Z"
 }

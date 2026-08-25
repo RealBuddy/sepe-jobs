@@ -1,0 +1,12 @@
+# peon de produccion
+
+- **Профессия (ES):** peon de produccion
+- **Оригинальное название:** 2 puestos de peon de produccion (6243)
+- **Город:** Cangas de onis (Asturias)
+- **Дата публикации:** 24/08/2026
+- **ID оферты:** 032026006243
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006243&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
