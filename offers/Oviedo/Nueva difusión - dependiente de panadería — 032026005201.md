@@ -1,9 +1,9 @@
-# Новый разворот - помощник пекаря
+# Nueva difusión - dependiente de panadería
 
-- **Профессия (ES):** Nueva difusión - ayudante de panadería
-- **Оригинальное название:** Nueva difusión - ayudante de panadería (ref. 5201)
+- **Профессия (ES):** Nueva difusión - dependiente de panadería
+- **Оригинальное название:** Nueva difusión - dependiente de panadería (ref. 5201)
 - **Город:** Oviedo (Asturias)
-- **Дата публикации:** 04/08/2026
+- **Дата публикации:** 24/08/2026
 - **ID оферты:** 032026005201
 
 ## 👉 Откликнуться на вакансию
