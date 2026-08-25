@@ -1,0 +1,12 @@
+# puestos auxiliar técnico en topografía
+
+- **Профессия (ES):** puestos auxiliar técnico en topografía
+- **Оригинальное название:** 5 puestos auxiliar técnico en topografía (ref. 6251)
+- **Город:** Gijón (Asturias)
+- **Дата публикации:** 24/08/2026
+- **ID оферты:** 032026006251
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006251&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
