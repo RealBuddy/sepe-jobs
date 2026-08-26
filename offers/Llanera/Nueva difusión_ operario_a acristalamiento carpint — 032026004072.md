@@ -1,9 +1,9 @@
-# Оператор по металлическому столярному остеклению
+# Nueva difusión: operario/a acristalamiento carpintería metálica
 
-- **Профессия (ES):** Operario/a acristalamiento carpintería metálica
-- **Оригинальное название:** Operario/a acristalamiento carpintería metálica (ref. 4072)
+- **Профессия (ES):** Nueva difusión: operario/a acristalamiento carpintería metálica
+- **Оригинальное название:** Nueva difusión: operario/a acristalamiento carpintería metálica (ref. 4072)
 - **Город:** Llanera (Asturias)
-- **Дата публикации:** 28/07/2026
+- **Дата публикации:** 25/08/2026
 - **ID оферты:** 032026004072
 
 ## 👉 Откликнуться на вакансию
