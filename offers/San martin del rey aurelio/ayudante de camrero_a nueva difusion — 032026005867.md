@@ -1,9 +1,9 @@
-# помощник официанта
+# ayudante de camrero/a nueva difusion
 
-- **Профессия (ES):** ayudante de camrero/a
-- **Оригинальное название:** 3 puestos de ayudante de camrero/a (ref.: 5867)
+- **Профессия (ES):** ayudante de camrero/a nueva difusion
+- **Оригинальное название:** 4 puestos de ayudante de camrero/a (ref.: 5867) nueva difusion
 - **Город:** San martin del rey aurelio (Asturias)
-- **Дата публикации:** 05/08/2026
+- **Дата публикации:** 25/08/2026
 - **ID оферты:** 032026005867
 
 ## 👉 Откликнуться на вакансию
