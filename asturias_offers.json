@@ -1,5 +1,5 @@
 {
-  "count": 611,
+  "count": 613,
   "failed_sectors": [],
   "offers": [
     {
@@ -649,15 +649,6 @@
       "sector": "SA",
       "title": "Enfermero/a (ref.: 4248)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004248&ret=B"
-    },
-    {
-      "date": "10/08/2026",
-      "id": "032026004262",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Oficial electricista(ref.4262).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004262&ret=B"
     },
     {
       "date": "13/08/2026",
@@ -5341,6 +5332,15 @@
     },
     {
       "date": "25/08/2026",
+      "id": "032026006264",
+      "municipio": "Sariego",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Business controller (ref.6264)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006264&ret=B"
+    },
+    {
+      "date": "25/08/2026",
       "id": "032026006265",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -5404,6 +5404,15 @@
     },
     {
       "date": "25/08/2026",
+      "id": "032026006273",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "AR",
+      "title": "1 puesto de cerrajero/a (ref: 6273)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006273&ret=B"
+    },
+    {
+      "date": "25/08/2026",
       "id": "032026006274",
       "municipio": "Langreo",
       "provincia": "Asturias",
@@ -5446,6 +5455,15 @@
       "sector": "SA",
       "title": "2 puestos de gerocultor/a (ref. 6279)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006279&ret=B"
+    },
+    {
+      "date": "25/08/2026",
+      "id": "032026006280",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Responsable de seguridad , salud y medio ambiente (ref: 6280)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006280&ret=B"
     },
     {
       "date": "25/08/2026",
@@ -5512,8 +5530,8 @@
       "last_crawled": "2026-08-26T03:04:46Z"
     },
     "AR": {
-      "count": 0,
-      "last_crawled": "2026-08-25T04:39:15Z"
+      "count": 1,
+      "last_crawled": "2026-08-26T04:40:02Z"
     },
     "AU": {
       "count": 9,
@@ -5528,8 +5546,8 @@
       "last_crawled": "2026-08-26T02:23:55Z"
     },
     "EM": {
-      "count": 14,
-      "last_crawled": "2026-08-25T04:39:15Z"
+      "count": 16,
+      "last_crawled": "2026-08-26T04:40:02Z"
     },
     "EO": {
       "count": 60,
@@ -5557,11 +5575,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-25T04:39:15Z"
+      "last_crawled": "2026-08-26T04:40:02Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-25T04:39:15Z"
+      "last_crawled": "2026-08-26T04:40:02Z"
     },
     "MD": {
       "count": 4,
@@ -5572,8 +5590,8 @@
       "last_crawled": "2026-08-26T03:48:05Z"
     },
     "MO": {
-      "count": 14,
-      "last_crawled": "2026-08-25T04:39:15Z"
+      "count": 13,
+      "last_crawled": "2026-08-26T04:40:02Z"
     },
     "MR": {
       "count": 26,
@@ -5581,7 +5599,7 @@
     },
     "MT": {
       "count": 5,
-      "last_crawled": "2026-08-25T04:39:15Z"
+      "last_crawled": "2026-08-26T04:40:02Z"
     },
     "PA": {
       "count": 0,
@@ -5593,7 +5611,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-25T04:39:15Z"
+      "last_crawled": "2026-08-26T04:40:02Z"
     },
     "SA": {
       "count": 80,
@@ -5616,5 +5634,5 @@
       "last_crawled": "2026-08-26T03:04:46Z"
     }
   },
-  "updated": "2026-08-26T03:48:05Z"
+  "updated": "2026-08-26T04:40:02Z"
 }
