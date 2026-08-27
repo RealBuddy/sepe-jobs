@@ -1,5 +1,5 @@
 {
-  "count": 645,
+  "count": 648,
   "failed_sectors": [],
   "offers": [
     {
@@ -3315,15 +3315,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006007&ret=B"
     },
     {
-      "date": "11/08/2026",
-      "id": "032026006008",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Ayudante de oficios varios en centro residencial de mayores (ref.: 6008)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006008&ret=B"
-    },
-    {
       "date": "25/08/2026",
       "id": "032026006011",
       "municipio": "Gijón",
@@ -3673,15 +3664,6 @@
       "sector": "SP",
       "title": "Conserje (ref.: 6076)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006076&ret=B"
-    },
-    {
-      "date": "14/08/2026",
-      "id": "032026006077",
-      "municipio": "Coaña",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Oficial de tercera-montador/a conductos de ventilación(ref.:6077)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006077&ret=B"
     },
     {
       "date": "14/08/2026",
@@ -5476,6 +5458,15 @@
     },
     {
       "date": "26/08/2026",
+      "id": "032026006297",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "AR",
+      "title": "1 cerrajero/a especialista automoción ref.:(6297)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006297&ret=B"
+    },
+    {
+      "date": "26/08/2026",
       "id": "032026006298",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5629,6 +5620,15 @@
     },
     {
       "date": "26/08/2026",
+      "id": "032026006317",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Electricista oficial/a 1ª (ref.: 6317)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006317&ret=B"
+    },
+    {
+      "date": "26/08/2026",
       "id": "032026006318",
       "municipio": "Langreo",
       "provincia": "Asturias",
@@ -5653,6 +5653,15 @@
       "sector": "AO",
       "title": "Administrativo/a contabilidad (ref.6320)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006320&ret=B"
+    },
+    {
+      "date": "27/08/2026",
+      "id": "032026006321",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Comunicación digital / dinamización juvenil (ref.: 6321)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006321&ret=B"
     },
     {
       "date": "27/08/2026",
@@ -5710,12 +5719,30 @@
     },
     {
       "date": "27/08/2026",
+      "id": "032026006329",
+      "municipio": "San martin del rey aurelio",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Ingeniero/a i+d diseño mecánico y simulación (ref.: 6329)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006329&ret=B"
+    },
+    {
+      "date": "27/08/2026",
       "id": "032026006330",
       "municipio": "Aviles",
       "provincia": "Asturias",
       "sector": "IP",
       "title": "Operario/a de plegadora de metal (ref. 6330)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006330&ret=B"
+    },
+    {
+      "date": "27/08/2026",
+      "id": "032026006331",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Operario/a (ref.: 6331)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006331&ret=B"
     },
     {
       "date": "27/08/2026",
@@ -5818,8 +5845,8 @@
       "last_crawled": "2026-08-27T12:23:29Z"
     },
     "AR": {
-      "count": 1,
-      "last_crawled": "2026-08-26T04:40:02Z"
+      "count": 2,
+      "last_crawled": "2026-08-27T15:01:18Z"
     },
     "AU": {
       "count": 10,
@@ -5834,8 +5861,8 @@
       "last_crawled": "2026-08-27T10:53:17Z"
     },
     "EM": {
-      "count": 16,
-      "last_crawled": "2026-08-26T04:40:02Z"
+      "count": 17,
+      "last_crawled": "2026-08-27T15:01:18Z"
     },
     "EO": {
       "count": 58,
@@ -5863,11 +5890,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-26T04:40:02Z"
+      "last_crawled": "2026-08-27T15:01:18Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-26T04:40:02Z"
+      "last_crawled": "2026-08-27T15:01:18Z"
     },
     "MD": {
       "count": 4,
@@ -5878,8 +5905,8 @@
       "last_crawled": "2026-08-27T13:28:12Z"
     },
     "MO": {
-      "count": 13,
-      "last_crawled": "2026-08-26T04:40:02Z"
+      "count": 14,
+      "last_crawled": "2026-08-27T15:01:18Z"
     },
     "MR": {
       "count": 26,
@@ -5887,7 +5914,7 @@
     },
     "MT": {
       "count": 5,
-      "last_crawled": "2026-08-26T04:40:02Z"
+      "last_crawled": "2026-08-27T15:01:18Z"
     },
     "PA": {
       "count": 0,
@@ -5899,7 +5926,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-26T04:40:02Z"
+      "last_crawled": "2026-08-27T15:01:18Z"
     },
     "SA": {
       "count": 88,
@@ -5922,5 +5949,5 @@
       "last_crawled": "2026-08-27T12:23:29Z"
     }
   },
-  "updated": "2026-08-27T13:28:12Z"
+  "updated": "2026-08-27T15:01:18Z"
 }
