@@ -1,9 +1,9 @@
-# Заведующая кухней детского приюта
+# Nueva difusión: jefe/a de cocina para centro de acogida de menores
 
-- **Профессия (ES):** Gobernante/a de cocina para centro de acogida de menores
-- **Оригинальное название:** Gobernante/a de cocina para centro de acogida de menores (ref. 2824)
+- **Профессия (ES):** Nueva difusión: jefe/a de cocina para centro de acogida de menores
+- **Оригинальное название:** Nueva difusión: jefe/a de cocina para centro de acogida de menores (ref. 2824)
 - **Город:** Gijón (Asturias)
-- **Дата публикации:** 13/08/2026
+- **Дата публикации:** 28/08/2026
 - **ID оферты:** 032026002824
 
 ## 👉 Откликнуться на вакансию
