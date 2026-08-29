@@ -1,5 +1,5 @@
 {
-  "count": 630,
+  "count": 628,
   "failed_sectors": [],
   "offers": [
     {
@@ -289,15 +289,6 @@
       "sector": "EO",
       "title": "Nueva difusión: 2 operarios/as corte y perforación de hormigón (ref. 3387)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003387&ret=B"
-    },
-    {
-      "date": "29/07/2026",
-      "id": "032026003520",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de camión-grúa para asistencia en carretera(ref.3520).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003520&ret=B"
     },
     {
       "date": "05/08/2026",
@@ -2422,15 +2413,6 @@
       "sector": "SA",
       "title": "Psicólogo/a general sanitario/a (ref. 5860).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005860&ret=B"
-    },
-    {
-      "date": "19/08/2026",
-      "id": "032026005864",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "2 conductores/as - repartidores/as (ref.: 5864)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005864&ret=B"
     },
     {
       "date": "05/08/2026",
@@ -5712,7 +5694,7 @@
     },
     "IA": {
       "count": 9,
-      "last_crawled": "2026-08-28T14:47:19Z"
+      "last_crawled": "2026-08-29T09:38:04Z"
     },
     "IG": {
       "count": 1,
@@ -5724,7 +5706,7 @@
     },
     "IP": {
       "count": 26,
-      "last_crawled": "2026-08-28T14:47:19Z"
+      "last_crawled": "2026-08-29T09:38:04Z"
     },
     "IQ": {
       "count": 0,
@@ -5740,7 +5722,7 @@
     },
     "MN": {
       "count": 1,
-      "last_crawled": "2026-08-28T14:47:19Z"
+      "last_crawled": "2026-08-29T09:38:04Z"
     },
     "MO": {
       "count": 13,
@@ -5748,7 +5730,7 @@
     },
     "MR": {
       "count": 29,
-      "last_crawled": "2026-08-28T14:47:19Z"
+      "last_crawled": "2026-08-29T09:38:04Z"
     },
     "MT": {
       "count": 5,
@@ -5768,24 +5750,24 @@
     },
     "SA": {
       "count": 89,
-      "last_crawled": "2026-08-28T14:47:19Z"
+      "last_crawled": "2026-08-29T09:38:04Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-08-28T14:47:19Z"
+      "last_crawled": "2026-08-29T09:38:04Z"
     },
     "SP": {
       "count": 120,
       "last_crawled": "2026-08-29T07:38:49Z"
     },
     "TC": {
-      "count": 51,
-      "last_crawled": "2026-08-28T14:47:19Z"
+      "count": 49,
+      "last_crawled": "2026-08-29T09:38:04Z"
     },
     "TH": {
       "count": 97,
       "last_crawled": "2026-08-29T08:40:11Z"
     }
   },
-  "updated": "2026-08-29T08:40:11Z"
+  "updated": "2026-08-29T09:38:04Z"
 }
