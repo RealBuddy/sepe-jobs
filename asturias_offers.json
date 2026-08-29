@@ -1,5 +1,5 @@
 {
-  "count": 634,
+  "count": 631,
   "failed_sectors": [],
   "offers": [
     {
@@ -3199,15 +3199,6 @@
     },
     {
       "date": "12/08/2026",
-      "id": "032026006032",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Carnicero/a(ref.6032)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006032&ret=B"
-    },
-    {
-      "date": "12/08/2026",
       "id": "032026006036",
       "municipio": "Cangas del narcea",
       "provincia": "Asturias",
@@ -3610,15 +3601,6 @@
       "sector": "TH",
       "title": "Camarero/a de pisos - llanes (ref. 6105)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006105&ret=B"
-    },
-    {
-      "date": "17/08/2026",
-      "id": "032026006106",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "5 puestos de limpiador/a(ref.6106)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006106&ret=B"
     },
     {
       "date": "17/08/2026",
@@ -4474,15 +4456,6 @@
       "sector": "SP",
       "title": "2 monitores/as deportivos (ref.: 6215)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006215&ret=B"
-    },
-    {
-      "date": "21/08/2026",
-      "id": "032026006216",
-      "municipio": "Tineo",
-      "provincia": "Asturias",
-      "sector": "MD",
-      "title": "Ayudante de aserradero (ref: 6216)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006216&ret=B"
     },
     {
       "date": "21/08/2026",
@@ -5712,7 +5685,7 @@
   "sectors": {
     "AA": {
       "count": 8,
-      "last_crawled": "2026-08-28T12:28:59Z"
+      "last_crawled": "2026-08-29T07:38:49Z"
     },
     "AO": {
       "count": 17,
@@ -5727,12 +5700,12 @@
       "last_crawled": "2026-08-28T13:50:10Z"
     },
     "CC": {
-      "count": 58,
-      "last_crawled": "2026-08-28T12:28:59Z"
+      "count": 57,
+      "last_crawled": "2026-08-29T07:38:49Z"
     },
     "DO": {
       "count": 13,
-      "last_crawled": "2026-08-28T12:28:59Z"
+      "last_crawled": "2026-08-29T07:38:49Z"
     },
     "EM": {
       "count": 16,
@@ -5752,7 +5725,7 @@
     },
     "IG": {
       "count": 1,
-      "last_crawled": "2026-08-28T12:28:59Z"
+      "last_crawled": "2026-08-29T07:38:49Z"
     },
     "IM": {
       "count": 0,
@@ -5771,8 +5744,8 @@
       "last_crawled": "2026-08-28T15:56:40Z"
     },
     "MD": {
-      "count": 3,
-      "last_crawled": "2026-08-28T12:28:59Z"
+      "count": 2,
+      "last_crawled": "2026-08-29T07:38:49Z"
     },
     "MN": {
       "count": 1,
@@ -5792,7 +5765,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-08-28T12:28:59Z"
+      "last_crawled": "2026-08-29T07:38:49Z"
     },
     "PC": {
       "count": 0,
@@ -5811,8 +5784,8 @@
       "last_crawled": "2026-08-28T14:47:19Z"
     },
     "SP": {
-      "count": 121,
-      "last_crawled": "2026-08-28T12:28:59Z"
+      "count": 120,
+      "last_crawled": "2026-08-29T07:38:49Z"
     },
     "TC": {
       "count": 51,
@@ -5823,5 +5796,5 @@
       "last_crawled": "2026-08-28T13:50:10Z"
     }
   },
-  "updated": "2026-08-28T15:56:40Z"
+  "updated": "2026-08-29T07:38:49Z"
 }
