@@ -1,5 +1,5 @@
 {
-  "count": 631,
+  "count": 630,
   "failed_sectors": [],
   "offers": [
     {
@@ -2089,15 +2089,6 @@
       "sector": "SP",
       "title": "2 puestos de personal de limpieza (ref.: 5767)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005767&ret=B"
-    },
-    {
-      "date": "30/07/2026",
-      "id": "032026005771",
-      "municipio": "Nava",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camarero/a (ref.5771)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005771&ret=B"
     },
     {
       "date": "31/07/2026",
@@ -5689,7 +5680,7 @@
     },
     "AO": {
       "count": 17,
-      "last_crawled": "2026-08-28T13:50:10Z"
+      "last_crawled": "2026-08-29T08:40:11Z"
     },
     "AR": {
       "count": 2,
@@ -5697,7 +5688,7 @@
     },
     "AU": {
       "count": 11,
-      "last_crawled": "2026-08-28T13:50:10Z"
+      "last_crawled": "2026-08-29T08:40:11Z"
     },
     "CC": {
       "count": 57,
@@ -5713,11 +5704,11 @@
     },
     "EO": {
       "count": 53,
-      "last_crawled": "2026-08-28T13:50:10Z"
+      "last_crawled": "2026-08-29T08:40:11Z"
     },
     "FE": {
       "count": 7,
-      "last_crawled": "2026-08-28T13:50:10Z"
+      "last_crawled": "2026-08-29T08:40:11Z"
     },
     "IA": {
       "count": 9,
@@ -5729,7 +5720,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-08-28T13:50:10Z"
+      "last_crawled": "2026-08-29T08:40:11Z"
     },
     "IP": {
       "count": 26,
@@ -5769,7 +5760,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-08-28T13:50:10Z"
+      "last_crawled": "2026-08-29T08:40:11Z"
     },
     "PT": {
       "count": 0,
@@ -5792,9 +5783,9 @@
       "last_crawled": "2026-08-28T14:47:19Z"
     },
     "TH": {
-      "count": 98,
-      "last_crawled": "2026-08-28T13:50:10Z"
+      "count": 97,
+      "last_crawled": "2026-08-29T08:40:11Z"
     }
   },
-  "updated": "2026-08-29T07:38:49Z"
+  "updated": "2026-08-29T08:40:11Z"
 }
