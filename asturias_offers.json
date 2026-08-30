@@ -1,5 +1,5 @@
 {
-  "count": 623,
+  "count": 618,
   "failed_sectors": [],
   "offers": [
     {
@@ -1021,15 +1021,6 @@
     },
     {
       "date": "30/07/2026",
-      "id": "032026004985",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocinero/a (ref.4985)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004985&ret=B"
-    },
-    {
-      "date": "30/07/2026",
       "id": "032026004988",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -1387,15 +1378,6 @@
       "sector": "SA",
       "title": "nueva difusión fisioterapeuta (ref. 5282)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005282&ret=B"
-    },
-    {
-      "date": "07/08/2026",
-      "id": "032026005285",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de confiteria (ref.5285)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005285&ret=B"
     },
     {
       "date": "13/07/2026",
@@ -2496,24 +2478,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005891&ret=B"
     },
     {
-      "date": "05/08/2026",
-      "id": "032026005892",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Albañil, oficial de 1ª (ref. 5892).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005892&ret=B"
-    },
-    {
-      "date": "05/08/2026",
-      "id": "032026005893",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Peón/a especialista (ref. 5893).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005893&ret=B"
-    },
-    {
       "date": "06/08/2026",
       "id": "032026005900",
       "municipio": "Oviedo",
@@ -3295,15 +3259,6 @@
       "sector": "CC",
       "title": "Gestor/a de punto de venta para varias localidades (ref.6068)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006068&ret=B"
-    },
-    {
-      "date": "13/08/2026",
-      "id": "032026006069",
-      "municipio": "Cangas de onis",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocinero/a - covadonga (ref.6069)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006069&ret=B"
     },
     {
       "date": "13/08/2026",
@@ -5617,7 +5572,7 @@
     },
     "AO": {
       "count": 17,
-      "last_crawled": "2026-08-29T08:40:11Z"
+      "last_crawled": "2026-08-30T07:56:11Z"
     },
     "AR": {
       "count": 2,
@@ -5625,7 +5580,7 @@
     },
     "AU": {
       "count": 11,
-      "last_crawled": "2026-08-29T08:40:11Z"
+      "last_crawled": "2026-08-30T07:56:11Z"
     },
     "CC": {
       "count": 56,
@@ -5640,12 +5595,12 @@
       "last_crawled": "2026-08-29T10:52:02Z"
     },
     "EO": {
-      "count": 53,
-      "last_crawled": "2026-08-29T08:40:11Z"
+      "count": 51,
+      "last_crawled": "2026-08-30T07:56:11Z"
     },
     "FE": {
       "count": 7,
-      "last_crawled": "2026-08-29T08:40:11Z"
+      "last_crawled": "2026-08-30T07:56:11Z"
     },
     "IA": {
       "count": 9,
@@ -5657,7 +5612,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-08-29T08:40:11Z"
+      "last_crawled": "2026-08-30T07:56:11Z"
     },
     "IP": {
       "count": 26,
@@ -5697,7 +5652,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-08-29T08:40:11Z"
+      "last_crawled": "2026-08-30T07:56:11Z"
     },
     "PT": {
       "count": 0,
@@ -5720,9 +5675,9 @@
       "last_crawled": "2026-08-29T09:38:04Z"
     },
     "TH": {
-      "count": 97,
-      "last_crawled": "2026-08-29T08:40:11Z"
+      "count": 94,
+      "last_crawled": "2026-08-30T07:56:11Z"
     }
   },
-  "updated": "2026-08-30T06:12:35Z"
+  "updated": "2026-08-30T07:56:11Z"
 }
