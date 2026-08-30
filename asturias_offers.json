@@ -1,5 +1,5 @@
 {
-  "count": 607,
+  "count": 606,
   "failed_sectors": [],
   "offers": [
     {
@@ -208,15 +208,6 @@
       "sector": "SP",
       "title": "7 puestos de auxiliar de ayuda a domicilio (ref.: 3054)nueva difusión",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003054&ret=B"
-    },
-    {
-      "date": "17/08/2026",
-      "id": "032026003087",
-      "municipio": "Salas",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Operario/a para planta de reciclaje (ref. 3087).nueva difusión",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003087&ret=B"
     },
     {
       "date": "11/08/2026",
@@ -5477,7 +5468,7 @@
     },
     "AR": {
       "count": 2,
-      "last_crawled": "2026-08-29T10:52:02Z"
+      "last_crawled": "2026-08-30T09:47:38Z"
     },
     "AU": {
       "count": 11,
@@ -5493,7 +5484,7 @@
     },
     "EM": {
       "count": 16,
-      "last_crawled": "2026-08-29T10:52:02Z"
+      "last_crawled": "2026-08-30T09:47:38Z"
     },
     "EO": {
       "count": 51,
@@ -5521,11 +5512,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-29T10:52:02Z"
+      "last_crawled": "2026-08-30T09:47:38Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-29T10:52:02Z"
+      "last_crawled": "2026-08-30T09:47:38Z"
     },
     "MD": {
       "count": 2,
@@ -5537,15 +5528,15 @@
     },
     "MO": {
       "count": 13,
-      "last_crawled": "2026-08-29T10:52:02Z"
+      "last_crawled": "2026-08-30T09:47:38Z"
     },
     "MR": {
       "count": 26,
       "last_crawled": "2026-08-30T08:49:25Z"
     },
     "MT": {
-      "count": 5,
-      "last_crawled": "2026-08-29T10:52:02Z"
+      "count": 4,
+      "last_crawled": "2026-08-30T09:47:38Z"
     },
     "PA": {
       "count": 0,
@@ -5557,7 +5548,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-29T10:52:02Z"
+      "last_crawled": "2026-08-30T09:47:38Z"
     },
     "SA": {
       "count": 83,
@@ -5580,5 +5571,5 @@
       "last_crawled": "2026-08-30T07:56:11Z"
     }
   },
-  "updated": "2026-08-30T08:49:25Z"
+  "updated": "2026-08-30T09:47:38Z"
 }
