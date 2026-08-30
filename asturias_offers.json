@@ -1,5 +1,5 @@
 {
-  "count": 628,
+  "count": 623,
   "failed_sectors": [],
   "offers": [
     {
@@ -1083,15 +1083,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005018&ret=B"
     },
     {
-      "date": "02/07/2026",
-      "id": "032026005030",
-      "municipio": "Piloña",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Auxiliar ayuda a domicilio (ref.5030)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005030&ret=B"
-    },
-    {
       "date": "14/08/2026",
       "id": "032026005034",
       "municipio": "Carreño",
@@ -2001,15 +1992,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005724&ret=B"
     },
     {
-      "date": "29/07/2026",
-      "id": "032026005734",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Dependiente/a superficie comercial (ref.: 5734)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005734&ret=B"
-    },
-    {
       "date": "20/08/2026",
       "id": "032026005741",
       "municipio": "Oviedo",
@@ -2080,15 +2062,6 @@
       "sector": "SP",
       "title": "2 puestos de personal de limpieza (ref.: 5767)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005767&ret=B"
-    },
-    {
-      "date": "31/07/2026",
-      "id": "032026005778",
-      "municipio": "Cangas del narcea",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "2 empleados/as de hogar (ref.5778)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005778&ret=B"
     },
     {
       "date": "31/07/2026",
@@ -2235,15 +2208,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005809&ret=B"
     },
     {
-      "date": "03/08/2026",
-      "id": "032026005815",
-      "municipio": "Ponga",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Auxiliar de ayuda a domicilio(ref:5815)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005815&ret=B"
-    },
-    {
       "date": "27/08/2026",
       "id": "032026005816",
       "municipio": "Llanes",
@@ -2269,15 +2233,6 @@
       "sector": "SP",
       "title": "Limpieza office (ref. 5818)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005818&ret=B"
-    },
-    {
-      "date": "03/08/2026",
-      "id": "032026005820",
-      "municipio": "Ponga",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Auxiliar de ayuda a domicilio (ref:5820)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005820&ret=B"
     },
     {
       "date": "20/08/2026",
@@ -5658,7 +5613,7 @@
   "sectors": {
     "AA": {
       "count": 8,
-      "last_crawled": "2026-08-29T07:38:49Z"
+      "last_crawled": "2026-08-30T06:12:35Z"
     },
     "AO": {
       "count": 17,
@@ -5673,12 +5628,12 @@
       "last_crawled": "2026-08-29T08:40:11Z"
     },
     "CC": {
-      "count": 57,
-      "last_crawled": "2026-08-29T07:38:49Z"
+      "count": 56,
+      "last_crawled": "2026-08-30T06:12:35Z"
     },
     "DO": {
       "count": 13,
-      "last_crawled": "2026-08-29T07:38:49Z"
+      "last_crawled": "2026-08-30T06:12:35Z"
     },
     "EM": {
       "count": 16,
@@ -5698,7 +5653,7 @@
     },
     "IG": {
       "count": 1,
-      "last_crawled": "2026-08-29T07:38:49Z"
+      "last_crawled": "2026-08-30T06:12:35Z"
     },
     "IM": {
       "count": 0,
@@ -5718,7 +5673,7 @@
     },
     "MD": {
       "count": 2,
-      "last_crawled": "2026-08-29T07:38:49Z"
+      "last_crawled": "2026-08-30T06:12:35Z"
     },
     "MN": {
       "count": 1,
@@ -5738,7 +5693,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-08-29T07:38:49Z"
+      "last_crawled": "2026-08-30T06:12:35Z"
     },
     "PC": {
       "count": 0,
@@ -5757,8 +5712,8 @@
       "last_crawled": "2026-08-29T09:38:04Z"
     },
     "SP": {
-      "count": 120,
-      "last_crawled": "2026-08-29T07:38:49Z"
+      "count": 116,
+      "last_crawled": "2026-08-30T06:12:35Z"
     },
     "TC": {
       "count": 49,
@@ -5769,5 +5724,5 @@
       "last_crawled": "2026-08-29T08:40:11Z"
     }
   },
-  "updated": "2026-08-29T10:52:02Z"
+  "updated": "2026-08-30T06:12:35Z"
 }
