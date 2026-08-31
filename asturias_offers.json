@@ -1,5 +1,5 @@
 {
-  "count": 540,
+  "count": 541,
   "failed_sectors": [],
   "offers": [
     {
@@ -2317,15 +2317,6 @@
     },
     {
       "date": "11/08/2026",
-      "id": "032026005982",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Técnico/a en instalaciones frigoríficas y de climatización (ref.:5982)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005982&ret=B"
-    },
-    {
-      "date": "11/08/2026",
       "id": "032026005983",
       "municipio": "Valdes",
       "provincia": "Asturias",
@@ -3144,7 +3135,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006149&ret=B"
     },
     {
-      "date": "21/08/2026",
+      "date": "31/08/2026",
       "id": "032026006150",
       "municipio": "Mieres",
       "provincia": "Asturias",
@@ -4837,6 +4828,15 @@
     },
     {
       "date": "31/08/2026",
+      "id": "032026006368",
+      "municipio": "Laviana",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Empleado/a administrativo/a (ref.: 6368)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006368&ret=B"
+    },
+    {
+      "date": "31/08/2026",
       "id": "032026006369",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4852,6 +4852,15 @@
       "sector": "SA",
       "title": "Enfermero/a (ref.6372)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006372&ret=B"
+    },
+    {
+      "date": "31/08/2026",
+      "id": "032026006374",
+      "municipio": "Navia",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Intérprete de lengua de signos (ref.:6374)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006374&ret=B"
     },
     {
       "date": "31/08/2026",
@@ -4874,7 +4883,7 @@
     },
     "AR": {
       "count": 2,
-      "last_crawled": "2026-08-30T09:47:38Z"
+      "last_crawled": "2026-08-31T10:37:43Z"
     },
     "AU": {
       "count": 7,
@@ -4889,8 +4898,8 @@
       "last_crawled": "2026-08-31T06:37:54Z"
     },
     "EM": {
-      "count": 16,
-      "last_crawled": "2026-08-30T09:47:38Z"
+      "count": 18,
+      "last_crawled": "2026-08-31T10:37:43Z"
     },
     "EO": {
       "count": 43,
@@ -4918,11 +4927,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-30T09:47:38Z"
+      "last_crawled": "2026-08-31T10:37:43Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-30T09:47:38Z"
+      "last_crawled": "2026-08-31T10:37:43Z"
     },
     "MD": {
       "count": 1,
@@ -4933,8 +4942,8 @@
       "last_crawled": "2026-08-31T09:11:26Z"
     },
     "MO": {
-      "count": 13,
-      "last_crawled": "2026-08-30T09:47:38Z"
+      "count": 12,
+      "last_crawled": "2026-08-31T10:37:43Z"
     },
     "MR": {
       "count": 23,
@@ -4942,7 +4951,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-08-30T09:47:38Z"
+      "last_crawled": "2026-08-31T10:37:43Z"
     },
     "PA": {
       "count": 0,
@@ -4954,7 +4963,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-30T09:47:38Z"
+      "last_crawled": "2026-08-31T10:37:43Z"
     },
     "SA": {
       "count": 76,
@@ -4977,5 +4986,5 @@
       "last_crawled": "2026-08-31T08:10:11Z"
     }
   },
-  "updated": "2026-08-31T09:11:26Z"
+  "updated": "2026-08-31T10:37:43Z"
 }
