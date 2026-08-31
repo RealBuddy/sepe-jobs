@@ -1,0 +1,12 @@
+# Oficial/a 1ª o 2ª de albañilería
+
+- **Профессия (ES):** Oficial/a 1ª o 2ª de albañilería
+- **Оригинальное название:** Oficial/a 1ª o 2ª de albañilería (ref.: 6366)
+- **Город:** Langreo (Asturias)
+- **Дата публикации:** 31/08/2026
+- **ID оферты:** 032026006366
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006366&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
