@@ -1,5 +1,5 @@
 {
-  "count": 548,
+  "count": 549,
   "failed_sectors": [],
   "offers": [
     {
@@ -919,6 +919,15 @@
       "sector": "SP",
       "title": "Gerocultor/a (ref.:5113)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005113&ret=B"
+    },
+    {
+      "date": "01/09/2026",
+      "id": "032026005151",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "2 puestos de ayudante de electricista (ref. 5151)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005151&ret=B"
     },
     {
       "date": "25/08/2026",
@@ -2982,15 +2991,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006149&ret=B"
     },
     {
-      "date": "31/08/2026",
-      "id": "032026006150",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Operario/a de cadena de producción (ref. 6150)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006150&ret=B"
-    },
-    {
       "date": "18/08/2026",
       "id": "032026006151",
       "municipio": "Ribadesella",
@@ -4900,6 +4900,15 @@
     },
     {
       "date": "01/09/2026",
+      "id": "032026006401",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Técnico/a de cableado (ref.:6401)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006401&ret=B"
+    },
+    {
+      "date": "01/09/2026",
       "id": "032026006402",
       "municipio": "Langreo",
       "provincia": "Asturias",
@@ -4946,7 +4955,7 @@
     },
     "AR": {
       "count": 2,
-      "last_crawled": "2026-08-31T10:37:43Z"
+      "last_crawled": "2026-09-01T09:14:21Z"
     },
     "AU": {
       "count": 6,
@@ -4962,7 +4971,7 @@
     },
     "EM": {
       "count": 18,
-      "last_crawled": "2026-08-31T10:37:43Z"
+      "last_crawled": "2026-09-01T09:14:21Z"
     },
     "EO": {
       "count": 40,
@@ -4990,11 +4999,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-08-31T10:37:43Z"
+      "last_crawled": "2026-09-01T09:14:21Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-08-31T10:37:43Z"
+      "last_crawled": "2026-09-01T09:14:21Z"
     },
     "MD": {
       "count": 1,
@@ -5005,16 +5014,16 @@
       "last_crawled": "2026-09-01T08:11:18Z"
     },
     "MO": {
-      "count": 12,
-      "last_crawled": "2026-08-31T10:37:43Z"
+      "count": 14,
+      "last_crawled": "2026-09-01T09:14:21Z"
     },
     "MR": {
       "count": 22,
       "last_crawled": "2026-09-01T08:11:18Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-08-31T10:37:43Z"
+      "count": 3,
+      "last_crawled": "2026-09-01T09:14:21Z"
     },
     "PA": {
       "count": 0,
@@ -5026,7 +5035,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-08-31T10:37:43Z"
+      "last_crawled": "2026-09-01T09:14:21Z"
     },
     "SA": {
       "count": 77,
@@ -5049,5 +5058,5 @@
       "last_crawled": "2026-09-01T07:20:09Z"
     }
   },
-  "updated": "2026-09-01T08:11:18Z"
+  "updated": "2026-09-01T09:14:21Z"
 }
