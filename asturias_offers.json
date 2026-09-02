@@ -1,5 +1,5 @@
 {
-  "count": 557,
+  "count": 558,
   "failed_sectors": [],
   "offers": [
     {
@@ -919,6 +919,15 @@
       "sector": "SP",
       "title": "Gerocultor/a (ref.:5113)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005113&ret=B"
+    },
+    {
+      "date": "01/09/2026",
+      "id": "032026005150",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "2 puestos de electricista (ref. 5150)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005150&ret=B"
     },
     {
       "date": "01/09/2026",
@@ -2911,15 +2920,6 @@
     },
     {
       "date": "18/08/2026",
-      "id": "032026006152",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "3 puestos de tecnico/a en prevencion de riesgos laborales (ref.: 6152)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006152&ret=B"
-    },
-    {
-      "date": "18/08/2026",
       "id": "032026006153",
       "municipio": "Parres",
       "provincia": "Asturias",
@@ -4778,7 +4778,7 @@
       "municipio": "Oviedo",
       "provincia": "Asturias",
       "sector": "MO",
-      "title": "Técnico/a de cableado (ref.:6401)",
+      "title": "Técnico/a informatico (ref.:6401)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006401&ret=B"
     },
     {
@@ -5014,6 +5014,15 @@
       "sector": "TC",
       "title": "Conductor/a - repartidor/a pescado fresco (ref. 6429)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006429&ret=B"
+    },
+    {
+      "date": "02/09/2026",
+      "id": "032026006430",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Encargado/a de taller textil (ref.: 6430)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006430&ret=B"
     }
   ],
   "sectors": {
@@ -5027,7 +5036,7 @@
     },
     "AR": {
       "count": 2,
-      "last_crawled": "2026-09-01T09:14:21Z"
+      "last_crawled": "2026-09-02T08:28:43Z"
     },
     "AU": {
       "count": 6,
@@ -5042,8 +5051,8 @@
       "last_crawled": "2026-09-02T05:25:45Z"
     },
     "EM": {
-      "count": 18,
-      "last_crawled": "2026-09-01T09:14:21Z"
+      "count": 17,
+      "last_crawled": "2026-09-02T08:28:43Z"
     },
     "EO": {
       "count": 41,
@@ -5071,11 +5080,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-09-01T09:14:21Z"
+      "last_crawled": "2026-09-02T08:28:43Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-09-01T09:14:21Z"
+      "last_crawled": "2026-09-02T08:28:43Z"
     },
     "MD": {
       "count": 1,
@@ -5086,16 +5095,16 @@
       "last_crawled": "2026-09-02T07:30:29Z"
     },
     "MO": {
-      "count": 14,
-      "last_crawled": "2026-09-01T09:14:21Z"
+      "count": 15,
+      "last_crawled": "2026-09-02T08:28:43Z"
     },
     "MR": {
       "count": 21,
       "last_crawled": "2026-09-02T07:30:29Z"
     },
     "MT": {
-      "count": 3,
-      "last_crawled": "2026-09-01T09:14:21Z"
+      "count": 4,
+      "last_crawled": "2026-09-02T08:28:43Z"
     },
     "PA": {
       "count": 0,
@@ -5107,7 +5116,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-01T09:14:21Z"
+      "last_crawled": "2026-09-02T08:28:43Z"
     },
     "SA": {
       "count": 70,
@@ -5130,5 +5139,5 @@
       "last_crawled": "2026-09-02T06:51:23Z"
     }
   },
-  "updated": "2026-09-02T07:30:29Z"
+  "updated": "2026-09-02T08:28:43Z"
 }
