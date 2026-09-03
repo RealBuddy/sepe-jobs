@@ -1,5 +1,5 @@
 {
-  "count": 570,
+  "count": 573,
   "failed_sectors": [],
   "offers": [
     {
@@ -451,6 +451,15 @@
       "sector": "CC",
       "title": "Atención al cliente en salones de apuestas deportivas (ref.: 4170)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004170&ret=B"
+    },
+    {
+      "date": "02/09/2026",
+      "id": "032026004183",
+      "municipio": "Ribadesella",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Peón/a de producción industrial - ribadesella (ref. 4183)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004183&ret=B"
     },
     {
       "date": "13/08/2026",
@@ -2037,15 +2046,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005968&ret=B"
     },
     {
-      "date": "21/08/2026",
-      "id": "032026005975",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "2 puestos personal tecnico de apoyo (ref. 5975)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005975&ret=B"
-    },
-    {
       "date": "10/08/2026",
       "id": "032026005976",
       "municipio": "Oviedo",
@@ -2071,6 +2071,15 @@
       "sector": "SA",
       "title": "Auxiliar de enfermeria (ref.5981)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005981&ret=B"
+    },
+    {
+      "date": "02/09/2026",
+      "id": "032026005982",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Técnico/a en instalaciones frigoríficas y de climatización (ref.:5982)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005982&ret=B"
     },
     {
       "date": "11/08/2026",
@@ -5071,6 +5080,15 @@
     },
     {
       "date": "02/09/2026",
+      "id": "032026006452",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "3 puestos de ensamblador/a (ref:6452)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006452&ret=B"
+    },
+    {
+      "date": "02/09/2026",
       "id": "032026006453",
       "municipio": "Nava",
       "provincia": "Asturias",
@@ -5131,6 +5149,15 @@
       "sector": "TC",
       "title": "Conductor/a repartidor (ref: 6461)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006461&ret=B"
+    },
+    {
+      "date": "03/09/2026",
+      "id": "032026006472",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Montador/a de carpas (ref.6472)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006472&ret=B"
     }
   ],
   "sectors": {
@@ -5144,7 +5171,7 @@
     },
     "AR": {
       "count": 2,
-      "last_crawled": "2026-09-02T08:28:43Z"
+      "last_crawled": "2026-09-03T08:36:47Z"
     },
     "AU": {
       "count": 6,
@@ -5159,8 +5186,8 @@
       "last_crawled": "2026-09-03T05:27:29Z"
     },
     "EM": {
-      "count": 17,
-      "last_crawled": "2026-09-02T08:28:43Z"
+      "count": 16,
+      "last_crawled": "2026-09-03T08:36:47Z"
     },
     "EO": {
       "count": 40,
@@ -5188,11 +5215,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-09-02T08:28:43Z"
+      "last_crawled": "2026-09-03T08:36:47Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-09-02T08:28:43Z"
+      "last_crawled": "2026-09-03T08:36:47Z"
     },
     "MD": {
       "count": 4,
@@ -5203,16 +5230,16 @@
       "last_crawled": "2026-09-03T07:36:29Z"
     },
     "MO": {
-      "count": 15,
-      "last_crawled": "2026-09-02T08:28:43Z"
+      "count": 18,
+      "last_crawled": "2026-09-03T08:36:47Z"
     },
     "MR": {
       "count": 21,
       "last_crawled": "2026-09-03T07:36:29Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-09-02T08:28:43Z"
+      "count": 5,
+      "last_crawled": "2026-09-03T08:36:47Z"
     },
     "PA": {
       "count": 0,
@@ -5224,7 +5251,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-02T08:28:43Z"
+      "last_crawled": "2026-09-03T08:36:47Z"
     },
     "SA": {
       "count": 67,
@@ -5247,5 +5274,5 @@
       "last_crawled": "2026-09-03T06:54:29Z"
     }
   },
-  "updated": "2026-09-03T07:36:29Z"
+  "updated": "2026-09-03T08:36:47Z"
 }
