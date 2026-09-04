@@ -1,4 +1,4 @@
-# Docente fol, ret, ipe i e ipe ii
+# Учитель fol, ret, ipe i и ipe ii
 
 - **Профессия (ES):** Docente fol, ret, ipe i e ipe ii
 - **Оригинальное название:** Docente fol, ret, ipe i e ipe ii (ref.: 6481)
