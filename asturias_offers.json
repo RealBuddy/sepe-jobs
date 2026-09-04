@@ -1,5 +1,5 @@
 {
-  "count": 584,
+  "count": 586,
   "failed_sectors": [],
   "offers": [
     {
@@ -1624,15 +1624,6 @@
     },
     {
       "date": "04/08/2026",
-      "id": "032026005831",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Instalador/a de alarmas (ref. 5831)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005831&ret=B"
-    },
-    {
-      "date": "04/08/2026",
       "id": "032026005835",
       "municipio": "Ibias",
       "provincia": "Asturias",
@@ -2992,15 +2983,6 @@
     },
     {
       "date": "21/08/2026",
-      "id": "032026006207",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Diseñador/a gráfico/a (ref.: 6207)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006207&ret=B"
-    },
-    {
-      "date": "21/08/2026",
       "id": "032026006208",
       "municipio": "Tineo",
       "provincia": "Asturias",
@@ -3072,7 +3054,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006219&ret=B"
     },
     {
-      "date": "21/08/2026",
+      "date": "04/09/2026",
       "id": "032026006223",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -5188,6 +5170,15 @@
     },
     {
       "date": "03/09/2026",
+      "id": "032026006489",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Montadores/as de cubiertas industriales (ref: 6489)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006489&ret=B"
+    },
+    {
+      "date": "03/09/2026",
       "id": "032026006490",
       "municipio": "Langreo",
       "provincia": "Asturias",
@@ -5197,12 +5188,30 @@
     },
     {
       "date": "03/09/2026",
+      "id": "032026006491",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Teleoperador/a (ref.: 6491)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006491&ret=B"
+    },
+    {
+      "date": "03/09/2026",
       "id": "032026006492",
       "municipio": "Cangas del narcea",
       "provincia": "Asturias",
       "sector": "AO",
       "title": "1 auxiliar administrativo/a (ref.6492)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006492&ret=B"
+    },
+    {
+      "date": "03/09/2026",
+      "id": "032026006493",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Montador/a de cubiertas industriales (ref.: 6493)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006493&ret=B"
     },
     {
       "date": "03/09/2026",
@@ -5257,6 +5266,15 @@
       "sector": "TC",
       "title": "Conductor/a de trailer (ref.: 6504)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006504&ret=B"
+    },
+    {
+      "date": "04/09/2026",
+      "id": "032026006505",
+      "municipio": "Castropol",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Delineante naval (ref.6505)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006505&ret=B"
     }
   ],
   "sectors": {
@@ -5270,7 +5288,7 @@
     },
     "AR": {
       "count": 2,
-      "last_crawled": "2026-09-03T08:36:47Z"
+      "last_crawled": "2026-09-04T08:31:49Z"
     },
     "AU": {
       "count": 5,
@@ -5285,8 +5303,8 @@
       "last_crawled": "2026-09-04T05:27:06Z"
     },
     "EM": {
-      "count": 16,
-      "last_crawled": "2026-09-03T08:36:47Z"
+      "count": 17,
+      "last_crawled": "2026-09-04T08:31:49Z"
     },
     "EO": {
       "count": 37,
@@ -5314,11 +5332,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-09-03T08:36:47Z"
+      "last_crawled": "2026-09-04T08:31:49Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-09-03T08:36:47Z"
+      "last_crawled": "2026-09-04T08:31:49Z"
     },
     "MD": {
       "count": 4,
@@ -5329,8 +5347,8 @@
       "last_crawled": "2026-09-04T07:36:26Z"
     },
     "MO": {
-      "count": 18,
-      "last_crawled": "2026-09-03T08:36:47Z"
+      "count": 19,
+      "last_crawled": "2026-09-04T08:31:49Z"
     },
     "MR": {
       "count": 21,
@@ -5338,7 +5356,7 @@
     },
     "MT": {
       "count": 5,
-      "last_crawled": "2026-09-03T08:36:47Z"
+      "last_crawled": "2026-09-04T08:31:49Z"
     },
     "PA": {
       "count": 0,
@@ -5350,7 +5368,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-03T08:36:47Z"
+      "last_crawled": "2026-09-04T08:31:49Z"
     },
     "SA": {
       "count": 72,
@@ -5373,5 +5391,5 @@
       "last_crawled": "2026-09-04T06:58:53Z"
     }
   },
-  "updated": "2026-09-04T07:36:26Z"
+  "updated": "2026-09-04T08:31:49Z"
 }
