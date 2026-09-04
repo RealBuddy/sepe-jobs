@@ -1,0 +1,12 @@
+# Dependiente/a de tienda de muebles
+
+- **Профессия (ES):** Dependiente/a de tienda de muebles
+- **Оригинальное название:** Dependiente/a de tienda de muebles (ref.6475)
+- **Город:** Llanes (Asturias)
+- **Дата публикации:** 03/09/2026
+- **ID оферты:** 032026006475
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006475&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
