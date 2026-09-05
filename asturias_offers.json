@@ -1,5 +1,5 @@
 {
-  "count": 585,
+  "count": 583,
   "failed_sectors": [],
   "offers": [
     {
@@ -3028,24 +3028,6 @@
     },
     {
       "date": "24/08/2026",
-      "id": "032026006225",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Técnico/a eléctrico/a (ref.: 6225)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006225&ret=B"
-    },
-    {
-      "date": "24/08/2026",
-      "id": "032026006227",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Gestor/a de comunidades de propietarios (ref.: 6227)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006227&ret=B"
-    },
-    {
-      "date": "24/08/2026",
       "id": "032026006228",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -5279,7 +5261,7 @@
     },
     "AR": {
       "count": 2,
-      "last_crawled": "2026-09-04T08:31:49Z"
+      "last_crawled": "2026-09-05T08:08:08Z"
     },
     "AU": {
       "count": 5,
@@ -5294,8 +5276,8 @@
       "last_crawled": "2026-09-05T05:14:31Z"
     },
     "EM": {
-      "count": 17,
-      "last_crawled": "2026-09-04T08:31:49Z"
+      "count": 16,
+      "last_crawled": "2026-09-05T08:08:08Z"
     },
     "EO": {
       "count": 37,
@@ -5323,11 +5305,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-09-04T08:31:49Z"
+      "last_crawled": "2026-09-05T08:08:08Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-09-04T08:31:49Z"
+      "last_crawled": "2026-09-05T08:08:08Z"
     },
     "MD": {
       "count": 4,
@@ -5338,8 +5320,8 @@
       "last_crawled": "2026-09-05T07:17:17Z"
     },
     "MO": {
-      "count": 19,
-      "last_crawled": "2026-09-04T08:31:49Z"
+      "count": 18,
+      "last_crawled": "2026-09-05T08:08:08Z"
     },
     "MR": {
       "count": 20,
@@ -5347,7 +5329,7 @@
     },
     "MT": {
       "count": 5,
-      "last_crawled": "2026-09-04T08:31:49Z"
+      "last_crawled": "2026-09-05T08:08:08Z"
     },
     "PA": {
       "count": 0,
@@ -5359,7 +5341,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-04T08:31:49Z"
+      "last_crawled": "2026-09-05T08:08:08Z"
     },
     "SA": {
       "count": 76,
@@ -5382,5 +5364,5 @@
       "last_crawled": "2026-09-04T06:58:53Z"
     }
   },
-  "updated": "2026-09-05T07:17:17Z"
+  "updated": "2026-09-05T08:08:08Z"
 }
