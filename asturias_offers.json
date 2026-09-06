@@ -1,5 +1,5 @@
 {
-  "count": 583,
+  "count": 581,
   "failed_sectors": [],
   "offers": [
     {
@@ -271,15 +271,6 @@
       "sector": "CC",
       "title": "Comerciales inteligencia artificial (ref : 3675)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003675&ret=B"
-    },
-    {
-      "date": "17/08/2026",
-      "id": "032026003721",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "AA",
-      "title": "Conductor/a de maquinaria agricola (ref: 3721 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003721&ret=B"
     },
     {
       "date": "11/08/2026",
@@ -1684,15 +1675,6 @@
       "sector": "TH",
       "title": "4 puestos de ayudante de camrero/a (ref.: 5867) nueva difusion",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005867&ret=B"
-    },
-    {
-      "date": "05/08/2026",
-      "id": "032026005871",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Monitor/a deportivo (ref.: 5871)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005871&ret=B"
     },
     {
       "date": "31/08/2026",
@@ -5252,8 +5234,8 @@
   ],
   "sectors": {
     "AA": {
-      "count": 10,
-      "last_crawled": "2026-09-05T05:14:31Z"
+      "count": 9,
+      "last_crawled": "2026-09-06T05:28:44Z"
     },
     "AO": {
       "count": 15,
@@ -5269,11 +5251,11 @@
     },
     "CC": {
       "count": 46,
-      "last_crawled": "2026-09-05T05:14:31Z"
+      "last_crawled": "2026-09-06T05:28:44Z"
     },
     "DO": {
       "count": 22,
-      "last_crawled": "2026-09-05T05:14:31Z"
+      "last_crawled": "2026-09-06T05:28:44Z"
     },
     "EM": {
       "count": 16,
@@ -5293,7 +5275,7 @@
     },
     "IG": {
       "count": 1,
-      "last_crawled": "2026-09-05T05:14:31Z"
+      "last_crawled": "2026-09-06T05:28:44Z"
     },
     "IM": {
       "count": 2,
@@ -5313,7 +5295,7 @@
     },
     "MD": {
       "count": 4,
-      "last_crawled": "2026-09-05T05:14:31Z"
+      "last_crawled": "2026-09-06T05:28:44Z"
     },
     "MN": {
       "count": 0,
@@ -5333,7 +5315,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-09-05T05:14:31Z"
+      "last_crawled": "2026-09-06T05:28:44Z"
     },
     "PC": {
       "count": 0,
@@ -5352,8 +5334,8 @@
       "last_crawled": "2026-09-05T07:17:17Z"
     },
     "SP": {
-      "count": 118,
-      "last_crawled": "2026-09-05T05:14:31Z"
+      "count": 117,
+      "last_crawled": "2026-09-06T05:28:44Z"
     },
     "TC": {
       "count": 49,
@@ -5364,5 +5346,5 @@
       "last_crawled": "2026-09-04T06:58:53Z"
     }
   },
-  "updated": "2026-09-05T08:08:08Z"
+  "updated": "2026-09-06T05:28:44Z"
 }
