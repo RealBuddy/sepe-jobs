@@ -1,0 +1,12 @@
+# Mecanico/a - soldador/a oficial de primera
+
+- **Профессия (ES):** Mecanico/a - soldador/a oficial de primera
+- **Оригинальное название:** Mecanico/a - soldador/a oficial de primera (ref.: 6508)
+- **Город:** Llanera (Asturias)
+- **Дата публикации:** 04/09/2026
+- **ID оферты:** 032026006508
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006508&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
