@@ -1,5 +1,5 @@
 {
-  "count": 573,
+  "count": 567,
   "failed_sectors": [],
   "offers": [
     {
@@ -1281,15 +1281,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005624&ret=B"
     },
     {
-      "date": "18/08/2026",
-      "id": "032026005625",
-      "municipio": "Coaña",
-      "provincia": "Asturias",
-      "sector": "AA",
-      "title": "Peón/a de ganadería (ref.:5625)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005625&ret=B"
-    },
-    {
       "date": "28/08/2026",
       "id": "032026005638",
       "municipio": "Gijón",
@@ -1731,15 +1722,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005906&ret=B"
     },
     {
-      "date": "06/08/2026",
-      "id": "032026005908",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "2 comerciales con discapacidad (ref. 5908)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005908&ret=B"
-    },
-    {
       "date": "07/08/2026",
       "id": "032026005916",
       "municipio": "Siero",
@@ -1801,15 +1783,6 @@
       "sector": "IP",
       "title": "Peon/a especialista del metal (ref.5928)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005928&ret=B"
-    },
-    {
-      "date": "07/08/2026",
-      "id": "032026005930",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a (ref. 5930)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005930&ret=B"
     },
     {
       "date": "02/09/2026",
@@ -2116,15 +2089,6 @@
       "sector": "TH",
       "title": "Camarero o camarera (ref: 6028)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006028&ret=B"
-    },
-    {
-      "date": "12/08/2026",
-      "id": "032026006030",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de inglés (ref: 6030)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006030&ret=B"
     },
     {
       "date": "12/08/2026",
@@ -4009,15 +3973,6 @@
     },
     {
       "date": "31/08/2026",
-      "id": "032026006381",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "AA",
-      "title": "1 puesto de operador/a de maquinaria forestal (ref: 6381)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006381&ret=B"
-    },
-    {
-      "date": "31/08/2026",
       "id": "032026006382",
       "municipio": "Castrillon",
       "provincia": "Asturias",
@@ -4042,15 +3997,6 @@
       "sector": "SP",
       "title": "2 puestos de monitor/a servicio de madrugadores (ref.: 6384)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006384&ret=B"
-    },
-    {
-      "date": "31/08/2026",
-      "id": "032026006385",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "AA",
-      "title": "1 puesto de operario/a motoserrista forestal (ref: 6385)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006385&ret=B"
     },
     {
       "date": "31/08/2026",
@@ -5162,8 +5108,8 @@
   ],
   "sectors": {
     "AA": {
-      "count": 9,
-      "last_crawled": "2026-09-06T05:28:44Z"
+      "count": 6,
+      "last_crawled": "2026-09-07T05:39:14Z"
     },
     "AO": {
       "count": 16,
@@ -5178,12 +5124,12 @@
       "last_crawled": "2026-09-06T06:53:29Z"
     },
     "CC": {
-      "count": 46,
-      "last_crawled": "2026-09-06T05:28:44Z"
+      "count": 45,
+      "last_crawled": "2026-09-07T05:39:14Z"
     },
     "DO": {
-      "count": 22,
-      "last_crawled": "2026-09-06T05:28:44Z"
+      "count": 21,
+      "last_crawled": "2026-09-07T05:39:14Z"
     },
     "EM": {
       "count": 16,
@@ -5203,7 +5149,7 @@
     },
     "IG": {
       "count": 1,
-      "last_crawled": "2026-09-06T05:28:44Z"
+      "last_crawled": "2026-09-07T05:39:14Z"
     },
     "IM": {
       "count": 2,
@@ -5223,7 +5169,7 @@
     },
     "MD": {
       "count": 4,
-      "last_crawled": "2026-09-06T05:28:44Z"
+      "last_crawled": "2026-09-07T05:39:14Z"
     },
     "MN": {
       "count": 0,
@@ -5243,7 +5189,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-09-06T05:28:44Z"
+      "last_crawled": "2026-09-07T05:39:14Z"
     },
     "PC": {
       "count": 0,
@@ -5262,8 +5208,8 @@
       "last_crawled": "2026-09-06T07:29:40Z"
     },
     "SP": {
-      "count": 117,
-      "last_crawled": "2026-09-06T05:28:44Z"
+      "count": 116,
+      "last_crawled": "2026-09-07T05:39:14Z"
     },
     "TC": {
       "count": 49,
@@ -5274,5 +5220,5 @@
       "last_crawled": "2026-09-06T06:53:29Z"
     }
   },
-  "updated": "2026-09-06T07:29:40Z"
+  "updated": "2026-09-07T05:39:14Z"
 }
