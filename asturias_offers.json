@@ -1,5 +1,5 @@
 {
-  "count": 562,
+  "count": 561,
   "failed_sectors": [],
   "offers": [
     {
@@ -894,7 +894,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005252&ret=B"
     },
     {
-      "date": "11/08/2026",
+      "date": "07/09/2026",
       "id": "032026005267",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -2926,15 +2926,6 @@
       "sector": "MO",
       "title": "Instalador/a de portones y puertas automáticas (ref. 6234)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006234&ret=B"
-    },
-    {
-      "date": "24/08/2026",
-      "id": "032026006235",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "1 puesto de instalador/a de tuberías de saneamiento y abastecimiento (ref: 6235)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006235&ret=B"
     },
     {
       "date": "24/08/2026",
@@ -5072,7 +5063,7 @@
     },
     "AR": {
       "count": 2,
-      "last_crawled": "2026-09-05T08:08:08Z"
+      "last_crawled": "2026-09-07T08:59:53Z"
     },
     "AU": {
       "count": 6,
@@ -5088,7 +5079,7 @@
     },
     "EM": {
       "count": 16,
-      "last_crawled": "2026-09-05T08:08:08Z"
+      "last_crawled": "2026-09-07T08:59:53Z"
     },
     "EO": {
       "count": 35,
@@ -5116,11 +5107,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-09-05T08:08:08Z"
+      "last_crawled": "2026-09-07T08:59:53Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-09-05T08:08:08Z"
+      "last_crawled": "2026-09-07T08:59:53Z"
     },
     "MD": {
       "count": 4,
@@ -5131,8 +5122,8 @@
       "last_crawled": "2026-09-07T07:46:24Z"
     },
     "MO": {
-      "count": 18,
-      "last_crawled": "2026-09-05T08:08:08Z"
+      "count": 17,
+      "last_crawled": "2026-09-07T08:59:53Z"
     },
     "MR": {
       "count": 20,
@@ -5140,7 +5131,7 @@
     },
     "MT": {
       "count": 5,
-      "last_crawled": "2026-09-05T08:08:08Z"
+      "last_crawled": "2026-09-07T08:59:53Z"
     },
     "PA": {
       "count": 0,
@@ -5152,7 +5143,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-05T08:08:08Z"
+      "last_crawled": "2026-09-07T08:59:53Z"
     },
     "SA": {
       "count": 77,
@@ -5175,5 +5166,5 @@
       "last_crawled": "2026-09-07T07:03:03Z"
     }
   },
-  "updated": "2026-09-07T07:46:24Z"
+  "updated": "2026-09-07T08:59:53Z"
 }
