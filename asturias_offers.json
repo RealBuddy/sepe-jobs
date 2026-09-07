@@ -1,5 +1,5 @@
 {
-  "count": 567,
+  "count": 563,
   "failed_sectors": [],
   "offers": [
     {
@@ -1723,24 +1723,6 @@
     },
     {
       "date": "07/08/2026",
-      "id": "032026005916",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de cocina (ref. 5916)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005916&ret=B"
-    },
-    {
-      "date": "07/08/2026",
-      "id": "032026005917",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camarero/a (ref. 5917)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005917&ret=B"
-    },
-    {
-      "date": "07/08/2026",
       "id": "032026005918",
       "municipio": "Cangas del narcea",
       "provincia": "Asturias",
@@ -2080,15 +2062,6 @@
       "sector": "CC",
       "title": "Mozo/a de almacén (ref. 6027)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006027&ret=B"
-    },
-    {
-      "date": "12/08/2026",
-      "id": "032026006028",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camarero o camarera (ref: 6028)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006028&ret=B"
     },
     {
       "date": "12/08/2026",
@@ -2944,15 +2917,6 @@
       "sector": "TC",
       "title": "Conductor/a de reparto (ref. 6230 )",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006230&ret=B"
-    },
-    {
-      "date": "24/08/2026",
-      "id": "032026006232",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "1 puesto de albañil (ref: 6232)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006232&ret=B"
     },
     {
       "date": "24/08/2026",
@@ -5113,7 +5077,7 @@
     },
     "AO": {
       "count": 16,
-      "last_crawled": "2026-09-06T06:53:29Z"
+      "last_crawled": "2026-09-07T07:03:03Z"
     },
     "AR": {
       "count": 2,
@@ -5121,7 +5085,7 @@
     },
     "AU": {
       "count": 6,
-      "last_crawled": "2026-09-06T06:53:29Z"
+      "last_crawled": "2026-09-07T07:03:03Z"
     },
     "CC": {
       "count": 45,
@@ -5136,12 +5100,12 @@
       "last_crawled": "2026-09-05T08:08:08Z"
     },
     "EO": {
-      "count": 36,
-      "last_crawled": "2026-09-06T06:53:29Z"
+      "count": 35,
+      "last_crawled": "2026-09-07T07:03:03Z"
     },
     "FE": {
       "count": 7,
-      "last_crawled": "2026-09-06T06:53:29Z"
+      "last_crawled": "2026-09-07T07:03:03Z"
     },
     "IA": {
       "count": 12,
@@ -5153,7 +5117,7 @@
     },
     "IM": {
       "count": 2,
-      "last_crawled": "2026-09-06T06:53:29Z"
+      "last_crawled": "2026-09-07T07:03:03Z"
     },
     "IP": {
       "count": 21,
@@ -5193,7 +5157,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-09-06T06:53:29Z"
+      "last_crawled": "2026-09-07T07:03:03Z"
     },
     "PT": {
       "count": 0,
@@ -5216,9 +5180,9 @@
       "last_crawled": "2026-09-06T07:29:40Z"
     },
     "TH": {
-      "count": 85,
-      "last_crawled": "2026-09-06T06:53:29Z"
+      "count": 82,
+      "last_crawled": "2026-09-07T07:03:03Z"
     }
   },
-  "updated": "2026-09-07T05:39:14Z"
+  "updated": "2026-09-07T07:03:03Z"
 }
