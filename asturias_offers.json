@@ -1,5 +1,5 @@
 {
-  "count": 569,
+  "count": 567,
   "failed_sectors": [],
   "offers": [
     {
@@ -91,15 +91,6 @@
       "sector": "AO",
       "title": "nueva difusión aux. administrativo - el berrón (ref. 2026)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002026&ret=B"
-    },
-    {
-      "date": "19/08/2026",
-      "id": "032026002383",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "3 instaladores/as eléctricos/as (ref.:2383)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002383&ret=B"
     },
     {
       "date": "25/08/2026",
@@ -1207,15 +1198,6 @@
       "sector": "MO",
       "title": "Montador/a de estructuras (ref. 5568)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005568&ret=B"
-    },
-    {
-      "date": "17/08/2026",
-      "id": "032026005572",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Asesor/a laboral (ref.: 5572)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005572&ret=B"
     },
     {
       "date": "23/07/2026",
@@ -3163,15 +3145,6 @@
     },
     {
       "date": "25/08/2026",
-      "id": "032026006273",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "AR",
-      "title": "1 puesto de cerrajero/a (ref: 6273)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006273&ret=B"
-    },
-    {
-      "date": "25/08/2026",
       "id": "032026006275",
       "municipio": "Cangas de onis",
       "provincia": "Asturias",
@@ -5098,6 +5071,15 @@
     },
     {
       "date": "07/09/2026",
+      "id": "032026006536",
+      "municipio": "Cudillero",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "2 operarios/as de producción (ref: 6536)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006536&ret=B"
+    },
+    {
+      "date": "07/09/2026",
       "id": "032026006538",
       "municipio": "Llanes",
       "provincia": "Asturias",
@@ -5134,8 +5116,8 @@
       "last_crawled": "2026-09-08T06:57:36Z"
     },
     "AR": {
-      "count": 2,
-      "last_crawled": "2026-09-07T08:59:53Z"
+      "count": 1,
+      "last_crawled": "2026-09-08T08:39:29Z"
     },
     "AU": {
       "count": 7,
@@ -5150,8 +5132,8 @@
       "last_crawled": "2026-09-08T05:34:49Z"
     },
     "EM": {
-      "count": 16,
-      "last_crawled": "2026-09-07T08:59:53Z"
+      "count": 15,
+      "last_crawled": "2026-09-08T08:39:29Z"
     },
     "EO": {
       "count": 37,
@@ -5179,11 +5161,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-09-07T08:59:53Z"
+      "last_crawled": "2026-09-08T08:39:29Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-09-07T08:59:53Z"
+      "last_crawled": "2026-09-08T08:39:29Z"
     },
     "MD": {
       "count": 4,
@@ -5194,16 +5176,16 @@
       "last_crawled": "2026-09-08T07:40:22Z"
     },
     "MO": {
-      "count": 17,
-      "last_crawled": "2026-09-07T08:59:53Z"
+      "count": 16,
+      "last_crawled": "2026-09-08T08:39:29Z"
     },
     "MR": {
       "count": 19,
       "last_crawled": "2026-09-08T07:40:22Z"
     },
     "MT": {
-      "count": 5,
-      "last_crawled": "2026-09-07T08:59:53Z"
+      "count": 6,
+      "last_crawled": "2026-09-08T08:39:29Z"
     },
     "PA": {
       "count": 0,
@@ -5215,7 +5197,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-07T08:59:53Z"
+      "last_crawled": "2026-09-08T08:39:29Z"
     },
     "SA": {
       "count": 74,
@@ -5238,5 +5220,5 @@
       "last_crawled": "2026-09-08T06:57:36Z"
     }
   },
-  "updated": "2026-09-08T07:40:22Z"
+  "updated": "2026-09-08T08:39:29Z"
 }
