@@ -1,0 +1,12 @@
+# Ayudante de panadero/a
+
+- **Профессия (ES):** Ayudante de panadero/a
+- **Оригинальное название:** Ayudante de panadero/a (ref.: 6525)
+- **Город:** Llanera (Asturias)
+- **Дата публикации:** 07/09/2026
+- **ID оферты:** 032026006525
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006525&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._

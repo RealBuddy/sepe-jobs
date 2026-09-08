@@ -1,5 +1,5 @@
 {
-  "count": 572,
+  "count": 569,
   "failed_sectors": [],
   "offers": [
     {
@@ -379,15 +379,6 @@
       "sector": "TH",
       "title": "Nueva difusión: cocinero/a (ref. 4108)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004108&ret=B"
-    },
-    {
-      "date": "08/07/2026",
-      "id": "032026004117",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a - repartidor/a - carné c (ref. 4117)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004117&ret=B"
     },
     {
       "date": "04/09/2026",
@@ -1378,15 +1369,6 @@
       "sector": "TH",
       "title": "4 puestos de ayudante de camarero/a (ref.: 5737)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005737&ret=B"
-    },
-    {
-      "date": "24/08/2026",
-      "id": "032026005746",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermero/a (ref. 5746)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005746&ret=B"
     },
     {
       "date": "26/08/2026",
@@ -2505,15 +2487,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006139&ret=B"
     },
     {
-      "date": "18/08/2026",
-      "id": "032026006144",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MR",
-      "title": "Electromecánico/a de vehículos (ref.: 6144)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006144&ret=B"
-    },
-    {
       "date": "27/08/2026",
       "id": "032026006145",
       "municipio": "Mieres",
@@ -2584,15 +2557,6 @@
       "sector": "EO",
       "title": "Peón especialista construcción (ref.: 6164)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006164&ret=B"
-    },
-    {
-      "date": "19/08/2026",
-      "id": "032026006166",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermera o enfermero (ref: 6166)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006166&ret=B"
     },
     {
       "date": "19/08/2026",
@@ -2935,15 +2899,6 @@
       "sector": "MO",
       "title": "Instalador/a de portones y puertas automáticas (ref. 6234)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006234&ret=B"
-    },
-    {
-      "date": "24/08/2026",
-      "id": "032026006236",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermera/o (ref.: 6236)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006236&ret=B"
     },
     {
       "date": "24/08/2026",
@@ -5035,12 +4990,30 @@
     },
     {
       "date": "07/09/2026",
+      "id": "032026006523",
+      "municipio": "Belmonte de miranda",
+      "provincia": "Asturias",
+      "sector": "MN",
+      "title": "2 operadores/as de planta (ref.. 6523)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006523&ret=B"
+    },
+    {
+      "date": "07/09/2026",
       "id": "032026006524",
       "municipio": "Oviedo",
       "provincia": "Asturias",
       "sector": "DO",
       "title": "Profesor/a de informática (ref.6524)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006524&ret=B"
+    },
+    {
+      "date": "07/09/2026",
+      "id": "032026006525",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "IA",
+      "title": "Ayudante de panadero/a (ref.: 6525)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006525&ret=B"
     },
     {
       "date": "07/09/2026",
@@ -5189,8 +5162,8 @@
       "last_crawled": "2026-09-08T06:57:36Z"
     },
     "IA": {
-      "count": 12,
-      "last_crawled": "2026-09-07T07:46:24Z"
+      "count": 13,
+      "last_crawled": "2026-09-08T07:40:22Z"
     },
     "IG": {
       "count": 1,
@@ -5202,7 +5175,7 @@
     },
     "IP": {
       "count": 21,
-      "last_crawled": "2026-09-07T07:46:24Z"
+      "last_crawled": "2026-09-08T07:40:22Z"
     },
     "IQ": {
       "count": 0,
@@ -5217,16 +5190,16 @@
       "last_crawled": "2026-09-08T05:34:49Z"
     },
     "MN": {
-      "count": 0,
-      "last_crawled": "2026-09-07T07:46:24Z"
+      "count": 1,
+      "last_crawled": "2026-09-08T07:40:22Z"
     },
     "MO": {
       "count": 17,
       "last_crawled": "2026-09-07T08:59:53Z"
     },
     "MR": {
-      "count": 20,
-      "last_crawled": "2026-09-07T07:46:24Z"
+      "count": 19,
+      "last_crawled": "2026-09-08T07:40:22Z"
     },
     "MT": {
       "count": 5,
@@ -5245,25 +5218,25 @@
       "last_crawled": "2026-09-07T08:59:53Z"
     },
     "SA": {
-      "count": 77,
-      "last_crawled": "2026-09-07T07:46:24Z"
+      "count": 74,
+      "last_crawled": "2026-09-08T07:40:22Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-09-07T07:46:24Z"
+      "last_crawled": "2026-09-08T07:40:22Z"
     },
     "SP": {
       "count": 120,
       "last_crawled": "2026-09-08T05:34:49Z"
     },
     "TC": {
-      "count": 47,
-      "last_crawled": "2026-09-07T07:46:24Z"
+      "count": 46,
+      "last_crawled": "2026-09-08T07:40:22Z"
     },
     "TH": {
       "count": 78,
       "last_crawled": "2026-09-08T06:57:36Z"
     }
   },
-  "updated": "2026-09-08T06:57:36Z"
+  "updated": "2026-09-08T07:40:22Z"
 }
