@@ -1,5 +1,5 @@
 {
-  "count": 541,
+  "count": 540,
   "failed_sectors": [],
   "offers": [
     {
@@ -1108,15 +1108,6 @@
       "sector": "AO",
       "title": "Empleado/a - administración de loterías (ref: 5567)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005567&ret=B"
-    },
-    {
-      "date": "18/08/2026",
-      "id": "032026005568",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Montador/a de estructuras (ref. 5568)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005568&ret=B"
     },
     {
       "date": "23/07/2026",
@@ -4883,7 +4874,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-09-08T08:39:29Z"
+      "last_crawled": "2026-09-09T08:43:23Z"
     },
     "AU": {
       "count": 7,
@@ -4899,7 +4890,7 @@
     },
     "EM": {
       "count": 15,
-      "last_crawled": "2026-09-08T08:39:29Z"
+      "last_crawled": "2026-09-09T08:43:23Z"
     },
     "EO": {
       "count": 34,
@@ -4927,11 +4918,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-09-08T08:39:29Z"
+      "last_crawled": "2026-09-09T08:43:23Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-09-08T08:39:29Z"
+      "last_crawled": "2026-09-09T08:43:23Z"
     },
     "MD": {
       "count": 3,
@@ -4942,8 +4933,8 @@
       "last_crawled": "2026-09-09T07:44:59Z"
     },
     "MO": {
-      "count": 16,
-      "last_crawled": "2026-09-08T08:39:29Z"
+      "count": 15,
+      "last_crawled": "2026-09-09T08:43:23Z"
     },
     "MR": {
       "count": 19,
@@ -4951,7 +4942,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-09-08T08:39:29Z"
+      "last_crawled": "2026-09-09T08:43:23Z"
     },
     "PA": {
       "count": 0,
@@ -4963,7 +4954,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-08T08:39:29Z"
+      "last_crawled": "2026-09-09T08:43:23Z"
     },
     "SA": {
       "count": 73,
@@ -4986,5 +4977,5 @@
       "last_crawled": "2026-09-09T07:06:35Z"
     }
   },
-  "updated": "2026-09-09T07:44:59Z"
+  "updated": "2026-09-09T08:43:23Z"
 }
