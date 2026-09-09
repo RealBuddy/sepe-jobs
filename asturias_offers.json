@@ -1,5 +1,5 @@
 {
-  "count": 567,
+  "count": 556,
   "failed_sectors": [],
   "offers": [
     {
@@ -400,30 +400,12 @@
     },
     {
       "date": "12/08/2026",
-      "id": "032026004201",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MD",
-      "title": "Carpintero/a-montador/a (ref: 4201)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004201&ret=B"
-    },
-    {
-      "date": "12/08/2026",
       "id": "032026004206",
       "municipio": "Aviles",
       "provincia": "Asturias",
       "sector": "TC",
       "title": "Mozos/as especialistas (ref: 4206)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004206&ret=B"
-    },
-    {
-      "date": "19/08/2026",
-      "id": "032026004220",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Expendedor/a de combustible (ref.: 4220)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004220&ret=B"
     },
     {
       "date": "26/08/2026",
@@ -766,15 +748,6 @@
       "sector": "SP",
       "title": "Auxiliar de lavanderia (ref. 5090) nueva difusión",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005090&ret=B"
-    },
-    {
-      "date": "18/08/2026",
-      "id": "032026005093",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Almacenero/a (ref. 5093)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005093&ret=B"
     },
     {
       "date": "26/08/2026",
@@ -1326,15 +1299,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005687&ret=B"
     },
     {
-      "date": "26/08/2026",
-      "id": "032026005707",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Mozo/a de almacén (ref. 5707)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005707&ret=B"
-    },
-    {
       "date": "03/09/2026",
       "id": "032026005732",
       "municipio": "Oviedo",
@@ -1504,15 +1468,6 @@
       "sector": "SP",
       "title": "Auxiliar de ayuda a domicilio(ref:5815)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005815&ret=B"
-    },
-    {
-      "date": "02/09/2026",
-      "id": "032026005816",
-      "municipio": "Llanes",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "1 puesto vacante docente impartir c.p.\"o.a. de albañilería de fábricas y cubiertas\"(eocb0208) -e.t. ayto. llanes 25/26 (ref: 5816)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005816&ret=B"
     },
     {
       "date": "31/08/2026",
@@ -2181,15 +2136,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006078&ret=B"
     },
     {
-      "date": "14/08/2026",
-      "id": "032026006080",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Docente del cert de prof gestión de la producción en la fabricación mecánica (ref.: 6080)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006080&ret=B"
-    },
-    {
       "date": "07/09/2026",
       "id": "032026006081",
       "municipio": "Aviles",
@@ -2397,15 +2343,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006126&ret=B"
     },
     {
-      "date": "07/09/2026",
-      "id": "032026006127",
-      "municipio": "Ribera de arriba",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Expendedor/a de estación de combustible (ref.: 6127)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006127&ret=B"
-    },
-    {
       "date": "18/08/2026",
       "id": "032026006129",
       "municipio": "Aviles",
@@ -2566,15 +2503,6 @@
       "sector": "AU",
       "title": "Oficial 3ª mecanico/a - reparador/a de automovil (ref.: 6170)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006170&ret=B"
-    },
-    {
-      "date": "01/09/2026",
-      "id": "032026006173",
-      "municipio": "Valdes",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Expendedor/a para estacion de servicio (ref.6173)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006173&ret=B"
     },
     {
       "date": "19/08/2026",
@@ -3304,15 +3232,6 @@
       "sector": "DO",
       "title": "Profesor/a de inglés para actividades extraescolares (ref.6300)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006300&ret=B"
-    },
-    {
-      "date": "26/08/2026",
-      "id": "032026006301",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de ingles extraescolar (ref: 6301)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006301&ret=B"
     },
     {
       "date": "26/08/2026",
@@ -4386,15 +4305,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006449&ret=B"
     },
     {
-      "date": "02/09/2026",
-      "id": "032026006450",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Informador/a-orientador/a-socio-educativo/a(ref.6450).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006450&ret=B"
-    },
-    {
       "date": "03/09/2026",
       "id": "032026006451",
       "municipio": "Amieva",
@@ -4990,15 +4900,6 @@
     },
     {
       "date": "07/09/2026",
-      "id": "032026006526",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Cuidador/a de comedor (ref.6526).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006526&ret=B"
-    },
-    {
-      "date": "07/09/2026",
       "id": "032026006527",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -5109,7 +5010,7 @@
   "sectors": {
     "AA": {
       "count": 7,
-      "last_crawled": "2026-09-08T05:34:49Z"
+      "last_crawled": "2026-09-09T05:42:37Z"
     },
     "AO": {
       "count": 17,
@@ -5124,12 +5025,12 @@
       "last_crawled": "2026-09-08T06:57:36Z"
     },
     "CC": {
-      "count": 48,
-      "last_crawled": "2026-09-08T05:34:49Z"
+      "count": 43,
+      "last_crawled": "2026-09-09T05:42:37Z"
     },
     "DO": {
-      "count": 24,
-      "last_crawled": "2026-09-08T05:34:49Z"
+      "count": 21,
+      "last_crawled": "2026-09-09T05:42:37Z"
     },
     "EM": {
       "count": 15,
@@ -5149,7 +5050,7 @@
     },
     "IG": {
       "count": 1,
-      "last_crawled": "2026-09-08T05:34:49Z"
+      "last_crawled": "2026-09-09T05:42:37Z"
     },
     "IM": {
       "count": 2,
@@ -5168,8 +5069,8 @@
       "last_crawled": "2026-09-08T08:39:29Z"
     },
     "MD": {
-      "count": 4,
-      "last_crawled": "2026-09-08T05:34:49Z"
+      "count": 3,
+      "last_crawled": "2026-09-09T05:42:37Z"
     },
     "MN": {
       "count": 1,
@@ -5189,7 +5090,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-09-08T05:34:49Z"
+      "last_crawled": "2026-09-09T05:42:37Z"
     },
     "PC": {
       "count": 0,
@@ -5208,8 +5109,8 @@
       "last_crawled": "2026-09-08T07:40:22Z"
     },
     "SP": {
-      "count": 120,
-      "last_crawled": "2026-09-08T05:34:49Z"
+      "count": 118,
+      "last_crawled": "2026-09-09T05:42:37Z"
     },
     "TC": {
       "count": 46,
@@ -5220,5 +5121,5 @@
       "last_crawled": "2026-09-08T06:57:36Z"
     }
   },
-  "updated": "2026-09-08T08:39:29Z"
+  "updated": "2026-09-09T05:42:37Z"
 }
