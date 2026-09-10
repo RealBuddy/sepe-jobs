@@ -1,0 +1,12 @@
+# oficiales de 1ª construcción - sate
+
+- **Профессия (ES):** oficiales de 1ª construcción - sate
+- **Оригинальное название:** 4 oficiales de 1ª construcción - sate (ref.6564)
+- **Город:** Llanes (Asturias)
+- **Дата публикации:** 10/09/2026
+- **ID оферты:** 032026006564
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006564&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._

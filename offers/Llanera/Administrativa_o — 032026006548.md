@@ -1,0 +1,12 @@
+# Administrativa/o
+
+- **Профессия (ES):** Administrativa/o
+- **Оригинальное название:** Administrativa/o (ref.: 6548)
+- **Город:** Llanera (Asturias)
+- **Дата публикации:** 09/09/2026
+- **ID оферты:** 032026006548
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006548&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
