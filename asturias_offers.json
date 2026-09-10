@@ -1,5 +1,5 @@
 {
-  "count": 548,
+  "count": 546,
   "failed_sectors": [],
   "offers": [
     {
@@ -1326,15 +1326,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005779&ret=B"
     },
     {
-      "date": "31/07/2026",
-      "id": "032026005782",
-      "municipio": "Belmonte de miranda",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "1 mecanico/a de mina (ref.5782)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005782&ret=B"
-    },
-    {
       "date": "02/09/2026",
       "id": "032026005785",
       "municipio": "Siero",
@@ -1432,6 +1423,15 @@
       "sector": "SP",
       "title": "3 puestos personal de limpieza. oficios varios (ref. 5829)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005829&ret=B"
+    },
+    {
+      "date": "09/09/2026",
+      "id": "032026005831",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Nueva difusión: instalador/a de alarmas (ref. 5831)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005831&ret=B"
     },
     {
       "date": "04/08/2026",
@@ -2550,15 +2550,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006219&ret=B"
     },
     {
-      "date": "04/09/2026",
-      "id": "032026006223",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "2 puestos de vigilante de seguridad (ref. 6223)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006223&ret=B"
-    },
-    {
       "date": "24/08/2026",
       "id": "032026006228",
       "municipio": "Gijón",
@@ -2629,15 +2620,6 @@
       "sector": "SA",
       "title": "Auxiliar de farmacia (ref. 6242)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006242&ret=B"
-    },
-    {
-      "date": "24/08/2026",
-      "id": "032026006243",
-      "municipio": "Cangas de onis",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "2 puestos de peon de produccion (6243)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006243&ret=B"
     },
     {
       "date": "24/08/2026",
@@ -3385,15 +3367,6 @@
       "sector": "SA",
       "title": "Enfermero/a (ref.6372)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006372&ret=B"
-    },
-    {
-      "date": "31/08/2026",
-      "id": "032026006374",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Intérprete de lengua de signos (ref.:6374)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006374&ret=B"
     },
     {
       "date": "31/08/2026",
@@ -4828,6 +4801,15 @@
     },
     {
       "date": "09/09/2026",
+      "id": "032026006558",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a área contrataciones (ref.: 6558)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006558&ret=B"
+    },
+    {
+      "date": "09/09/2026",
       "id": "032026006559",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4946,7 +4928,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-09-09T08:43:23Z"
+      "last_crawled": "2026-09-10T08:42:14Z"
     },
     "AU": {
       "count": 7,
@@ -4961,8 +4943,8 @@
       "last_crawled": "2026-09-10T05:33:38Z"
     },
     "EM": {
-      "count": 15,
-      "last_crawled": "2026-09-09T08:43:23Z"
+      "count": 14,
+      "last_crawled": "2026-09-10T08:42:14Z"
     },
     "EO": {
       "count": 38,
@@ -4990,11 +4972,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-09-09T08:43:23Z"
+      "last_crawled": "2026-09-10T08:42:14Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-09-09T08:43:23Z"
+      "last_crawled": "2026-09-10T08:42:14Z"
     },
     "MD": {
       "count": 3,
@@ -5006,15 +4988,15 @@
     },
     "MO": {
       "count": 15,
-      "last_crawled": "2026-09-09T08:43:23Z"
+      "last_crawled": "2026-09-10T08:42:14Z"
     },
     "MR": {
       "count": 17,
       "last_crawled": "2026-09-10T07:44:37Z"
     },
     "MT": {
-      "count": 6,
-      "last_crawled": "2026-09-09T08:43:23Z"
+      "count": 5,
+      "last_crawled": "2026-09-10T08:42:14Z"
     },
     "PA": {
       "count": 0,
@@ -5026,7 +5008,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-09T08:43:23Z"
+      "last_crawled": "2026-09-10T08:42:14Z"
     },
     "SA": {
       "count": 72,
@@ -5049,5 +5031,5 @@
       "last_crawled": "2026-09-10T07:02:54Z"
     }
   },
-  "updated": "2026-09-10T07:44:37Z"
+  "updated": "2026-09-10T08:42:14Z"
 }

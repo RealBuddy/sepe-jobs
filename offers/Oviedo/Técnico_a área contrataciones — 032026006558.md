@@ -1,0 +1,12 @@
+# Técnico/a área contrataciones
+
+- **Профессия (ES):** Técnico/a área contrataciones
+- **Оригинальное название:** Técnico/a área contrataciones (ref.: 6558)
+- **Город:** Oviedo (Asturias)
+- **Дата публикации:** 09/09/2026
+- **ID оферты:** 032026006558
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006558&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
