@@ -1,0 +1,12 @@
+# dependiente/a tienda
+
+- **Профессия (ES):** dependiente/a tienda
+- **Оригинальное название:** 1 dependiente/a tienda (ref.6552)
+- **Город:** Tineo (Asturias)
+- **Дата публикации:** 09/09/2026
+- **ID оферты:** 032026006552
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006552&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._

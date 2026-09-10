@@ -1,0 +1,12 @@
+# Formador/a en actividades educativas
+
+- **Профессия (ES):** Formador/a en actividades educativas
+- **Оригинальное название:** Formador/a en actividades educativas (ref.: 6554)
+- **Город:** Oviedo (Asturias)
+- **Дата публикации:** 09/09/2026
+- **ID оферты:** 032026006554
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006554&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._

@@ -1,0 +1,12 @@
+# Personal de mantenimiento de jardinería y zonas comunes
+
+- **Профессия (ES):** Personal de mantenimiento de jardinería y zonas comunes
+- **Оригинальное название:** Personal de mantenimiento de jardinería y zonas comunes (ref.6542)
+- **Город:** Villaviciosa (Asturias)
+- **Дата публикации:** 09/09/2026
+- **ID оферты:** 032026006542
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006542&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
