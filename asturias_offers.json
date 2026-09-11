@@ -1,5 +1,5 @@
 {
-  "count": 545,
+  "count": 549,
   "failed_sectors": [],
   "offers": [
     {
@@ -1270,6 +1270,15 @@
       "sector": "EO",
       "title": "Montadores/as de eventos (ref: 5779 )",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005779&ret=B"
+    },
+    {
+      "date": "11/09/2026",
+      "id": "032026005782",
+      "municipio": "Belmonte de miranda",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "1 mecanico/a de mina (ref.5782)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005782&ret=B"
     },
     {
       "date": "02/09/2026",
@@ -4486,15 +4495,6 @@
     },
     {
       "date": "07/09/2026",
-      "id": "032026006536",
-      "municipio": "Cudillero",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "2 operarios/as de producción (ref: 6536)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006536&ret=B"
-    },
-    {
-      "date": "07/09/2026",
       "id": "032026006538",
       "municipio": "Llanes",
       "provincia": "Asturias",
@@ -4837,12 +4837,30 @@
     },
     {
       "date": "10/09/2026",
+      "id": "032026006580",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "IQ",
+      "title": "Controlador/a inspección visual residuos (ref.6580)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006580&ret=B"
+    },
+    {
+      "date": "10/09/2026",
       "id": "032026006582",
       "municipio": "Mieres",
       "provincia": "Asturias",
       "sector": "TH",
       "title": "2 camareros/as de cafetería(ref.6582).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006582&ret=B"
+    },
+    {
+      "date": "10/09/2026",
+      "id": "032026006583",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Consultor/a de proteccion de datos (ref.: 6583)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006583&ret=B"
     },
     {
       "date": "10/09/2026",
@@ -4870,6 +4888,15 @@
       "sector": "TH",
       "title": "Ayudante de camarero/a (ref. 6589)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006589&ret=B"
+    },
+    {
+      "date": "10/09/2026",
+      "id": "032026006590",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Ingeniero/a de seguridad (ref. 6590)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006590&ret=B"
     },
     {
       "date": "10/09/2026",
@@ -4906,6 +4933,15 @@
       "sector": "AO",
       "title": "Auxiliar administrativo (ref. 6594)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006594&ret=B"
+    },
+    {
+      "date": "11/09/2026",
+      "id": "032026006597",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "5 puestos de encuestador/a entrevistador/a (ref.: 6597)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006597&ret=B"
     }
   ],
   "sectors": {
@@ -4919,7 +4955,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-09-10T08:42:14Z"
+      "last_crawled": "2026-09-11T08:39:53Z"
     },
     "AU": {
       "count": 6,
@@ -4934,8 +4970,8 @@
       "last_crawled": "2026-09-11T05:36:47Z"
     },
     "EM": {
-      "count": 14,
-      "last_crawled": "2026-09-10T08:42:14Z"
+      "count": 17,
+      "last_crawled": "2026-09-11T08:39:53Z"
     },
     "EO": {
       "count": 36,
@@ -4962,12 +4998,12 @@
       "last_crawled": "2026-09-10T07:44:37Z"
     },
     "IQ": {
-      "count": 0,
-      "last_crawled": "2026-09-10T08:42:14Z"
+      "count": 1,
+      "last_crawled": "2026-09-11T08:39:53Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-09-10T08:42:14Z"
+      "last_crawled": "2026-09-11T08:39:53Z"
     },
     "MD": {
       "count": 3,
@@ -4978,16 +5014,16 @@
       "last_crawled": "2026-09-10T07:44:37Z"
     },
     "MO": {
-      "count": 15,
-      "last_crawled": "2026-09-10T08:42:14Z"
+      "count": 16,
+      "last_crawled": "2026-09-11T08:39:53Z"
     },
     "MR": {
       "count": 17,
       "last_crawled": "2026-09-10T07:44:37Z"
     },
     "MT": {
-      "count": 5,
-      "last_crawled": "2026-09-10T08:42:14Z"
+      "count": 4,
+      "last_crawled": "2026-09-11T08:39:53Z"
     },
     "PA": {
       "count": 0,
@@ -4999,7 +5035,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-10T08:42:14Z"
+      "last_crawled": "2026-09-11T08:39:53Z"
     },
     "SA": {
       "count": 72,
@@ -5022,5 +5058,5 @@
       "last_crawled": "2026-09-11T07:02:21Z"
     }
   },
-  "updated": "2026-09-11T07:02:21Z"
+  "updated": "2026-09-11T08:39:53Z"
 }
