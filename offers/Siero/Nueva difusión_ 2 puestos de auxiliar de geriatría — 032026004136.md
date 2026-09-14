@@ -1,0 +1,12 @@
+# Nueva difusión: 2 puestos de auxiliar de geriatría
+
+- **Профессия (ES):** Nueva difusión: 2 puestos de auxiliar de geriatría
+- **Оригинальное название:** Nueva difusión: 2 puestos de auxiliar de geriatría (ref. 4136)
+- **Город:** Siero (Asturias)
+- **Дата публикации:** 03/09/2026
+- **ID оферты:** 032026004136
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004136&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._

@@ -1,9 +1,9 @@
-# Машинист крана собирает рождественское освещение
+# Nueva difusión: conductor/a gruista montaje iluminación navideña
 
-- **Профессия (ES):** Conductor/a gruista montaje iluminación navideña
-- **Оригинальное название:** Conductor/a gruista montaje iluminación navideña (ref. 5991)
+- **Профессия (ES):** Nueva difusión: conductor/a gruista montaje iluminación navideña
+- **Оригинальное название:** Nueva difusión: conductor/a gruista montaje iluminación navideña (ref. 5991)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 11/08/2026
+- **Дата публикации:** 11/09/2026
 - **ID оферты:** 032026005991
 
 ## 👉 Откликнуться на вакансию
