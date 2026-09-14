@@ -1,5 +1,5 @@
 {
-  "count": 514,
+  "count": 505,
   "failed_sectors": [],
   "offers": [
     {
@@ -460,15 +460,6 @@
       "sector": "CC",
       "title": "Mozo/a de almacén-repartidor/a (ref.: 4426)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004426&ret=B"
-    },
-    {
-      "date": "12/08/2026",
-      "id": "032026004435",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "2 puestos de ingeniero/a de software - especialista en automatización de procesos y crm (ref.4435)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004435&ret=B"
     },
     {
       "date": "31/08/2026",
@@ -1533,15 +1524,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005988&ret=B"
     },
     {
-      "date": "11/08/2026",
-      "id": "032026005990",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "IT",
-      "title": "Instalador/a de cortinas (ref.: 5990)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005990&ret=B"
-    },
-    {
       "date": "11/09/2026",
       "id": "032026005991",
       "municipio": "Siero",
@@ -1560,21 +1542,21 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005994&ret=B"
     },
     {
-      "date": "11/08/2026",
+      "date": "11/09/2026",
       "id": "032026005995",
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "MO",
-      "title": "Montador/a decoración navideña (ref. 5995)",
+      "title": "Nueva difusión: montador/a decoración navideña (ref. 5995)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005995&ret=B"
     },
     {
-      "date": "11/08/2026",
+      "date": "11/09/2026",
       "id": "032026005996",
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "MO",
-      "title": "Oficial electricista iluminación navideña (ref. 5996)",
+      "title": "Nueva difusión: oficial electricista iluminación navideña (ref. 5996)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005996&ret=B"
     },
     {
@@ -1828,15 +1810,6 @@
       "sector": "TH",
       "title": "1 recepcionista / restaurante para barzana. quiros (ref.: 6114)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006114&ret=B"
-    },
-    {
-      "date": "17/08/2026",
-      "id": "032026006115",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Tco./a de prevención de riesgos laborales (ref: 6115)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006115&ret=B"
     },
     {
       "date": "17/08/2026",
@@ -2550,15 +2523,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006316&ret=B"
     },
     {
-      "date": "26/08/2026",
-      "id": "032026006317",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Electricista oficial/a 1ª (ref.: 6317)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006317&ret=B"
-    },
-    {
       "date": "27/08/2026",
       "id": "032026006320",
       "municipio": "Piloña",
@@ -2593,15 +2557,6 @@
       "sector": "TH",
       "title": "Camarero/a de sala (ref: 6324)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006324&ret=B"
-    },
-    {
-      "date": "27/08/2026",
-      "id": "032026006329",
-      "municipio": "San martin del rey aurelio",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Ingeniero/a i+d diseño mecánico y simulación (ref.: 6329)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006329&ret=B"
     },
     {
       "date": "27/08/2026",
@@ -2803,15 +2758,6 @@
     },
     {
       "date": "31/08/2026",
-      "id": "032026006368",
-      "municipio": "Laviana",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Empleado/a administrativo/a (ref.: 6368)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006368&ret=B"
-    },
-    {
-      "date": "31/08/2026",
       "id": "032026006370",
       "municipio": "Lena",
       "provincia": "Asturias",
@@ -2989,15 +2935,6 @@
       "sector": "SP",
       "title": "Limpiador/a (ref.: 6399)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006399&ret=B"
-    },
-    {
-      "date": "01/09/2026",
-      "id": "032026006401",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Técnico/a informatico (ref.:6401)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006401&ret=B"
     },
     {
       "date": "01/09/2026",
@@ -3214,15 +3151,6 @@
       "sector": "CC",
       "title": "Pescadero/a (ref. 6428)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006428&ret=B"
-    },
-    {
-      "date": "02/09/2026",
-      "id": "032026006430",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Encargado/a de taller textil (ref.: 6430)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006430&ret=B"
     },
     {
       "date": "02/09/2026",
@@ -3637,15 +3565,6 @@
       "sector": "SP",
       "title": "Monitor/a de patinaje (ref.: 6490)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006490&ret=B"
-    },
-    {
-      "date": "03/09/2026",
-      "id": "032026006491",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Teleoperador/a (ref.: 6491)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006491&ret=B"
     },
     {
       "date": "03/09/2026",
@@ -4640,7 +4559,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-09-11T08:39:53Z"
+      "last_crawled": "2026-09-14T09:37:58Z"
     },
     "AU": {
       "count": 6,
@@ -4655,8 +4574,8 @@
       "last_crawled": "2026-09-14T05:45:13Z"
     },
     "EM": {
-      "count": 17,
-      "last_crawled": "2026-09-11T08:39:53Z"
+      "count": 12,
+      "last_crawled": "2026-09-14T09:37:58Z"
     },
     "EO": {
       "count": 37,
@@ -4684,11 +4603,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-11T08:39:53Z"
+      "last_crawled": "2026-09-14T09:37:58Z"
     },
     "IT": {
-      "count": 1,
-      "last_crawled": "2026-09-11T08:39:53Z"
+      "count": 0,
+      "last_crawled": "2026-09-14T09:37:58Z"
     },
     "MD": {
       "count": 3,
@@ -4699,16 +4618,16 @@
       "last_crawled": "2026-09-14T08:26:05Z"
     },
     "MO": {
-      "count": 16,
-      "last_crawled": "2026-09-11T08:39:53Z"
+      "count": 14,
+      "last_crawled": "2026-09-14T09:37:58Z"
     },
     "MR": {
       "count": 16,
       "last_crawled": "2026-09-14T08:26:05Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-09-11T08:39:53Z"
+      "count": 3,
+      "last_crawled": "2026-09-14T09:37:58Z"
     },
     "PA": {
       "count": 0,
@@ -4720,7 +4639,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-11T08:39:53Z"
+      "last_crawled": "2026-09-14T09:37:58Z"
     },
     "SA": {
       "count": 73,
@@ -4743,5 +4662,5 @@
       "last_crawled": "2026-09-14T07:36:38Z"
     }
   },
-  "updated": "2026-09-14T08:26:05Z"
+  "updated": "2026-09-14T09:37:58Z"
 }
