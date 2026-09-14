@@ -1,7 +1,7 @@
-# Искатель работы
+# Técnico/a de prospección y orientación laboral
 
-- **Профессия (ES):** Prospector/a laboral
-- **Оригинальное название:** Prospector/a laboral (ref.: 6574)
+- **Профессия (ES):** Técnico/a de prospección y orientación laboral
+- **Оригинальное название:** Técnico/a de prospección y orientación laboral (ref.: 6574)
 - **Город:** Gijón (Asturias)
 - **Дата публикации:** 10/09/2026
 - **ID оферты:** 032026006574
