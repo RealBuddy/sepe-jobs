@@ -1,9 +1,9 @@
-# Помощник повара (общепит)
+# Ayudante de cocina y auxiliar de cocina para colectividades
 
-- **Профессия (ES):** Ayudante de cocina para colectividades
-- **Оригинальное название:** Ayudante de cocina para colectividades(ref.1345).
+- **Профессия (ES):** Ayudante de cocina y auxiliar de cocina para colectividades
+- **Оригинальное название:** Ayudante de cocina y auxiliar de cocina para colectividades(ref.1345).
 - **Город:** Mieres (Asturias)
-- **Дата публикации:** 31/08/2026
+- **Дата публикации:** 14/09/2026
 - **ID оферты:** 032026001345
 
 ## 👉 Откликнуться на вакансию
