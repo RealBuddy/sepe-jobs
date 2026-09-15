@@ -1,7 +1,7 @@
-# Электрик
+# Nueva difusión - 2 puestos de electricista
 
-- **Профессия (ES):** electricista
-- **Оригинальное название:** 2 puestos de electricista (ref. 5150)
+- **Профессия (ES):** Nueva difusión - 2 puestos de electricista
+- **Оригинальное название:** Nueva difusión - 2 puestos de electricista (ref. 5150)
 - **Город:** Siero (Asturias)
 - **Дата публикации:** 01/09/2026
 - **ID оферты:** 032026005150

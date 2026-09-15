@@ -1,5 +1,5 @@
 {
-  "count": 493,
+  "count": 494,
   "failed_sectors": [],
   "offers": [
     {
@@ -701,17 +701,8 @@
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "MO",
-      "title": "2 puestos de electricista (ref. 5150)",
+      "title": "Nueva difusión - 2 puestos de electricista (ref. 5150)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005150&ret=B"
-    },
-    {
-      "date": "01/09/2026",
-      "id": "032026005151",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "2 puestos de ayudante de electricista (ref. 5151)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005151&ret=B"
     },
     {
       "date": "25/08/2026",
@@ -847,6 +838,15 @@
       "sector": "SP",
       "title": "1 personal de limpieza (ref: 5370)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005370&ret=B"
+    },
+    {
+      "date": "15/09/2026",
+      "id": "032026005387",
+      "municipio": "Corvera de asturias",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Proyectista / arquitecto/ arquitecto técnico (ref: 5387)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005387&ret=B"
     },
     {
       "date": "15/09/2026",
@@ -1650,15 +1650,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006074&ret=B"
     },
     {
-      "date": "14/08/2026",
-      "id": "032026006078",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Especialista en laboral y nóminas (ref.: 6078)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006078&ret=B"
-    },
-    {
       "date": "07/09/2026",
       "id": "032026006081",
       "municipio": "Aviles",
@@ -1875,7 +1866,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006149&ret=B"
     },
     {
-      "date": "18/08/2026",
+      "date": "15/09/2026",
       "id": "032026006151",
       "municipio": "Ribadesella",
       "provincia": "Asturias",
@@ -1990,15 +1981,6 @@
       "sector": "MR",
       "title": "Técnico/a de mantenimiento electromecánico/a(ref.6185).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006185&ret=B"
-    },
-    {
-      "date": "20/08/2026",
-      "id": "032026006186",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "2 puestos especialista en marketing integral (ref.6186)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006186&ret=B"
     },
     {
       "date": "20/08/2026",
@@ -4396,6 +4378,15 @@
     },
     {
       "date": "14/09/2026",
+      "id": "032026006642",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Vigilante seguriadad (ref.: 6642)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006642&ret=B"
+    },
+    {
+      "date": "14/09/2026",
       "id": "032026006646",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4423,6 +4414,15 @@
     },
     {
       "date": "15/09/2026",
+      "id": "032026006651",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "IT",
+      "title": "Monitor/a de costura (ref.: 6651)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006651&ret=B"
+    },
+    {
+      "date": "15/09/2026",
       "id": "032026006657",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4438,6 +4438,15 @@
       "sector": "IA",
       "title": "2 puestos de operario/a de producción alimentaria (ref:6661)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006661&ret=B"
+    },
+    {
+      "date": "15/09/2026",
+      "id": "032026006664",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "IT",
+      "title": "Monitor/a de costura (ref.6664)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006664&ret=B"
     }
   ],
   "sectors": {
@@ -4451,7 +4460,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-09-14T09:37:58Z"
+      "last_crawled": "2026-09-15T09:14:50Z"
     },
     "AU": {
       "count": 7,
@@ -4467,7 +4476,7 @@
     },
     "EM": {
       "count": 12,
-      "last_crawled": "2026-09-14T09:37:58Z"
+      "last_crawled": "2026-09-15T09:14:50Z"
     },
     "EO": {
       "count": 37,
@@ -4495,11 +4504,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-14T09:37:58Z"
+      "last_crawled": "2026-09-15T09:14:50Z"
     },
     "IT": {
-      "count": 0,
-      "last_crawled": "2026-09-14T09:37:58Z"
+      "count": 2,
+      "last_crawled": "2026-09-15T09:14:50Z"
     },
     "MD": {
       "count": 3,
@@ -4510,8 +4519,8 @@
       "last_crawled": "2026-09-15T08:17:00Z"
     },
     "MO": {
-      "count": 14,
-      "last_crawled": "2026-09-14T09:37:58Z"
+      "count": 13,
+      "last_crawled": "2026-09-15T09:14:50Z"
     },
     "MR": {
       "count": 16,
@@ -4519,7 +4528,7 @@
     },
     "MT": {
       "count": 3,
-      "last_crawled": "2026-09-14T09:37:58Z"
+      "last_crawled": "2026-09-15T09:14:50Z"
     },
     "PA": {
       "count": 0,
@@ -4531,7 +4540,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-14T09:37:58Z"
+      "last_crawled": "2026-09-15T09:14:50Z"
     },
     "SA": {
       "count": 72,
@@ -4554,5 +4563,5 @@
       "last_crawled": "2026-09-15T07:15:00Z"
     }
   },
-  "updated": "2026-09-15T08:17:00Z"
+  "updated": "2026-09-15T09:14:50Z"
 }
