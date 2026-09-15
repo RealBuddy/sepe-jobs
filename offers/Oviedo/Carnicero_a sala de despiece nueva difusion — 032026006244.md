@@ -1,9 +1,9 @@
-# Мясник/разделочный цех
+# Carnicero/a sala de despiece nueva difusion
 
-- **Профессия (ES):** Carnicero/a sala de despiece
-- **Оригинальное название:** Carnicero/a sala de despiece (ref.: 6244)
+- **Профессия (ES):** Carnicero/a sala de despiece nueva difusion
+- **Оригинальное название:** Carnicero/a sala de despiece (ref.: 6244) nueva difusion
 - **Город:** Oviedo (Asturias)
-- **Дата публикации:** 24/08/2026
+- **Дата публикации:** 14/09/2026
 - **ID оферты:** 032026006244
 
 ## 👉 Откликнуться на вакансию
