@@ -1,5 +1,5 @@
 {
-  "count": 513,
+  "count": 517,
   "failed_sectors": [],
   "offers": [
     {
@@ -93,6 +93,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002026&ret=B"
     },
     {
+      "date": "15/09/2026",
+      "id": "032026002511",
+      "municipio": "Mieres",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Camarero/a(ref.2511).",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002511&ret=B"
+    },
+    {
       "date": "03/09/2026",
       "id": "032026002553",
       "municipio": "Llanera",
@@ -181,6 +190,15 @@
       "sector": "TH",
       "title": "3 puestos de guia-conductor 4x4 (ref. 3249)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003249&ret=B"
+    },
+    {
+      "date": "16/09/2026",
+      "id": "032026003377",
+      "municipio": "Valdes",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "Albañil (ref.3377)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003377&ret=B"
     },
     {
       "date": "24/08/2026",
@@ -829,15 +847,6 @@
       "sector": "CC",
       "title": "Captadores/as ong stand (ref.: 5443)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005443&ret=B"
-    },
-    {
-      "date": "17/07/2026",
-      "id": "032026005487",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Albañil (ref.: 5487)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005487&ret=B"
     },
     {
       "date": "10/09/2026",
@@ -1587,15 +1596,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006098&ret=B"
     },
     {
-      "date": "17/08/2026",
-      "id": "032026006100",
-      "municipio": "Piloña",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de cocina (ref.6100)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006100&ret=B"
-    },
-    {
       "date": "07/09/2026",
       "id": "032026006102",
       "municipio": "Gijón",
@@ -1900,15 +1900,6 @@
       "sector": "SA",
       "title": "Enfermero/a (ref.: 6196)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006196&ret=B"
-    },
-    {
-      "date": "20/08/2026",
-      "id": "032026006201",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camarera/o de pisos (ref.: 6201)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006201&ret=B"
     },
     {
       "date": "21/08/2026",
@@ -2242,6 +2233,15 @@
       "sector": "DO",
       "title": "Profesor/a de inglés para actividades extraescolares (ref.6300)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006300&ret=B"
+    },
+    {
+      "date": "16/09/2026",
+      "id": "032026006303",
+      "municipio": "Onis",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Camarero/a(ref:6303)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006303&ret=B"
     },
     {
       "date": "26/08/2026",
@@ -3432,15 +3432,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006520&ret=B"
     },
     {
-      "date": "07/09/2026",
-      "id": "032026006521",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "1 puesto de auxiliar administrativo/a (ref: 6521)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006521&ret=B"
-    },
-    {
       "date": "09/09/2026",
       "id": "032026006522",
       "municipio": "Gijón",
@@ -4486,12 +4477,30 @@
     },
     {
       "date": "15/09/2026",
+      "id": "032026006658",
+      "municipio": "Caso",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Recepcionista (ref.: 6658)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006658&ret=B"
+    },
+    {
+      "date": "15/09/2026",
       "id": "032026006659",
       "municipio": "Mieres",
       "provincia": "Asturias",
       "sector": "DO",
       "title": "Monitor/a de costura(ref.6659).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006659&ret=B"
+    },
+    {
+      "date": "15/09/2026",
+      "id": "032026006660",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Camarero/a (ref.:6660)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006660&ret=B"
     },
     {
       "date": "15/09/2026",
@@ -4558,6 +4567,15 @@
     },
     {
       "date": "15/09/2026",
+      "id": "032026006673",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Cocinero/a hotel (ref.: 6673)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006673&ret=B"
+    },
+    {
+      "date": "15/09/2026",
       "id": "032026006674",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -4618,6 +4636,24 @@
       "sector": "SP",
       "title": "Ayudante de peluqueria (ref.6682)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006682&ret=B"
+    },
+    {
+      "date": "16/09/2026",
+      "id": "032026006684",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Ayudante de camarero/a (ref. 6684)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006684&ret=B"
+    },
+    {
+      "date": "16/09/2026",
+      "id": "032026006685",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "Operario/a de construcción (ref. 6685)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006685&ret=B"
     }
   ],
   "sectors": {
@@ -4626,8 +4662,8 @@
       "last_crawled": "2026-09-16T05:37:29Z"
     },
     "AO": {
-      "count": 22,
-      "last_crawled": "2026-09-15T07:15:00Z"
+      "count": 21,
+      "last_crawled": "2026-09-16T07:17:58Z"
     },
     "AR": {
       "count": 1,
@@ -4635,7 +4671,7 @@
     },
     "AU": {
       "count": 7,
-      "last_crawled": "2026-09-15T07:15:00Z"
+      "last_crawled": "2026-09-16T07:17:58Z"
     },
     "CC": {
       "count": 51,
@@ -4650,12 +4686,12 @@
       "last_crawled": "2026-09-15T09:14:50Z"
     },
     "EO": {
-      "count": 37,
-      "last_crawled": "2026-09-15T07:15:00Z"
+      "count": 38,
+      "last_crawled": "2026-09-16T07:17:58Z"
     },
     "FE": {
       "count": 2,
-      "last_crawled": "2026-09-15T07:15:00Z"
+      "last_crawled": "2026-09-16T07:17:58Z"
     },
     "IA": {
       "count": 13,
@@ -4667,7 +4703,7 @@
     },
     "IM": {
       "count": 1,
-      "last_crawled": "2026-09-15T07:15:00Z"
+      "last_crawled": "2026-09-16T07:17:58Z"
     },
     "IP": {
       "count": 11,
@@ -4707,7 +4743,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-09-15T07:15:00Z"
+      "last_crawled": "2026-09-16T07:17:58Z"
     },
     "PT": {
       "count": 0,
@@ -4730,9 +4766,9 @@
       "last_crawled": "2026-09-15T08:17:00Z"
     },
     "TH": {
-      "count": 69,
-      "last_crawled": "2026-09-15T07:15:00Z"
+      "count": 73,
+      "last_crawled": "2026-09-16T07:17:58Z"
     }
   },
-  "updated": "2026-09-16T05:37:29Z"
+  "updated": "2026-09-16T07:17:58Z"
 }
