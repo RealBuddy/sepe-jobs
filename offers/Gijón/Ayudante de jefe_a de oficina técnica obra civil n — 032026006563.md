@@ -1,7 +1,7 @@
-# Менеджер строительных работ
+# Ayudante de jefe/a de oficina técnica obra civil nueva difusión
 
-- **Профессия (ES):** Encargado/a de obra civil
-- **Оригинальное название:** Encargado/a de obra civil (ref:6563)
+- **Профессия (ES):** Ayudante de jefe/a de oficina técnica obra civil nueva difusión
+- **Оригинальное название:** Ayudante de jefe/a de oficina técnica obra civil (ref:6563) nueva difusión
 - **Город:** Gijón (Asturias)
 - **Дата публикации:** 09/09/2026
 - **ID оферты:** 032026006563
