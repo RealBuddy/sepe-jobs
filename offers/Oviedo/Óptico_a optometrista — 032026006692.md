@@ -1,0 +1,12 @@
+# Óptico/a optometrista
+
+- **Профессия (ES):** Óptico/a optometrista
+- **Оригинальное название:** Óptico/a optometrista (ref.6692)
+- **Город:** Oviedo (Asturias)
+- **Дата публикации:** 16/09/2026
+- **ID оферты:** 032026006692
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006692&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._

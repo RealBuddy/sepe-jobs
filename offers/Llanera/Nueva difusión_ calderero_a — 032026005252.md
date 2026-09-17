@@ -1,7 +1,7 @@
-# Новое распространение: 2 котла
+# Nueva difusión: calderero/a
 
-- **Профессия (ES):** Nueva difusión: 2 caldereros/as
-- **Оригинальное название:** Nueva difusión: 2 caldereros/as (ref. 5252)
+- **Профессия (ES):** Nueva difusión: calderero/a
+- **Оригинальное название:** Nueva difusión: calderero/a (ref. 5252)
 - **Город:** Llanera (Asturias)
 - **Дата публикации:** 03/09/2026
 - **ID оферты:** 032026005252

@@ -1,9 +1,9 @@
-# Сиделка по уходу за пожилыми (герокультор)
+# Nueva difusión 2 puestos de gerocultor/a
 
-- **Профессия (ES):** gerocultor/a
-- **Оригинальное название:** 2 puestos de gerocultor/a (ref. 6279)
+- **Профессия (ES):** Nueva difusión 2 puestos de gerocultor/a
+- **Оригинальное название:** Nueva difusión 2 puestos de gerocultor/a (ref. 6279)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 25/08/2026
+- **Дата публикации:** 16/09/2026
 - **ID оферты:** 032026006279
 
 ## 👉 Откликнуться на вакансию

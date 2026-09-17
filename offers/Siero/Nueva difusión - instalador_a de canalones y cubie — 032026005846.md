@@ -1,9 +1,9 @@
-# Монтажник водостоков и перекрытий
+# Nueva difusión - instalador/a de canalones y cubiertas
 
-- **Профессия (ES):** Instalador/a de canalones y cubiertas
-- **Оригинальное название:** Instalador/a de canalones y cubiertas (ref. 5846)
+- **Профессия (ES):** Nueva difusión - instalador/a de canalones y cubiertas
+- **Оригинальное название:** Nueva difusión - instalador/a de canalones y cubiertas (ref. 5846)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 03/09/2026
+- **Дата публикации:** 15/09/2026
 - **ID оферты:** 032026005846
 
 ## 👉 Откликнуться на вакансию
