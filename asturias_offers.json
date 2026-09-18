@@ -1,5 +1,5 @@
 {
-  "count": 520,
+  "count": 519,
   "failed_sectors": [],
   "offers": [
     {
@@ -1885,15 +1885,6 @@
     },
     {
       "date": "24/08/2026",
-      "id": "032026006246",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Full-stack / mobile developer para healthtech e ia - programa investigo (ref.: 6246)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006246&ret=B"
-    },
-    {
-      "date": "24/08/2026",
       "id": "032026006247",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -2622,6 +2613,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006428&ret=B"
     },
     {
+      "date": "17/09/2026",
+      "id": "032026006430",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Encargado/a de taller textil (ref.: 6430)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006430&ret=B"
+    },
+    {
       "date": "02/09/2026",
       "id": "032026006433",
       "municipio": "Corvera de asturias",
@@ -3025,15 +3025,6 @@
       "sector": "TC",
       "title": "Conductor/a de trailer (ref.: 6504)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006504&ret=B"
-    },
-    {
-      "date": "04/09/2026",
-      "id": "032026006505",
-      "municipio": "Castropol",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Delineante naval (ref.6505)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006505&ret=B"
     },
     {
       "date": "04/09/2026",
@@ -4694,7 +4685,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-09-16T09:08:10Z"
+      "last_crawled": "2026-09-18T08:50:09Z"
     },
     "AU": {
       "count": 6,
@@ -4709,8 +4700,8 @@
       "last_crawled": "2026-09-18T05:31:52Z"
     },
     "EM": {
-      "count": 12,
-      "last_crawled": "2026-09-16T09:08:10Z"
+      "count": 10,
+      "last_crawled": "2026-09-18T08:50:09Z"
     },
     "EO": {
       "count": 37,
@@ -4738,11 +4729,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-16T09:08:10Z"
+      "last_crawled": "2026-09-18T08:50:09Z"
     },
     "IT": {
       "count": 2,
-      "last_crawled": "2026-09-16T09:08:10Z"
+      "last_crawled": "2026-09-18T08:50:09Z"
     },
     "MD": {
       "count": 3,
@@ -4754,15 +4745,15 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-09-16T09:08:10Z"
+      "last_crawled": "2026-09-18T08:50:09Z"
     },
     "MR": {
       "count": 15,
       "last_crawled": "2026-09-17T08:17:13Z"
     },
     "MT": {
-      "count": 3,
-      "last_crawled": "2026-09-16T09:08:10Z"
+      "count": 4,
+      "last_crawled": "2026-09-18T08:50:09Z"
     },
     "PA": {
       "count": 0,
@@ -4774,7 +4765,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-16T09:08:10Z"
+      "last_crawled": "2026-09-18T08:50:09Z"
     },
     "SA": {
       "count": 75,
@@ -4797,5 +4788,5 @@
       "last_crawled": "2026-09-18T07:06:44Z"
     }
   },
-  "updated": "2026-09-18T07:06:44Z"
+  "updated": "2026-09-18T08:50:09Z"
 }
