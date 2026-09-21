@@ -1,5 +1,5 @@
 {
-  "count": 511,
+  "count": 512,
   "failed_sectors": [],
   "offers": [
     {
@@ -1749,15 +1749,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006279&ret=B"
     },
     {
-      "date": "25/08/2026",
-      "id": "032026006280",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Responsable de seguridad , salud y medio ambiente (ref: 6280)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006280&ret=B"
-    },
-    {
       "date": "16/09/2026",
       "id": "032026006281",
       "municipio": "Siero",
@@ -1981,6 +1972,15 @@
       "sector": "SA",
       "title": "Enfermero/a (ref.6372)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006372&ret=B"
+    },
+    {
+      "date": "18/09/2026",
+      "id": "032026006374",
+      "municipio": "Navia",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Nueva difusión-mediador/a comunicativo/a- (ref.:6374)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006374&ret=B"
     },
     {
       "date": "31/08/2026",
@@ -2467,15 +2467,6 @@
       "sector": "SP",
       "title": "Operario/a de limpieza (ref.: 6471)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006471&ret=B"
-    },
-    {
-      "date": "03/09/2026",
-      "id": "032026006472",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Montador/a de carpas (ref.6472)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006472&ret=B"
     },
     {
       "date": "15/09/2026",
@@ -3577,15 +3568,6 @@
     },
     {
       "date": "14/09/2026",
-      "id": "032026006642",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Vigilante seguriadad (ref.: 6642)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006642&ret=B"
-    },
-    {
-      "date": "14/09/2026",
       "id": "032026006643",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -4522,12 +4504,30 @@
     },
     {
       "date": "18/09/2026",
+      "id": "032026006763",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "3 puestos de operario/a ensamblador/a (ref: 6763)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006763&ret=B"
+    },
+    {
+      "date": "18/09/2026",
       "id": "032026006764",
       "municipio": "Gijón",
       "provincia": "Asturias",
       "sector": "SP",
       "title": "Terapeuta ocupacional (ref.:6764)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006764&ret=B"
+    },
+    {
+      "date": "18/09/2026",
+      "id": "032026006765",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a de servicios industriales (ref. 6765)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006765&ret=B"
     },
     {
       "date": "18/09/2026",
@@ -4600,6 +4600,15 @@
       "sector": "TH",
       "title": "Ayudante/a de cocina (ref: 6775)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006775&ret=B"
+    },
+    {
+      "date": "21/09/2026",
+      "id": "032026006783",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Lijador/a (ref.:6783)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006783&ret=B"
     }
   ],
   "sectors": {
@@ -4613,7 +4622,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-09-18T08:50:09Z"
+      "last_crawled": "2026-09-21T09:41:05Z"
     },
     "AU": {
       "count": 6,
@@ -4628,8 +4637,8 @@
       "last_crawled": "2026-09-21T05:52:04Z"
     },
     "EM": {
-      "count": 10,
-      "last_crawled": "2026-09-18T08:50:09Z"
+      "count": 9,
+      "last_crawled": "2026-09-21T09:41:05Z"
     },
     "EO": {
       "count": 34,
@@ -4657,11 +4666,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-18T08:50:09Z"
+      "last_crawled": "2026-09-21T09:41:05Z"
     },
     "IT": {
       "count": 2,
-      "last_crawled": "2026-09-18T08:50:09Z"
+      "last_crawled": "2026-09-21T09:41:05Z"
     },
     "MD": {
       "count": 3,
@@ -4673,15 +4682,15 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-09-18T08:50:09Z"
+      "last_crawled": "2026-09-21T09:41:05Z"
     },
     "MR": {
       "count": 7,
       "last_crawled": "2026-09-21T08:27:40Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-09-18T08:50:09Z"
+      "count": 6,
+      "last_crawled": "2026-09-21T09:41:05Z"
     },
     "PA": {
       "count": 0,
@@ -4693,7 +4702,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-18T08:50:09Z"
+      "last_crawled": "2026-09-21T09:41:05Z"
     },
     "SA": {
       "count": 80,
@@ -4716,5 +4725,5 @@
       "last_crawled": "2026-09-21T07:40:37Z"
     }
   },
-  "updated": "2026-09-21T08:27:40Z"
+  "updated": "2026-09-21T09:41:05Z"
 }
