@@ -1,0 +1,12 @@
+# Mozo/a almacen ref
+
+- **Профессия (ES):** Mozo/a almacen ref
+- **Оригинальное название:** Mozo/a almacen ref.:(6780)
+- **Город:** Gijón (Asturias)
+- **Дата публикации:** 21/09/2026
+- **ID оферты:** 032026006780
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006780&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
