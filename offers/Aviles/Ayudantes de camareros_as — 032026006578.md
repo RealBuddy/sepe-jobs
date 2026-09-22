@@ -1,9 +1,9 @@
-# Помощник официанта
+# Ayudantes de camareros/as
 
-- **Профессия (ES):** Ayudante de camarero/a
-- **Оригинальное название:** Ayudante de camarero/a (ref: 6578)
+- **Профессия (ES):** Ayudantes de camareros/as
+- **Оригинальное название:** Ayudantes de camareros/as (ref: 6578)
 - **Город:** Aviles (Asturias)
-- **Дата публикации:** 10/09/2026
+- **Дата публикации:** 21/09/2026
 - **ID оферты:** 032026006578
 
 ## 👉 Откликнуться на вакансию
