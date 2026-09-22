@@ -1,5 +1,5 @@
 {
-  "count": 523,
+  "count": 522,
   "failed_sectors": [],
   "offers": [
     {
@@ -1155,15 +1155,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005981&ret=B"
     },
     {
-      "date": "02/09/2026",
-      "id": "032026005982",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Técnico/a en instalaciones frigoríficas y de climatización (ref.:5982)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005982&ret=B"
-    },
-    {
       "date": "09/09/2026",
       "id": "032026005984",
       "municipio": "Oviedo",
@@ -1432,15 +1423,6 @@
       "sector": "SP",
       "title": "3 puestos de limpieza villaviciosa y siero (ref. 6149)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006149&ret=B"
-    },
-    {
-      "date": "15/09/2026",
-      "id": "032026006151",
-      "municipio": "Ribadesella",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Peón/a industria cerámica (ref.: 6151)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006151&ret=B"
     },
     {
       "date": "09/09/2026",
@@ -2791,15 +2773,6 @@
       "sector": "CC",
       "title": "Dependiente/a de comercio (ref.: 6556)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006556&ret=B"
-    },
-    {
-      "date": "09/09/2026",
-      "id": "032026006558",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Técnico/a área contrataciones (ref.: 6558)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006558&ret=B"
     },
     {
       "date": "09/09/2026",
@@ -4666,6 +4639,15 @@
     },
     {
       "date": "21/09/2026",
+      "id": "032026006800",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "2 puestos de operario/a de taller (ref. 6800)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006800&ret=B"
+    },
+    {
+      "date": "21/09/2026",
       "id": "032026006801",
       "municipio": "Lena",
       "provincia": "Asturias",
@@ -4708,6 +4690,15 @@
       "sector": "SA",
       "title": "Fisioterapeuta (ref.: 6808)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006808&ret=B"
+    },
+    {
+      "date": "22/09/2026",
+      "id": "032026006809",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a supeior en edificación- delineante (ref.: 6809)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006809&ret=B"
     }
   ],
   "sectors": {
@@ -4721,7 +4712,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-09-21T09:41:05Z"
+      "last_crawled": "2026-09-22T09:05:35Z"
     },
     "AU": {
       "count": 5,
@@ -4737,7 +4728,7 @@
     },
     "EM": {
       "count": 9,
-      "last_crawled": "2026-09-21T09:41:05Z"
+      "last_crawled": "2026-09-22T09:05:35Z"
     },
     "EO": {
       "count": 31,
@@ -4765,11 +4756,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-21T09:41:05Z"
+      "last_crawled": "2026-09-22T09:05:35Z"
     },
     "IT": {
       "count": 2,
-      "last_crawled": "2026-09-21T09:41:05Z"
+      "last_crawled": "2026-09-22T09:05:35Z"
     },
     "MD": {
       "count": 4,
@@ -4780,8 +4771,8 @@
       "last_crawled": "2026-09-22T08:08:34Z"
     },
     "MO": {
-      "count": 12,
-      "last_crawled": "2026-09-21T09:41:05Z"
+      "count": 11,
+      "last_crawled": "2026-09-22T09:05:35Z"
     },
     "MR": {
       "count": 10,
@@ -4789,7 +4780,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-09-21T09:41:05Z"
+      "last_crawled": "2026-09-22T09:05:35Z"
     },
     "PA": {
       "count": 0,
@@ -4801,7 +4792,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-21T09:41:05Z"
+      "last_crawled": "2026-09-22T09:05:35Z"
     },
     "SA": {
       "count": 83,
@@ -4824,5 +4815,5 @@
       "last_crawled": "2026-09-22T07:22:26Z"
     }
   },
-  "updated": "2026-09-22T08:08:34Z"
+  "updated": "2026-09-22T09:05:35Z"
 }
