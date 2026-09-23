@@ -3,7 +3,7 @@
 - **Профессия (ES):** Nueva difusión: conductor/a gruista montaje iluminación navideña
 - **Оригинальное название:** Nueva difusión: conductor/a gruista montaje iluminación navideña (ref. 5991)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 11/09/2026
+- **Дата публикации:** 23/09/2026
 - **ID оферты:** 032026005991
 
 ## 👉 Откликнуться на вакансию
