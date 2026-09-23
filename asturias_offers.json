@@ -1,5 +1,5 @@
 {
-  "count": 543,
+  "count": 548,
   "failed_sectors": [],
   "offers": [
     {
@@ -1209,7 +1209,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005991&ret=B"
     },
     {
-      "date": "11/09/2026",
+      "date": "23/09/2026",
       "id": "032026005995",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -1218,7 +1218,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005995&ret=B"
     },
     {
-      "date": "11/09/2026",
+      "date": "23/09/2026",
       "id": "032026005996",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -1441,6 +1441,15 @@
       "sector": "SP",
       "title": "3 puestos de limpieza villaviciosa y siero (ref. 6149)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006149&ret=B"
+    },
+    {
+      "date": "23/09/2026",
+      "id": "032026006151",
+      "municipio": "Ribadesella",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Peón/a industria cerámica (ref.: 6151)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006151&ret=B"
     },
     {
       "date": "09/09/2026",
@@ -1828,15 +1837,6 @@
       "sector": "TH",
       "title": "Camarero/a (ref. 6326)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006326&ret=B"
-    },
-    {
-      "date": "27/08/2026",
-      "id": "032026006331",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Operario/a (ref.: 6331)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006331&ret=B"
     },
     {
       "date": "11/09/2026",
@@ -4179,7 +4179,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006763&ret=B"
     },
     {
-      "date": "18/09/2026",
+      "date": "22/09/2026",
       "id": "032026006765",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4783,6 +4783,15 @@
     },
     {
       "date": "22/09/2026",
+      "id": "032026006835",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "4 montadores/as de estructuras metálicas (ref. 6835)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006835&ret=B"
+    },
+    {
+      "date": "22/09/2026",
       "id": "032026006836",
       "municipio": "Langreo",
       "provincia": "Asturias",
@@ -4825,6 +4834,15 @@
       "sector": "TH",
       "title": "Ayudante de cocina (ref.: 6840)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006840&ret=B"
+    },
+    {
+      "date": "22/09/2026",
+      "id": "032026006841",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Auxiliar tecnológico/a (ref. 6841)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006841&ret=B"
     },
     {
       "date": "22/09/2026",
@@ -4888,6 +4906,33 @@
       "sector": "IP",
       "title": "Soldador/a ( ref. 6850 )",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006850&ret=B"
+    },
+    {
+      "date": "23/09/2026",
+      "id": "032026006853",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a en control de calidad alimentaria (ref: 6853 )",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006853&ret=B"
+    },
+    {
+      "date": "23/09/2026",
+      "id": "032026006854",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Electricista industrial (ref.: 6854)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006854&ret=B"
+    },
+    {
+      "date": "23/09/2026",
+      "id": "032026006856",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Frigorista (ref.: 6856)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006856&ret=B"
     }
   ],
   "sectors": {
@@ -4901,7 +4946,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-09-22T09:05:35Z"
+      "last_crawled": "2026-09-23T09:07:56Z"
     },
     "AU": {
       "count": 6,
@@ -4916,8 +4961,8 @@
       "last_crawled": "2026-09-23T05:28:39Z"
     },
     "EM": {
-      "count": 9,
-      "last_crawled": "2026-09-22T09:05:35Z"
+      "count": 11,
+      "last_crawled": "2026-09-23T09:07:56Z"
     },
     "EO": {
       "count": 32,
@@ -4945,11 +4990,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-22T09:05:35Z"
+      "last_crawled": "2026-09-23T09:07:56Z"
     },
     "IT": {
       "count": 2,
-      "last_crawled": "2026-09-22T09:05:35Z"
+      "last_crawled": "2026-09-23T09:07:56Z"
     },
     "MD": {
       "count": 4,
@@ -4960,16 +5005,16 @@
       "last_crawled": "2026-09-23T08:10:43Z"
     },
     "MO": {
-      "count": 11,
-      "last_crawled": "2026-09-22T09:05:35Z"
+      "count": 13,
+      "last_crawled": "2026-09-23T09:07:56Z"
     },
     "MR": {
       "count": 13,
       "last_crawled": "2026-09-23T08:10:43Z"
     },
     "MT": {
-      "count": 6,
-      "last_crawled": "2026-09-22T09:05:35Z"
+      "count": 7,
+      "last_crawled": "2026-09-23T09:07:56Z"
     },
     "PA": {
       "count": 0,
@@ -4981,7 +5026,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-22T09:05:35Z"
+      "last_crawled": "2026-09-23T09:07:56Z"
     },
     "SA": {
       "count": 82,
@@ -5004,5 +5049,5 @@
       "last_crawled": "2026-09-23T07:24:31Z"
     }
   },
-  "updated": "2026-09-23T08:10:43Z"
+  "updated": "2026-09-23T09:07:56Z"
 }

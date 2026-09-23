@@ -3,7 +3,7 @@
 - **Профессия (ES):** Operario/a de servicios industriales
 - **Оригинальное название:** Operario/a de servicios industriales (ref. 6765)
 - **Город:** Gijón (Asturias)
-- **Дата публикации:** 18/09/2026
+- **Дата публикации:** 22/09/2026
 - **ID оферты:** 032026006765
 
 ## 👉 Откликнуться на вакансию

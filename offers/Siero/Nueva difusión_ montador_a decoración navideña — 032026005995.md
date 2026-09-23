@@ -3,7 +3,7 @@
 - **Профессия (ES):** Nueva difusión: montador/a decoración navideña
 - **Оригинальное название:** Nueva difusión: montador/a decoración navideña (ref. 5995)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 11/09/2026
+- **Дата публикации:** 23/09/2026
 - **ID оферты:** 032026005995
 
 ## 👉 Откликнуться на вакансию
