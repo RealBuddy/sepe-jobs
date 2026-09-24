@@ -1,5 +1,5 @@
 {
-  "count": 550,
+  "count": 551,
   "failed_sectors": [],
   "offers": [
     {
@@ -1534,15 +1534,6 @@
     },
     {
       "date": "24/08/2026",
-      "id": "032026006234",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Instalador/a de portones y puertas automáticas (ref. 6234)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006234&ret=B"
-    },
-    {
-      "date": "24/08/2026",
       "id": "032026006237",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -2350,6 +2341,15 @@
       "sector": "MO",
       "title": "Montadores/as de cubiertas industriales (ref: 6489)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006489&ret=B"
+    },
+    {
+      "date": "23/09/2026",
+      "id": "032026006491",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Teleoperador/a (ref.: 6491) nueva difusion",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006491&ret=B"
     },
     {
       "date": "03/09/2026",
@@ -4936,6 +4936,15 @@
     },
     {
       "date": "24/09/2026",
+      "id": "032026006873",
+      "municipio": "Morcin",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Empleado/a atención al cliente- retail (ref. 6873)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006873&ret=B"
+    },
+    {
+      "date": "24/09/2026",
       "id": "032026006875",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -4964,7 +4973,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-09-23T09:07:56Z"
+      "last_crawled": "2026-09-24T09:03:01Z"
     },
     "AU": {
       "count": 6,
@@ -4979,8 +4988,8 @@
       "last_crawled": "2026-09-24T05:50:24Z"
     },
     "EM": {
-      "count": 11,
-      "last_crawled": "2026-09-23T09:07:56Z"
+      "count": 13,
+      "last_crawled": "2026-09-24T09:03:01Z"
     },
     "EO": {
       "count": 30,
@@ -5008,11 +5017,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-23T09:07:56Z"
+      "last_crawled": "2026-09-24T09:03:01Z"
     },
     "IT": {
       "count": 2,
-      "last_crawled": "2026-09-23T09:07:56Z"
+      "last_crawled": "2026-09-24T09:03:01Z"
     },
     "MD": {
       "count": 5,
@@ -5023,8 +5032,8 @@
       "last_crawled": "2026-09-24T08:01:46Z"
     },
     "MO": {
-      "count": 13,
-      "last_crawled": "2026-09-23T09:07:56Z"
+      "count": 12,
+      "last_crawled": "2026-09-24T09:03:01Z"
     },
     "MR": {
       "count": 13,
@@ -5032,7 +5041,7 @@
     },
     "MT": {
       "count": 7,
-      "last_crawled": "2026-09-23T09:07:56Z"
+      "last_crawled": "2026-09-24T09:03:01Z"
     },
     "PA": {
       "count": 0,
@@ -5044,7 +5053,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-23T09:07:56Z"
+      "last_crawled": "2026-09-24T09:03:01Z"
     },
     "SA": {
       "count": 84,
@@ -5067,5 +5076,5 @@
       "last_crawled": "2026-09-24T07:16:10Z"
     }
   },
-  "updated": "2026-09-24T08:01:46Z"
+  "updated": "2026-09-24T09:03:01Z"
 }
