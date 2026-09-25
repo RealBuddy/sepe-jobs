@@ -1,0 +1,12 @@
+# Mozo/a de almacén -nocturno
+
+- **Профессия (ES):** Mozo/a de almacén -nocturno
+- **Оригинальное название:** Mozo/a de almacén -nocturno- (ref.: 6890)
+- **Город:** Oviedo (Asturias)
+- **Дата публикации:** 24/09/2026
+- **ID оферты:** 032026006890
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006890&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._

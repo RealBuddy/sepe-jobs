@@ -3,7 +3,7 @@
 - **Профессия (ES):** Personal de limpieza a domicilio
 - **Оригинальное название:** Personal de limpieza a domicilio (ref.: 6595)
 - **Город:** Villaviciosa (Asturias)
-- **Дата публикации:** 11/09/2026
+- **Дата публикации:** 24/09/2026
 - **ID оферты:** 032026006595
 
 ## 👉 Откликнуться на вакансию
