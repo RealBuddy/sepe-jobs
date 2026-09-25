@@ -1,5 +1,5 @@
 {
-  "count": 546,
+  "count": 545,
   "failed_sectors": [],
   "offers": [
     {
@@ -829,15 +829,6 @@
       "sector": "EO",
       "title": "Montadores/as de eventos (ref: 5779 )",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005779&ret=B"
-    },
-    {
-      "date": "11/09/2026",
-      "id": "032026005782",
-      "municipio": "Belmonte de miranda",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "1 mecanico/a de mina (ref.5782)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005782&ret=B"
     },
     {
       "date": "09/09/2026",
@@ -2215,15 +2206,6 @@
       "sector": "EM",
       "title": "Teleoperador/a (ref.: 6491) nueva difusion",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006491&ret=B"
-    },
-    {
-      "date": "03/09/2026",
-      "id": "032026006493",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Montador/a de cubiertas industriales (ref.: 6493)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006493&ret=B"
     },
     {
       "date": "21/09/2026",
@@ -3801,15 +3783,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006763&ret=B"
     },
     {
-      "date": "22/09/2026",
-      "id": "032026006765",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Operario/a de servicios industriales (ref. 6765)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006765&ret=B"
-    },
-    {
       "date": "18/09/2026",
       "id": "032026006766",
       "municipio": "Gozon",
@@ -4819,6 +4792,15 @@
     },
     {
       "date": "24/09/2026",
+      "id": "032026006884",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Electricista baja tensión (ref. 6884)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006884&ret=B"
+    },
+    {
+      "date": "24/09/2026",
       "id": "032026006885",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4834,6 +4816,15 @@
       "sector": "TH",
       "title": "Cocinero/a (ref.: 6886)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006886&ret=B"
+    },
+    {
+      "date": "24/09/2026",
+      "id": "032026006887",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "1 puesto de oficial de 1ª electromecánico/a (ref: 6887)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006887&ret=B"
     },
     {
       "date": "24/09/2026",
@@ -4928,7 +4919,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-09-24T09:03:01Z"
+      "last_crawled": "2026-09-25T09:26:16Z"
     },
     "AU": {
       "count": 5,
@@ -4944,7 +4935,7 @@
     },
     "EM": {
       "count": 13,
-      "last_crawled": "2026-09-24T09:03:01Z"
+      "last_crawled": "2026-09-25T09:26:16Z"
     },
     "EO": {
       "count": 26,
@@ -4972,11 +4963,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-24T09:03:01Z"
+      "last_crawled": "2026-09-25T09:26:16Z"
     },
     "IT": {
       "count": 2,
-      "last_crawled": "2026-09-24T09:03:01Z"
+      "last_crawled": "2026-09-25T09:26:16Z"
     },
     "MD": {
       "count": 5,
@@ -4988,15 +4979,15 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-09-24T09:03:01Z"
+      "last_crawled": "2026-09-25T09:26:16Z"
     },
     "MR": {
       "count": 13,
       "last_crawled": "2026-09-25T08:26:15Z"
     },
     "MT": {
-      "count": 7,
-      "last_crawled": "2026-09-24T09:03:01Z"
+      "count": 6,
+      "last_crawled": "2026-09-25T09:26:16Z"
     },
     "PA": {
       "count": 0,
@@ -5008,7 +4999,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-24T09:03:01Z"
+      "last_crawled": "2026-09-25T09:26:16Z"
     },
     "SA": {
       "count": 86,
@@ -5031,5 +5022,5 @@
       "last_crawled": "2026-09-25T07:10:23Z"
     }
   },
-  "updated": "2026-09-25T08:26:15Z"
+  "updated": "2026-09-25T09:26:16Z"
 }
