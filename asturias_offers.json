@@ -1,5 +1,5 @@
 {
-  "count": 544,
+  "count": 546,
   "failed_sectors": [],
   "offers": [
     {
@@ -300,7 +300,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004530&ret=B"
     },
     {
-      "date": "15/09/2026",
+      "date": "24/09/2026",
       "id": "032026004617",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -442,6 +442,15 @@
       "sector": "TH",
       "title": "Camarero /a (ref: 5063)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005063&ret=B"
+    },
+    {
+      "date": "14/09/2026",
+      "id": "032026005084",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Nueva difusión: auxiliar de ayuda a domicilio (ref. 5084)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005084&ret=B"
     },
     {
       "date": "11/09/2026",
@@ -703,6 +712,15 @@
       "sector": "TH",
       "title": "1 camarero/a (ref: 5635)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005635&ret=B"
+    },
+    {
+      "date": "25/09/2026",
+      "id": "032026005638",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Enfermero/a (ref.: 5638)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005638&ret=B"
     },
     {
       "date": "18/09/2026",
@@ -1074,7 +1092,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005984&ret=B"
     },
     {
-      "date": "31/08/2026",
+      "date": "25/09/2026",
       "id": "032026005985",
       "municipio": "Castrillon",
       "provincia": "Asturias",
@@ -1308,15 +1326,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006139&ret=B"
     },
     {
-      "date": "10/09/2026",
-      "id": "032026006145",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Farmaceutico/a adjunto/a(ref.6145).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006145&ret=B"
-    },
-    {
       "date": "07/09/2026",
       "id": "032026006147",
       "municipio": "Gijón",
@@ -1515,13 +1524,13 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006264&ret=B"
     },
     {
-      "date": "25/08/2026",
-      "id": "032026006271",
-      "municipio": "Siero",
+      "date": "24/09/2026",
+      "id": "032026006266",
+      "municipio": "Gijón",
       "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermero/a (ref. 6271)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006271&ret=B"
+      "sector": "IP",
+      "title": "Soldador/a (ref.: 6266)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006266&ret=B"
     },
     {
       "date": "22/09/2026",
@@ -2514,15 +2523,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006575&ret=B"
     },
     {
-      "date": "10/09/2026",
-      "id": "032026006576",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "2 conductores/as-repartidores/as(ref.6576).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006576&ret=B"
-    },
-    {
       "date": "24/09/2026",
       "id": "032026006578",
       "municipio": "Aviles",
@@ -2683,15 +2683,6 @@
       "sector": "TH",
       "title": "Camarero/a para bingo (ref.: 6604)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006604&ret=B"
-    },
-    {
-      "date": "11/09/2026",
-      "id": "032026006605",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "3 puestos de operario/a fabricación cierres metálicos (ref:6605)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006605&ret=B"
     },
     {
       "date": "11/09/2026",
@@ -4215,6 +4206,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006813&ret=B"
     },
     {
+      "date": "24/09/2026",
+      "id": "032026006814",
+      "municipio": "Castrillon",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Auxiliar de geriatría (ref: 6814)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006814&ret=B"
+    },
+    {
       "date": "22/09/2026",
       "id": "032026006815",
       "municipio": "Tineo",
@@ -4819,6 +4819,15 @@
     },
     {
       "date": "24/09/2026",
+      "id": "032026006885",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Fisioterapeuta (ref.: 6885)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006885&ret=B"
+    },
+    {
+      "date": "24/09/2026",
       "id": "032026006886",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4834,6 +4843,15 @@
       "sector": "SP",
       "title": "Monitor/a de tiempo libre (ref:6888)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006888&ret=B"
+    },
+    {
+      "date": "24/09/2026",
+      "id": "032026006889",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "IP",
+      "title": "2 puestos de operario/a de producción ( ref.: 6889)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006889&ret=B"
     },
     {
       "date": "24/09/2026",
@@ -4938,7 +4956,7 @@
     },
     "IA": {
       "count": 11,
-      "last_crawled": "2026-09-24T08:01:46Z"
+      "last_crawled": "2026-09-25T08:26:15Z"
     },
     "IG": {
       "count": 1,
@@ -4949,8 +4967,8 @@
       "last_crawled": "2026-09-25T07:10:23Z"
     },
     "IP": {
-      "count": 13,
-      "last_crawled": "2026-09-24T08:01:46Z"
+      "count": 14,
+      "last_crawled": "2026-09-25T08:26:15Z"
     },
     "IQ": {
       "count": 1,
@@ -4966,7 +4984,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-09-24T08:01:46Z"
+      "last_crawled": "2026-09-25T08:26:15Z"
     },
     "MO": {
       "count": 12,
@@ -4974,7 +4992,7 @@
     },
     "MR": {
       "count": 13,
-      "last_crawled": "2026-09-24T08:01:46Z"
+      "last_crawled": "2026-09-25T08:26:15Z"
     },
     "MT": {
       "count": 7,
@@ -4993,25 +5011,25 @@
       "last_crawled": "2026-09-24T09:03:01Z"
     },
     "SA": {
-      "count": 84,
-      "last_crawled": "2026-09-24T08:01:46Z"
+      "count": 86,
+      "last_crawled": "2026-09-25T08:26:15Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-09-24T08:01:46Z"
+      "last_crawled": "2026-09-25T08:26:15Z"
     },
     "SP": {
       "count": 119,
       "last_crawled": "2026-09-25T05:45:47Z"
     },
     "TC": {
-      "count": 38,
-      "last_crawled": "2026-09-24T08:01:46Z"
+      "count": 37,
+      "last_crawled": "2026-09-25T08:26:15Z"
     },
     "TH": {
       "count": 78,
       "last_crawled": "2026-09-25T07:10:23Z"
     }
   },
-  "updated": "2026-09-25T07:10:23Z"
+  "updated": "2026-09-25T08:26:15Z"
 }
