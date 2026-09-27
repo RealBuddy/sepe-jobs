@@ -1,5 +1,5 @@
 {
-  "count": 541,
+  "count": 539,
   "failed_sectors": [],
   "offers": [
     {
@@ -280,15 +280,6 @@
       "sector": "IP",
       "title": "Carpintero/montador de carpintería metálica de aluminio y pvc (ref. 4617)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004617&ret=B"
-    },
-    {
-      "date": "07/09/2026",
-      "id": "032026004655",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "2 operarios/as de montaje de andamios y/o aislamientos (ref.:4655)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004655&ret=B"
     },
     {
       "date": "23/09/2026",
@@ -1585,15 +1576,6 @@
       "sector": "AA",
       "title": "Guarda rural (ref. 6352)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006352&ret=B"
-    },
-    {
-      "date": "28/08/2026",
-      "id": "032026006354",
-      "municipio": "Valdes",
-      "provincia": "Asturias",
-      "sector": "AU",
-      "title": "Pintor/a de automóviles (ref.6354)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006354&ret=B"
     },
     {
       "date": "28/08/2026",
@@ -4879,15 +4861,15 @@
     },
     "AO": {
       "count": 16,
-      "last_crawled": "2026-09-26T07:06:54Z"
+      "last_crawled": "2026-09-27T07:38:55Z"
     },
     "AR": {
       "count": 1,
       "last_crawled": "2026-09-25T09:26:16Z"
     },
     "AU": {
-      "count": 6,
-      "last_crawled": "2026-09-26T07:06:54Z"
+      "count": 5,
+      "last_crawled": "2026-09-27T07:38:55Z"
     },
     "CC": {
       "count": 50,
@@ -4902,12 +4884,12 @@
       "last_crawled": "2026-09-25T09:26:16Z"
     },
     "EO": {
-      "count": 25,
-      "last_crawled": "2026-09-26T07:06:54Z"
+      "count": 24,
+      "last_crawled": "2026-09-27T07:38:55Z"
     },
     "FE": {
       "count": 1,
-      "last_crawled": "2026-09-26T07:06:54Z"
+      "last_crawled": "2026-09-27T07:38:55Z"
     },
     "IA": {
       "count": 11,
@@ -4919,7 +4901,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-09-26T07:06:54Z"
+      "last_crawled": "2026-09-27T07:38:55Z"
     },
     "IP": {
       "count": 16,
@@ -4959,7 +4941,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-09-26T07:06:54Z"
+      "last_crawled": "2026-09-27T07:38:55Z"
     },
     "PT": {
       "count": 0,
@@ -4983,8 +4965,8 @@
     },
     "TH": {
       "count": 78,
-      "last_crawled": "2026-09-26T07:06:54Z"
+      "last_crawled": "2026-09-27T07:38:55Z"
     }
   },
-  "updated": "2026-09-27T06:10:05Z"
+  "updated": "2026-09-27T07:38:55Z"
 }
