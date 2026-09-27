@@ -1,7 +1,7 @@
 # Profesor/a de refuerzo programa proa (lengua castellana y literatura)
 
 - **Профессия (ES):** Profesor/a de refuerzo programa proa (lengua castellana y literatura)
-- **Оригинальное название:** Profesor/a de refuerzo programa proa (lengua castellana y literatura)
+- **Оригинальное название:** Profesor/a de refuerzo programa proa (lengua castellana y literatura) (ref. 6894)
 - **Город:** Siero (Asturias)
 - **Дата публикации:** 24/09/2026
 - **ID оферты:** 032026006894
