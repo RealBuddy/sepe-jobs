@@ -1,5 +1,5 @@
 {
-  "count": 539,
+  "count": 538,
   "failed_sectors": [],
   "offers": [
     {
@@ -1585,15 +1585,6 @@
       "sector": "SP",
       "title": "Instructor/a de pilates máquinas (ref. 6355)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006355&ret=B"
-    },
-    {
-      "date": "28/08/2026",
-      "id": "032026006362",
-      "municipio": "Sariego",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a repartidor/a (ref.6362)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006362&ret=B"
     },
     {
       "date": "31/08/2026",
@@ -4893,7 +4884,7 @@
     },
     "IA": {
       "count": 11,
-      "last_crawled": "2026-09-26T08:13:21Z"
+      "last_crawled": "2026-09-27T08:50:09Z"
     },
     "IG": {
       "count": 1,
@@ -4905,7 +4896,7 @@
     },
     "IP": {
       "count": 16,
-      "last_crawled": "2026-09-26T08:13:21Z"
+      "last_crawled": "2026-09-27T08:50:09Z"
     },
     "IQ": {
       "count": 1,
@@ -4921,7 +4912,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-09-26T08:13:21Z"
+      "last_crawled": "2026-09-27T08:50:09Z"
     },
     "MO": {
       "count": 12,
@@ -4929,7 +4920,7 @@
     },
     "MR": {
       "count": 13,
-      "last_crawled": "2026-09-26T08:13:21Z"
+      "last_crawled": "2026-09-27T08:50:09Z"
     },
     "MT": {
       "count": 6,
@@ -4949,24 +4940,24 @@
     },
     "SA": {
       "count": 84,
-      "last_crawled": "2026-09-26T08:13:21Z"
+      "last_crawled": "2026-09-27T08:50:09Z"
     },
     "SF": {
       "count": 1,
-      "last_crawled": "2026-09-26T08:13:21Z"
+      "last_crawled": "2026-09-27T08:50:09Z"
     },
     "SP": {
       "count": 121,
       "last_crawled": "2026-09-27T06:10:05Z"
     },
     "TC": {
-      "count": 38,
-      "last_crawled": "2026-09-26T08:13:21Z"
+      "count": 37,
+      "last_crawled": "2026-09-27T08:50:09Z"
     },
     "TH": {
       "count": 78,
       "last_crawled": "2026-09-27T07:38:55Z"
     }
   },
-  "updated": "2026-09-27T07:38:55Z"
+  "updated": "2026-09-27T08:50:09Z"
 }
