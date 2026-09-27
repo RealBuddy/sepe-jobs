@@ -1,5 +1,5 @@
 {
-  "count": 538,
+  "count": 537,
   "failed_sectors": [],
   "offers": [
     {
@@ -408,15 +408,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005117&ret=B"
     },
     {
-      "date": "01/09/2026",
-      "id": "032026005150",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Nueva difusión - 2 puestos de electricista (ref. 5150)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005150&ret=B"
-    },
-    {
       "date": "15/09/2026",
       "id": "032026005174",
       "municipio": "Pravia",
@@ -766,6 +757,15 @@
       "sector": "EO",
       "title": "Montadores/as de eventos (ref: 5779 )",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005779&ret=B"
+    },
+    {
+      "date": "25/09/2026",
+      "id": "032026005782",
+      "municipio": "Belmonte de miranda",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "1 mecanico/a de mina (ref.5782)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005782&ret=B"
     },
     {
       "date": "25/09/2026",
@@ -1507,15 +1507,6 @@
     },
     {
       "date": "26/08/2026",
-      "id": "032026006297",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "AR",
-      "title": "1 cerrajero/a especialista automoción ref.:(6297)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006297&ret=B"
-    },
-    {
-      "date": "26/08/2026",
       "id": "032026006300",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -1549,15 +1540,6 @@
       "sector": "SA",
       "title": "Gerocultor/a (ref.: 6313)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006313&ret=B"
-    },
-    {
-      "date": "27/08/2026",
-      "id": "032026006321",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Comunicación digital / dinamización juvenil (ref.: 6321)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006321&ret=B"
     },
     {
       "date": "25/09/2026",
@@ -4747,6 +4729,15 @@
     },
     {
       "date": "25/09/2026",
+      "id": "032026006909",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "2 puestos de técnico/a de oficina técnica",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006909&ret=B"
+    },
+    {
+      "date": "25/09/2026",
       "id": "032026006910",
       "municipio": "Mieres",
       "provincia": "Asturias",
@@ -4855,8 +4846,8 @@
       "last_crawled": "2026-09-27T07:38:55Z"
     },
     "AR": {
-      "count": 1,
-      "last_crawled": "2026-09-25T09:26:16Z"
+      "count": 0,
+      "last_crawled": "2026-09-27T09:51:47Z"
     },
     "AU": {
       "count": 5,
@@ -4872,7 +4863,7 @@
     },
     "EM": {
       "count": 13,
-      "last_crawled": "2026-09-25T09:26:16Z"
+      "last_crawled": "2026-09-27T09:51:47Z"
     },
     "EO": {
       "count": 24,
@@ -4900,11 +4891,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-25T09:26:16Z"
+      "last_crawled": "2026-09-27T09:51:47Z"
     },
     "IT": {
       "count": 2,
-      "last_crawled": "2026-09-25T09:26:16Z"
+      "last_crawled": "2026-09-27T09:51:47Z"
     },
     "MD": {
       "count": 4,
@@ -4916,7 +4907,7 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-09-25T09:26:16Z"
+      "last_crawled": "2026-09-27T09:51:47Z"
     },
     "MR": {
       "count": 13,
@@ -4924,7 +4915,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-09-25T09:26:16Z"
+      "last_crawled": "2026-09-27T09:51:47Z"
     },
     "PA": {
       "count": 0,
@@ -4936,7 +4927,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-25T09:26:16Z"
+      "last_crawled": "2026-09-27T09:51:47Z"
     },
     "SA": {
       "count": 84,
@@ -4959,5 +4950,5 @@
       "last_crawled": "2026-09-27T07:38:55Z"
     }
   },
-  "updated": "2026-09-27T08:50:09Z"
+  "updated": "2026-09-27T09:51:47Z"
 }
