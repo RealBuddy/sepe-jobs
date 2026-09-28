@@ -1,5 +1,5 @@
 {
-  "count": 537,
+  "count": 532,
   "failed_sectors": [],
   "offers": [
     {
@@ -109,15 +109,6 @@
       "sector": "SP",
       "title": "Peones/as de limpieza (ref: 3524)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003524&ret=B"
-    },
-    {
-      "date": "07/09/2026",
-      "id": "032026003675",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Comerciales inteligencia artificial (ref : 3675)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003675&ret=B"
     },
     {
       "date": "01/09/2026",
@@ -1551,24 +1542,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006326&ret=B"
     },
     {
-      "date": "28/08/2026",
-      "id": "032026006352",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "AA",
-      "title": "Guarda rural (ref. 6352)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006352&ret=B"
-    },
-    {
-      "date": "28/08/2026",
-      "id": "032026006355",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Instructor/a de pilates máquinas (ref. 6355)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006355&ret=B"
-    },
-    {
       "date": "31/08/2026",
       "id": "032026006370",
       "municipio": "Lena",
@@ -2587,15 +2560,6 @@
     },
     {
       "date": "14/09/2026",
-      "id": "032026006623",
-      "municipio": "Cabrales",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a de comedor (ref.:6623)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006623&ret=B"
-    },
-    {
-      "date": "14/09/2026",
       "id": "032026006624",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -2629,15 +2593,6 @@
       "sector": "CC",
       "title": "Dependiente/a (ref. 6628)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006628&ret=B"
-    },
-    {
-      "date": "14/09/2026",
-      "id": "032026006629",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de inglés (ref. 6629)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006629&ret=B"
     },
     {
       "date": "14/09/2026",
@@ -2926,6 +2881,15 @@
       "sector": "SP",
       "title": "Ayudante de peluqueria (ref.6682)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006682&ret=B"
+    },
+    {
+      "date": "28/09/2026",
+      "id": "032026006683",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "CC",
+      "title": "Nueva difusión - dependiente/a de textil (ref. 6683)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006683&ret=B"
     },
     {
       "date": "16/09/2026",
@@ -3646,15 +3610,6 @@
       "sector": "TH",
       "title": "Recepcionista de hotel 4*- front office (ref.6778)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006778&ret=B"
-    },
-    {
-      "date": "21/09/2026",
-      "id": "032026006779",
-      "municipio": "Noreña",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Auxiliar de servicios (ref.: 6779)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006779&ret=B"
     },
     {
       "date": "21/09/2026",
@@ -4838,8 +4793,8 @@
   ],
   "sectors": {
     "AA": {
-      "count": 13,
-      "last_crawled": "2026-09-27T06:10:05Z"
+      "count": 12,
+      "last_crawled": "2026-09-28T06:17:58Z"
     },
     "AO": {
       "count": 16,
@@ -4855,11 +4810,11 @@
     },
     "CC": {
       "count": 50,
-      "last_crawled": "2026-09-27T06:10:05Z"
+      "last_crawled": "2026-09-28T06:17:58Z"
     },
     "DO": {
-      "count": 28,
-      "last_crawled": "2026-09-27T06:10:05Z"
+      "count": 27,
+      "last_crawled": "2026-09-28T06:17:58Z"
     },
     "EM": {
       "count": 13,
@@ -4879,7 +4834,7 @@
     },
     "IG": {
       "count": 1,
-      "last_crawled": "2026-09-27T06:10:05Z"
+      "last_crawled": "2026-09-28T06:17:58Z"
     },
     "IM": {
       "count": 0,
@@ -4899,7 +4854,7 @@
     },
     "MD": {
       "count": 4,
-      "last_crawled": "2026-09-27T06:10:05Z"
+      "last_crawled": "2026-09-28T06:17:58Z"
     },
     "MN": {
       "count": 0,
@@ -4919,7 +4874,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-09-27T06:10:05Z"
+      "last_crawled": "2026-09-28T06:17:58Z"
     },
     "PC": {
       "count": 0,
@@ -4938,8 +4893,8 @@
       "last_crawled": "2026-09-27T08:50:09Z"
     },
     "SP": {
-      "count": 121,
-      "last_crawled": "2026-09-27T06:10:05Z"
+      "count": 118,
+      "last_crawled": "2026-09-28T06:17:58Z"
     },
     "TC": {
       "count": 37,
@@ -4950,5 +4905,5 @@
       "last_crawled": "2026-09-27T07:38:55Z"
     }
   },
-  "updated": "2026-09-27T09:51:47Z"
+  "updated": "2026-09-28T06:17:58Z"
 }
