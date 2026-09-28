@@ -1,5 +1,5 @@
 {
-  "count": 532,
+  "count": 530,
   "failed_sectors": [],
   "offers": [
     {
@@ -606,15 +606,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005547&ret=B"
     },
     {
-      "date": "01/09/2026",
-      "id": "032026005551",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de recepción (ref.: 5551)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005551&ret=B"
-    },
-    {
       "date": "25/09/2026",
       "id": "032026005604",
       "municipio": "Siero",
@@ -741,7 +732,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005770&ret=B"
     },
     {
-      "date": "31/08/2026",
+      "date": "28/09/2026",
       "id": "032026005779",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -802,15 +793,6 @@
       "sector": "SA",
       "title": "1 graduado en fisioterapia para pola de lena (ref.: 5801)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005801&ret=B"
-    },
-    {
-      "date": "14/09/2026",
-      "id": "032026005802",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "5 puestos personal de obra publica (ref.5802)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005802&ret=B"
     },
     {
       "date": "03/08/2026",
@@ -2965,15 +2947,6 @@
     },
     {
       "date": "16/09/2026",
-      "id": "032026006695",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "FE",
-      "title": "Operaria/o de cadena de producción con discapacidad(ref.6695).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006695&ret=B"
-    },
-    {
-      "date": "16/09/2026",
       "id": "032026006696",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -4324,15 +4297,6 @@
     },
     {
       "date": "24/09/2026",
-      "id": "032026006868",
-      "municipio": "Llanes",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocinero/a especialidad cocina dominicana",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006868&ret=B"
-    },
-    {
-      "date": "24/09/2026",
       "id": "032026006869",
       "municipio": "Langreo",
       "provincia": "Asturias",
@@ -4789,6 +4753,24 @@
       "sector": "TH",
       "title": "Camarero/a de pisos (ref.6920)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006920&ret=B"
+    },
+    {
+      "date": "28/09/2026",
+      "id": "032026006923",
+      "municipio": "San tirso de abres",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "3 peones/as servicios y obras múltiples (ref.6923)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006923&ret=B"
+    },
+    {
+      "date": "28/09/2026",
+      "id": "032026006928",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Cocinero/a (ref:6928)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006928&ret=B"
     }
   ],
   "sectors": {
@@ -4798,7 +4780,7 @@
     },
     "AO": {
       "count": 16,
-      "last_crawled": "2026-09-27T07:38:55Z"
+      "last_crawled": "2026-09-28T08:17:13Z"
     },
     "AR": {
       "count": 0,
@@ -4806,7 +4788,7 @@
     },
     "AU": {
       "count": 5,
-      "last_crawled": "2026-09-27T07:38:55Z"
+      "last_crawled": "2026-09-28T08:17:13Z"
     },
     "CC": {
       "count": 50,
@@ -4822,11 +4804,11 @@
     },
     "EO": {
       "count": 24,
-      "last_crawled": "2026-09-27T07:38:55Z"
+      "last_crawled": "2026-09-28T08:17:13Z"
     },
     "FE": {
-      "count": 1,
-      "last_crawled": "2026-09-27T07:38:55Z"
+      "count": 0,
+      "last_crawled": "2026-09-28T08:17:13Z"
     },
     "IA": {
       "count": 11,
@@ -4838,7 +4820,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-09-27T07:38:55Z"
+      "last_crawled": "2026-09-28T08:17:13Z"
     },
     "IP": {
       "count": 16,
@@ -4878,7 +4860,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-09-27T07:38:55Z"
+      "last_crawled": "2026-09-28T08:17:13Z"
     },
     "PT": {
       "count": 0,
@@ -4901,9 +4883,9 @@
       "last_crawled": "2026-09-27T08:50:09Z"
     },
     "TH": {
-      "count": 78,
-      "last_crawled": "2026-09-27T07:38:55Z"
+      "count": 77,
+      "last_crawled": "2026-09-28T08:17:13Z"
     }
   },
-  "updated": "2026-09-28T06:17:58Z"
+  "updated": "2026-09-28T08:17:13Z"
 }
