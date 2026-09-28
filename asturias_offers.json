@@ -453,15 +453,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005252&ret=B"
     },
     {
-      "date": "07/09/2026",
-      "id": "032026005267",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Coordinador/a de growth marqueting y crm",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005267&ret=B"
-    },
-    {
       "date": "13/08/2026",
       "id": "032026005279",
       "municipio": "Siero",
@@ -4789,6 +4780,15 @@
       "sector": "TC",
       "title": "Conductor/a - repartidor/a (ref. 6932)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006932&ret=B"
+    },
+    {
+      "date": "28/09/2026",
+      "id": "032026006933",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Asesor/a laboral (ref.: 6933)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006933&ret=B"
     }
   ],
   "sectors": {
@@ -4802,7 +4802,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-09-27T09:51:47Z"
+      "last_crawled": "2026-09-28T10:39:28Z"
     },
     "AU": {
       "count": 5,
@@ -4818,7 +4818,7 @@
     },
     "EM": {
       "count": 13,
-      "last_crawled": "2026-09-27T09:51:47Z"
+      "last_crawled": "2026-09-28T10:39:28Z"
     },
     "EO": {
       "count": 24,
@@ -4846,11 +4846,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-27T09:51:47Z"
+      "last_crawled": "2026-09-28T10:39:28Z"
     },
     "IT": {
       "count": 2,
-      "last_crawled": "2026-09-27T09:51:47Z"
+      "last_crawled": "2026-09-28T10:39:28Z"
     },
     "MD": {
       "count": 4,
@@ -4862,7 +4862,7 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-09-27T09:51:47Z"
+      "last_crawled": "2026-09-28T10:39:28Z"
     },
     "MR": {
       "count": 13,
@@ -4870,7 +4870,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-09-27T09:51:47Z"
+      "last_crawled": "2026-09-28T10:39:28Z"
     },
     "PA": {
       "count": 0,
@@ -4882,7 +4882,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-27T09:51:47Z"
+      "last_crawled": "2026-09-28T10:39:28Z"
     },
     "SA": {
       "count": 87,
@@ -4905,5 +4905,5 @@
       "last_crawled": "2026-09-28T08:17:13Z"
     }
   },
-  "updated": "2026-09-28T09:13:58Z"
+  "updated": "2026-09-28T10:39:28Z"
 }
