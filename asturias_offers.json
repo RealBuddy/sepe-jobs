@@ -1,5 +1,5 @@
 {
-  "count": 530,
+  "count": 532,
   "failed_sectors": [],
   "offers": [
     {
@@ -109,6 +109,15 @@
       "sector": "SP",
       "title": "Peones/as de limpieza (ref: 3524)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003524&ret=B"
+    },
+    {
+      "date": "31/07/2026",
+      "id": "032026003533",
+      "municipio": "Mieres",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Nueva difusión: fisioterapueta (ref. 3533)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003533&ret=B"
     },
     {
       "date": "01/09/2026",
@@ -858,7 +867,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005845&ret=B"
     },
     {
-      "date": "15/09/2026",
+      "date": "28/09/2026",
       "id": "032026005846",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -1344,24 +1353,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006228&ret=B"
     },
     {
-      "date": "24/08/2026",
-      "id": "032026006229",
-      "municipio": "Nava",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Carretillero/a - operario/a de almacén (ref. 6229 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006229&ret=B"
-    },
-    {
-      "date": "24/08/2026",
-      "id": "032026006230",
-      "municipio": "Nava",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de reparto (ref. 6230 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006230&ret=B"
-    },
-    {
       "date": "22/09/2026",
       "id": "032026006241",
       "municipio": "Tineo",
@@ -1660,15 +1651,6 @@
     },
     {
       "date": "01/09/2026",
-      "id": "032026006407",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de camión - carretillero (ref: 6407)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006407&ret=B"
-    },
-    {
-      "date": "01/09/2026",
       "id": "032026006408",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -1677,7 +1659,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006408&ret=B"
     },
     {
-      "date": "15/09/2026",
+      "date": "28/09/2026",
       "id": "032026006409",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4305,6 +4287,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006869&ret=B"
     },
     {
+      "date": "28/09/2026",
+      "id": "032026006870",
+      "municipio": "Nava",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "4 auxiliares enfermería (ref.6870)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006870&ret=B"
+    },
+    {
       "date": "24/09/2026",
       "id": "032026006871",
       "municipio": "Pravia",
@@ -4765,12 +4756,39 @@
     },
     {
       "date": "28/09/2026",
+      "id": "032026006926",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Técnico/a auxiliar de farmacia (ref. 6926)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006926&ret=B"
+    },
+    {
+      "date": "28/09/2026",
       "id": "032026006928",
       "municipio": "Oviedo",
       "provincia": "Asturias",
       "sector": "TH",
       "title": "Cocinero/a (ref:6928)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006928&ret=B"
+    },
+    {
+      "date": "28/09/2026",
+      "id": "032026006929",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "IP",
+      "title": "Soldador/a (ref.: 6929)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006929&ret=B"
+    },
+    {
+      "date": "28/09/2026",
+      "id": "032026006932",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "TC",
+      "title": "Conductor/a - repartidor/a (ref. 6932)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006932&ret=B"
     }
   ],
   "sectors": {
@@ -4812,7 +4830,7 @@
     },
     "IA": {
       "count": 11,
-      "last_crawled": "2026-09-27T08:50:09Z"
+      "last_crawled": "2026-09-28T09:13:58Z"
     },
     "IG": {
       "count": 1,
@@ -4823,8 +4841,8 @@
       "last_crawled": "2026-09-28T08:17:13Z"
     },
     "IP": {
-      "count": 16,
-      "last_crawled": "2026-09-27T08:50:09Z"
+      "count": 17,
+      "last_crawled": "2026-09-28T09:13:58Z"
     },
     "IQ": {
       "count": 1,
@@ -4840,7 +4858,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-09-27T08:50:09Z"
+      "last_crawled": "2026-09-28T09:13:58Z"
     },
     "MO": {
       "count": 12,
@@ -4848,7 +4866,7 @@
     },
     "MR": {
       "count": 13,
-      "last_crawled": "2026-09-27T08:50:09Z"
+      "last_crawled": "2026-09-28T09:13:58Z"
     },
     "MT": {
       "count": 6,
@@ -4867,25 +4885,25 @@
       "last_crawled": "2026-09-27T09:51:47Z"
     },
     "SA": {
-      "count": 84,
-      "last_crawled": "2026-09-27T08:50:09Z"
+      "count": 87,
+      "last_crawled": "2026-09-28T09:13:58Z"
     },
     "SF": {
       "count": 1,
-      "last_crawled": "2026-09-27T08:50:09Z"
+      "last_crawled": "2026-09-28T09:13:58Z"
     },
     "SP": {
       "count": 118,
       "last_crawled": "2026-09-28T06:17:58Z"
     },
     "TC": {
-      "count": 37,
-      "last_crawled": "2026-09-27T08:50:09Z"
+      "count": 35,
+      "last_crawled": "2026-09-28T09:13:58Z"
     },
     "TH": {
       "count": 77,
       "last_crawled": "2026-09-28T08:17:13Z"
     }
   },
-  "updated": "2026-09-28T08:17:13Z"
+  "updated": "2026-09-28T09:13:58Z"
 }
