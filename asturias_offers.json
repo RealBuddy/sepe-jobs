@@ -381,6 +381,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005117&ret=B"
     },
     {
+      "date": "01/09/2026",
+      "id": "032026005150",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Nueva difusión - 2 puestos de electricista (ref. 5150)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005150&ret=B"
+    },
+    {
       "date": "15/09/2026",
       "id": "032026005174",
       "municipio": "Pravia",
@@ -1911,15 +1920,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006486&ret=B"
     },
     {
-      "date": "03/09/2026",
-      "id": "032026006489",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Montadores/as de cubiertas industriales (ref: 6489)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006489&ret=B"
-    },
-    {
       "date": "23/09/2026",
       "id": "032026006491",
       "municipio": "Oviedo",
@@ -2602,15 +2602,6 @@
       "sector": "TC",
       "title": "Conductor/a de grua para asistencia en carretera (ref.: 6649)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006649&ret=B"
-    },
-    {
-      "date": "15/09/2026",
-      "id": "032026006651",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IT",
-      "title": "Monitor/a de costura (ref.: 6651)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006651&ret=B"
     },
     {
       "date": "15/09/2026",
@@ -3655,15 +3646,6 @@
       "sector": "IP",
       "title": "Calderero/a (ref. 6799)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006799&ret=B"
-    },
-    {
-      "date": "21/09/2026",
-      "id": "032026006800",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "2 puestos de operario/a de taller (ref. 6800)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006800&ret=B"
     },
     {
       "date": "21/09/2026",
@@ -4962,6 +4944,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006959&ret=B"
     },
     {
+      "date": "29/09/2026",
+      "id": "032026006961",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Técnico/a auxiliar (ref.: 6961)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006961&ret=B"
+    },
+    {
       "date": "28/09/2026",
       "id": "032026006962",
       "municipio": "Navia",
@@ -4969,6 +4960,15 @@
       "sector": "EO",
       "title": "Ayudante-oficial 2ª pladurista-pintor/a (ref.:6962)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006962&ret=B"
+    },
+    {
+      "date": "28/09/2026",
+      "id": "032026006963",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "IT",
+      "title": "Modista/o (ref. 6963)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006963&ret=B"
     },
     {
       "date": "28/09/2026",
@@ -5036,7 +5036,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-09-28T10:39:28Z"
+      "last_crawled": "2026-09-29T10:27:11Z"
     },
     "AU": {
       "count": 10,
@@ -5052,7 +5052,7 @@
     },
     "EM": {
       "count": 13,
-      "last_crawled": "2026-09-28T10:39:28Z"
+      "last_crawled": "2026-09-29T10:27:11Z"
     },
     "EO": {
       "count": 29,
@@ -5080,11 +5080,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-28T10:39:28Z"
+      "last_crawled": "2026-09-29T10:27:11Z"
     },
     "IT": {
       "count": 2,
-      "last_crawled": "2026-09-28T10:39:28Z"
+      "last_crawled": "2026-09-29T10:27:11Z"
     },
     "MD": {
       "count": 5,
@@ -5096,7 +5096,7 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-09-28T10:39:28Z"
+      "last_crawled": "2026-09-29T10:27:11Z"
     },
     "MR": {
       "count": 13,
@@ -5104,7 +5104,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-09-28T10:39:28Z"
+      "last_crawled": "2026-09-29T10:27:11Z"
     },
     "PA": {
       "count": 0,
@@ -5116,7 +5116,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-28T10:39:28Z"
+      "last_crawled": "2026-09-29T10:27:11Z"
     },
     "SA": {
       "count": 88,
@@ -5139,5 +5139,5 @@
       "last_crawled": "2026-09-29T07:55:58Z"
     }
   },
-  "updated": "2026-09-29T09:22:11Z"
+  "updated": "2026-09-29T10:27:11Z"
 }
