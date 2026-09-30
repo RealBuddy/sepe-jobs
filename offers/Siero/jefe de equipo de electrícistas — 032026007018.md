@@ -1,0 +1,12 @@
+# jefe de equipo de electrícistas
+
+- **Профессия (ES):** jefe de equipo de electrícistas
+- **Оригинальное название:** 2 puestos de jefe de equipo de electrícistas (ref.: 7018)
+- **Город:** Siero (Asturias)
+- **Дата публикации:** 30/09/2026
+- **ID оферты:** 032026007018
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007018&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
