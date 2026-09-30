@@ -1,7 +1,7 @@
-# Ayundante de equipo de catering
+# Ayudante de equipo de catering
 
-- **Профессия (ES):** Ayundante de equipo de catering
-- **Оригинальное название:** Ayundante de equipo de catering (ref.: 6610)
+- **Профессия (ES):** Ayudante de equipo de catering
+- **Оригинальное название:** Ayudante de equipo de catering (ref.: 6610)
 - **Город:** Gijón (Asturias)
 - **Дата публикации:** 29/09/2026
 - **ID оферты:** 032026006610
