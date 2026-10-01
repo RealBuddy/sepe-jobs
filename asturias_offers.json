@@ -1,5 +1,5 @@
 {
-  "count": 508,
+  "count": 509,
   "failed_sectors": [],
   "offers": [
     {
@@ -172,15 +172,6 @@
       "sector": "CC",
       "title": "Atención al cliente en salones de apuestas deportivas (ref.: 4170)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004170&ret=B"
-    },
-    {
-      "date": "02/09/2026",
-      "id": "032026004183",
-      "municipio": "Ribadesella",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Peón/a de producción industrial - ribadesella (ref. 4183)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004183&ret=B"
     },
     {
       "date": "22/09/2026",
@@ -1639,15 +1630,6 @@
       "sector": "TH",
       "title": "Ayudantes de camareros/as (ref: 6578)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006578&ret=B"
-    },
-    {
-      "date": "10/09/2026",
-      "id": "032026006580",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "IQ",
-      "title": "Controlador/a inspección visual residuos (ref.6580)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006580&ret=B"
     },
     {
       "date": "30/09/2026",
@@ -4468,12 +4450,30 @@
     },
     {
       "date": "30/09/2026",
+      "id": "032026007023",
+      "municipio": "Sariego",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Técnico máquinas expendedores.(ref. 7023)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007023&ret=B"
+    },
+    {
+      "date": "30/09/2026",
       "id": "032026007024",
       "municipio": "Oviedo",
       "provincia": "Asturias",
       "sector": "AO",
       "title": "2 puestos de técnico/a de telemetría y conducción eficiente (puesto de oficina) con discapacidad (ref: 7024)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007024&ret=B"
+    },
+    {
+      "date": "30/09/2026",
+      "id": "032026007025",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "IQ",
+      "title": "Operario/a de vulcanizado (ref.7025)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007025&ret=B"
     },
     {
       "date": "30/09/2026",
@@ -4558,6 +4558,15 @@
     },
     {
       "date": "01/10/2026",
+      "id": "032026007037",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a de i+d en ia y analítica avanzada (ref.: 7037)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007037&ret=B"
+    },
+    {
+      "date": "01/10/2026",
       "id": "032026007043",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -4586,7 +4595,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-09-30T10:19:29Z"
+      "last_crawled": "2026-10-01T10:45:31Z"
     },
     "AU": {
       "count": 10,
@@ -4601,8 +4610,8 @@
       "last_crawled": "2026-10-01T06:48:19Z"
     },
     "EM": {
-      "count": 13,
-      "last_crawled": "2026-09-30T10:19:29Z"
+      "count": 14,
+      "last_crawled": "2026-10-01T10:45:31Z"
     },
     "EO": {
       "count": 32,
@@ -4630,11 +4639,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-09-30T10:19:29Z"
+      "last_crawled": "2026-10-01T10:45:31Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-09-30T10:19:29Z"
+      "last_crawled": "2026-10-01T10:45:31Z"
     },
     "MD": {
       "count": 5,
@@ -4645,16 +4654,16 @@
       "last_crawled": "2026-10-01T09:40:12Z"
     },
     "MO": {
-      "count": 14,
-      "last_crawled": "2026-09-30T10:19:29Z"
+      "count": 15,
+      "last_crawled": "2026-10-01T10:45:31Z"
     },
     "MR": {
       "count": 14,
       "last_crawled": "2026-10-01T09:40:12Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-09-30T10:19:29Z"
+      "count": 3,
+      "last_crawled": "2026-10-01T10:45:31Z"
     },
     "PA": {
       "count": 0,
@@ -4666,7 +4675,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-09-30T10:19:29Z"
+      "last_crawled": "2026-10-01T10:45:31Z"
     },
     "SA": {
       "count": 73,
@@ -4689,5 +4698,5 @@
       "last_crawled": "2026-10-01T08:22:16Z"
     }
   },
-  "updated": "2026-10-01T09:40:12Z"
+  "updated": "2026-10-01T10:45:31Z"
 }
