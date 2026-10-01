@@ -1,7 +1,7 @@
-# Camarero/a para sidrería
+# Camarero/a para sidrería en viella
 
-- **Профессия (ES):** Camarero/a para sidrería
-- **Оригинальное название:** Camarero/a para sidrería (ref. 4091)
+- **Профессия (ES):** Camarero/a para sidrería en viella
+- **Оригинальное название:** Camarero/a para sidrería en viella (ref. 4091)
 - **Город:** Siero (Asturias)
 - **Дата публикации:** 18/09/2026
 - **ID оферты:** 032026004091
