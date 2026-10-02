@@ -1,5 +1,5 @@
 {
-  "count": 524,
+  "count": 526,
   "failed_sectors": [],
   "offers": [
     {
@@ -154,6 +154,15 @@
       "sector": "CC",
       "title": "Atención al cliente en salones de apuestas deportivas (ref.: 4170)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004170&ret=B"
+    },
+    {
+      "date": "01/10/2026",
+      "id": "032026004183",
+      "municipio": "Ribadesella",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "2 peones de producción industrial - ribadesella (ref. 4183)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004183&ret=B"
     },
     {
       "date": "22/09/2026",
@@ -633,7 +642,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005825&ret=B"
     },
     {
-      "date": "09/09/2026",
+      "date": "02/10/2026",
       "id": "032026005831",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -1324,15 +1333,6 @@
       "sector": "DO",
       "title": "Profesor/a de matematicas (ref.: 6486)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006486&ret=B"
-    },
-    {
-      "date": "23/09/2026",
-      "id": "032026006491",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Teleoperador/a (ref.: 6491) nueva difusion",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006491&ret=B"
     },
     {
       "date": "21/09/2026",
@@ -3253,15 +3253,6 @@
     },
     {
       "date": "24/09/2026",
-      "id": "032026006884",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Electricista baja tensión (ref. 6884)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006884&ret=B"
-    },
-    {
-      "date": "24/09/2026",
       "id": "032026006885",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4611,6 +4602,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007051&ret=B"
     },
     {
+      "date": "01/10/2026",
+      "id": "032026007052",
+      "municipio": "Cangas de onis",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "2 puestos de peon de produccion (7052)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007052&ret=B"
+    },
+    {
       "date": "02/10/2026",
       "id": "032026007053",
       "municipio": "Oviedo",
@@ -4618,6 +4618,15 @@
       "sector": "AO",
       "title": "10 alumnos/as trabajadores/as auxiliares de servicios administrativos y generales/ordenanzas, programa joven ocúpate (ref.: 7053)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007053&ret=B"
+    },
+    {
+      "date": "01/10/2026",
+      "id": "032026007054",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a de taller (ref. 7054)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007054&ret=B"
     },
     {
       "date": "01/10/2026",
@@ -4684,6 +4693,15 @@
     },
     {
       "date": "02/10/2026",
+      "id": "032026007064",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Ingeniera/o de datos júnior en proyectos de i+d con ia (ref. 7064)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007064&ret=B"
+    },
+    {
+      "date": "02/10/2026",
       "id": "032026007067",
       "municipio": "Carreño",
       "provincia": "Asturias",
@@ -4730,7 +4748,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-10-01T10:45:31Z"
+      "last_crawled": "2026-10-02T10:20:42Z"
     },
     "AU": {
       "count": 10,
@@ -4746,7 +4764,7 @@
     },
     "EM": {
       "count": 14,
-      "last_crawled": "2026-10-01T10:45:31Z"
+      "last_crawled": "2026-10-02T10:20:42Z"
     },
     "EO": {
       "count": 32,
@@ -4774,11 +4792,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-10-01T10:45:31Z"
+      "last_crawled": "2026-10-02T10:20:42Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-01T10:45:31Z"
+      "last_crawled": "2026-10-02T10:20:42Z"
     },
     "MD": {
       "count": 5,
@@ -4789,16 +4807,16 @@
       "last_crawled": "2026-10-02T09:14:19Z"
     },
     "MO": {
-      "count": 15,
-      "last_crawled": "2026-10-01T10:45:31Z"
+      "count": 14,
+      "last_crawled": "2026-10-02T10:20:42Z"
     },
     "MR": {
       "count": 15,
       "last_crawled": "2026-10-02T09:14:19Z"
     },
     "MT": {
-      "count": 3,
-      "last_crawled": "2026-10-01T10:45:31Z"
+      "count": 6,
+      "last_crawled": "2026-10-02T10:20:42Z"
     },
     "PA": {
       "count": 0,
@@ -4810,7 +4828,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-10-01T10:45:31Z"
+      "last_crawled": "2026-10-02T10:20:42Z"
     },
     "SA": {
       "count": 73,
@@ -4833,5 +4851,5 @@
       "last_crawled": "2026-10-02T07:58:53Z"
     }
   },
-  "updated": "2026-10-02T09:14:19Z"
+  "updated": "2026-10-02T10:20:42Z"
 }
