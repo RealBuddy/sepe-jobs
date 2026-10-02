@@ -1,0 +1,12 @@
+# puestos operario/a de produccion industria alimentaria nueva difusion
+
+- **Профессия (ES):** puestos operario/a de produccion industria alimentaria nueva difusion
+- **Оригинальное название:** 3 puestos operario/a de produccion industria alimentaria (ref.: 5679) nueva difusion
+- **Город:** Morcin (Asturias)
+- **Дата публикации:** 02/10/2026
+- **ID оферты:** 032026005679
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005679&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
