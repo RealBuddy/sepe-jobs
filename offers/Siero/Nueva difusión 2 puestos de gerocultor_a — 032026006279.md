@@ -3,7 +3,7 @@
 - **Профессия (ES):** Nueva difusión 2 puestos de gerocultor/a
 - **Оригинальное название:** Nueva difusión 2 puestos de gerocultor/a (ref. 6279)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 16/09/2026
+- **Дата публикации:** 02/10/2026
 - **ID оферты:** 032026006279
 
 ## 👉 Откликнуться на вакансию

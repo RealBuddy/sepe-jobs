@@ -1,5 +1,5 @@
 {
-  "count": 539,
+  "count": 535,
   "failed_sectors": [],
   "offers": [
     {
@@ -570,15 +570,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005758&ret=B"
     },
     {
-      "date": "22/09/2026",
-      "id": "032026005765",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de camión con grúa (ref.:5765)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005765&ret=B"
-    },
-    {
       "date": "24/09/2026",
       "id": "032026005770",
       "municipio": "Llanera",
@@ -784,15 +775,6 @@
       "sector": "SA",
       "title": "Auxiliar de enfermeria (ref.5981)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005981&ret=B"
-    },
-    {
-      "date": "25/09/2026",
-      "id": "032026005985",
-      "municipio": "Castrillon",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Gerocultor/a (ref.5985)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005985&ret=B"
     },
     {
       "date": "11/09/2026",
@@ -1083,7 +1065,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006277&ret=B"
     },
     {
-      "date": "16/09/2026",
+      "date": "02/10/2026",
       "id": "032026006279",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -1228,15 +1210,6 @@
     },
     {
       "date": "02/09/2026",
-      "id": "032026006437",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Carnicero/a (ref.: 6437)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006437&ret=B"
-    },
-    {
-      "date": "02/09/2026",
       "id": "032026006439",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -1252,15 +1225,6 @@
       "sector": "TH",
       "title": "2 puestos de personal de administracion postventa y recepcion de taller -1 mieres y 1 en aviles - (ref.6440) \"modificada\"",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006440&ret=B"
-    },
-    {
-      "date": "02/09/2026",
-      "id": "032026006441",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Gerocultor/a (ref.: 6441)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006441&ret=B"
     },
     {
       "date": "02/09/2026",
@@ -1333,15 +1297,6 @@
       "sector": "DO",
       "title": "Docente fol, ret, ipe i e ipe ii (ref.: 6481)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006481&ret=B"
-    },
-    {
-      "date": "03/09/2026",
-      "id": "032026006485",
-      "municipio": "Lena",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Ayudante de panadería (ref.6485)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006485&ret=B"
     },
     {
       "date": "03/09/2026",
@@ -1891,15 +1846,6 @@
       "sector": "AA",
       "title": "25 peones/as agrícolas (ref. 6654)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006654&ret=B"
-    },
-    {
-      "date": "30/09/2026",
-      "id": "032026006657",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de camión para reparto de combustible a domicilio (ref. 6657)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006657&ret=B"
     },
     {
       "date": "15/09/2026",
@@ -2458,15 +2404,6 @@
       "sector": "CC",
       "title": "2 jefes/as de equipo comercial para varias localidades (ref. 6771)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006771&ret=B"
-    },
-    {
-      "date": "21/09/2026",
-      "id": "032026006774",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Operario/a de fábrica - repartidor/a (ref.: 6774)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006774&ret=B"
     },
     {
       "date": "21/09/2026",
@@ -4738,6 +4675,15 @@
     },
     {
       "date": "02/10/2026",
+      "id": "032026007075",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "IP",
+      "title": "Pintor/a pistola airless(ref: 7075)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007075&ret=B"
+    },
+    {
+      "date": "02/10/2026",
       "id": "032026007076",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -4828,6 +4774,15 @@
     },
     {
       "date": "02/10/2026",
+      "id": "032026007087",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "TC",
+      "title": "Conductor/a de camión (ref.: 7087)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007087&ret=B"
+    },
+    {
+      "date": "02/10/2026",
       "id": "032026007088",
       "municipio": "Tineo",
       "provincia": "Asturias",
@@ -4843,6 +4798,15 @@
       "sector": "AA",
       "title": "1 peon/a ganadero (ref. 7089)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007089&ret=B"
+    },
+    {
+      "date": "02/10/2026",
+      "id": "032026007090",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "2 puestos de gerocultor/a (ref.: 7090)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007090&ret=B"
     },
     {
       "date": "02/10/2026",
@@ -4892,8 +4856,8 @@
       "last_crawled": "2026-10-03T07:39:34Z"
     },
     "IA": {
-      "count": 13,
-      "last_crawled": "2026-10-02T09:14:19Z"
+      "count": 11,
+      "last_crawled": "2026-10-03T08:46:28Z"
     },
     "IG": {
       "count": 0,
@@ -4904,8 +4868,8 @@
       "last_crawled": "2026-10-03T07:39:34Z"
     },
     "IP": {
-      "count": 15,
-      "last_crawled": "2026-10-02T09:14:19Z"
+      "count": 16,
+      "last_crawled": "2026-10-03T08:46:28Z"
     },
     "IQ": {
       "count": 1,
@@ -4921,7 +4885,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-02T09:14:19Z"
+      "last_crawled": "2026-10-03T08:46:28Z"
     },
     "MO": {
       "count": 14,
@@ -4929,7 +4893,7 @@
     },
     "MR": {
       "count": 15,
-      "last_crawled": "2026-10-02T09:14:19Z"
+      "last_crawled": "2026-10-03T08:46:28Z"
     },
     "MT": {
       "count": 6,
@@ -4948,25 +4912,25 @@
       "last_crawled": "2026-10-02T10:20:42Z"
     },
     "SA": {
-      "count": 73,
-      "last_crawled": "2026-10-02T09:14:19Z"
+      "count": 72,
+      "last_crawled": "2026-10-03T08:46:28Z"
     },
     "SF": {
       "count": 1,
-      "last_crawled": "2026-10-02T09:14:19Z"
+      "last_crawled": "2026-10-03T08:46:28Z"
     },
     "SP": {
       "count": 106,
       "last_crawled": "2026-10-03T06:00:10Z"
     },
     "TC": {
-      "count": 32,
-      "last_crawled": "2026-10-02T09:14:19Z"
+      "count": 30,
+      "last_crawled": "2026-10-03T08:46:28Z"
     },
     "TH": {
       "count": 74,
       "last_crawled": "2026-10-03T07:39:34Z"
     }
   },
-  "updated": "2026-10-03T07:39:34Z"
+  "updated": "2026-10-03T08:46:28Z"
 }
