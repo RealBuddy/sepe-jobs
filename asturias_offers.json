@@ -1,5 +1,5 @@
 {
-  "count": 533,
+  "count": 529,
   "failed_sectors": [],
   "offers": [
     {
@@ -37,15 +37,6 @@
       "sector": "IA",
       "title": "Oficial/a panadero - pastelero con discapacidad (ref: 251)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000251&ret=B"
-    },
-    {
-      "date": "04/09/2026",
-      "id": "032026001934",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "nueva difusión gerocultor/a (ref. 1934)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026001934&ret=B"
     },
     {
       "date": "30/09/2026",
@@ -1273,15 +1264,6 @@
     },
     {
       "date": "03/09/2026",
-      "id": "032026006480",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "3 puestos de pastelero/a (ref.: 6480)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006480&ret=B"
-    },
-    {
-      "date": "03/09/2026",
       "id": "032026006481",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -1324,15 +1306,6 @@
       "sector": "AU",
       "title": "Mecanico/a - soldador/a oficial de primera (ref.: 6508)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006508&ret=B"
-    },
-    {
-      "date": "04/09/2026",
-      "id": "032026006509",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Auxiliar de enfermeria (ref.: 6509)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006509&ret=B"
     },
     {
       "date": "01/10/2026",
@@ -1684,15 +1657,6 @@
       "sector": "EO",
       "title": "Operario hormigón y prefabricado (ref. 6613)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006613&ret=B"
-    },
-    {
-      "date": "11/09/2026",
-      "id": "032026006614",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "2 gerocultores/as(ref.6614)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006614&ret=B"
     },
     {
       "date": "01/10/2026",
@@ -4838,8 +4802,8 @@
       "last_crawled": "2026-10-04T07:48:59Z"
     },
     "IA": {
-      "count": 11,
-      "last_crawled": "2026-10-03T08:46:28Z"
+      "count": 10,
+      "last_crawled": "2026-10-04T09:12:46Z"
     },
     "IG": {
       "count": 0,
@@ -4851,7 +4815,7 @@
     },
     "IP": {
       "count": 16,
-      "last_crawled": "2026-10-03T08:46:28Z"
+      "last_crawled": "2026-10-04T09:12:46Z"
     },
     "IQ": {
       "count": 1,
@@ -4867,7 +4831,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-03T08:46:28Z"
+      "last_crawled": "2026-10-04T09:12:46Z"
     },
     "MO": {
       "count": 14,
@@ -4875,7 +4839,7 @@
     },
     "MR": {
       "count": 15,
-      "last_crawled": "2026-10-03T08:46:28Z"
+      "last_crawled": "2026-10-04T09:12:46Z"
     },
     "MT": {
       "count": 6,
@@ -4894,12 +4858,12 @@
       "last_crawled": "2026-10-03T09:42:54Z"
     },
     "SA": {
-      "count": 72,
-      "last_crawled": "2026-10-03T08:46:28Z"
+      "count": 69,
+      "last_crawled": "2026-10-04T09:12:46Z"
     },
     "SF": {
       "count": 1,
-      "last_crawled": "2026-10-03T08:46:28Z"
+      "last_crawled": "2026-10-04T09:12:46Z"
     },
     "SP": {
       "count": 105,
@@ -4907,12 +4871,12 @@
     },
     "TC": {
       "count": 30,
-      "last_crawled": "2026-10-03T08:46:28Z"
+      "last_crawled": "2026-10-04T09:12:46Z"
     },
     "TH": {
       "count": 74,
       "last_crawled": "2026-10-04T07:48:59Z"
     }
   },
-  "updated": "2026-10-04T07:48:59Z"
+  "updated": "2026-10-04T09:12:46Z"
 }
