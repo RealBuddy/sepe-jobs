@@ -1,5 +1,5 @@
 {
-  "count": 535,
+  "count": 533,
   "failed_sectors": [],
   "offers": [
     {
@@ -217,15 +217,6 @@
       "sector": "AO",
       "title": "Auxiliar administrativo/a (ref: 4287)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004287&ret=B"
-    },
-    {
-      "date": "07/09/2026",
-      "id": "032026004377",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a (ref.: 4377)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004377&ret=B"
     },
     {
       "date": "09/09/2026",
@@ -1297,15 +1288,6 @@
       "sector": "DO",
       "title": "Docente fol, ret, ipe i e ipe ii (ref.: 6481)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006481&ret=B"
-    },
-    {
-      "date": "03/09/2026",
-      "id": "032026006486",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de matematicas (ref.: 6486)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006486&ret=B"
     },
     {
       "date": "21/09/2026",
@@ -4821,7 +4803,7 @@
   "sectors": {
     "AA": {
       "count": 18,
-      "last_crawled": "2026-10-03T06:00:10Z"
+      "last_crawled": "2026-10-04T06:36:53Z"
     },
     "AO": {
       "count": 26,
@@ -4837,11 +4819,11 @@
     },
     "CC": {
       "count": 52,
-      "last_crawled": "2026-10-03T06:00:10Z"
+      "last_crawled": "2026-10-04T06:36:53Z"
     },
     "DO": {
-      "count": 27,
-      "last_crawled": "2026-10-03T06:00:10Z"
+      "count": 26,
+      "last_crawled": "2026-10-04T06:36:53Z"
     },
     "EM": {
       "count": 14,
@@ -4861,7 +4843,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-10-03T06:00:10Z"
+      "last_crawled": "2026-10-04T06:36:53Z"
     },
     "IM": {
       "count": 0,
@@ -4881,7 +4863,7 @@
     },
     "MD": {
       "count": 5,
-      "last_crawled": "2026-10-03T06:00:10Z"
+      "last_crawled": "2026-10-04T06:36:53Z"
     },
     "MN": {
       "count": 0,
@@ -4901,7 +4883,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-10-03T06:00:10Z"
+      "last_crawled": "2026-10-04T06:36:53Z"
     },
     "PC": {
       "count": 0,
@@ -4920,8 +4902,8 @@
       "last_crawled": "2026-10-03T08:46:28Z"
     },
     "SP": {
-      "count": 106,
-      "last_crawled": "2026-10-03T06:00:10Z"
+      "count": 105,
+      "last_crawled": "2026-10-04T06:36:53Z"
     },
     "TC": {
       "count": 30,
@@ -4932,5 +4914,5 @@
       "last_crawled": "2026-10-03T07:39:34Z"
     }
   },
-  "updated": "2026-10-03T09:42:54Z"
+  "updated": "2026-10-04T06:36:53Z"
 }
