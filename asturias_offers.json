@@ -1,5 +1,5 @@
 {
-  "count": 520,
+  "count": 525,
   "failed_sectors": [],
   "offers": [
     {
@@ -352,6 +352,15 @@
       "sector": "IP",
       "title": "Calderero/a (ref. 5252)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005252&ret=B"
+    },
+    {
+      "date": "05/10/2026",
+      "id": "032026005267",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Coordinador/a de growth marqueting y crm",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005267&ret=B"
     },
     {
       "date": "13/08/2026",
@@ -4648,12 +4657,30 @@
     },
     {
       "date": "05/10/2026",
+      "id": "032026007103",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "AR",
+      "title": "Carpintero/a armarios ref.:(7103)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007103&ret=B"
+    },
+    {
+      "date": "05/10/2026",
       "id": "032026007104",
       "municipio": "Aviles",
       "provincia": "Asturias",
       "sector": "EO",
       "title": "Operador/a de excavadora chatarrera (ref: 7104)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007104&ret=B"
+    },
+    {
+      "date": "05/10/2026",
+      "id": "032026007105",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Encuestadores/as (ref.: 7105)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007105&ret=B"
     },
     {
       "date": "05/10/2026",
@@ -4675,6 +4702,24 @@
     },
     {
       "date": "05/10/2026",
+      "id": "032026007110",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "10 alumnos/as trabajadores/as \"operaciones aux. de montaje y manten. sistemas microinformáticos\" programa joven ocúpate (ref 7110)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007110&ret=B"
+    },
+    {
+      "date": "05/10/2026",
+      "id": "032026007111",
+      "municipio": "Nava",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Delineante (ref.7111)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007111&ret=B"
+    },
+    {
+      "date": "05/10/2026",
       "id": "032026007116",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -4693,8 +4738,8 @@
       "last_crawled": "2026-10-05T08:26:06Z"
     },
     "AR": {
-      "count": 0,
-      "last_crawled": "2026-10-04T10:26:47Z"
+      "count": 1,
+      "last_crawled": "2026-10-05T11:13:44Z"
     },
     "AU": {
       "count": 11,
@@ -4709,8 +4754,8 @@
       "last_crawled": "2026-10-05T06:32:10Z"
     },
     "EM": {
-      "count": 14,
-      "last_crawled": "2026-10-04T10:26:47Z"
+      "count": 18,
+      "last_crawled": "2026-10-05T11:13:44Z"
     },
     "EO": {
       "count": 35,
@@ -4738,11 +4783,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-10-04T10:26:47Z"
+      "last_crawled": "2026-10-05T11:13:44Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-04T10:26:47Z"
+      "last_crawled": "2026-10-05T11:13:44Z"
     },
     "MD": {
       "count": 5,
@@ -4754,7 +4799,7 @@
     },
     "MO": {
       "count": 14,
-      "last_crawled": "2026-10-04T10:26:47Z"
+      "last_crawled": "2026-10-05T11:13:44Z"
     },
     "MR": {
       "count": 17,
@@ -4762,7 +4807,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-10-04T10:26:47Z"
+      "last_crawled": "2026-10-05T11:13:44Z"
     },
     "PA": {
       "count": 0,
@@ -4774,7 +4819,7 @@
     },
     "PT": {
       "count": 0,
-      "last_crawled": "2026-10-04T10:26:47Z"
+      "last_crawled": "2026-10-05T11:13:44Z"
     },
     "SA": {
       "count": 69,
@@ -4797,5 +4842,5 @@
       "last_crawled": "2026-10-05T08:26:06Z"
     }
   },
-  "updated": "2026-10-05T09:53:26Z"
+  "updated": "2026-10-05T11:13:44Z"
 }
