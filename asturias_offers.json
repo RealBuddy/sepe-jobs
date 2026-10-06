@@ -1,5 +1,5 @@
 {
-  "count": 526,
+  "count": 531,
   "failed_sectors": [],
   "offers": [
     {
@@ -2335,15 +2335,6 @@
     },
     {
       "date": "21/09/2026",
-      "id": "032026006794",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de cocina para colectividades (ref. 6794)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006794&ret=B"
-    },
-    {
-      "date": "21/09/2026",
       "id": "032026006795",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -2512,15 +2503,6 @@
       "sector": "DO",
       "title": "Profesor/a informática (ref.: 6826)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006826&ret=B"
-    },
-    {
-      "date": "22/09/2026",
-      "id": "032026006827",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "1 puesto de cocinero/a (ref: 6827)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006827&ret=B"
     },
     {
       "date": "22/09/2026",
@@ -3262,15 +3244,6 @@
     },
     {
       "date": "28/09/2026",
-      "id": "032026006941",
-      "municipio": "San martin del rey aurelio",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "6 operarios/as oficios múltiples (3 para mayores de 45 años y 3 para beneficiarios/as ssb-imv) plan empleo ayto smra (ref.: 6941)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006941&ret=B"
-    },
-    {
-      "date": "28/09/2026",
       "id": "032026006942",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -3307,30 +3280,12 @@
     },
     {
       "date": "28/09/2026",
-      "id": "032026006948",
-      "municipio": "San martin del rey aurelio",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Pintor/a mayor de 45 años para el plan de empleo del ayuntamiento de smra (ref.: 6948)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006948&ret=B"
-    },
-    {
-      "date": "28/09/2026",
       "id": "032026006949",
       "municipio": "San martin del rey aurelio",
       "provincia": "Asturias",
       "sector": "IP",
       "title": "Soldador/a mayor de 45 años para el plan de empleo del ayuntamiento de smra (ref.: 6949)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006949&ret=B"
-    },
-    {
-      "date": "28/09/2026",
-      "id": "032026006950",
-      "municipio": "San martin del rey aurelio",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Albañil mayor de 45 años para el plan de empleo del ayuntamiento de smra (ref.: 6950)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006950&ret=B"
     },
     {
       "date": "28/09/2026",
@@ -3349,15 +3304,6 @@
       "sector": "SA",
       "title": "Enfermero/a clínicas geriátricas (ref. 6953)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006953&ret=B"
-    },
-    {
-      "date": "28/09/2026",
-      "id": "032026006956",
-      "municipio": "San martin del rey aurelio",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Graduado/a en arquitectura para el plan de empleo del ayuntamiento de smra (ref.: 6956)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006956&ret=B"
     },
     {
       "date": "28/09/2026",
@@ -3520,15 +3466,6 @@
       "sector": "SA",
       "title": "3 puestos de gerocultor/a (ref. 6977)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006977&ret=B"
-    },
-    {
-      "date": "29/09/2026",
-      "id": "032026006978",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Fontanero/a oficial de 1ª ( ref. 6978 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006978&ret=B"
     },
     {
       "date": "29/09/2026",
@@ -4530,6 +4467,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007097&ret=B"
     },
     {
+      "date": "06/10/2026",
+      "id": "032026007098",
+      "municipio": "Peñamellera baja",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "Contrato formativo para adquisición de la práctica profesional - ayuntamiento de peñamellera baja (ref. 7098)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007098&ret=B"
+    },
+    {
       "date": "05/10/2026",
       "id": "032026007099",
       "municipio": "Siero",
@@ -4544,7 +4490,7 @@
       "municipio": "Cudillero",
       "provincia": "Asturias",
       "sector": "EO",
-      "title": "1 arquitecto/a superior (ref. 7100)",
+      "title": "1 arquitecto/a superior . contrato formativo. ayuntamiento cudillero(ref. 7100)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007100&ret=B"
     },
     {
@@ -4603,6 +4549,15 @@
     },
     {
       "date": "05/10/2026",
+      "id": "032026007107",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "10 alumnos/as trabajadores/as \"operaciones auxiliares de servicios administrativos y generales  programa joven ocúpate (ref.7107)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007107&ret=B"
+    },
+    {
+      "date": "05/10/2026",
       "id": "032026007108",
       "municipio": "Gozon",
       "provincia": "Asturias",
@@ -4639,12 +4594,30 @@
     },
     {
       "date": "05/10/2026",
+      "id": "032026007112",
+      "municipio": "Corvera de asturias",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "Administrativo/a (ref: 7112)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007112&ret=B"
+    },
+    {
+      "date": "05/10/2026",
       "id": "032026007113",
       "municipio": "Gijón",
       "provincia": "Asturias",
       "sector": "SP",
       "title": "Terapeuta ocupacional (ref: 7113)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007113&ret=B"
+    },
+    {
+      "date": "06/10/2026",
+      "id": "032026007114",
+      "municipio": "Peñamellera baja",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "3 peones de la construcción - mayores de 45 años - plan empleo - ayuntamiento de peñamellera baja (ref. 7114)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007114&ret=B"
     },
     {
       "date": "05/10/2026",
@@ -4675,6 +4648,15 @@
     },
     {
       "date": "05/10/2026",
+      "id": "032026007119",
+      "municipio": "el",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Cocinero/a en residencia geriátrica (ref.:7119)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007119&ret=B"
+    },
+    {
+      "date": "05/10/2026",
       "id": "032026007121",
       "municipio": "San martin del rey aurelio",
       "provincia": "Asturias",
@@ -4693,12 +4675,48 @@
     },
     {
       "date": "05/10/2026",
+      "id": "032026007124",
+      "municipio": "San martin del rey aurelio",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "4 auxiliares de oficina - contrato formativo para la obtención de la práctica profesional - ayto smra (ref.:7124)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007124&ret=B"
+    },
+    {
+      "date": "06/10/2026",
+      "id": "032026007125",
+      "municipio": "Soto del barco",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "1 administrativo/a - contrato formativo obtención práctica profesional -ayuntamiento soto del barco (ref. 7125)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007125&ret=B"
+    },
+    {
+      "date": "05/10/2026",
       "id": "032026007126",
       "municipio": "Gijón",
       "provincia": "Asturias",
       "sector": "SP",
       "title": "Oficial de primera de peluquería (ref. 7126)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007126&ret=B"
+    },
+    {
+      "date": "05/10/2026",
+      "id": "032026007127",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "Jefe/a de almacén y logística - sección construcción (ref: 7127)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007127&ret=B"
+    },
+    {
+      "date": "05/10/2026",
+      "id": "032026007128",
+      "municipio": "Cangas del narcea",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "1 auxiliar administrativo/a (ref.7128)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007128&ret=B"
     },
     {
       "date": "05/10/2026",
@@ -4720,6 +4738,15 @@
     },
     {
       "date": "06/10/2026",
+      "id": "032026007132",
+      "municipio": "Nava",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "12 alumnos-as/trabajadores joven ocúpate-oper.aux. albañilería fábricas y cubiertas-ayto. de nava (ref.7132)-",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007132&ret=B"
+    },
+    {
+      "date": "06/10/2026",
       "id": "032026007133",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -4735,6 +4762,24 @@
       "sector": "CC",
       "title": "Agente inmobiliario/a (ref.: 7135)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007135&ret=B"
+    },
+    {
+      "date": "06/10/2026",
+      "id": "032026007136",
+      "municipio": "Pravia",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "1 camarero/a (ref: 7136)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007136&ret=B"
+    },
+    {
+      "date": "06/10/2026",
+      "id": "032026007143",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "Fontanero/a (ref.7143)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007143&ret=B"
     }
   ],
   "sectors": {
@@ -4743,8 +4788,8 @@
       "last_crawled": "2026-10-06T07:09:35Z"
     },
     "AO": {
-      "count": 24,
-      "last_crawled": "2026-10-05T08:26:06Z"
+      "count": 31,
+      "last_crawled": "2026-10-06T08:37:04Z"
     },
     "AR": {
       "count": 1,
@@ -4752,7 +4797,7 @@
     },
     "AU": {
       "count": 11,
-      "last_crawled": "2026-10-05T08:26:06Z"
+      "last_crawled": "2026-10-06T08:37:04Z"
     },
     "CC": {
       "count": 54,
@@ -4767,12 +4812,12 @@
       "last_crawled": "2026-10-05T11:13:44Z"
     },
     "EO": {
-      "count": 35,
-      "last_crawled": "2026-10-05T08:26:06Z"
+      "count": 33,
+      "last_crawled": "2026-10-06T08:37:04Z"
     },
     "FE": {
       "count": 1,
-      "last_crawled": "2026-10-05T08:26:06Z"
+      "last_crawled": "2026-10-06T08:37:04Z"
     },
     "IA": {
       "count": 10,
@@ -4784,7 +4829,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-10-05T08:26:06Z"
+      "last_crawled": "2026-10-06T08:37:04Z"
     },
     "IP": {
       "count": 18,
@@ -4824,7 +4869,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-10-05T08:26:06Z"
+      "last_crawled": "2026-10-06T08:37:04Z"
     },
     "PT": {
       "count": 0,
@@ -4848,8 +4893,8 @@
     },
     "TH": {
       "count": 73,
-      "last_crawled": "2026-10-05T08:26:06Z"
+      "last_crawled": "2026-10-06T08:37:04Z"
     }
   },
-  "updated": "2026-10-06T07:09:35Z"
+  "updated": "2026-10-06T08:37:04Z"
 }

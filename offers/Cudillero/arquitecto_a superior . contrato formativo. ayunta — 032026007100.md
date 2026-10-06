@@ -1,7 +1,7 @@
-# arquitecto/a superior
+# arquitecto/a superior . contrato formativo. ayuntamiento cudillero
 
-- **Профессия (ES):** arquitecto/a superior
-- **Оригинальное название:** 1 arquitecto/a superior (ref. 7100)
+- **Профессия (ES):** arquitecto/a superior . contrato formativo. ayuntamiento cudillero
+- **Оригинальное название:** 1 arquitecto/a superior . contrato formativo. ayuntamiento cudillero(ref. 7100)
 - **Город:** Cudillero (Asturias)
 - **Дата публикации:** 05/10/2026
 - **ID оферты:** 032026007100
