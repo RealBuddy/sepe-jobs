@@ -1,7 +1,7 @@
-# peones de la construcción - mayores de 45 años - plan empleo - ayuntamiento de peñamellera baja
+# peones de la construcción - plan empleo - ayuntamiento de peñamellera baja
 
-- **Профессия (ES):** peones de la construcción - mayores de 45 años - plan empleo - ayuntamiento de peñamellera baja
-- **Оригинальное название:** 3 peones de la construcción - mayores de 45 años - plan empleo - ayuntamiento de peñamellera baja (ref. 7114)
+- **Профессия (ES):** peones de la construcción - plan empleo - ayuntamiento de peñamellera baja
+- **Оригинальное название:** 3 peones de la construcción - plan empleo - ayuntamiento de peñamellera baja (ref. 7114)
 - **Город:** Peñamellera baja (Asturias)
 - **Дата публикации:** 06/10/2026
 - **ID оферты:** 032026007114
