@@ -1,9 +1,9 @@
-# Новое распространение: первый официальный электрик
+# Nueva difusión: electricista oficial
 
-- **Профессия (ES):** Nueva difusión: electricista oficial 1ª
-- **Оригинальное название:** Nueva difusión: electricista oficial 1ª (ref. 4951)
+- **Профессия (ES):** Nueva difusión: electricista oficial
+- **Оригинальное название:** Nueva difusión: electricista oficial (ref. 4951)
 - **Город:** Llanera (Asturias)
-- **Дата публикации:** 25/09/2026
+- **Дата публикации:** 07/10/2026
 - **ID оферты:** 032026004951
 
 ## 👉 Откликнуться на вакансию

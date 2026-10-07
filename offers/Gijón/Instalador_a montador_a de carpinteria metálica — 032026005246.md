@@ -1,9 +1,9 @@
-# Монтажник металлоконструкций
+# Instalador/a montador/a de carpinteria metálica
 
-- **Профессия (ES):** Instalador/a montador/a especialista carpinteria metálica
-- **Оригинальное название:** Instalador/a montador/a especialista carpinteria metálica (ref.5246)
+- **Профессия (ES):** Instalador/a montador/a de carpinteria metálica
+- **Оригинальное название:** Instalador/a montador/a de carpinteria metálica (ref.5246)
 - **Город:** Gijón (Asturias)
-- **Дата публикации:** 22/09/2026
+- **Дата публикации:** 06/10/2026
 - **ID оферты:** 032026005246
 
 ## 👉 Откликнуться на вакансию
