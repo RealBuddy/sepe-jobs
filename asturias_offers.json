@@ -1,5 +1,5 @@
 {
-  "count": 536,
+  "count": 542,
   "failed_sectors": [],
   "offers": [
     {
@@ -327,12 +327,12 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005084&ret=B"
     },
     {
-      "date": "01/09/2026",
+      "date": "07/10/2026",
       "id": "032026005150",
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "MO",
-      "title": "Nueva difusión - 2 puestos de electricista (ref. 5150)",
+      "title": "Nueva difusión - electricista (ref. 5150)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005150&ret=B"
     },
     {
@@ -433,6 +433,15 @@
       "sector": "TH",
       "title": "Camarero/a (ref.:5359)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005359&ret=B"
+    },
+    {
+      "date": "05/10/2026",
+      "id": "032026005365",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Administrativo/a laboral (ref.: 5365)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005365&ret=B"
     },
     {
       "date": "05/10/2026",
@@ -2470,15 +2479,6 @@
     },
     {
       "date": "22/09/2026",
-      "id": "032026006841",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Auxiliar tecnológico/a (ref. 6841)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006841&ret=B"
-    },
-    {
-      "date": "22/09/2026",
       "id": "032026006842",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -3142,15 +3142,6 @@
       "sector": "SA",
       "title": "Enfermero/a clínicas geriátricas (ref. 6959)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006959&ret=B"
-    },
-    {
-      "date": "29/09/2026",
-      "id": "032026006961",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Técnico/a auxiliar (ref.: 6961)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006961&ret=B"
     },
     {
       "date": "28/09/2026",
@@ -4540,6 +4531,15 @@
     },
     {
       "date": "06/10/2026",
+      "id": "032026007137",
+      "municipio": "Lena",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Auxiliar administrativo/a (ref.7137)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007137&ret=B"
+    },
+    {
+      "date": "06/10/2026",
       "id": "032026007138",
       "municipio": "Castrillon",
       "provincia": "Asturias",
@@ -4549,12 +4549,30 @@
     },
     {
       "date": "06/10/2026",
+      "id": "032026007139",
+      "municipio": "Cudillero",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "1 oficial 1ª electromecánico- empresa aqualia- (ref. 7139)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007139&ret=B"
+    },
+    {
+      "date": "06/10/2026",
       "id": "032026007140",
       "municipio": "Gijón",
       "provincia": "Asturias",
       "sector": "SP",
       "title": "Auxiliar de limpieza (ref.: 7140)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007140&ret=B"
+    },
+    {
+      "date": "06/10/2026",
+      "id": "032026007141",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "PT",
+      "title": "Técnico/a electricidad de baja tensión (ref.: 7141)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007141&ret=B"
     },
     {
       "date": "06/10/2026",
@@ -4609,6 +4627,15 @@
       "sector": "MD",
       "title": "8 alumnos/as trabajadores/as trabajos de carpintería y mueble, programa joven ocúpate (ref.: 7147)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007147&ret=B"
+    },
+    {
+      "date": "06/10/2026",
+      "id": "032026007148",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Operario/a de subestaciones eléctricas (ref.: 7148).",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007148&ret=B"
     },
     {
       "date": "06/10/2026",
@@ -4773,6 +4800,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007168&ret=B"
     },
     {
+      "date": "06/10/2026",
+      "id": "032026007169",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "10 alumnos/as trabajadores/as-joven ocúpate-\"operaciones aux. de montaje y mto. sistemas microinformáticos\"-expoacción (ref: 7169)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007169&ret=B"
+    },
+    {
       "date": "07/10/2026",
       "id": "032026007172",
       "municipio": "Gijón",
@@ -4810,6 +4846,24 @@
     },
     {
       "date": "07/10/2026",
+      "id": "032026007178",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Delineante (ref. 7178)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007178&ret=B"
+    },
+    {
+      "date": "07/10/2026",
+      "id": "032026007190",
+      "municipio": "Castropol",
+      "provincia": "Asturias",
+      "sector": "PT",
+      "title": "Operario/a de planta (ref.7190)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007190&ret=B"
+    },
+    {
+      "date": "07/10/2026",
       "id": "032026007192",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -4838,7 +4892,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-05T11:13:44Z"
+      "last_crawled": "2026-10-07T10:53:05Z"
     },
     "AU": {
       "count": 11,
@@ -4853,8 +4907,8 @@
       "last_crawled": "2026-10-07T06:49:48Z"
     },
     "EM": {
-      "count": 18,
-      "last_crawled": "2026-10-05T11:13:44Z"
+      "count": 21,
+      "last_crawled": "2026-10-07T10:53:05Z"
     },
     "EO": {
       "count": 32,
@@ -4882,11 +4936,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-10-05T11:13:44Z"
+      "last_crawled": "2026-10-07T10:53:05Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-05T11:13:44Z"
+      "last_crawled": "2026-10-07T10:53:05Z"
     },
     "MD": {
       "count": 5,
@@ -4897,16 +4951,16 @@
       "last_crawled": "2026-10-07T09:38:06Z"
     },
     "MO": {
-      "count": 14,
-      "last_crawled": "2026-10-05T11:13:44Z"
+      "count": 16,
+      "last_crawled": "2026-10-07T10:53:05Z"
     },
     "MR": {
       "count": 16,
       "last_crawled": "2026-10-07T09:38:06Z"
     },
     "MT": {
-      "count": 6,
-      "last_crawled": "2026-10-05T11:13:44Z"
+      "count": 5,
+      "last_crawled": "2026-10-07T10:53:05Z"
     },
     "PA": {
       "count": 0,
@@ -4917,8 +4971,8 @@
       "last_crawled": "2026-10-07T08:12:20Z"
     },
     "PT": {
-      "count": 0,
-      "last_crawled": "2026-10-05T11:13:44Z"
+      "count": 2,
+      "last_crawled": "2026-10-07T10:53:05Z"
     },
     "SA": {
       "count": 72,
@@ -4941,5 +4995,5 @@
       "last_crawled": "2026-10-07T08:12:20Z"
     }
   },
-  "updated": "2026-10-07T09:38:06Z"
+  "updated": "2026-10-07T10:53:05Z"
 }
