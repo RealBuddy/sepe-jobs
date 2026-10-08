@@ -1,5 +1,5 @@
 {
-  "count": 542,
+  "count": 547,
   "failed_sectors": [],
   "offers": [
     {
@@ -1065,15 +1065,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006372&ret=B"
     },
     {
-      "date": "18/09/2026",
-      "id": "032026006374",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Nueva difusión-mediador/a comunicativo/a- (ref.:6374)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006374&ret=B"
-    },
-    {
       "date": "31/08/2026",
       "id": "032026006380",
       "municipio": "Gijón",
@@ -1207,6 +1198,15 @@
       "sector": "SP",
       "title": "Operario/a de limpieza (ref.: 6471)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006471&ret=B"
+    },
+    {
+      "date": "08/10/2026",
+      "id": "032026006472",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "nueva difusión montador/a de carpas (ref.6472)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006472&ret=B"
     },
     {
       "date": "03/09/2026",
@@ -2587,15 +2587,6 @@
     },
     {
       "date": "24/09/2026",
-      "id": "032026006887",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "1 puesto de oficial de 1ª electromecánico/a (ref: 6887)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006887&ret=B"
-    },
-    {
-      "date": "24/09/2026",
       "id": "032026006888",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -2962,6 +2953,15 @@
       "sector": "SA",
       "title": "Enfermero/a clínicas geriátricas (ref. 6959)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006959&ret=B"
+    },
+    {
+      "date": "08/10/2026",
+      "id": "032026006961",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Técnico/a auxiliar (ref.: 6961)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006961&ret=B"
     },
     {
       "date": "28/09/2026",
@@ -4684,6 +4684,15 @@
     },
     {
       "date": "07/10/2026",
+      "id": "032026007188",
+      "municipio": "Corvera de asturias",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "1 delineante/a mayor de 45 años, plan de empleo del ayuntamiento de corvera de asturias 2026-2027 ( ref: 7188)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007188&ret=B"
+    },
+    {
+      "date": "07/10/2026",
       "id": "032026007189",
       "municipio": "Grado",
       "provincia": "Asturias",
@@ -4792,6 +4801,24 @@
     },
     {
       "date": "07/10/2026",
+      "id": "032026007202",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Oficial redes aereas distribucion electrica (ref.: 7202)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007202&ret=B"
+    },
+    {
+      "date": "07/10/2026",
+      "id": "032026007203",
+      "municipio": "Corvera de asturias",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "2 puestos de monitores/as de informática mayores de 45 años-plan de empleo 2026-2027. ayto de corvera ( ref. 7203 )",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007203&ret=B"
+    },
+    {
+      "date": "07/10/2026",
       "id": "032026007204",
       "municipio": "San martin del rey aurelio",
       "provincia": "Asturias",
@@ -4834,6 +4861,24 @@
       "sector": "DO",
       "title": "Mentor/a del programa jóven-ocúpate en el ayuntamiento de langreo (ref.:7209)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007209&ret=B"
+    },
+    {
+      "date": "07/10/2026",
+      "id": "032026007210",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Oficial redes subtterraneas de distribucion y centros de transformacion (ref.: 7210)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007210&ret=B"
+    },
+    {
+      "date": "07/10/2026",
+      "id": "032026007211",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Oficial liniero lneas aereas alta tension (ref.: 7211)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007211&ret=B"
     },
     {
       "date": "07/10/2026",
@@ -4892,7 +4937,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-07T10:53:05Z"
+      "last_crawled": "2026-10-08T11:10:35Z"
     },
     "AU": {
       "count": 12,
@@ -4907,8 +4952,8 @@
       "last_crawled": "2026-10-08T06:58:48Z"
     },
     "EM": {
-      "count": 21,
-      "last_crawled": "2026-10-07T10:53:05Z"
+      "count": 22,
+      "last_crawled": "2026-10-08T11:10:35Z"
     },
     "EO": {
       "count": 34,
@@ -4936,11 +4981,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-10-07T10:53:05Z"
+      "last_crawled": "2026-10-08T11:10:35Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-07T10:53:05Z"
+      "last_crawled": "2026-10-08T11:10:35Z"
     },
     "MD": {
       "count": 4,
@@ -4951,16 +4996,16 @@
       "last_crawled": "2026-10-08T09:48:09Z"
     },
     "MO": {
-      "count": 16,
-      "last_crawled": "2026-10-07T10:53:05Z"
+      "count": 19,
+      "last_crawled": "2026-10-08T11:10:35Z"
     },
     "MR": {
       "count": 16,
       "last_crawled": "2026-10-08T09:48:09Z"
     },
     "MT": {
-      "count": 5,
-      "last_crawled": "2026-10-07T10:53:05Z"
+      "count": 6,
+      "last_crawled": "2026-10-08T11:10:35Z"
     },
     "PA": {
       "count": 0,
@@ -4972,7 +5017,7 @@
     },
     "PT": {
       "count": 2,
-      "last_crawled": "2026-10-07T10:53:05Z"
+      "last_crawled": "2026-10-08T11:10:35Z"
     },
     "SA": {
       "count": 69,
@@ -4995,5 +5040,5 @@
       "last_crawled": "2026-10-08T08:28:25Z"
     }
   },
-  "updated": "2026-10-08T09:48:09Z"
+  "updated": "2026-10-08T11:10:35Z"
 }
