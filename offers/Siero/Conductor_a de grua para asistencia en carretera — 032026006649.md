@@ -3,7 +3,7 @@
 - **Профессия (ES):** Conductor/a de grua para asistencia en carretera
 - **Оригинальное название:** Conductor/a de grua para asistencia en carretera (ref.: 6649)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 14/09/2026
+- **Дата публикации:** 07/10/2026
 - **ID оферты:** 032026006649
 
 ## 👉 Откликнуться на вакансию

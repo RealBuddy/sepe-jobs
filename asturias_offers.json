@@ -1,5 +1,5 @@
 {
-  "count": 544,
+  "count": 542,
   "failed_sectors": [],
   "offers": [
     {
@@ -660,7 +660,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005843&ret=B"
     },
     {
-      "date": "28/09/2026",
+      "date": "08/10/2026",
       "id": "032026005846",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -1218,6 +1218,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006475&ret=B"
     },
     {
+      "date": "08/10/2026",
+      "id": "032026006488",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "TC",
+      "title": "nueva difusión conductor/a camión y montador/a (ref.6488)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006488&ret=B"
+    },
+    {
       "date": "04/09/2026",
       "id": "032026006504",
       "municipio": "Llanera",
@@ -1254,15 +1263,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006513&ret=B"
     },
     {
-      "date": "07/09/2026",
-      "id": "032026006516",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermero/a ( ref.: 6516)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006516&ret=B"
-    },
-    {
       "date": "28/09/2026",
       "id": "032026006535",
       "municipio": "el",
@@ -1281,24 +1281,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006538&ret=B"
     },
     {
-      "date": "23/09/2026",
-      "id": "032026006541",
-      "municipio": "Gozon",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Gerocultor/a (ref. 6541)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006541&ret=B"
-    },
-    {
-      "date": "23/09/2026",
-      "id": "032026006543",
-      "municipio": "Gozon",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Fisioterapeuta (ref. 6543)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006543&ret=B"
-    },
-    {
       "date": "09/09/2026",
       "id": "032026006544",
       "municipio": "Siero",
@@ -1306,15 +1288,6 @@
       "sector": "CC",
       "title": "2 vendedores de autoventa (ref. 6544)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006544&ret=B"
-    },
-    {
-      "date": "23/09/2026",
-      "id": "032026006546",
-      "municipio": "Gozon",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermero/a (ref. 6546)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006546&ret=B"
     },
     {
       "date": "25/09/2026",
@@ -1614,7 +1587,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006645&ret=B"
     },
     {
-      "date": "14/09/2026",
+      "date": "07/10/2026",
       "id": "032026006649",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -3982,15 +3955,6 @@
     },
     {
       "date": "05/10/2026",
-      "id": "032026007095",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de camión - carné c (ref. 7095)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007095&ret=B"
-    },
-    {
-      "date": "05/10/2026",
       "id": "032026007096",
       "municipio": "Cudillero",
       "provincia": "Asturias",
@@ -4015,15 +3979,6 @@
       "sector": "AO",
       "title": "Contrato formativo para adquisición de la práctica profesional - ayuntamiento de peñamellera baja (ref. 7098)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007098&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026007099",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a trailer -zona norte- (ref.: 7099)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007099&ret=B"
     },
     {
       "date": "05/10/2026",
@@ -4783,6 +4738,15 @@
     },
     {
       "date": "07/10/2026",
+      "id": "032026007196",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Enfermero/a (ref.: 7196)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007196&ret=B"
+    },
+    {
+      "date": "07/10/2026",
       "id": "032026007197",
       "municipio": "Grado",
       "provincia": "Asturias",
@@ -4837,6 +4801,15 @@
     },
     {
       "date": "07/10/2026",
+      "id": "032026007206",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "sector": "TC",
+      "title": "Repartidor/a (ref.: 7206)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007206&ret=B"
+    },
+    {
+      "date": "07/10/2026",
       "id": "032026007207",
       "municipio": "Tineo",
       "provincia": "Asturias",
@@ -4861,6 +4834,15 @@
       "sector": "DO",
       "title": "Mentor/a del programa jóven-ocúpate en el ayuntamiento de langreo (ref.:7209)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007209&ret=B"
+    },
+    {
+      "date": "07/10/2026",
+      "id": "032026007212",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "TC",
+      "title": "Conductor/a camion grua/vehiculo tipo uro con grua oficial (ref.: 7212)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007212&ret=B"
     },
     {
       "date": "07/10/2026",
@@ -4938,7 +4920,7 @@
     },
     "IA": {
       "count": 11,
-      "last_crawled": "2026-10-07T09:38:06Z"
+      "last_crawled": "2026-10-08T09:48:09Z"
     },
     "IG": {
       "count": 0,
@@ -4950,7 +4932,7 @@
     },
     "IP": {
       "count": 20,
-      "last_crawled": "2026-10-07T09:38:06Z"
+      "last_crawled": "2026-10-08T09:48:09Z"
     },
     "IQ": {
       "count": 1,
@@ -4966,7 +4948,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-07T09:38:06Z"
+      "last_crawled": "2026-10-08T09:48:09Z"
     },
     "MO": {
       "count": 16,
@@ -4974,7 +4956,7 @@
     },
     "MR": {
       "count": 16,
-      "last_crawled": "2026-10-07T09:38:06Z"
+      "last_crawled": "2026-10-08T09:48:09Z"
     },
     "MT": {
       "count": 5,
@@ -4993,25 +4975,25 @@
       "last_crawled": "2026-10-07T10:53:05Z"
     },
     "SA": {
-      "count": 72,
-      "last_crawled": "2026-10-07T09:38:06Z"
+      "count": 69,
+      "last_crawled": "2026-10-08T09:48:09Z"
     },
     "SF": {
       "count": 1,
-      "last_crawled": "2026-10-07T09:38:06Z"
+      "last_crawled": "2026-10-08T09:48:09Z"
     },
     "SP": {
       "count": 90,
       "last_crawled": "2026-10-08T06:58:48Z"
     },
     "TC": {
-      "count": 35,
-      "last_crawled": "2026-10-07T09:38:06Z"
+      "count": 36,
+      "last_crawled": "2026-10-08T09:48:09Z"
     },
     "TH": {
       "count": 71,
       "last_crawled": "2026-10-08T08:28:25Z"
     }
   },
-  "updated": "2026-10-08T08:28:25Z"
+  "updated": "2026-10-08T09:48:09Z"
 }
