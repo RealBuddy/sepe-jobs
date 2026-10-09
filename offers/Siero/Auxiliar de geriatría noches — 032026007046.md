@@ -1,9 +1,9 @@
-# Помощник по гериатрии (уход за пожилыми)
+# Auxiliar de geriatría noches
 
-- **Профессия (ES):** Auxiliar de geriatría
-- **Оригинальное название:** Auxiliar de geriatría (ref. 7046)
+- **Профессия (ES):** Auxiliar de geriatría noches
+- **Оригинальное название:** Auxiliar de geriatría noches (ref. 7046)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 01/10/2026
+- **Дата публикации:** 09/10/2026
 - **ID оферты:** 032026007046
 
 ## 👉 Откликнуться на вакансию

@@ -3,7 +3,7 @@
 - **Профессия (ES):** Nueva difusión - 2 puestos de gerocultor/a
 - **Оригинальное название:** Nueva difusión - 2 puestos de gerocultor/a (ref.6584)
 - **Город:** Llanera (Asturias)
-- **Дата публикации:** 30/09/2026
+- **Дата публикации:** 09/10/2026
 - **ID оферты:** 032026006584
 
 ## 👉 Откликнуться на вакансию
