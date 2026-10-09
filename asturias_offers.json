@@ -1,5 +1,5 @@
 {
-  "count": 574,
+  "count": 578,
   "failed_sectors": [],
   "offers": [
     {
@@ -1054,6 +1054,15 @@
       "sector": "SA",
       "title": "Enfermero/a (ref.6372)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006372&ret=B"
+    },
+    {
+      "date": "08/10/2026",
+      "id": "032026006374",
+      "municipio": "Navia",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Nueva difusión-mediador/a comunicativo/a- (ref.:6374)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006374&ret=B"
     },
     {
       "date": "31/08/2026",
@@ -2476,15 +2485,6 @@
       "sector": "SP",
       "title": "1 puesto de monitor/a de ocio y tiempo libre (ref: 6872)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006872&ret=B"
-    },
-    {
-      "date": "24/09/2026",
-      "id": "032026006873",
-      "municipio": "Morcin",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Empleado/a atención al cliente- retail (ref. 6873)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006873&ret=B"
     },
     {
       "date": "24/09/2026",
@@ -5080,6 +5080,15 @@
     },
     {
       "date": "09/10/2026",
+      "id": "032026007249",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "PT",
+      "title": "Encargado/a mantenimiento estación de aguas residuales (ref.:7249)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007249&ret=B"
+    },
+    {
+      "date": "09/10/2026",
       "id": "032026007250",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5152,6 +5161,15 @@
     },
     {
       "date": "09/10/2026",
+      "id": "032026007261",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Electricista (ref. 7261)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007261&ret=B"
+    },
+    {
+      "date": "09/10/2026",
       "id": "032026007262",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -5167,6 +5185,24 @@
       "sector": "EO",
       "title": "2 peones de obras y/o servicios múltiples - plan de empleo del ayto. de cangas del narcea (ref. 7263)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007263&ret=B"
+    },
+    {
+      "date": "09/10/2026",
+      "id": "032026007267",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Electricista (ref: 7267)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007267&ret=B"
+    },
+    {
+      "date": "09/10/2026",
+      "id": "122026009756",
+      "municipio": "Navia",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Intérpretes de la lengua de signos",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=122026009756&ret=B"
     }
   ],
   "sectors": {
@@ -5180,7 +5216,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-08T11:10:35Z"
+      "last_crawled": "2026-10-09T11:09:51Z"
     },
     "AU": {
       "count": 12,
@@ -5195,8 +5231,8 @@
       "last_crawled": "2026-10-09T07:07:15Z"
     },
     "EM": {
-      "count": 22,
-      "last_crawled": "2026-10-08T11:10:35Z"
+      "count": 23,
+      "last_crawled": "2026-10-09T11:09:51Z"
     },
     "EO": {
       "count": 38,
@@ -5224,11 +5260,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-10-08T11:10:35Z"
+      "last_crawled": "2026-10-09T11:09:51Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-08T11:10:35Z"
+      "last_crawled": "2026-10-09T11:09:51Z"
     },
     "MD": {
       "count": 4,
@@ -5239,8 +5275,8 @@
       "last_crawled": "2026-10-09T09:52:56Z"
     },
     "MO": {
-      "count": 19,
-      "last_crawled": "2026-10-08T11:10:35Z"
+      "count": 21,
+      "last_crawled": "2026-10-09T11:09:51Z"
     },
     "MR": {
       "count": 15,
@@ -5248,7 +5284,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-10-08T11:10:35Z"
+      "last_crawled": "2026-10-09T11:09:51Z"
     },
     "PA": {
       "count": 1,
@@ -5259,8 +5295,8 @@
       "last_crawled": "2026-10-09T08:32:05Z"
     },
     "PT": {
-      "count": 2,
-      "last_crawled": "2026-10-08T11:10:35Z"
+      "count": 3,
+      "last_crawled": "2026-10-09T11:09:51Z"
     },
     "SA": {
       "count": 69,
@@ -5283,5 +5319,5 @@
       "last_crawled": "2026-10-09T08:32:05Z"
     }
   },
-  "updated": "2026-10-09T09:52:56Z"
+  "updated": "2026-10-09T11:09:51Z"
 }
