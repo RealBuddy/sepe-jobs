@@ -1,5 +1,5 @@
 {
-  "count": 580,
+  "count": 577,
   "failed_sectors": [],
   "offers": [
     {
@@ -1416,15 +1416,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006608&ret=B"
     },
     {
-      "date": "29/09/2026",
-      "id": "032026006610",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Ayudante de equipo de catering (ref.: 6610)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006610&ret=B"
-    },
-    {
       "date": "30/09/2026",
       "id": "032026006612",
       "municipio": "Cabrales",
@@ -1549,15 +1540,6 @@
       "sector": "AA",
       "title": "25 peones/as agrícolas (ref. 6654)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006654&ret=B"
-    },
-    {
-      "date": "15/09/2026",
-      "id": "032026006663",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Repartidor/a (ref.: 6663)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006663&ret=B"
     },
     {
       "date": "30/09/2026",
@@ -1741,15 +1723,6 @@
     },
     {
       "date": "17/09/2026",
-      "id": "032026006722",
-      "municipio": "Sariego",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Fisioterapueta (ref. 6722)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006722&ret=B"
-    },
-    {
-      "date": "17/09/2026",
       "id": "032026006723",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -1774,15 +1747,6 @@
       "sector": "TH",
       "title": "2 puestos de ayudante de cocina (ref.: 6728)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006728&ret=B"
-    },
-    {
-      "date": "17/09/2026",
-      "id": "032026006729",
-      "municipio": "Tineo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Odontólogo/a (ref: 6729)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006729&ret=B"
     },
     {
       "date": "17/09/2026",
@@ -2089,15 +2053,6 @@
       "sector": "SP",
       "title": "2 puestos de integrador/a social (ref. 6797)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006797&ret=B"
-    },
-    {
-      "date": "21/09/2026",
-      "id": "032026006799",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Calderero/a (ref. 6799)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006799&ret=B"
     },
     {
       "date": "22/09/2026",
@@ -2557,15 +2512,6 @@
       "sector": "EM",
       "title": "2 puestos de técnico/a de oficina técnica",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006909&ret=B"
-    },
-    {
-      "date": "25/09/2026",
-      "id": "032026006913",
-      "municipio": "Allande",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de camión (ref.: 6913)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006913&ret=B"
     },
     {
       "date": "25/09/2026",
@@ -5170,6 +5116,15 @@
     },
     {
       "date": "09/10/2026",
+      "id": "032026007281",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "IP",
+      "title": "Soldador/a metalista (ref.: 7281)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007281&ret=B"
+    },
+    {
+      "date": "09/10/2026",
       "id": "032026007282",
       "municipio": "Grado",
       "provincia": "Asturias",
@@ -5188,6 +5143,15 @@
     },
     {
       "date": "09/10/2026",
+      "id": "032026007284",
+      "municipio": "Tapia de casariego",
+      "provincia": "Asturias",
+      "sector": "IA",
+      "title": "Responsable de calidad y seguridad alimentaria (ref.:7284)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007284&ret=B"
+    },
+    {
+      "date": "09/10/2026",
       "id": "032026007286",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -5203,6 +5167,15 @@
       "sector": "AO",
       "title": "Técnico/a administrativo/a. contrato formativo para la adquisición de la práctica profesional. ayto. de grado (ref. 7287).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007287&ret=B"
+    },
+    {
+      "date": "09/10/2026",
+      "id": "032026007288",
+      "municipio": "Coaña",
+      "provincia": "Asturias",
+      "sector": "IP",
+      "title": "Peon especialista del metal (ref. 7288)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007288&ret=B"
     },
     {
       "date": "10/10/2026",
@@ -5262,7 +5235,7 @@
     },
     "IA": {
       "count": 12,
-      "last_crawled": "2026-10-09T09:52:56Z"
+      "last_crawled": "2026-10-10T09:16:57Z"
     },
     "IG": {
       "count": 0,
@@ -5273,8 +5246,8 @@
       "last_crawled": "2026-10-10T08:08:54Z"
     },
     "IP": {
-      "count": 20,
-      "last_crawled": "2026-10-09T09:52:56Z"
+      "count": 21,
+      "last_crawled": "2026-10-10T09:16:57Z"
     },
     "IQ": {
       "count": 1,
@@ -5290,7 +5263,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-09T09:52:56Z"
+      "last_crawled": "2026-10-10T09:16:57Z"
     },
     "MO": {
       "count": 21,
@@ -5298,7 +5271,7 @@
     },
     "MR": {
       "count": 15,
-      "last_crawled": "2026-10-09T09:52:56Z"
+      "last_crawled": "2026-10-10T09:16:57Z"
     },
     "MT": {
       "count": 6,
@@ -5317,25 +5290,25 @@
       "last_crawled": "2026-10-09T11:09:51Z"
     },
     "SA": {
-      "count": 69,
-      "last_crawled": "2026-10-09T09:52:56Z"
+      "count": 67,
+      "last_crawled": "2026-10-10T09:16:57Z"
     },
     "SF": {
       "count": 1,
-      "last_crawled": "2026-10-09T09:52:56Z"
+      "last_crawled": "2026-10-10T09:16:57Z"
     },
     "SP": {
       "count": 98,
       "last_crawled": "2026-10-10T06:40:01Z"
     },
     "TC": {
-      "count": 40,
-      "last_crawled": "2026-10-09T09:52:56Z"
+      "count": 38,
+      "last_crawled": "2026-10-10T09:16:57Z"
     },
     "TH": {
       "count": 65,
       "last_crawled": "2026-10-10T08:08:54Z"
     }
   },
-  "updated": "2026-10-10T08:08:54Z"
+  "updated": "2026-10-10T09:16:57Z"
 }
