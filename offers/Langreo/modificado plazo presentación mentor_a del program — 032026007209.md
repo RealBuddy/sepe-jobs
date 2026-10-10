@@ -1,7 +1,7 @@
-# Mentor/a del programa jóven-ocúpate en el ayuntamiento de langreo
+# modificado plazo presentación mentor/a del programa jóven-ocúpate en el ayuntamiento de langreo
 
-- **Профессия (ES):** Mentor/a del programa jóven-ocúpate en el ayuntamiento de langreo
-- **Оригинальное название:** Mentor/a del programa jóven-ocúpate en el ayuntamiento de langreo (ref.:7209)
+- **Профессия (ES):** modificado plazo presentación mentor/a del programa jóven-ocúpate en el ayuntamiento de langreo
+- **Оригинальное название:** modificado plazo presentación mentor/a del programa jóven-ocúpate en el ayuntamiento de langreo (ref.:7209)
 - **Город:** Langreo (Asturias)
 - **Дата публикации:** 08/10/2026
 - **ID оферты:** 032026007209
