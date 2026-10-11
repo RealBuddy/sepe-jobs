@@ -1,5 +1,5 @@
 {
-  "count": 570,
+  "count": 565,
   "failed_sectors": [],
   "offers": [
     {
@@ -426,15 +426,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005370&ret=B"
     },
     {
-      "date": "15/09/2026",
-      "id": "032026005387",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Proyectista / arquitecto/ arquitecto técnico (ref: 5387)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005387&ret=B"
-    },
-    {
       "date": "17/09/2026",
       "id": "032026005393",
       "municipio": "Villaviciosa",
@@ -559,15 +550,6 @@
       "sector": "EO",
       "title": "Montadores/as de eventos (ref: 5779 )",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005779&ret=B"
-    },
-    {
-      "date": "25/09/2026",
-      "id": "032026005782",
-      "municipio": "Belmonte de miranda",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "1 mecanico/a de mina (ref.5782)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005782&ret=B"
     },
     {
       "date": "29/09/2026",
@@ -1840,15 +1822,6 @@
     },
     {
       "date": "18/09/2026",
-      "id": "032026006763",
-      "municipio": "Carreño",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "3 puestos de operario/a ensamblador/a (ref: 6763)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006763&ret=B"
-    },
-    {
-      "date": "18/09/2026",
       "id": "032026006766",
       "municipio": "Gozon",
       "provincia": "Asturias",
@@ -2458,15 +2431,6 @@
       "sector": "TC",
       "title": "Conductor de camión (ref: 6907)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006907&ret=B"
-    },
-    {
-      "date": "25/09/2026",
-      "id": "032026006909",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "2 puestos de técnico/a de oficina técnica",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006909&ret=B"
     },
     {
       "date": "25/09/2026",
@@ -3088,15 +3052,6 @@
       "sector": "EO",
       "title": "Oficial de la construccion (ref.: 7021)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007021&ret=B"
-    },
-    {
-      "date": "30/09/2026",
-      "id": "032026007023",
-      "municipio": "Sariego",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Técnico máquinas expendedores.(ref. 7023)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007023&ret=B"
     },
     {
       "date": "30/09/2026",
@@ -4783,15 +4738,6 @@
     },
     {
       "date": "09/10/2026",
-      "id": "032026007249",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "PT",
-      "title": "Encargado/a mantenimiento estación de aguas residuales (ref.:7249)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007249&ret=B"
-    },
-    {
-      "date": "09/10/2026",
       "id": "032026007250",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5089,6 +5035,15 @@
     },
     {
       "date": "09/10/2026",
+      "id": "032026007285",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Responsable financiero y gestión (ref. 7285)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007285&ret=B"
+    },
+    {
+      "date": "09/10/2026",
       "id": "032026007286",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -5144,7 +5099,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-09T11:09:51Z"
+      "last_crawled": "2026-10-11T10:38:48Z"
     },
     "AU": {
       "count": 12,
@@ -5159,8 +5114,8 @@
       "last_crawled": "2026-10-11T06:47:13Z"
     },
     "EM": {
-      "count": 23,
-      "last_crawled": "2026-10-09T11:09:51Z"
+      "count": 22,
+      "last_crawled": "2026-10-11T10:38:48Z"
     },
     "EO": {
       "count": 43,
@@ -5188,11 +5143,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-10-09T11:09:51Z"
+      "last_crawled": "2026-10-11T10:38:48Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-09T11:09:51Z"
+      "last_crawled": "2026-10-11T10:38:48Z"
     },
     "MD": {
       "count": 5,
@@ -5203,8 +5158,8 @@
       "last_crawled": "2026-10-11T09:34:05Z"
     },
     "MO": {
-      "count": 21,
-      "last_crawled": "2026-10-09T11:09:51Z"
+      "count": 18,
+      "last_crawled": "2026-10-11T10:38:48Z"
     },
     "MR": {
       "count": 15,
@@ -5212,7 +5167,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-10-09T11:09:51Z"
+      "last_crawled": "2026-10-11T10:38:48Z"
     },
     "PA": {
       "count": 1,
@@ -5223,8 +5178,8 @@
       "last_crawled": "2026-10-11T08:20:42Z"
     },
     "PT": {
-      "count": 3,
-      "last_crawled": "2026-10-09T11:09:51Z"
+      "count": 2,
+      "last_crawled": "2026-10-11T10:38:48Z"
     },
     "SA": {
       "count": 65,
@@ -5247,5 +5202,5 @@
       "last_crawled": "2026-10-11T08:20:42Z"
     }
   },
-  "updated": "2026-10-11T09:34:05Z"
+  "updated": "2026-10-11T10:38:48Z"
 }
