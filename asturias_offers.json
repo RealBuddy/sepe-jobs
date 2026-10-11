@@ -1,5 +1,5 @@
 {
-  "count": 572,
+  "count": 570,
   "failed_sectors": [],
   "offers": [
     {
@@ -703,15 +703,6 @@
       "sector": "SA",
       "title": "Auxiliar de enfermeria (ref.5981)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005981&ret=B"
-    },
-    {
-      "date": "11/09/2026",
-      "id": "032026005988",
-      "municipio": "Cangas de onis",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermero/a(ref:5988)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005988&ret=B"
     },
     {
       "date": "23/09/2026",
@@ -2809,15 +2800,6 @@
       "sector": "AO",
       "title": "Gestor/a administrativo/a-contable (ref.: 6981)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006981&ret=B"
-    },
-    {
-      "date": "29/09/2026",
-      "id": "032026006982",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Auxiliar de enfermería (ref. 6982).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006982&ret=B"
     },
     {
       "date": "29/09/2026",
@@ -5190,7 +5172,7 @@
     },
     "IA": {
       "count": 12,
-      "last_crawled": "2026-10-10T09:16:57Z"
+      "last_crawled": "2026-10-11T09:34:05Z"
     },
     "IG": {
       "count": 0,
@@ -5202,7 +5184,7 @@
     },
     "IP": {
       "count": 21,
-      "last_crawled": "2026-10-10T09:16:57Z"
+      "last_crawled": "2026-10-11T09:34:05Z"
     },
     "IQ": {
       "count": 1,
@@ -5218,7 +5200,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-10T09:16:57Z"
+      "last_crawled": "2026-10-11T09:34:05Z"
     },
     "MO": {
       "count": 21,
@@ -5226,7 +5208,7 @@
     },
     "MR": {
       "count": 15,
-      "last_crawled": "2026-10-10T09:16:57Z"
+      "last_crawled": "2026-10-11T09:34:05Z"
     },
     "MT": {
       "count": 6,
@@ -5245,12 +5227,12 @@
       "last_crawled": "2026-10-09T11:09:51Z"
     },
     "SA": {
-      "count": 67,
-      "last_crawled": "2026-10-10T09:16:57Z"
+      "count": 65,
+      "last_crawled": "2026-10-11T09:34:05Z"
     },
     "SF": {
       "count": 1,
-      "last_crawled": "2026-10-10T09:16:57Z"
+      "last_crawled": "2026-10-11T09:34:05Z"
     },
     "SP": {
       "count": 97,
@@ -5258,12 +5240,12 @@
     },
     "TC": {
       "count": 38,
-      "last_crawled": "2026-10-10T09:16:57Z"
+      "last_crawled": "2026-10-11T09:34:05Z"
     },
     "TH": {
       "count": 64,
       "last_crawled": "2026-10-11T08:20:42Z"
     }
   },
-  "updated": "2026-10-11T08:20:42Z"
+  "updated": "2026-10-11T09:34:05Z"
 }
