@@ -1,5 +1,5 @@
 {
-  "count": 574,
+  "count": 572,
   "failed_sectors": [],
   "offers": [
     {
@@ -1371,15 +1371,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006597&ret=B"
     },
     {
-      "date": "11/09/2026",
-      "id": "032026006604",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camarero/a para bingo (ref.: 6604)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006604&ret=B"
-    },
-    {
       "date": "05/10/2026",
       "id": "032026006605",
       "municipio": "Gijón",
@@ -1414,15 +1405,6 @@
       "sector": "SA",
       "title": "Gerocultor/a (ref.6612)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006612&ret=B"
-    },
-    {
-      "date": "11/09/2026",
-      "id": "032026006613",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Operario hormigón y prefabricado (ref. 6613)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006613&ret=B"
     },
     {
       "date": "11/09/2026",
@@ -5176,7 +5158,7 @@
     },
     "AO": {
       "count": 36,
-      "last_crawled": "2026-10-10T08:08:54Z"
+      "last_crawled": "2026-10-11T08:20:42Z"
     },
     "AR": {
       "count": 1,
@@ -5184,7 +5166,7 @@
     },
     "AU": {
       "count": 12,
-      "last_crawled": "2026-10-10T08:08:54Z"
+      "last_crawled": "2026-10-11T08:20:42Z"
     },
     "CC": {
       "count": 51,
@@ -5199,12 +5181,12 @@
       "last_crawled": "2026-10-09T11:09:51Z"
     },
     "EO": {
-      "count": 44,
-      "last_crawled": "2026-10-10T08:08:54Z"
+      "count": 43,
+      "last_crawled": "2026-10-11T08:20:42Z"
     },
     "FE": {
       "count": 1,
-      "last_crawled": "2026-10-10T08:08:54Z"
+      "last_crawled": "2026-10-11T08:20:42Z"
     },
     "IA": {
       "count": 12,
@@ -5216,7 +5198,7 @@
     },
     "IM": {
       "count": 2,
-      "last_crawled": "2026-10-10T08:08:54Z"
+      "last_crawled": "2026-10-11T08:20:42Z"
     },
     "IP": {
       "count": 21,
@@ -5256,7 +5238,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-10-10T08:08:54Z"
+      "last_crawled": "2026-10-11T08:20:42Z"
     },
     "PT": {
       "count": 3,
@@ -5279,9 +5261,9 @@
       "last_crawled": "2026-10-10T09:16:57Z"
     },
     "TH": {
-      "count": 65,
-      "last_crawled": "2026-10-10T08:08:54Z"
+      "count": 64,
+      "last_crawled": "2026-10-11T08:20:42Z"
     }
   },
-  "updated": "2026-10-11T06:47:13Z"
+  "updated": "2026-10-11T08:20:42Z"
 }
