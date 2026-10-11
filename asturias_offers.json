@@ -1,5 +1,5 @@
 {
-  "count": 577,
+  "count": 574,
   "failed_sectors": [],
   "offers": [
     {
@@ -1335,15 +1335,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006591&ret=B"
     },
     {
-      "date": "10/09/2026",
-      "id": "032026006593",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "5 puestos de gestor/a comercial de servicios de cartera (ref.: 6593)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006593&ret=B"
-    },
-    {
       "date": "11/09/2026",
       "id": "032026006594",
       "municipio": "Siero",
@@ -1765,15 +1756,6 @@
       "sector": "TC",
       "title": "2 conductores/as de camión (ref.6731)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006731&ret=B"
-    },
-    {
-      "date": "17/09/2026",
-      "id": "032026006732",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Monitor/a de baloncesto (ref.: 6732)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006732&ret=B"
     },
     {
       "date": "18/09/2026",
@@ -3448,15 +3430,6 @@
       "sector": "EM",
       "title": "Ingeniera/o de datos júnior en proyectos de i+d con ia (ref. 7064)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007064&ret=B"
-    },
-    {
-      "date": "02/10/2026",
-      "id": "032026007065",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Mentor/a programa joven ocúpate \"actividades auxiliares de comercio\" (ref: 7065)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007065&ret=B"
     },
     {
       "date": "02/10/2026",
@@ -5199,7 +5172,7 @@
   "sectors": {
     "AA": {
       "count": 22,
-      "last_crawled": "2026-10-10T06:40:01Z"
+      "last_crawled": "2026-10-11T06:47:13Z"
     },
     "AO": {
       "count": 36,
@@ -5214,12 +5187,12 @@
       "last_crawled": "2026-10-10T08:08:54Z"
     },
     "CC": {
-      "count": 52,
-      "last_crawled": "2026-10-10T06:40:01Z"
+      "count": 51,
+      "last_crawled": "2026-10-11T06:47:13Z"
     },
     "DO": {
-      "count": 29,
-      "last_crawled": "2026-10-10T06:40:01Z"
+      "count": 28,
+      "last_crawled": "2026-10-11T06:47:13Z"
     },
     "EM": {
       "count": 23,
@@ -5239,7 +5212,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-10-10T06:40:01Z"
+      "last_crawled": "2026-10-11T06:47:13Z"
     },
     "IM": {
       "count": 2,
@@ -5259,7 +5232,7 @@
     },
     "MD": {
       "count": 5,
-      "last_crawled": "2026-10-10T06:40:01Z"
+      "last_crawled": "2026-10-11T06:47:13Z"
     },
     "MN": {
       "count": 0,
@@ -5279,7 +5252,7 @@
     },
     "PA": {
       "count": 1,
-      "last_crawled": "2026-10-10T06:40:01Z"
+      "last_crawled": "2026-10-11T06:47:13Z"
     },
     "PC": {
       "count": 0,
@@ -5298,8 +5271,8 @@
       "last_crawled": "2026-10-10T09:16:57Z"
     },
     "SP": {
-      "count": 98,
-      "last_crawled": "2026-10-10T06:40:01Z"
+      "count": 97,
+      "last_crawled": "2026-10-11T06:47:13Z"
     },
     "TC": {
       "count": 38,
@@ -5310,5 +5283,5 @@
       "last_crawled": "2026-10-10T08:08:54Z"
     }
   },
-  "updated": "2026-10-10T09:16:57Z"
+  "updated": "2026-10-11T06:47:13Z"
 }
