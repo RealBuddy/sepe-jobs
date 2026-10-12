@@ -1,5 +1,5 @@
 {
-  "count": 551,
+  "count": 548,
   "failed_sectors": [],
   "offers": [
     {
@@ -1308,15 +1308,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006596&ret=B"
     },
     {
-      "date": "11/09/2026",
-      "id": "032026006597",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "5 puestos de encuestador/a entrevistador/a (ref.: 6597)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006597&ret=B"
-    },
-    {
       "date": "05/10/2026",
       "id": "032026006605",
       "municipio": "Gijón",
@@ -2125,15 +2116,6 @@
       "sector": "IP",
       "title": "Soldador/a ( ref. 6850 )",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006850&ret=B"
-    },
-    {
-      "date": "23/09/2026",
-      "id": "032026006853",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Técnico/a en control de calidad alimentaria (ref: 6853 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006853&ret=B"
     },
     {
       "date": "23/09/2026",
@@ -3520,15 +3502,6 @@
       "sector": "MR",
       "title": "Mecánico/a de maquinaria pesada (ref: 7109)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007109&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026007110",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "10 alumnos/as trabajadores/as \"operaciones aux. de montaje y manten. sistemas microinformáticos\" programa joven ocúpate (ref 7110)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007110&ret=B"
     },
     {
       "date": "05/10/2026",
@@ -4973,7 +4946,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-11T10:38:48Z"
+      "last_crawled": "2026-10-12T11:42:21Z"
     },
     "AU": {
       "count": 10,
@@ -4988,8 +4961,8 @@
       "last_crawled": "2026-10-12T06:55:50Z"
     },
     "EM": {
-      "count": 22,
-      "last_crawled": "2026-10-11T10:38:48Z"
+      "count": 19,
+      "last_crawled": "2026-10-12T11:42:21Z"
     },
     "EO": {
       "count": 43,
@@ -5017,11 +4990,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-10-11T10:38:48Z"
+      "last_crawled": "2026-10-12T11:42:21Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-11T10:38:48Z"
+      "last_crawled": "2026-10-12T11:42:21Z"
     },
     "MD": {
       "count": 5,
@@ -5033,7 +5006,7 @@
     },
     "MO": {
       "count": 18,
-      "last_crawled": "2026-10-11T10:38:48Z"
+      "last_crawled": "2026-10-12T11:42:21Z"
     },
     "MR": {
       "count": 15,
@@ -5041,7 +5014,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-10-11T10:38:48Z"
+      "last_crawled": "2026-10-12T11:42:21Z"
     },
     "PA": {
       "count": 1,
@@ -5053,7 +5026,7 @@
     },
     "PT": {
       "count": 2,
-      "last_crawled": "2026-10-11T10:38:48Z"
+      "last_crawled": "2026-10-12T11:42:21Z"
     },
     "SA": {
       "count": 64,
@@ -5076,5 +5049,5 @@
       "last_crawled": "2026-10-12T08:41:21Z"
     }
   },
-  "updated": "2026-10-12T10:04:23Z"
+  "updated": "2026-10-12T11:42:21Z"
 }
