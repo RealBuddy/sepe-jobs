@@ -1,5 +1,5 @@
 {
-  "count": 565,
+  "count": 558,
   "failed_sectors": [],
   "offers": [
     {
@@ -730,15 +730,6 @@
       "sector": "IP",
       "title": "Fresador/a oficial de primera ó segunda (ref.: 6046)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006046&ret=B"
-    },
-    {
-      "date": "13/08/2026",
-      "id": "032026006068",
-      "municipio": "Sariego",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Gestor/a de punto de venta para varias localidades (ref.6068)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006068&ret=B"
     },
     {
       "date": "18/09/2026",
@@ -1830,15 +1821,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006766&ret=B"
     },
     {
-      "date": "21/09/2026",
-      "id": "032026006767",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de apoyo a estudios postobligatorios (ref. 6767)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006767&ret=B"
-    },
-    {
       "date": "18/09/2026",
       "id": "032026006770",
       "municipio": "Llanes",
@@ -2071,15 +2053,6 @@
       "sector": "TH",
       "title": "Ayudante de camarero/a (ref.: 6828)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006828&ret=B"
-    },
-    {
-      "date": "22/09/2026",
-      "id": "032026006829",
-      "municipio": "Castrillon",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Terapeuta ocupacional (ref: 6829 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006829&ret=B"
     },
     {
       "date": "22/09/2026",
@@ -2460,15 +2433,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006920&ret=B"
     },
     {
-      "date": "28/09/2026",
-      "id": "032026006921",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de extraescolar para infantil o primaria ( ref. 6921 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006921&ret=B"
-    },
-    {
       "date": "07/10/2026",
       "id": "032026006924",
       "municipio": "Oviedo",
@@ -2494,15 +2458,6 @@
       "sector": "SA",
       "title": "Técnico/a auxiliar de farmacia (ref. 6926)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006926&ret=B"
-    },
-    {
-      "date": "28/09/2026",
-      "id": "032026006927",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "1 puesto de monitor/a de actividades dirigidas (ref: 6927)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006927&ret=B"
     },
     {
       "date": "28/09/2026",
@@ -3379,15 +3334,6 @@
     },
     {
       "date": "02/10/2026",
-      "id": "032026007070",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "AA",
-      "title": "Técnico/a vivero-garden (ref.: 7070)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007070&ret=B"
-    },
-    {
-      "date": "02/10/2026",
       "id": "032026007071",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -3547,15 +3493,6 @@
       "sector": "EO",
       "title": "4 peones obras públicas. plan empleo ayuntamiento cudillero (ref. 7096)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007096&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026007097",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Participantes programa garantía juvenil - jóven ocúpate- en \"actividades auxiliares de comercio\" emaus (ref: 7097)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007097&ret=B"
     },
     {
       "date": "06/10/2026",
@@ -5090,8 +5027,8 @@
   ],
   "sectors": {
     "AA": {
-      "count": 22,
-      "last_crawled": "2026-10-11T06:47:13Z"
+      "count": 21,
+      "last_crawled": "2026-10-12T06:55:50Z"
     },
     "AO": {
       "count": 36,
@@ -5106,12 +5043,12 @@
       "last_crawled": "2026-10-11T08:20:42Z"
     },
     "CC": {
-      "count": 51,
-      "last_crawled": "2026-10-11T06:47:13Z"
+      "count": 49,
+      "last_crawled": "2026-10-12T06:55:50Z"
     },
     "DO": {
-      "count": 28,
-      "last_crawled": "2026-10-11T06:47:13Z"
+      "count": 26,
+      "last_crawled": "2026-10-12T06:55:50Z"
     },
     "EM": {
       "count": 22,
@@ -5131,7 +5068,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-10-11T06:47:13Z"
+      "last_crawled": "2026-10-12T06:55:50Z"
     },
     "IM": {
       "count": 2,
@@ -5151,7 +5088,7 @@
     },
     "MD": {
       "count": 5,
-      "last_crawled": "2026-10-11T06:47:13Z"
+      "last_crawled": "2026-10-12T06:55:50Z"
     },
     "MN": {
       "count": 0,
@@ -5171,7 +5108,7 @@
     },
     "PA": {
       "count": 1,
-      "last_crawled": "2026-10-11T06:47:13Z"
+      "last_crawled": "2026-10-12T06:55:50Z"
     },
     "PC": {
       "count": 0,
@@ -5190,8 +5127,8 @@
       "last_crawled": "2026-10-11T09:34:05Z"
     },
     "SP": {
-      "count": 97,
-      "last_crawled": "2026-10-11T06:47:13Z"
+      "count": 95,
+      "last_crawled": "2026-10-12T06:55:50Z"
     },
     "TC": {
       "count": 38,
@@ -5202,5 +5139,5 @@
       "last_crawled": "2026-10-11T08:20:42Z"
     }
   },
-  "updated": "2026-10-11T10:38:48Z"
+  "updated": "2026-10-12T06:55:50Z"
 }
