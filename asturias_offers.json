@@ -1,5 +1,5 @@
 {
-  "count": 553,
+  "count": 551,
   "failed_sectors": [],
   "offers": [
     {
@@ -1327,15 +1327,6 @@
     },
     {
       "date": "11/09/2026",
-      "id": "032026006606",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "2 puestos conductor/a operador/a grúa móvil (ref:6606)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006606&ret=B"
-    },
-    {
-      "date": "11/09/2026",
       "id": "032026006608",
       "municipio": "Pravia",
       "provincia": "Asturias",
@@ -1648,15 +1639,6 @@
       "sector": "TH",
       "title": "Camarero/a(ref.6723).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006723&ret=B"
-    },
-    {
-      "date": "17/09/2026",
-      "id": "032026006727",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Auxiliar de enfermería (ref: 6727)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006727&ret=B"
     },
     {
       "date": "17/09/2026",
@@ -5019,7 +5001,7 @@
     },
     "IA": {
       "count": 12,
-      "last_crawled": "2026-10-11T09:34:05Z"
+      "last_crawled": "2026-10-12T10:04:23Z"
     },
     "IG": {
       "count": 0,
@@ -5031,7 +5013,7 @@
     },
     "IP": {
       "count": 21,
-      "last_crawled": "2026-10-11T09:34:05Z"
+      "last_crawled": "2026-10-12T10:04:23Z"
     },
     "IQ": {
       "count": 1,
@@ -5047,7 +5029,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-11T09:34:05Z"
+      "last_crawled": "2026-10-12T10:04:23Z"
     },
     "MO": {
       "count": 18,
@@ -5055,7 +5037,7 @@
     },
     "MR": {
       "count": 15,
-      "last_crawled": "2026-10-11T09:34:05Z"
+      "last_crawled": "2026-10-12T10:04:23Z"
     },
     "MT": {
       "count": 6,
@@ -5074,25 +5056,25 @@
       "last_crawled": "2026-10-11T10:38:48Z"
     },
     "SA": {
-      "count": 65,
-      "last_crawled": "2026-10-11T09:34:05Z"
+      "count": 64,
+      "last_crawled": "2026-10-12T10:04:23Z"
     },
     "SF": {
       "count": 1,
-      "last_crawled": "2026-10-11T09:34:05Z"
+      "last_crawled": "2026-10-12T10:04:23Z"
     },
     "SP": {
       "count": 95,
       "last_crawled": "2026-10-12T06:55:50Z"
     },
     "TC": {
-      "count": 38,
-      "last_crawled": "2026-10-11T09:34:05Z"
+      "count": 37,
+      "last_crawled": "2026-10-12T10:04:23Z"
     },
     "TH": {
       "count": 62,
       "last_crawled": "2026-10-12T08:41:21Z"
     }
   },
-  "updated": "2026-10-12T08:41:21Z"
+  "updated": "2026-10-12T10:04:23Z"
 }
