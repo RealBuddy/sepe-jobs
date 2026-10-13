@@ -1,5 +1,5 @@
 {
-  "count": 548,
+  "count": 538,
   "failed_sectors": [],
   "offers": [
     {
@@ -91,15 +91,6 @@
       "sector": "SP",
       "title": "7 puestos de auxiliar de ayuda a domicilio (ref.: 3054)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003054&ret=B"
-    },
-    {
-      "date": "21/09/2026",
-      "id": "032026003235",
-      "municipio": "Valdes",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Dependiente/a de carniceria (ref.3235) \"nueva difusion\"",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003235&ret=B"
     },
     {
       "date": "01/10/2026",
@@ -1371,15 +1362,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006624&ret=B"
     },
     {
-      "date": "29/09/2026",
-      "id": "032026006629",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de inglés (ref. 6629)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006629&ret=B"
-    },
-    {
       "date": "14/09/2026",
       "id": "032026006634",
       "municipio": "Grado",
@@ -1714,15 +1696,6 @@
     },
     {
       "date": "18/09/2026",
-      "id": "032026006755",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Monitor/a de extraescolares- arte, manualidades y dibujo.( ref.: 6755)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006755&ret=B"
-    },
-    {
-      "date": "18/09/2026",
       "id": "032026006757",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -1747,15 +1720,6 @@
       "sector": "TH",
       "title": "Ayudante de cocina( ref. 6759 )",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006759&ret=B"
-    },
-    {
-      "date": "18/09/2026",
-      "id": "032026006762",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Monitor/a de extraescolares-inglés (ref.: 6762)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006762&ret=B"
     },
     {
       "date": "18/09/2026",
@@ -1900,15 +1864,6 @@
       "sector": "SP",
       "title": "Monitor/a de actividades de raqueta ref.:(6795)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006795&ret=B"
-    },
-    {
-      "date": "22/09/2026",
-      "id": "032026006797",
-      "municipio": "Cangas de onis",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "2 puestos de integrador/a social (ref. 6797)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006797&ret=B"
     },
     {
       "date": "22/09/2026",
@@ -2569,15 +2524,6 @@
     },
     {
       "date": "29/09/2026",
-      "id": "032026006969",
-      "municipio": "Castrillon",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Dependiente/a (ref: 6969)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006969&ret=B"
-    },
-    {
-      "date": "29/09/2026",
       "id": "032026006971",
       "municipio": "Grandas de salime",
       "provincia": "Asturias",
@@ -2656,24 +2602,6 @@
       "sector": "MR",
       "title": "Mecánico/a de automovil y vehículos pesados (ref.: 6984)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006984&ret=B"
-    },
-    {
-      "date": "29/09/2026",
-      "id": "032026006986",
-      "municipio": "Morcin",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Especialista en logística y aprovisionamiento (ref. 6986)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006986&ret=B"
-    },
-    {
-      "date": "29/09/2026",
-      "id": "032026006987",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "MD",
-      "title": "Carpintero/a (ref: 6987)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006987&ret=B"
     },
     {
       "date": "29/09/2026",
@@ -3819,6 +3747,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007155&ret=B"
     },
     {
+      "date": "13/10/2026",
+      "id": "032026007156",
+      "municipio": "Onis",
+      "provincia": "Asturias",
+      "sector": "AA",
+      "title": "Peon ganadero (ref. 7156)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007156&ret=B"
+    },
+    {
       "date": "06/10/2026",
       "id": "032026007157",
       "municipio": "Corvera de asturias",
@@ -4018,15 +3955,6 @@
     },
     {
       "date": "07/10/2026",
-      "id": "032026007183",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Formador/a del c.p. \"activ. aux. en viveros, jardines y centros de jardineria\" (agao0108) - joven ocúpate -ayto. grado (ref: 7183)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007183&ret=B"
-    },
-    {
-      "date": "07/10/2026",
       "id": "032026007184",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4036,30 +3964,12 @@
     },
     {
       "date": "07/10/2026",
-      "id": "032026007185",
-      "municipio": "Nava",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Formador/a del c.p. \"operaciones aux. de albañilería de fábricas y cubiertas\" (eocb0208) - joven ocúpate - ayto. nava (ref: 7185)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007185&ret=B"
-    },
-    {
-      "date": "07/10/2026",
       "id": "032026007186",
       "municipio": "Corvera de asturias",
       "provincia": "Asturias",
       "sector": "EO",
       "title": "2 peones/as de obras públicas, plan de empleo del ayuntamiento de corvera de asturias 2026/2027 (ref. 7186)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007186&ret=B"
-    },
-    {
-      "date": "07/10/2026",
-      "id": "032026007187",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Graduado/a c.c. de la actividad física y el deporte- turno general -plan de empleo 2026-2027.ayto de corvera ( ref. 7187 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007187&ret=B"
     },
     {
       "date": "07/10/2026",
@@ -4567,15 +4477,6 @@
     },
     {
       "date": "09/10/2026",
-      "id": "032026007247",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Mentor/a proyecto joven ocúpate (ref.7247)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007247&ret=B"
-    },
-    {
-      "date": "09/10/2026",
       "id": "032026007248",
       "municipio": "Llanes",
       "provincia": "Asturias",
@@ -4926,6 +4827,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007289&ret=B"
     },
     {
+      "date": "13/10/2026",
+      "id": "032026007291",
+      "municipio": "Mieres",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Director/a residencia geriátrica (ref. 7291)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007291&ret=B"
+    },
+    {
       "date": "09/10/2026",
       "id": "122026009756",
       "municipio": "Navia",
@@ -4937,8 +4847,8 @@
   ],
   "sectors": {
     "AA": {
-      "count": 21,
-      "last_crawled": "2026-10-12T06:55:50Z"
+      "count": 22,
+      "last_crawled": "2026-10-13T07:20:13Z"
     },
     "AO": {
       "count": 35,
@@ -4953,12 +4863,12 @@
       "last_crawled": "2026-10-12T08:41:21Z"
     },
     "CC": {
-      "count": 49,
-      "last_crawled": "2026-10-12T06:55:50Z"
+      "count": 46,
+      "last_crawled": "2026-10-13T07:20:13Z"
     },
     "DO": {
-      "count": 26,
-      "last_crawled": "2026-10-12T06:55:50Z"
+      "count": 20,
+      "last_crawled": "2026-10-13T07:20:13Z"
     },
     "EM": {
       "count": 19,
@@ -4978,7 +4888,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-10-12T06:55:50Z"
+      "last_crawled": "2026-10-13T07:20:13Z"
     },
     "IM": {
       "count": 2,
@@ -4997,8 +4907,8 @@
       "last_crawled": "2026-10-12T11:42:21Z"
     },
     "MD": {
-      "count": 5,
-      "last_crawled": "2026-10-12T06:55:50Z"
+      "count": 4,
+      "last_crawled": "2026-10-13T07:20:13Z"
     },
     "MN": {
       "count": 0,
@@ -5018,7 +4928,7 @@
     },
     "PA": {
       "count": 1,
-      "last_crawled": "2026-10-12T06:55:50Z"
+      "last_crawled": "2026-10-13T07:20:13Z"
     },
     "PC": {
       "count": 0,
@@ -5037,8 +4947,8 @@
       "last_crawled": "2026-10-12T10:04:23Z"
     },
     "SP": {
-      "count": 95,
-      "last_crawled": "2026-10-12T06:55:50Z"
+      "count": 94,
+      "last_crawled": "2026-10-13T07:20:13Z"
     },
     "TC": {
       "count": 37,
@@ -5049,5 +4959,5 @@
       "last_crawled": "2026-10-12T08:41:21Z"
     }
   },
-  "updated": "2026-10-12T11:42:21Z"
+  "updated": "2026-10-13T07:20:13Z"
 }
