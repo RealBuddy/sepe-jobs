@@ -1,5 +1,5 @@
 {
-  "count": 538,
+  "count": 539,
   "failed_sectors": [],
   "offers": [
     {
@@ -2227,15 +2227,6 @@
     },
     {
       "date": "25/09/2026",
-      "id": "032026006896",
-      "municipio": "Morcin",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "Especialista en contabilidad _ cuentas a cobrar (ref. 6896)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006896&ret=B"
-    },
-    {
-      "date": "25/09/2026",
       "id": "032026006897",
       "municipio": "Carreño",
       "provincia": "Asturias",
@@ -2269,15 +2260,6 @@
       "sector": "IP",
       "title": "Ayudante soldador (ref: 6901)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006901&ret=B"
-    },
-    {
-      "date": "25/09/2026",
-      "id": "032026006902",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "Auxiliar administrativo/a (ref. 6902)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006902&ret=B"
     },
     {
       "date": "25/09/2026",
@@ -4828,12 +4810,39 @@
     },
     {
       "date": "13/10/2026",
+      "id": "032026007290",
+      "municipio": "Onis",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Encargado/a de restaurante(ref:7290)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007290&ret=B"
+    },
+    {
+      "date": "13/10/2026",
       "id": "032026007291",
       "municipio": "Mieres",
       "provincia": "Asturias",
       "sector": "SP",
       "title": "Director/a residencia geriátrica (ref. 7291)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007291&ret=B"
+    },
+    {
+      "date": "13/10/2026",
+      "id": "032026007294",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "Administrativo o administrativa (ref: 7294)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007294&ret=B"
+    },
+    {
+      "date": "13/10/2026",
+      "id": "032026007295",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "Peón de la construcción de edificios (ref. 7295)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007295&ret=B"
     },
     {
       "date": "09/10/2026",
@@ -4851,8 +4860,8 @@
       "last_crawled": "2026-10-13T07:20:13Z"
     },
     "AO": {
-      "count": 35,
-      "last_crawled": "2026-10-12T08:41:21Z"
+      "count": 34,
+      "last_crawled": "2026-10-13T09:00:31Z"
     },
     "AR": {
       "count": 1,
@@ -4860,7 +4869,7 @@
     },
     "AU": {
       "count": 10,
-      "last_crawled": "2026-10-12T08:41:21Z"
+      "last_crawled": "2026-10-13T09:00:31Z"
     },
     "CC": {
       "count": 46,
@@ -4875,12 +4884,12 @@
       "last_crawled": "2026-10-12T11:42:21Z"
     },
     "EO": {
-      "count": 43,
-      "last_crawled": "2026-10-12T08:41:21Z"
+      "count": 44,
+      "last_crawled": "2026-10-13T09:00:31Z"
     },
     "FE": {
       "count": 1,
-      "last_crawled": "2026-10-12T08:41:21Z"
+      "last_crawled": "2026-10-13T09:00:31Z"
     },
     "IA": {
       "count": 12,
@@ -4892,7 +4901,7 @@
     },
     "IM": {
       "count": 2,
-      "last_crawled": "2026-10-12T08:41:21Z"
+      "last_crawled": "2026-10-13T09:00:31Z"
     },
     "IP": {
       "count": 21,
@@ -4932,7 +4941,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-10-12T08:41:21Z"
+      "last_crawled": "2026-10-13T09:00:31Z"
     },
     "PT": {
       "count": 2,
@@ -4955,9 +4964,9 @@
       "last_crawled": "2026-10-12T10:04:23Z"
     },
     "TH": {
-      "count": 62,
-      "last_crawled": "2026-10-12T08:41:21Z"
+      "count": 63,
+      "last_crawled": "2026-10-13T09:00:31Z"
     }
   },
-  "updated": "2026-10-13T07:20:13Z"
+  "updated": "2026-10-13T09:00:31Z"
 }
