@@ -1,5 +1,5 @@
 {
-  "count": 536,
+  "count": 535,
   "failed_sectors": [],
   "offers": [
     {
@@ -3801,15 +3801,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007168&ret=B"
     },
     {
-      "date": "06/10/2026",
-      "id": "032026007169",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "10 alumnos/as trabajadores/as-joven ocúpate-\"operaciones aux. de montaje y mto. sistemas microinformáticos\"-expoacción (ref: 7169)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007169&ret=B"
-    },
-    {
       "date": "07/10/2026",
       "id": "032026007171",
       "municipio": "San martin del rey aurelio",
@@ -4838,7 +4829,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-12T11:42:21Z"
+      "last_crawled": "2026-10-13T11:28:17Z"
     },
     "AU": {
       "count": 10,
@@ -4853,8 +4844,8 @@
       "last_crawled": "2026-10-13T07:20:13Z"
     },
     "EM": {
-      "count": 19,
-      "last_crawled": "2026-10-12T11:42:21Z"
+      "count": 18,
+      "last_crawled": "2026-10-13T11:28:17Z"
     },
     "EO": {
       "count": 44,
@@ -4882,11 +4873,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-10-12T11:42:21Z"
+      "last_crawled": "2026-10-13T11:28:17Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-12T11:42:21Z"
+      "last_crawled": "2026-10-13T11:28:17Z"
     },
     "MD": {
       "count": 4,
@@ -4898,7 +4889,7 @@
     },
     "MO": {
       "count": 18,
-      "last_crawled": "2026-10-12T11:42:21Z"
+      "last_crawled": "2026-10-13T11:28:17Z"
     },
     "MR": {
       "count": 15,
@@ -4906,7 +4897,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-10-12T11:42:21Z"
+      "last_crawled": "2026-10-13T11:28:17Z"
     },
     "PA": {
       "count": 1,
@@ -4918,7 +4909,7 @@
     },
     "PT": {
       "count": 2,
-      "last_crawled": "2026-10-12T11:42:21Z"
+      "last_crawled": "2026-10-13T11:28:17Z"
     },
     "SA": {
       "count": 63,
@@ -4941,5 +4932,5 @@
       "last_crawled": "2026-10-13T09:00:31Z"
     }
   },
-  "updated": "2026-10-13T09:57:01Z"
+  "updated": "2026-10-13T11:28:17Z"
 }
