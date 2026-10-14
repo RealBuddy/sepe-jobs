@@ -1,5 +1,5 @@
 {
-  "count": 530,
+  "count": 531,
   "failed_sectors": [],
   "offers": [
     {
@@ -1777,15 +1777,6 @@
     },
     {
       "date": "22/09/2026",
-      "id": "032026006809",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Técnico/a supeior en edificación- delineante (ref.: 6809)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006809&ret=B"
-    },
-    {
-      "date": "22/09/2026",
       "id": "032026006813",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -2539,15 +2530,6 @@
       "sector": "EO",
       "title": "3 puestos peón de obra (ref.7004)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007004&ret=B"
-    },
-    {
-      "date": "30/09/2026",
-      "id": "032026007005",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Peón electricista (ref.:7005)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007005&ret=B"
     },
     {
       "date": "30/09/2026",
@@ -4701,6 +4683,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007313&ret=B"
     },
     {
+      "date": "14/10/2026",
+      "id": "032026007314",
+      "municipio": "Mieres",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a de producción (ref. 7314)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007314&ret=B"
+    },
+    {
       "date": "13/10/2026",
       "id": "032026007315",
       "municipio": "Belmonte de miranda",
@@ -4735,6 +4726,24 @@
       "sector": "TC",
       "title": "Conductor/a (ref.: 7319)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007319&ret=B"
+    },
+    {
+      "date": "14/10/2026",
+      "id": "032026007320",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a de fábrica (ref.:7320)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007320&ret=B"
+    },
+    {
+      "date": "14/10/2026",
+      "id": "032026007321",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "2 puestos oficial de tercera obra civil (ref. 7321)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007321&ret=B"
     },
     {
       "date": "14/10/2026",
@@ -4784,7 +4793,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-13T11:28:17Z"
+      "last_crawled": "2026-10-14T09:20:07Z"
     },
     "AU": {
       "count": 10,
@@ -4799,8 +4808,8 @@
       "last_crawled": "2026-10-14T05:46:26Z"
     },
     "EM": {
-      "count": 18,
-      "last_crawled": "2026-10-13T11:28:17Z"
+      "count": 17,
+      "last_crawled": "2026-10-14T09:20:07Z"
     },
     "EO": {
       "count": 46,
@@ -4828,11 +4837,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-10-13T11:28:17Z"
+      "last_crawled": "2026-10-14T09:20:07Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-13T11:28:17Z"
+      "last_crawled": "2026-10-14T09:20:07Z"
     },
     "MD": {
       "count": 4,
@@ -4844,15 +4853,15 @@
     },
     "MO": {
       "count": 18,
-      "last_crawled": "2026-10-13T11:28:17Z"
+      "last_crawled": "2026-10-14T09:20:07Z"
     },
     "MR": {
       "count": 17,
       "last_crawled": "2026-10-14T08:17:21Z"
     },
     "MT": {
-      "count": 6,
-      "last_crawled": "2026-10-13T11:28:17Z"
+      "count": 8,
+      "last_crawled": "2026-10-14T09:20:07Z"
     },
     "PA": {
       "count": 1,
@@ -4864,7 +4873,7 @@
     },
     "PT": {
       "count": 2,
-      "last_crawled": "2026-10-13T11:28:17Z"
+      "last_crawled": "2026-10-14T09:20:07Z"
     },
     "SA": {
       "count": 64,
@@ -4887,5 +4896,5 @@
       "last_crawled": "2026-10-14T07:08:43Z"
     }
   },
-  "updated": "2026-10-14T08:17:21Z"
+  "updated": "2026-10-14T09:20:07Z"
 }
