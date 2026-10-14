@@ -156,7 +156,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003819&ret=B"
     },
     {
-      "date": "18/09/2026",
+      "date": "13/10/2026",
       "id": "032026004091",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -570,15 +570,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005831&ret=B"
     },
     {
-      "date": "30/09/2026",
-      "id": "032026005843",
-      "municipio": "Villaviciosa",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Nueva difusión: 2 puestos de cocinero/a (ref. 5843)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005843&ret=B"
-    },
-    {
       "date": "08/10/2026",
       "id": "032026005846",
       "municipio": "Siero",
@@ -712,15 +703,6 @@
       "sector": "DO",
       "title": "Profesor/a de lengua y literatura (ref.: 6097)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006097&ret=B"
-    },
-    {
-      "date": "14/09/2026",
-      "id": "032026006113",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Operario/a etap (ref: 6113)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006113&ret=B"
     },
     {
       "date": "17/08/2026",
@@ -901,6 +883,15 @@
       "sector": "SA",
       "title": "2 puestos de fisioterapeuta (ref.: 6276) nueva difusion",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006276&ret=B"
+    },
+    {
+      "date": "13/10/2026",
+      "id": "032026006283",
+      "municipio": "el",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Ayudante camarero/a (ref.6283)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006283&ret=B"
     },
     {
       "date": "24/09/2026",
@@ -1867,15 +1858,6 @@
     },
     {
       "date": "22/09/2026",
-      "id": "032026006825",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de cocina (ref.: 6825)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006825&ret=B"
-    },
-    {
-      "date": "22/09/2026",
       "id": "032026006828",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -2254,15 +2236,6 @@
     },
     {
       "date": "28/09/2026",
-      "id": "032026006928",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocinero/a (ref:6928)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006928&ret=B"
-    },
-    {
-      "date": "28/09/2026",
       "id": "032026006932",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -2533,15 +2506,6 @@
     },
     {
       "date": "30/09/2026",
-      "id": "032026006997",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Albañil/a oficial de 1ª (ref: 6997)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006997&ret=B"
-    },
-    {
-      "date": "30/09/2026",
       "id": "032026006998",
       "municipio": "Coaña",
       "provincia": "Asturias",
@@ -2710,15 +2674,6 @@
       "sector": "EO",
       "title": "Oficial de la construccion (ref.: 7021)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007021&ret=B"
-    },
-    {
-      "date": "30/09/2026",
-      "id": "032026007024",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "2 puestos de técnico/a de telemetría y conducción eficiente (puesto de oficina) con discapacidad (ref: 7024)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007024&ret=B"
     },
     {
       "date": "30/09/2026",
@@ -2910,15 +2865,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007052&ret=B"
     },
     {
-      "date": "02/10/2026",
-      "id": "032026007053",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "10 alumnos/as trabajadores/as auxiliares de servicios administrativos y generales/ordenanzas, programa joven ocúpate (ref.: 7053)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007053&ret=B"
-    },
-    {
       "date": "01/10/2026",
       "id": "032026007054",
       "municipio": "Gijón",
@@ -2953,15 +2899,6 @@
       "sector": "SP",
       "title": "1 empleados/as de hogar interno/a (ref.7058)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007058&ret=B"
-    },
-    {
-      "date": "02/10/2026",
-      "id": "032026007059",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "10 alumnos/as trabajadores/as \"operaciones de grabación y tratamiento de datos y documentos\", programa joven ocúpate (ref.: 7059)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007059&ret=B"
     },
     {
       "date": "01/10/2026",
@@ -3271,15 +3208,6 @@
     },
     {
       "date": "05/10/2026",
-      "id": "032026007107",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "10 alumnos/as trabajadores/as \"operaciones auxiliares de servicios administrativos y generales  programa joven ocúpate (ref.7107)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007107&ret=B"
-    },
-    {
-      "date": "05/10/2026",
       "id": "032026007109",
       "municipio": "Corvera de asturias",
       "provincia": "Asturias",
@@ -3358,15 +3286,6 @@
       "sector": "IA",
       "title": "Carnicero/a (ref.:7123)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007123&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026007124",
-      "municipio": "San martin del rey aurelio",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "4 auxiliares de oficina - contrato formativo para la obtención de la práctica profesional - ayto smra (ref.:7124)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007124&ret=B"
     },
     {
       "date": "06/10/2026",
@@ -3941,7 +3860,7 @@
       "municipio": "San martin del rey aurelio",
       "provincia": "Asturias",
       "sector": "IM",
-      "title": "Técnico/a de preparación de materiales programa investigo (ref.: 7204)",
+      "title": "modificada titulación técnico/a de preparación de materiales programa investigo (ref.: 7204)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007204&ret=B"
     },
     {
@@ -4476,6 +4395,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007270&ret=B"
     },
     {
+      "date": "13/10/2026",
+      "id": "032026007271",
+      "municipio": "Cangas del narcea",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "Técnico/a administrativo  contrato formativo para obtención de práctica profesional del ayto de cangas del narcea (ref. 7271)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007271&ret=B"
+    },
+    {
       "date": "09/10/2026",
       "id": "032026007272",
       "municipio": "Gijón",
@@ -4693,6 +4621,15 @@
     },
     {
       "date": "13/10/2026",
+      "id": "032026007296",
+      "municipio": "Villanueva de oscos",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "Peón/a (ref.7296) plan local de empleo ayto villanueva de oscos",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007296&ret=B"
+    },
+    {
+      "date": "13/10/2026",
       "id": "032026007297",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4708,6 +4645,51 @@
       "sector": "AA",
       "title": "Tractorista (ref.7298) plan local de empleo ayto de villanueva de oscos",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007298&ret=B"
+    },
+    {
+      "date": "13/10/2026",
+      "id": "032026007300",
+      "municipio": "Onis",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Recepcionista de hotel(ref:7300)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007300&ret=B"
+    },
+    {
+      "date": "13/10/2026",
+      "id": "032026007301",
+      "municipio": "Villanueva de oscos",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "Técnico/a administración. contrato formativo para la obtención de la práctica profesional, ayto villanueva de oscos (ref 7301)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007301&ret=B"
+    },
+    {
+      "date": "13/10/2026",
+      "id": "032026007302",
+      "municipio": "Allande",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "Tecnico/a administrativo  contrato formativo para la obtención de la práctica profesional del ayuntamiento de allande (ref. 7302)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007302&ret=B"
+    },
+    {
+      "date": "13/10/2026",
+      "id": "032026007303",
+      "municipio": "Allande",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "3 peones/as de obra pública - plan de empleo del ayto. de allande (ref.: 7303)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007303&ret=B"
+    },
+    {
+      "date": "13/10/2026",
+      "id": "032026007306",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "TH",
+      "title": "Recepcionista en residencia geriátrica(ref.7306)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007306&ret=B"
     },
     {
       "date": "13/10/2026",
@@ -4735,6 +4717,24 @@
       "sector": "DO",
       "title": "Docente para impartición del cp operaciones básicas de cocina (ref.: 7310)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007310&ret=B"
+    },
+    {
+      "date": "13/10/2026",
+      "id": "032026007312",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "Maquinista de retroexcavadora (ref.: 7312)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007312&ret=B"
+    },
+    {
+      "date": "13/10/2026",
+      "id": "032026007313",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "Conductor de dúmper articulado o lagarto (ref.: 7313",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007313&ret=B"
     },
     {
       "date": "13/10/2026",
@@ -4770,8 +4770,8 @@
       "last_crawled": "2026-10-14T05:46:26Z"
     },
     "AO": {
-      "count": 34,
-      "last_crawled": "2026-10-13T09:00:31Z"
+      "count": 32,
+      "last_crawled": "2026-10-14T07:08:43Z"
     },
     "AR": {
       "count": 1,
@@ -4779,7 +4779,7 @@
     },
     "AU": {
       "count": 10,
-      "last_crawled": "2026-10-13T09:00:31Z"
+      "last_crawled": "2026-10-14T07:08:43Z"
     },
     "CC": {
       "count": 44,
@@ -4794,12 +4794,12 @@
       "last_crawled": "2026-10-13T11:28:17Z"
     },
     "EO": {
-      "count": 44,
-      "last_crawled": "2026-10-13T09:00:31Z"
+      "count": 46,
+      "last_crawled": "2026-10-14T07:08:43Z"
     },
     "FE": {
       "count": 1,
-      "last_crawled": "2026-10-13T09:00:31Z"
+      "last_crawled": "2026-10-14T07:08:43Z"
     },
     "IA": {
       "count": 12,
@@ -4811,7 +4811,7 @@
     },
     "IM": {
       "count": 2,
-      "last_crawled": "2026-10-13T09:00:31Z"
+      "last_crawled": "2026-10-14T07:08:43Z"
     },
     "IP": {
       "count": 22,
@@ -4851,7 +4851,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-10-13T09:00:31Z"
+      "last_crawled": "2026-10-14T07:08:43Z"
     },
     "PT": {
       "count": 2,
@@ -4875,8 +4875,8 @@
     },
     "TH": {
       "count": 63,
-      "last_crawled": "2026-10-13T09:00:31Z"
+      "last_crawled": "2026-10-14T07:08:43Z"
     }
   },
-  "updated": "2026-10-14T05:46:26Z"
+  "updated": "2026-10-14T07:08:43Z"
 }

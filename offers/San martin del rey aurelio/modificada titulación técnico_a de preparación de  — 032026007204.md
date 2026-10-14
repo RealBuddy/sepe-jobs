@@ -1,7 +1,7 @@
-# Técnico/a de preparación de materiales programa investigo
+# modificada titulación técnico/a de preparación de materiales programa investigo
 
-- **Профессия (ES):** Técnico/a de preparación de materiales programa investigo
-- **Оригинальное название:** Técnico/a de preparación de materiales programa investigo (ref.: 7204)
+- **Профессия (ES):** modificada titulación técnico/a de preparación de materiales programa investigo
+- **Оригинальное название:** modificada titulación técnico/a de preparación de materiales programa investigo (ref.: 7204)
 - **Город:** San martin del rey aurelio (Asturias)
 - **Дата публикации:** 07/10/2026
 - **ID оферты:** 032026007204
