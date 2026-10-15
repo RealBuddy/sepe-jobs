@@ -1,9 +1,9 @@
-# Profesor/a de ciencias
+# Nueva difusión - profesor/a de ciencias
 
-- **Профессия (ES):** Profesor/a de ciencias
-- **Оригинальное название:** Profesor/a de ciencias(ref.6972)
+- **Профессия (ES):** Nueva difusión - profesor/a de ciencias
+- **Оригинальное название:** Nueva difusión - profesor/a de ciencias(ref.6972)
 - **Город:** Oviedo (Asturias)
-- **Дата публикации:** 29/09/2026
+- **Дата публикации:** 14/10/2026
 - **ID оферты:** 032026006972
 
 ## 👉 Откликнуться на вакансию
