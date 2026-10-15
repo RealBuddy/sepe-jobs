@@ -1299,6 +1299,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006649&ret=B"
     },
     {
+      "date": "14/10/2026",
+      "id": "032026006664",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "IT",
+      "title": "Nueva difusión - monitor/a de costura (ref.6664)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006664&ret=B"
+    },
+    {
       "date": "30/09/2026",
       "id": "032026006668",
       "municipio": "Aviles",
@@ -2335,15 +2344,6 @@
     },
     {
       "date": "30/09/2026",
-      "id": "032026007013",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "5 puestos de oficiales electricistas (ref.: 7013)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007013&ret=B"
-    },
-    {
-      "date": "30/09/2026",
       "id": "032026007016",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -2359,15 +2359,6 @@
       "sector": "TH",
       "title": "Camarero/a (ref.7017)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007017&ret=B"
-    },
-    {
-      "date": "30/09/2026",
-      "id": "032026007018",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "2 puestos de jefe de equipo de electrícistas (ref.: 7018)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007018&ret=B"
     },
     {
       "date": "30/09/2026",
@@ -2523,7 +2514,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007052&ret=B"
     },
     {
-      "date": "01/10/2026",
+      "date": "15/10/2026",
       "id": "032026007054",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4720,6 +4711,15 @@
     },
     {
       "date": "15/10/2026",
+      "id": "032026007363",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "IT",
+      "title": "10 alumnos/as trabajadores joven ocúpate del ayuntamiento de llanera cp arreglos y adaptaciones en textil y piel (ref. 7363)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007363&ret=B"
+    },
+    {
+      "date": "15/10/2026",
       "id": "032026007366",
       "municipio": "Carreño",
       "provincia": "Asturias",
@@ -4748,7 +4748,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-14T09:20:07Z"
+      "last_crawled": "2026-10-15T08:55:40Z"
     },
     "AU": {
       "count": 10,
@@ -4764,7 +4764,7 @@
     },
     "EM": {
       "count": 17,
-      "last_crawled": "2026-10-14T09:20:07Z"
+      "last_crawled": "2026-10-15T08:55:40Z"
     },
     "EO": {
       "count": 49,
@@ -4792,11 +4792,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-10-14T09:20:07Z"
+      "last_crawled": "2026-10-15T08:55:40Z"
     },
     "IT": {
-      "count": 1,
-      "last_crawled": "2026-10-14T09:20:07Z"
+      "count": 3,
+      "last_crawled": "2026-10-15T08:55:40Z"
     },
     "MD": {
       "count": 4,
@@ -4807,8 +4807,8 @@
       "last_crawled": "2026-10-15T07:54:16Z"
     },
     "MO": {
-      "count": 18,
-      "last_crawled": "2026-10-14T09:20:07Z"
+      "count": 16,
+      "last_crawled": "2026-10-15T08:55:40Z"
     },
     "MR": {
       "count": 17,
@@ -4816,7 +4816,7 @@
     },
     "MT": {
       "count": 8,
-      "last_crawled": "2026-10-14T09:20:07Z"
+      "last_crawled": "2026-10-15T08:55:40Z"
     },
     "PA": {
       "count": 1,
@@ -4828,7 +4828,7 @@
     },
     "PT": {
       "count": 2,
-      "last_crawled": "2026-10-14T09:20:07Z"
+      "last_crawled": "2026-10-15T08:55:40Z"
     },
     "SA": {
       "count": 64,
@@ -4851,5 +4851,5 @@
       "last_crawled": "2026-10-15T07:00:47Z"
     }
   },
-  "updated": "2026-10-15T07:54:16Z"
+  "updated": "2026-10-15T08:55:40Z"
 }
