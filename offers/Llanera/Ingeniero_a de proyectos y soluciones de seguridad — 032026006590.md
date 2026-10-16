@@ -1,9 +1,9 @@
-# Ingeniero/a de seguridad
+# Ingeniero/a de proyectos y soluciones de seguridad
 
-- **Профессия (ES):** Ingeniero/a de seguridad
-- **Оригинальное название:** Ingeniero/a de seguridad (ref. 6590)
+- **Профессия (ES):** Ingeniero/a de proyectos y soluciones de seguridad
+- **Оригинальное название:** Ingeniero/a de proyectos y soluciones de seguridad (ref. 6590)
 - **Город:** Llanera (Asturias)
-- **Дата публикации:** 10/09/2026
+- **Дата публикации:** 15/10/2026
 - **ID оферты:** 032026006590
 
 ## 👉 Откликнуться на вакансию
