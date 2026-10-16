@@ -1,7 +1,7 @@
-# Peon ganadero
+# Peón/a ganadero/a
 
-- **Профессия (ES):** Peon ganadero
-- **Оригинальное название:** Peon ganadero (ref. 7156)
+- **Профессия (ES):** Peón/a ganadero/a
+- **Оригинальное название:** Peón/a ganadero/a (ref. 7156)
 - **Город:** Onis (Asturias)
 - **Дата публикации:** 13/10/2026
 - **ID оферты:** 032026007156

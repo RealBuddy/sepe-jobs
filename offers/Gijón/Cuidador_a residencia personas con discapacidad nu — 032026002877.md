@@ -3,7 +3,7 @@
 - **Профессия (ES):** Cuidador/a residencia personas con discapacidad nueva difusión
 - **Оригинальное название:** Cuidador/a residencia personas con discapacidad (ref.:2877)nueva difusión
 - **Город:** Gijón (Asturias)
-- **Дата публикации:** 15/09/2026
+- **Дата публикации:** 16/10/2026
 - **ID оферты:** 032026002877
 
 ## 👉 Откликнуться на вакансию
