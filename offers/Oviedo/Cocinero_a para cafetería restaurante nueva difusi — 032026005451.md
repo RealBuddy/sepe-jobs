@@ -3,7 +3,7 @@
 - **Профессия (ES):** Cocinero/a para cafetería restaurante nueva difusion
 - **Оригинальное название:** Cocinero/a para cafetería restaurante (ref.: 5451) nueva difusion
 - **Город:** Oviedo (Asturias)
-- **Дата публикации:** 16/09/2026
+- **Дата публикации:** 16/10/2026
 - **ID оферты:** 032026005451
 
 ## 👉 Откликнуться на вакансию
