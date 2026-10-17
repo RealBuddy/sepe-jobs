@@ -1,7 +1,7 @@
-# grado en derecho
+# grado en derecho . "primera experiencia profesional" - ayuntamiento de gijón
 
-- **Профессия (ES):** grado en derecho
-- **Оригинальное название:** 1 puesto de grado en derecho (ref.: 7398)
+- **Профессия (ES):** grado en derecho . "primera experiencia profesional" - ayuntamiento de gijón
+- **Оригинальное название:** 1 puesto de grado en derecho (ref.: 7398). "primera experiencia profesional" - ayuntamiento de gijón
 - **Город:** Gijón (Asturias)
 - **Дата публикации:** 15/10/2026
 - **ID оферты:** 032026007398
