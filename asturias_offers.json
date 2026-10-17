@@ -1,5 +1,5 @@
 {
-  "count": 531,
+  "count": 532,
   "failed_sectors": [],
   "offers": [
     {
@@ -199,6 +199,15 @@
       "sector": "IP",
       "title": "Carpintero/montador de carpintería metálica de aluminio y pvc (ref. 4617)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004617&ret=B"
+    },
+    {
+      "date": "16/10/2026",
+      "id": "032026004820",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Electricista industrial (ref: 4820)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004820&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -685,6 +694,15 @@
       "sector": "SA",
       "title": "nueva difusión gerocultor/a (ref.6184)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006184&ret=B"
+    },
+    {
+      "date": "16/10/2026",
+      "id": "032026006186",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "2 puestos gestor/a comercial de servicios visitas concertadas (ref.6186)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006186&ret=B"
     },
     {
       "date": "02/10/2026",
@@ -2071,15 +2089,6 @@
       "sector": "EO",
       "title": "Oficial de la construccion (ref.: 7021)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007021&ret=B"
-    },
-    {
-      "date": "30/09/2026",
-      "id": "032026007025",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "IQ",
-      "title": "Operario/a de vulcanizado (ref.7025)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007025&ret=B"
     },
     {
       "date": "30/09/2026",
@@ -4793,7 +4802,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-16T08:47:57Z"
+      "last_crawled": "2026-10-17T08:18:35Z"
     },
     "AU": {
       "count": 8,
@@ -4808,8 +4817,8 @@
       "last_crawled": "2026-10-17T05:17:57Z"
     },
     "EM": {
-      "count": 19,
-      "last_crawled": "2026-10-16T08:47:57Z"
+      "count": 20,
+      "last_crawled": "2026-10-17T08:18:35Z"
     },
     "EO": {
       "count": 52,
@@ -4836,12 +4845,12 @@
       "last_crawled": "2026-10-17T07:24:28Z"
     },
     "IQ": {
-      "count": 1,
-      "last_crawled": "2026-10-16T08:47:57Z"
+      "count": 0,
+      "last_crawled": "2026-10-17T08:18:35Z"
     },
     "IT": {
       "count": 3,
-      "last_crawled": "2026-10-16T08:47:57Z"
+      "last_crawled": "2026-10-17T08:18:35Z"
     },
     "MD": {
       "count": 4,
@@ -4852,8 +4861,8 @@
       "last_crawled": "2026-10-17T07:24:28Z"
     },
     "MO": {
-      "count": 15,
-      "last_crawled": "2026-10-16T08:47:57Z"
+      "count": 16,
+      "last_crawled": "2026-10-17T08:18:35Z"
     },
     "MR": {
       "count": 17,
@@ -4861,7 +4870,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-10-16T08:47:57Z"
+      "last_crawled": "2026-10-17T08:18:35Z"
     },
     "PA": {
       "count": 0,
@@ -4873,7 +4882,7 @@
     },
     "PT": {
       "count": 2,
-      "last_crawled": "2026-10-16T08:47:57Z"
+      "last_crawled": "2026-10-17T08:18:35Z"
     },
     "SA": {
       "count": 56,
@@ -4896,5 +4905,5 @@
       "last_crawled": "2026-10-17T06:36:54Z"
     }
   },
-  "updated": "2026-10-17T07:24:28Z"
+  "updated": "2026-10-17T08:18:35Z"
 }
