@@ -1,5 +1,5 @@
 {
-  "count": 532,
+  "count": 528,
   "failed_sectors": [],
   "offers": [
     {
@@ -433,15 +433,6 @@
       "sector": "IA",
       "title": "3 puestos operario/a de produccion industria alimentaria (ref.: 5679) nueva difusion",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005679&ret=B"
-    },
-    {
-      "date": "18/09/2026",
-      "id": "032026005718",
-      "municipio": "Pravia",
-      "provincia": "Asturias",
-      "sector": "AA",
-      "title": "1 tractorista (ref: 5718)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005718&ret=B"
     },
     {
       "date": "16/09/2026",
@@ -1011,15 +1002,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006508&ret=B"
     },
     {
-      "date": "28/09/2026",
-      "id": "032026006535",
-      "municipio": "el",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "2 puestos de mozo/a de almacén (ref.:6535)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006535&ret=B"
-    },
-    {
       "date": "07/09/2026",
       "id": "032026006538",
       "municipio": "Llanes",
@@ -1369,15 +1351,6 @@
       "sector": "TC",
       "title": "2 conductores/as de camión (ref.6731)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006731&ret=B"
-    },
-    {
-      "date": "18/09/2026",
-      "id": "032026006738",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Dependiente tienda de recambios automóvil (ref. 6738)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006738&ret=B"
     },
     {
       "date": "18/09/2026",
@@ -2701,15 +2674,6 @@
       "sector": "AO",
       "title": "8 alumnos/as trabajadores/as operaciones auxiliares de servicios administrativos y generales, programa joven ocúpate (ref.: 7146)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007146&ret=B"
-    },
-    {
-      "date": "07/10/2026",
-      "id": "032026007147",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "MD",
-      "title": "8 alumnos/as trabajadores/as trabajos de carpintería y mueble, programa joven ocúpate (ref.: 7147)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007147&ret=B"
     },
     {
       "date": "06/10/2026",
@@ -4793,8 +4757,8 @@
   ],
   "sectors": {
     "AA": {
-      "count": 19,
-      "last_crawled": "2026-10-17T05:17:57Z"
+      "count": 18,
+      "last_crawled": "2026-10-18T05:23:45Z"
     },
     "AO": {
       "count": 36,
@@ -4809,12 +4773,12 @@
       "last_crawled": "2026-10-17T06:36:54Z"
     },
     "CC": {
-      "count": 49,
-      "last_crawled": "2026-10-17T05:17:57Z"
+      "count": 47,
+      "last_crawled": "2026-10-18T05:23:45Z"
     },
     "DO": {
       "count": 23,
-      "last_crawled": "2026-10-17T05:17:57Z"
+      "last_crawled": "2026-10-18T05:23:45Z"
     },
     "EM": {
       "count": 20,
@@ -4834,7 +4798,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-10-17T05:17:57Z"
+      "last_crawled": "2026-10-18T05:23:45Z"
     },
     "IM": {
       "count": 3,
@@ -4853,8 +4817,8 @@
       "last_crawled": "2026-10-17T08:18:35Z"
     },
     "MD": {
-      "count": 4,
-      "last_crawled": "2026-10-17T05:17:57Z"
+      "count": 3,
+      "last_crawled": "2026-10-18T05:23:45Z"
     },
     "MN": {
       "count": 0,
@@ -4874,7 +4838,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-10-17T05:17:57Z"
+      "last_crawled": "2026-10-18T05:23:45Z"
     },
     "PC": {
       "count": 0,
@@ -4894,7 +4858,7 @@
     },
     "SP": {
       "count": 86,
-      "last_crawled": "2026-10-17T05:17:57Z"
+      "last_crawled": "2026-10-18T05:23:45Z"
     },
     "TC": {
       "count": 36,
@@ -4905,5 +4869,5 @@
       "last_crawled": "2026-10-17T06:36:54Z"
     }
   },
-  "updated": "2026-10-17T08:18:35Z"
+  "updated": "2026-10-18T05:23:45Z"
 }
