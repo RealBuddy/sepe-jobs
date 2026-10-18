@@ -1,5 +1,5 @@
 {
-  "count": 528,
+  "count": 523,
   "failed_sectors": [],
   "offers": [
     {
@@ -1309,30 +1309,12 @@
     },
     {
       "date": "17/09/2026",
-      "id": "032026006715",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "2 puestos de camarero/a (ref.:6715)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006715&ret=B"
-    },
-    {
-      "date": "17/09/2026",
       "id": "032026006723",
       "municipio": "Oviedo",
       "provincia": "Asturias",
       "sector": "TH",
       "title": "Camarero/a(ref.6723).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006723&ret=B"
-    },
-    {
-      "date": "17/09/2026",
-      "id": "032026006728",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "2 puestos de ayudante de cocina (ref.: 6728)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006728&ret=B"
     },
     {
       "date": "17/09/2026",
@@ -1876,30 +1858,12 @@
     },
     {
       "date": "28/09/2026",
-      "id": "032026006962",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Ayudante-oficial 2ª pladurista-pintor/a (ref.:6962)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006962&ret=B"
-    },
-    {
-      "date": "28/09/2026",
       "id": "032026006963",
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "IT",
       "title": "Modista/o (ref. 6963)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006963&ret=B"
-    },
-    {
-      "date": "28/09/2026",
-      "id": "032026006964",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camarero/a (ref.:6964)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006964&ret=B"
     },
     {
       "date": "28/09/2026",
@@ -2665,15 +2629,6 @@
       "sector": "EO",
       "title": "Fontanero/a (ref.7143)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007143&ret=B"
-    },
-    {
-      "date": "07/10/2026",
-      "id": "032026007146",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "8 alumnos/as trabajadores/as operaciones auxiliares de servicios administrativos y generales, programa joven ocúpate (ref.: 7146)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007146&ret=B"
     },
     {
       "date": "06/10/2026",
@@ -4761,8 +4716,8 @@
       "last_crawled": "2026-10-18T05:23:45Z"
     },
     "AO": {
-      "count": 36,
-      "last_crawled": "2026-10-17T06:36:54Z"
+      "count": 35,
+      "last_crawled": "2026-10-18T06:59:53Z"
     },
     "AR": {
       "count": 1,
@@ -4770,7 +4725,7 @@
     },
     "AU": {
       "count": 8,
-      "last_crawled": "2026-10-17T06:36:54Z"
+      "last_crawled": "2026-10-18T06:59:53Z"
     },
     "CC": {
       "count": 47,
@@ -4785,12 +4740,12 @@
       "last_crawled": "2026-10-17T08:18:35Z"
     },
     "EO": {
-      "count": 52,
-      "last_crawled": "2026-10-17T06:36:54Z"
+      "count": 51,
+      "last_crawled": "2026-10-18T06:59:53Z"
     },
     "FE": {
       "count": 0,
-      "last_crawled": "2026-10-17T06:36:54Z"
+      "last_crawled": "2026-10-18T06:59:53Z"
     },
     "IA": {
       "count": 10,
@@ -4802,7 +4757,7 @@
     },
     "IM": {
       "count": 3,
-      "last_crawled": "2026-10-17T06:36:54Z"
+      "last_crawled": "2026-10-18T06:59:53Z"
     },
     "IP": {
       "count": 17,
@@ -4842,7 +4797,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-10-17T06:36:54Z"
+      "last_crawled": "2026-10-18T06:59:53Z"
     },
     "PT": {
       "count": 2,
@@ -4865,9 +4820,9 @@
       "last_crawled": "2026-10-17T07:24:28Z"
     },
     "TH": {
-      "count": 67,
-      "last_crawled": "2026-10-17T06:36:54Z"
+      "count": 64,
+      "last_crawled": "2026-10-18T06:59:53Z"
     }
   },
-  "updated": "2026-10-18T05:23:45Z"
+  "updated": "2026-10-18T06:59:53Z"
 }
