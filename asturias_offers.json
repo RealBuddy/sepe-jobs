@@ -1,5 +1,5 @@
 {
-  "count": 523,
+  "count": 522,
   "failed_sectors": [],
   "offers": [
     {
@@ -784,15 +784,6 @@
       "sector": "SA",
       "title": "nueva difusión enfermero/a (ref. 6271)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006271&ret=B"
-    },
-    {
-      "date": "17/09/2026",
-      "id": "032026006276",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "2 puestos de fisioterapeuta (ref.: 6276) nueva difusion",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006276&ret=B"
     },
     {
       "date": "13/10/2026",
@@ -4749,7 +4740,7 @@
     },
     "IA": {
       "count": 10,
-      "last_crawled": "2026-10-17T07:24:28Z"
+      "last_crawled": "2026-10-18T07:39:15Z"
     },
     "IG": {
       "count": 0,
@@ -4761,7 +4752,7 @@
     },
     "IP": {
       "count": 17,
-      "last_crawled": "2026-10-17T07:24:28Z"
+      "last_crawled": "2026-10-18T07:39:15Z"
     },
     "IQ": {
       "count": 0,
@@ -4777,7 +4768,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-17T07:24:28Z"
+      "last_crawled": "2026-10-18T07:39:15Z"
     },
     "MO": {
       "count": 16,
@@ -4785,7 +4776,7 @@
     },
     "MR": {
       "count": 17,
-      "last_crawled": "2026-10-17T07:24:28Z"
+      "last_crawled": "2026-10-18T07:39:15Z"
     },
     "MT": {
       "count": 6,
@@ -4804,12 +4795,12 @@
       "last_crawled": "2026-10-17T08:18:35Z"
     },
     "SA": {
-      "count": 56,
-      "last_crawled": "2026-10-17T07:24:28Z"
+      "count": 55,
+      "last_crawled": "2026-10-18T07:39:15Z"
     },
     "SF": {
       "count": 1,
-      "last_crawled": "2026-10-17T07:24:28Z"
+      "last_crawled": "2026-10-18T07:39:15Z"
     },
     "SP": {
       "count": 86,
@@ -4817,12 +4808,12 @@
     },
     "TC": {
       "count": 36,
-      "last_crawled": "2026-10-17T07:24:28Z"
+      "last_crawled": "2026-10-18T07:39:15Z"
     },
     "TH": {
       "count": 64,
       "last_crawled": "2026-10-18T06:59:53Z"
     }
   },
-  "updated": "2026-10-18T06:59:53Z"
+  "updated": "2026-10-18T07:39:15Z"
 }
