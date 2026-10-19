@@ -1,5 +1,5 @@
 {
-  "count": 524,
+  "count": 519,
   "failed_sectors": [],
   "offers": [
     {
@@ -156,15 +156,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004183&ret=B"
     },
     {
-      "date": "22/09/2026",
-      "id": "032026004200",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "nueva difusión operario/a de mantenimiento de edificios (ref.4200)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004200&ret=B"
-    },
-    {
       "date": "29/09/2026",
       "id": "032026004248",
       "municipio": "Gijón",
@@ -217,15 +208,6 @@
       "sector": "MR",
       "title": "Nueva difusión: electricista oficial (ref. 4951)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004951&ret=B"
-    },
-    {
-      "date": "17/09/2026",
-      "id": "032026004969",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "AU",
-      "title": "Operario/a de taller de neumáticos y mecánica rápida ( ref. 4969 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004969&ret=B"
     },
     {
       "date": "09/10/2026",
@@ -1335,15 +1317,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006743&ret=B"
     },
     {
-      "date": "18/09/2026",
-      "id": "032026006751",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "2 puestos de croupier para casino (ref.: 6751)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006751&ret=B"
-    },
-    {
       "date": "13/10/2026",
       "id": "032026006754",
       "municipio": "Mieres",
@@ -1360,24 +1333,6 @@
       "sector": "SP",
       "title": "Terapeuta ocupacional ref..(6757)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006757&ret=B"
-    },
-    {
-      "date": "18/09/2026",
-      "id": "032026006759",
-      "municipio": "Gozon",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de cocina( ref. 6759 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006759&ret=B"
-    },
-    {
-      "date": "18/09/2026",
-      "id": "032026006766",
-      "municipio": "Gozon",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camareros/as ( ref. 6766 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006766&ret=B"
     },
     {
       "date": "21/09/2026",
@@ -2479,15 +2434,6 @@
     },
     {
       "date": "05/10/2026",
-      "id": "032026007127",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "Jefe/a de almacén y logística - sección construcción (ref: 7127)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007127&ret=B"
-    },
-    {
-      "date": "05/10/2026",
       "id": "032026007128",
       "municipio": "Cangas del narcea",
       "provincia": "Asturias",
@@ -3455,7 +3401,7 @@
       "municipio": "Grado",
       "provincia": "Asturias",
       "sector": "EO",
-      "title": "2 operarios/as, de 45 años ó más. plan de empleo del ayuntamiento de grado (ref. 7296).",
+      "title": "2 operarios/as, de 45 años ó más. plan de empleo del ayuntamiento de grado (ref. 7276).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007276&ret=B"
     },
     {
@@ -3496,15 +3442,6 @@
     },
     {
       "date": "09/10/2026",
-      "id": "032026007282",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "Técnico/a de bibliotecas,archivos y document. contrato formativo para la adquisic. de la práct. profes. ayto. de grado (ref.7282).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007282&ret=B"
-    },
-    {
-      "date": "09/10/2026",
       "id": "032026007284",
       "municipio": "Tapia de casariego",
       "provincia": "Asturias",
@@ -3520,15 +3457,6 @@
       "sector": "EM",
       "title": "Responsable financiero y gestión (ref. 7285)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007285&ret=B"
-    },
-    {
-      "date": "09/10/2026",
-      "id": "032026007287",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "Técnico/a administrativo/a. contrato formativo para la adquisición de la práctica profesional. ayto. de grado (ref. 7287).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007287&ret=B"
     },
     {
       "date": "09/10/2026",
@@ -4539,6 +4467,24 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007410&ret=B"
     },
     {
+      "date": "19/10/2026",
+      "id": "032026007412",
+      "municipio": "Morcin",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "Administrativo/a contrato formativo para la adquisición de la práctica profesional 2026 ayto morcín (ref.7412)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007412&ret=B"
+    },
+    {
+      "date": "19/10/2026",
+      "id": "032026007413",
+      "municipio": "Morcin",
+      "provincia": "Asturias",
+      "sector": "EO",
+      "title": "3 puestos de peón/a plan de empleo local del ayuntamiento de morcín (ref.7413)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007413&ret=B"
+    },
+    {
       "date": "16/10/2026",
       "id": "032026007414",
       "municipio": "Gijón",
@@ -4647,6 +4593,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007425&ret=B"
     },
     {
+      "date": "19/10/2026",
+      "id": "032026007426",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "AO",
+      "title": "4 técnicos/as superiores en admón y gestión - contrato formativo obtención de la practica profesional - ayto langreo (ref.:7426)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007426&ret=B"
+    },
+    {
       "date": "16/10/2026",
       "id": "032026007427",
       "municipio": "Gijón",
@@ -4725,16 +4680,16 @@
       "last_crawled": "2026-10-19T05:40:57Z"
     },
     "AO": {
-      "count": 35,
-      "last_crawled": "2026-10-18T06:59:53Z"
+      "count": 34,
+      "last_crawled": "2026-10-19T07:22:20Z"
     },
     "AR": {
       "count": 1,
       "last_crawled": "2026-10-18T08:37:08Z"
     },
     "AU": {
-      "count": 8,
-      "last_crawled": "2026-10-18T06:59:53Z"
+      "count": 7,
+      "last_crawled": "2026-10-19T07:22:20Z"
     },
     "CC": {
       "count": 47,
@@ -4750,11 +4705,11 @@
     },
     "EO": {
       "count": 51,
-      "last_crawled": "2026-10-18T06:59:53Z"
+      "last_crawled": "2026-10-19T07:22:20Z"
     },
     "FE": {
       "count": 0,
-      "last_crawled": "2026-10-18T06:59:53Z"
+      "last_crawled": "2026-10-19T07:22:20Z"
     },
     "IA": {
       "count": 10,
@@ -4766,7 +4721,7 @@
     },
     "IM": {
       "count": 3,
-      "last_crawled": "2026-10-18T06:59:53Z"
+      "last_crawled": "2026-10-19T07:22:20Z"
     },
     "IP": {
       "count": 17,
@@ -4806,7 +4761,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-10-18T06:59:53Z"
+      "last_crawled": "2026-10-19T07:22:20Z"
     },
     "PT": {
       "count": 2,
@@ -4829,9 +4784,9 @@
       "last_crawled": "2026-10-18T07:39:15Z"
     },
     "TH": {
-      "count": 64,
-      "last_crawled": "2026-10-18T06:59:53Z"
+      "count": 61,
+      "last_crawled": "2026-10-19T07:22:20Z"
     }
   },
-  "updated": "2026-10-19T05:40:57Z"
+  "updated": "2026-10-19T07:22:20Z"
 }

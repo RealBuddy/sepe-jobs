@@ -1,7 +1,7 @@
 # operarios/as, de 45 años ó más. plan de empleo del ayuntamiento de grado
 
 - **Профессия (ES):** operarios/as, de 45 años ó más. plan de empleo del ayuntamiento de grado
-- **Оригинальное название:** 2 operarios/as, de 45 años ó más. plan de empleo del ayuntamiento de grado (ref. 7296).
+- **Оригинальное название:** 2 operarios/as, de 45 años ó más. plan de empleo del ayuntamiento de grado (ref. 7276).
 - **Город:** Grado (Asturias)
 - **Дата публикации:** 09/10/2026
 - **ID оферты:** 032026007276
