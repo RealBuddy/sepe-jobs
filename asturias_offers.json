@@ -966,6 +966,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006508&ret=B"
     },
     {
+      "date": "19/10/2026",
+      "id": "032026006516",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Enfermero/a ( ref.: 6516)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006516&ret=B"
+    },
+    {
       "date": "07/09/2026",
       "id": "032026006538",
       "municipio": "Llanes",
@@ -1540,15 +1549,6 @@
       "sector": "SA",
       "title": "Gerocultor/a (ref.: 6843)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006843&ret=B"
-    },
-    {
-      "date": "22/09/2026",
-      "id": "032026006844",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "3 gerocultores (ref. 6844)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006844&ret=B"
     },
     {
       "date": "22/09/2026",
@@ -2344,15 +2344,6 @@
     },
     {
       "date": "05/10/2026",
-      "id": "032026007106",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Operario/a de producción y ajuste de máquinas (ref: 7106)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007106&ret=B"
-    },
-    {
-      "date": "05/10/2026",
       "id": "032026007109",
       "municipio": "Corvera de asturias",
       "provincia": "Asturias",
@@ -2386,15 +2377,6 @@
       "sector": "EO",
       "title": "3 peones de la construcción - plan empleo - ayuntamiento de peñamellera baja (ref. 7114)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007114&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026007120",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Gerocultor/a (ref: 7120)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007120&ret=B"
     },
     {
       "date": "05/10/2026",
@@ -3676,15 +3658,6 @@
     },
     {
       "date": "13/10/2026",
-      "id": "032026007316",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Operario/a de limpieza de contenedores con camión pluma (ref.:7316)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007316&ret=B"
-    },
-    {
-      "date": "13/10/2026",
       "id": "032026007317",
       "municipio": "Grado",
       "provincia": "Asturias",
@@ -4656,6 +4629,33 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007434&ret=B"
     },
     {
+      "date": "19/10/2026",
+      "id": "032026007435",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "TC",
+      "title": "10 puestos de conductores/as de trailer c+e. rutas nacionales amazon (ref. 7435)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007435&ret=B"
+    },
+    {
+      "date": "19/10/2026",
+      "id": "032026007437",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Auxiliar de enfermería (ref.: 7437)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007437&ret=B"
+    },
+    {
+      "date": "19/10/2026",
+      "id": "032026007439",
+      "municipio": "Valdes",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Enfermero/a (ref.7439)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007439&ret=B"
+    },
+    {
       "date": "09/10/2026",
       "id": "122026009756",
       "municipio": "Navia",
@@ -4713,7 +4713,7 @@
     },
     "IA": {
       "count": 10,
-      "last_crawled": "2026-10-18T07:39:15Z"
+      "last_crawled": "2026-10-19T08:21:32Z"
     },
     "IG": {
       "count": 0,
@@ -4724,8 +4724,8 @@
       "last_crawled": "2026-10-19T07:22:20Z"
     },
     "IP": {
-      "count": 17,
-      "last_crawled": "2026-10-18T07:39:15Z"
+      "count": 16,
+      "last_crawled": "2026-10-19T08:21:32Z"
     },
     "IQ": {
       "count": 0,
@@ -4741,7 +4741,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-18T07:39:15Z"
+      "last_crawled": "2026-10-19T08:21:32Z"
     },
     "MO": {
       "count": 16,
@@ -4749,7 +4749,7 @@
     },
     "MR": {
       "count": 17,
-      "last_crawled": "2026-10-18T07:39:15Z"
+      "last_crawled": "2026-10-19T08:21:32Z"
     },
     "MT": {
       "count": 6,
@@ -4768,12 +4768,12 @@
       "last_crawled": "2026-10-18T08:37:08Z"
     },
     "SA": {
-      "count": 55,
-      "last_crawled": "2026-10-18T07:39:15Z"
+      "count": 56,
+      "last_crawled": "2026-10-19T08:21:32Z"
     },
     "SF": {
       "count": 1,
-      "last_crawled": "2026-10-18T07:39:15Z"
+      "last_crawled": "2026-10-19T08:21:32Z"
     },
     "SP": {
       "count": 87,
@@ -4781,12 +4781,12 @@
     },
     "TC": {
       "count": 36,
-      "last_crawled": "2026-10-18T07:39:15Z"
+      "last_crawled": "2026-10-19T08:21:32Z"
     },
     "TH": {
       "count": 61,
       "last_crawled": "2026-10-19T07:22:20Z"
     }
   },
-  "updated": "2026-10-19T07:22:20Z"
+  "updated": "2026-10-19T08:21:32Z"
 }
