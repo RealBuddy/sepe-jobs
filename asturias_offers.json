@@ -1,5 +1,5 @@
 {
-  "count": 522,
+  "count": 524,
   "failed_sectors": [],
   "offers": [
     {
@@ -91,15 +91,6 @@
       "sector": "SP",
       "title": "7 puestos de auxiliar de ayuda a domicilio (ref.: 3054)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003054&ret=B"
-    },
-    {
-      "date": "17/09/2026",
-      "id": "032026003524",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Peones/as de limpieza (ref: 3524)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003524&ret=B"
     },
     {
       "date": "31/07/2026",
@@ -3487,15 +3478,6 @@
     },
     {
       "date": "09/10/2026",
-      "id": "032026007279",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "3 conserjes, de 45 años ó más . plan de empleo del ayuntamiento de grado (ref. 7279).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007279&ret=B"
-    },
-    {
-      "date": "09/10/2026",
       "id": "032026007280",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -4153,15 +4135,6 @@
     },
     {
       "date": "15/10/2026",
-      "id": "032026007365",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Docente c.p. \"operaciones auxiliares de servicios administrativos y generales\"(adgg0408)-programa joven ocúpate (ref.7365)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007365&ret=B"
-    },
-    {
-      "date": "15/10/2026",
       "id": "032026007366",
       "municipio": "Carreño",
       "provincia": "Asturias",
@@ -4629,6 +4602,33 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007420&ret=B"
     },
     {
+      "date": "19/10/2026",
+      "id": "032026007421",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Graduado/a en derecho o master universitario en abogacía - contrato para obtención práctica profesional ayto langreo (ref.: 7421)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007421&ret=B"
+    },
+    {
+      "date": "19/10/2026",
+      "id": "032026007422",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Trabajador/a social - contrato formativo para la obtención de la práctica profesional - ayto langreo (ref.:7422)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007422&ret=B"
+    },
+    {
+      "date": "19/10/2026",
+      "id": "032026007423",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "DO",
+      "title": "Graduado/a en pedagogía - contrato para la obtención de la práctica profesional del ayto de langreo (ref.: 7423)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007423&ret=B"
+    },
+    {
       "date": "16/10/2026",
       "id": "032026007424",
       "municipio": "Gozon",
@@ -4636,6 +4636,15 @@
       "sector": "CC",
       "title": "Ayudante/a de dependiente (ref.: 7424)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007424&ret=B"
+    },
+    {
+      "date": "19/10/2026",
+      "id": "032026007425",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "AA",
+      "title": "Graduado/a en ingeniería (forestal, agrícola o topográfica) - contrato obtención práctica profesional - ayto langreo (ref.:7425)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007425&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -4683,6 +4692,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007432&ret=B"
     },
     {
+      "date": "19/10/2026",
+      "id": "032026007434",
+      "municipio": "el",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Terapeuta ocupacional (ref.:7434)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007434&ret=B"
+    },
+    {
       "date": "09/10/2026",
       "id": "122026009756",
       "municipio": "Navia",
@@ -4703,8 +4721,8 @@
   ],
   "sectors": {
     "AA": {
-      "count": 18,
-      "last_crawled": "2026-10-18T05:23:45Z"
+      "count": 19,
+      "last_crawled": "2026-10-19T05:40:57Z"
     },
     "AO": {
       "count": 35,
@@ -4720,11 +4738,11 @@
     },
     "CC": {
       "count": 47,
-      "last_crawled": "2026-10-18T05:23:45Z"
+      "last_crawled": "2026-10-19T05:40:57Z"
     },
     "DO": {
       "count": 23,
-      "last_crawled": "2026-10-18T05:23:45Z"
+      "last_crawled": "2026-10-19T05:40:57Z"
     },
     "EM": {
       "count": 20,
@@ -4744,7 +4762,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-10-18T05:23:45Z"
+      "last_crawled": "2026-10-19T05:40:57Z"
     },
     "IM": {
       "count": 3,
@@ -4764,7 +4782,7 @@
     },
     "MD": {
       "count": 3,
-      "last_crawled": "2026-10-18T05:23:45Z"
+      "last_crawled": "2026-10-19T05:40:57Z"
     },
     "MN": {
       "count": 0,
@@ -4784,7 +4802,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-10-18T05:23:45Z"
+      "last_crawled": "2026-10-19T05:40:57Z"
     },
     "PC": {
       "count": 0,
@@ -4803,8 +4821,8 @@
       "last_crawled": "2026-10-18T07:39:15Z"
     },
     "SP": {
-      "count": 86,
-      "last_crawled": "2026-10-18T05:23:45Z"
+      "count": 87,
+      "last_crawled": "2026-10-19T05:40:57Z"
     },
     "TC": {
       "count": 36,
@@ -4815,5 +4833,5 @@
       "last_crawled": "2026-10-18T06:59:53Z"
     }
   },
-  "updated": "2026-10-18T08:37:08Z"
+  "updated": "2026-10-19T05:40:57Z"
 }
