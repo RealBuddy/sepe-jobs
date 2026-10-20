@@ -219,15 +219,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005058&ret=B"
     },
     {
-      "date": "07/10/2026",
-      "id": "032026005150",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Nueva difusión - electricista (ref. 5150)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005150&ret=B"
-    },
-    {
       "date": "16/10/2026",
       "id": "032026005174",
       "municipio": "Pravia",
@@ -352,6 +343,15 @@
       "sector": "CC",
       "title": "Operario/a de taller almacén (ref. 5523)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005523&ret=B"
+    },
+    {
+      "date": "20/10/2026",
+      "id": "032026005597",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Administrativo/a (ref.: 5597)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005597&ret=B"
     },
     {
       "date": "15/10/2026",
@@ -1669,15 +1669,6 @@
     },
     {
       "date": "28/09/2026",
-      "id": "032026006933",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Asesor/a laboral (ref.: 6933)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006933&ret=B"
-    },
-    {
-      "date": "28/09/2026",
       "id": "032026006946",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -2343,15 +2334,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007140&ret=B"
     },
     {
-      "date": "06/10/2026",
-      "id": "032026007141",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "PT",
-      "title": "Técnico/a electricidad de baja tensión (ref.: 7141)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007141&ret=B"
-    },
-    {
       "date": "19/10/2026",
       "id": "032026007142",
       "municipio": "Gijón",
@@ -2368,15 +2350,6 @@
       "sector": "EO",
       "title": "Fontanero/a (ref.7143)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007143&ret=B"
-    },
-    {
-      "date": "06/10/2026",
-      "id": "032026007148",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Operario/a de subestaciones eléctricas (ref.: 7148).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007148&ret=B"
     },
     {
       "date": "06/10/2026",
@@ -2523,7 +2496,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007177&ret=B"
     },
     {
-      "date": "07/10/2026",
+      "date": "20/10/2026",
       "id": "032026007178",
       "municipio": "Carreño",
       "provincia": "Asturias",
@@ -4513,6 +4486,33 @@
     },
     {
       "date": "19/10/2026",
+      "id": "032026007448",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Técnico/a instalador/a (ref.7448)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007448&ret=B"
+    },
+    {
+      "date": "19/10/2026",
+      "id": "032026007449",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Frigorista (ref.: 7449)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007449&ret=B"
+    },
+    {
+      "date": "19/10/2026",
+      "id": "032026007451",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Instalador/a electricista en general (ref: 7451)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007451&ret=B"
+    },
+    {
+      "date": "19/10/2026",
       "id": "032026007452",
       "municipio": "Villaviciosa",
       "provincia": "Asturias",
@@ -4586,7 +4586,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-19T09:39:14Z"
+      "last_crawled": "2026-10-20T09:12:30Z"
     },
     "AU": {
       "count": 5,
@@ -4602,7 +4602,7 @@
     },
     "EM": {
       "count": 20,
-      "last_crawled": "2026-10-19T09:39:14Z"
+      "last_crawled": "2026-10-20T09:12:30Z"
     },
     "EO": {
       "count": 46,
@@ -4630,11 +4630,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-10-19T09:39:14Z"
+      "last_crawled": "2026-10-20T09:12:30Z"
     },
     "IT": {
       "count": 3,
-      "last_crawled": "2026-10-19T09:39:14Z"
+      "last_crawled": "2026-10-20T09:12:30Z"
     },
     "MD": {
       "count": 3,
@@ -4645,8 +4645,8 @@
       "last_crawled": "2026-10-20T08:05:36Z"
     },
     "MO": {
-      "count": 16,
-      "last_crawled": "2026-10-19T09:39:14Z"
+      "count": 17,
+      "last_crawled": "2026-10-20T09:12:30Z"
     },
     "MR": {
       "count": 18,
@@ -4654,7 +4654,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-10-19T09:39:14Z"
+      "last_crawled": "2026-10-20T09:12:30Z"
     },
     "PA": {
       "count": 0,
@@ -4665,8 +4665,8 @@
       "last_crawled": "2026-10-20T07:13:32Z"
     },
     "PT": {
-      "count": 2,
-      "last_crawled": "2026-10-19T09:39:14Z"
+      "count": 1,
+      "last_crawled": "2026-10-20T09:12:30Z"
     },
     "SA": {
       "count": 59,
@@ -4689,5 +4689,5 @@
       "last_crawled": "2026-10-20T07:13:32Z"
     }
   },
-  "updated": "2026-10-20T08:05:36Z"
+  "updated": "2026-10-20T09:12:30Z"
 }
