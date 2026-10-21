@@ -1,9 +1,9 @@
-# Limpiador/a con discapacidad. nueva difusión
+# Nueva difusión.limpiador/a con discapacidad
 
-- **Профессия (ES):** Limpiador/a con discapacidad. nueva difusión
-- **Оригинальное название:** Limpiador/a con discapacidad. nueva difusión (ref.3802).
+- **Профессия (ES):** Nueva difusión.limpiador/a con discapacidad
+- **Оригинальное название:** Nueva difusión.limpiador/a con discapacidad.(ref.3802).
 - **Город:** Mieres (Asturias)
-- **Дата публикации:** 16/09/2026
+- **Дата публикации:** 20/10/2026
 - **ID оферты:** 032026003802
 
 ## 👉 Откликнуться на вакансию
