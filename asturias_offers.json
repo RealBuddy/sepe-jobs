@@ -1,5 +1,5 @@
 {
-  "count": 522,
+  "count": 521,
   "failed_sectors": [],
   "offers": [
     {
@@ -292,15 +292,6 @@
     },
     {
       "date": "05/10/2026",
-      "id": "032026005365",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Administrativo/a laboral (ref.: 5365)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005365&ret=B"
-    },
-    {
-      "date": "05/10/2026",
       "id": "032026005370",
       "municipio": "Pravia",
       "provincia": "Asturias",
@@ -361,15 +352,6 @@
       "sector": "AO",
       "title": "Administrativo/a (ref: 5577)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005577&ret=B"
-    },
-    {
-      "date": "20/10/2026",
-      "id": "032026005597",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Administrativo/a (ref.: 5597)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005597&ret=B"
     },
     {
       "date": "15/10/2026",
@@ -2209,15 +2191,6 @@
     },
     {
       "date": "06/10/2026",
-      "id": "032026007137",
-      "municipio": "Lena",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Auxiliar administrativo/a (ref.7137)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007137&ret=B"
-    },
-    {
-      "date": "06/10/2026",
       "id": "032026007138",
       "municipio": "Castrillon",
       "provincia": "Asturias",
@@ -2935,15 +2908,6 @@
       "sector": "TC",
       "title": "Repartidor/a furgoneta (ref.: 7260)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007260&ret=B"
-    },
-    {
-      "date": "15/10/2026",
-      "id": "032026007261",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "2 electricistas (ref. 7261)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007261&ret=B"
     },
     {
       "date": "09/10/2026",
@@ -4576,6 +4540,15 @@
     },
     {
       "date": "20/10/2026",
+      "id": "032026007476",
+      "municipio": "Salas",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a superior de oficinas y despachos. (ref: 7476)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007476&ret=B"
+    },
+    {
+      "date": "20/10/2026",
       "id": "032026007477",
       "municipio": "Carreño",
       "provincia": "Asturias",
@@ -4657,6 +4630,15 @@
     },
     {
       "date": "20/10/2026",
+      "id": "032026007487",
+      "municipio": "Morcin",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Diseñador/a grafico y multimedia (ref:7487)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007487&ret=B"
+    },
+    {
+      "date": "20/10/2026",
       "id": "032026007488",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -4681,6 +4663,15 @@
       "sector": "SA",
       "title": "3 puestos de gerocultor/a o aux. enfermería (ref 7490)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007490&ret=B"
+    },
+    {
+      "date": "21/10/2026",
+      "id": "032026007491",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Diseñador/a gráfico/a (ref.:7491)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007491&ret=B"
     },
     {
       "date": "09/10/2026",
@@ -4712,7 +4703,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-20T09:12:30Z"
+      "last_crawled": "2026-10-21T09:10:07Z"
     },
     "AU": {
       "count": 6,
@@ -4728,7 +4719,7 @@
     },
     "EM": {
       "count": 20,
-      "last_crawled": "2026-10-20T09:12:30Z"
+      "last_crawled": "2026-10-21T09:10:07Z"
     },
     "EO": {
       "count": 51,
@@ -4756,11 +4747,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-10-20T09:12:30Z"
+      "last_crawled": "2026-10-21T09:10:07Z"
     },
     "IT": {
       "count": 3,
-      "last_crawled": "2026-10-20T09:12:30Z"
+      "last_crawled": "2026-10-21T09:10:07Z"
     },
     "MD": {
       "count": 4,
@@ -4771,8 +4762,8 @@
       "last_crawled": "2026-10-21T08:11:09Z"
     },
     "MO": {
-      "count": 17,
-      "last_crawled": "2026-10-20T09:12:30Z"
+      "count": 16,
+      "last_crawled": "2026-10-21T09:10:07Z"
     },
     "MR": {
       "count": 19,
@@ -4780,7 +4771,7 @@
     },
     "MT": {
       "count": 6,
-      "last_crawled": "2026-10-20T09:12:30Z"
+      "last_crawled": "2026-10-21T09:10:07Z"
     },
     "PA": {
       "count": 0,
@@ -4792,7 +4783,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-10-20T09:12:30Z"
+      "last_crawled": "2026-10-21T09:10:07Z"
     },
     "SA": {
       "count": 64,
@@ -4815,5 +4806,5 @@
       "last_crawled": "2026-10-21T07:07:17Z"
     }
   },
-  "updated": "2026-10-21T08:11:09Z"
+  "updated": "2026-10-21T09:10:07Z"
 }
