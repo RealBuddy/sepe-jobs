@@ -1,9 +1,9 @@
-# auxiliar ayuda a domicilio para lugones
+# Nueva difusión: auxiliar ayuda a domicilio para lugones
 
-- **Профессия (ES):** auxiliar ayuda a domicilio para lugones
-- **Оригинальное название:** 3 puestos de auxiliar ayuda a domicilio para lugones (ref. 7456 )
+- **Профессия (ES):** Nueva difusión: auxiliar ayuda a domicilio para lugones
+- **Оригинальное название:** Nueva difusión: auxiliar ayuda a domicilio para lugones (ref. 7456 )
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 19/10/2026
+- **Дата публикации:** 21/10/2026
 - **ID оферты:** 032026007456
 
 ## 👉 Откликнуться на вакансию
