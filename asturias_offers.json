@@ -1,5 +1,5 @@
 {
-  "count": 533,
+  "count": 530,
   "failed_sectors": [],
   "offers": [
     {
@@ -1318,15 +1318,6 @@
     },
     {
       "date": "22/09/2026",
-      "id": "032026006835",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "4 montadores/as de estructuras metálicas (ref. 6835)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006835&ret=B"
-    },
-    {
-      "date": "22/09/2026",
       "id": "032026006836",
       "municipio": "Langreo",
       "provincia": "Asturias",
@@ -1768,15 +1759,6 @@
     },
     {
       "date": "01/10/2026",
-      "id": "032026007037",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Técnico/a de i+d en ia y analítica avanzada (ref.: 7037)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007037&ret=B"
-    },
-    {
-      "date": "01/10/2026",
       "id": "032026007041",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -1819,15 +1801,6 @@
       "sector": "MT",
       "title": "2 puestos de peon de produccion (7052)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007052&ret=B"
-    },
-    {
-      "date": "15/10/2026",
-      "id": "032026007054",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Operario/a de taller (ref. 7054)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007054&ret=B"
     },
     {
       "date": "13/10/2026",
@@ -3433,15 +3406,6 @@
     },
     {
       "date": "15/10/2026",
-      "id": "032026007363",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "IT",
-      "title": "10 alumnos/as trabajadores joven ocúpate del ayuntamiento de llanera cp arreglos y adaptaciones en textil y piel (ref. 7363)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007363&ret=B"
-    },
-    {
-      "date": "15/10/2026",
       "id": "032026007364",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -4512,6 +4476,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007495&ret=B"
     },
     {
+      "date": "22/10/2026",
+      "id": "032026007496",
+      "municipio": "Pravia",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "1 informático/a. contrato formativo. ayuntamiento de pravia (ref. 7496)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007496&ret=B"
+    },
+    {
       "date": "21/10/2026",
       "id": "032026007498",
       "municipio": "Gijón",
@@ -4811,7 +4784,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-21T09:10:07Z"
+      "last_crawled": "2026-10-22T09:12:28Z"
     },
     "AU": {
       "count": 6,
@@ -4827,7 +4800,7 @@
     },
     "EM": {
       "count": 20,
-      "last_crawled": "2026-10-21T09:10:07Z"
+      "last_crawled": "2026-10-22T09:12:28Z"
     },
     "EO": {
       "count": 53,
@@ -4855,11 +4828,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-10-21T09:10:07Z"
+      "last_crawled": "2026-10-22T09:12:28Z"
     },
     "IT": {
-      "count": 3,
-      "last_crawled": "2026-10-21T09:10:07Z"
+      "count": 2,
+      "last_crawled": "2026-10-22T09:12:28Z"
     },
     "MD": {
       "count": 5,
@@ -4870,16 +4843,16 @@
       "last_crawled": "2026-10-22T08:12:04Z"
     },
     "MO": {
-      "count": 16,
-      "last_crawled": "2026-10-21T09:10:07Z"
+      "count": 15,
+      "last_crawled": "2026-10-22T09:12:28Z"
     },
     "MR": {
       "count": 17,
       "last_crawled": "2026-10-22T08:12:04Z"
     },
     "MT": {
-      "count": 6,
-      "last_crawled": "2026-10-21T09:10:07Z"
+      "count": 5,
+      "last_crawled": "2026-10-22T09:12:28Z"
     },
     "PA": {
       "count": 0,
@@ -4891,7 +4864,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-10-21T09:10:07Z"
+      "last_crawled": "2026-10-22T09:12:28Z"
     },
     "SA": {
       "count": 64,
@@ -4914,5 +4887,5 @@
       "last_crawled": "2026-10-22T07:09:37Z"
     }
   },
-  "updated": "2026-10-22T08:12:04Z"
+  "updated": "2026-10-22T09:12:28Z"
 }
