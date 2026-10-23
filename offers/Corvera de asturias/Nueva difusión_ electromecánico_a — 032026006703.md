@@ -1,9 +1,9 @@
-# Электромеханический
+# Nueva difusión: electromecánico/a
 
-- **Профессия (ES):** Electromecánico/a
-- **Оригинальное название:** Electromecánico/a (ref. 6703)
+- **Профессия (ES):** Nueva difusión: electromecánico/a
+- **Оригинальное название:** Nueva difusión: electromecánico/a (ref. 6703)
 - **Город:** Corvera de asturias (Asturias)
-- **Дата публикации:** 16/09/2026
+- **Дата публикации:** 22/10/2026
 - **ID оферты:** 032026006703
 
 ## 👉 Откликнуться на вакансию
