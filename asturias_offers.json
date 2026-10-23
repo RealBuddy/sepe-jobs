@@ -1,5 +1,5 @@
 {
-  "count": 571,
+  "count": 570,
   "failed_sectors": [],
   "offers": [
     {
@@ -1434,15 +1434,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006962&ret=B"
     },
     {
-      "date": "28/09/2026",
-      "id": "032026006963",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "IT",
-      "title": "Modista/o (ref. 6963)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006963&ret=B"
-    },
-    {
       "date": "19/10/2026",
       "id": "032026006964",
       "municipio": "Navia",
@@ -1648,15 +1639,6 @@
       "sector": "SA",
       "title": "Gerocultor/a (ref.: 7043)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007043&ret=B"
-    },
-    {
-      "date": "01/10/2026",
-      "id": "032026007052",
-      "municipio": "Cangas de onis",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "2 puestos de peon de produccion (7052)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007052&ret=B"
     },
     {
       "date": "13/10/2026",
@@ -3316,15 +3298,6 @@
     },
     {
       "date": "15/10/2026",
-      "id": "032026007387",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Técnico/a tecnológico/a (ref. 7387)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007387&ret=B"
-    },
-    {
-      "date": "15/10/2026",
       "id": "032026007388",
       "municipio": "Cangas del narcea",
       "provincia": "Asturias",
@@ -4801,6 +4774,15 @@
     },
     {
       "date": "22/10/2026",
+      "id": "032026007565",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Electricista oficial de 1ª (ref.: 7565)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007565&ret=B"
+    },
+    {
+      "date": "22/10/2026",
       "id": "032026007566",
       "municipio": "Onis",
       "provincia": "Asturias",
@@ -4870,6 +4852,15 @@
       "sector": "EO",
       "title": "Encargado/a de obras (ref.: 7573)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007573&ret=B"
+    },
+    {
+      "date": "22/10/2026",
+      "id": "032026007574",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "2 ingenieros/as - 1 plaza reservada mayores de 45 años - plan de empleo ayto langreo (ref.:7574)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007574&ret=B"
     },
     {
       "date": "22/10/2026",
@@ -5153,7 +5144,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-22T09:12:28Z"
+      "last_crawled": "2026-10-23T09:09:07Z"
     },
     "AU": {
       "count": 7,
@@ -5169,7 +5160,7 @@
     },
     "EM": {
       "count": 20,
-      "last_crawled": "2026-10-22T09:12:28Z"
+      "last_crawled": "2026-10-23T09:09:07Z"
     },
     "EO": {
       "count": 74,
@@ -5197,11 +5188,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-10-22T09:12:28Z"
+      "last_crawled": "2026-10-23T09:09:07Z"
     },
     "IT": {
-      "count": 2,
-      "last_crawled": "2026-10-22T09:12:28Z"
+      "count": 1,
+      "last_crawled": "2026-10-23T09:09:07Z"
     },
     "MD": {
       "count": 6,
@@ -5212,16 +5203,16 @@
       "last_crawled": "2026-10-23T08:09:49Z"
     },
     "MO": {
-      "count": 15,
-      "last_crawled": "2026-10-22T09:12:28Z"
+      "count": 16,
+      "last_crawled": "2026-10-23T09:09:07Z"
     },
     "MR": {
       "count": 20,
       "last_crawled": "2026-10-23T08:09:49Z"
     },
     "MT": {
-      "count": 5,
-      "last_crawled": "2026-10-22T09:12:28Z"
+      "count": 4,
+      "last_crawled": "2026-10-23T09:09:07Z"
     },
     "PA": {
       "count": 0,
@@ -5233,7 +5224,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-10-22T09:12:28Z"
+      "last_crawled": "2026-10-23T09:09:07Z"
     },
     "SA": {
       "count": 59,
@@ -5256,5 +5247,5 @@
       "last_crawled": "2026-10-23T07:01:40Z"
     }
   },
-  "updated": "2026-10-23T08:09:49Z"
+  "updated": "2026-10-23T09:09:07Z"
 }
