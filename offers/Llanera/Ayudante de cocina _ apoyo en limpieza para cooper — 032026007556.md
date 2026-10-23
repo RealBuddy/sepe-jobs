@@ -1,0 +1,12 @@
+# Ayudante de cocina / apoyo en limpieza para cooperativa
+
+- **Профессия (ES):** Ayudante de cocina / apoyo en limpieza para cooperativa
+- **Оригинальное название:** Ayudante de cocina / apoyo en limpieza para cooperativa (ref. 7556)
+- **Город:** Llanera (Asturias)
+- **Дата публикации:** 22/10/2026
+- **ID оферты:** 032026007556
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007556&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
