@@ -669,15 +669,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006250&ret=B"
     },
     {
-      "date": "25/08/2026",
-      "id": "032026006264",
-      "municipio": "Sariego",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Business controller (ref.6264)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006264&ret=B"
-    },
-    {
       "date": "09/10/2026",
       "id": "032026006271",
       "municipio": "Siero",
@@ -1783,15 +1774,6 @@
       "sector": "EO",
       "title": "Operador/a de excavadora chatarrera (ref: 7104)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007104&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026007105",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Encuestadores/as (ref.: 7105)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007105&ret=B"
     },
     {
       "date": "05/10/2026",
@@ -5233,6 +5215,15 @@
     },
     {
       "date": "23/10/2026",
+      "id": "032026007630",
+      "municipio": "Belmonte de miranda",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a informático/a, administrativo/a o de construcción. contrato en prácticas. ayto de belmonte (ref. 7630).",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007630&ret=B"
+    },
+    {
+      "date": "23/10/2026",
       "id": "032026007631",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -5257,6 +5248,24 @@
       "sector": "MR",
       "title": "Técnico/a de mantenimiento eléctrico industrial (ref.: 7633)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007633&ret=B"
+    },
+    {
+      "date": "23/10/2026",
+      "id": "032026007634",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Electricistas (ref: 7634)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007634&ret=B"
+    },
+    {
+      "date": "23/10/2026",
+      "id": "032026007635",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Analista funcional y/o técnico/a de sistemas (ref: 7635)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007635&ret=B"
     },
     {
       "date": "23/10/2026",
@@ -5322,15 +5331,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007643&ret=B"
     },
     {
-      "date": "09/10/2026",
-      "id": "122026009756",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Intérpretes de la lengua de signos",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=122026009756&ret=B"
-    },
-    {
       "date": "16/10/2026",
       "id": "162026011053",
       "municipio": "Aviles",
@@ -5351,7 +5351,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-23T09:09:07Z"
+      "last_crawled": "2026-10-24T08:42:08Z"
     },
     "AU": {
       "count": 8,
@@ -5366,8 +5366,8 @@
       "last_crawled": "2026-10-24T05:21:47Z"
     },
     "EM": {
-      "count": 20,
-      "last_crawled": "2026-10-23T09:09:07Z"
+      "count": 19,
+      "last_crawled": "2026-10-24T08:42:08Z"
     },
     "EO": {
       "count": 74,
@@ -5395,11 +5395,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-10-23T09:09:07Z"
+      "last_crawled": "2026-10-24T08:42:08Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-23T09:09:07Z"
+      "last_crawled": "2026-10-24T08:42:08Z"
     },
     "MD": {
       "count": 7,
@@ -5410,8 +5410,8 @@
       "last_crawled": "2026-10-24T07:48:41Z"
     },
     "MO": {
-      "count": 16,
-      "last_crawled": "2026-10-23T09:09:07Z"
+      "count": 17,
+      "last_crawled": "2026-10-24T08:42:08Z"
     },
     "MR": {
       "count": 21,
@@ -5419,7 +5419,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-10-23T09:09:07Z"
+      "last_crawled": "2026-10-24T08:42:08Z"
     },
     "PA": {
       "count": 0,
@@ -5431,7 +5431,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-10-23T09:09:07Z"
+      "last_crawled": "2026-10-24T08:42:08Z"
     },
     "SA": {
       "count": 59,
@@ -5454,5 +5454,5 @@
       "last_crawled": "2026-10-24T06:54:07Z"
     }
   },
-  "updated": "2026-10-24T07:48:41Z"
+  "updated": "2026-10-24T08:42:08Z"
 }
