@@ -1,5 +1,5 @@
 {
-  "count": 588,
+  "count": 587,
   "failed_sectors": [],
   "offers": [
     {
@@ -1369,15 +1369,6 @@
       "sector": "CC",
       "title": "Responsable comercial sector hospitalario (ref.6898)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006898&ret=B"
-    },
-    {
-      "date": "25/09/2026",
-      "id": "032026006901",
-      "municipio": "Tineo",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Ayudante soldador (ref: 6901)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006901&ret=B"
     },
     {
       "date": "21/10/2026",
@@ -5334,7 +5325,7 @@
     },
     "IA": {
       "count": 12,
-      "last_crawled": "2026-10-24T07:48:41Z"
+      "last_crawled": "2026-10-25T08:00:08Z"
     },
     "IG": {
       "count": 0,
@@ -5345,8 +5336,8 @@
       "last_crawled": "2026-10-25T07:18:58Z"
     },
     "IP": {
-      "count": 20,
-      "last_crawled": "2026-10-24T07:48:41Z"
+      "count": 19,
+      "last_crawled": "2026-10-25T08:00:08Z"
     },
     "IQ": {
       "count": 0,
@@ -5362,7 +5353,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-24T07:48:41Z"
+      "last_crawled": "2026-10-25T08:00:08Z"
     },
     "MO": {
       "count": 17,
@@ -5370,7 +5361,7 @@
     },
     "MR": {
       "count": 21,
-      "last_crawled": "2026-10-24T07:48:41Z"
+      "last_crawled": "2026-10-25T08:00:08Z"
     },
     "MT": {
       "count": 4,
@@ -5390,11 +5381,11 @@
     },
     "SA": {
       "count": 59,
-      "last_crawled": "2026-10-24T07:48:41Z"
+      "last_crawled": "2026-10-25T08:00:08Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-10-24T07:48:41Z"
+      "last_crawled": "2026-10-25T08:00:08Z"
     },
     "SP": {
       "count": 91,
@@ -5402,12 +5393,12 @@
     },
     "TC": {
       "count": 41,
-      "last_crawled": "2026-10-24T07:48:41Z"
+      "last_crawled": "2026-10-25T08:00:08Z"
     },
     "TH": {
       "count": 64,
       "last_crawled": "2026-10-25T07:18:58Z"
     }
   },
-  "updated": "2026-10-25T07:18:58Z"
+  "updated": "2026-10-25T08:00:08Z"
 }
