@@ -1,5 +1,5 @@
 {
-  "count": 591,
+  "count": 588,
   "failed_sectors": [],
   "offers": [
     {
@@ -1660,15 +1660,6 @@
     },
     {
       "date": "02/10/2026",
-      "id": "032026007076",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "AU",
-      "title": "Mecánico/a del automóvil (ref: 7076)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007076&ret=B"
-    },
-    {
-      "date": "02/10/2026",
       "id": "032026007083",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -2305,24 +2296,6 @@
       "sector": "EO",
       "title": "Albañil (ref.: 7246)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007246&ret=B"
-    },
-    {
-      "date": "09/10/2026",
-      "id": "032026007251",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Cocinero/a (ref.7251)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007251&ret=B"
-    },
-    {
-      "date": "09/10/2026",
-      "id": "032026007252",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "Auxiliar administrativo/a (ref. 7252)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007252&ret=B"
     },
     {
       "date": "09/10/2026",
@@ -5328,16 +5301,16 @@
       "last_crawled": "2026-10-25T05:38:50Z"
     },
     "AO": {
-      "count": 40,
-      "last_crawled": "2026-10-24T06:54:07Z"
+      "count": 39,
+      "last_crawled": "2026-10-25T07:18:58Z"
     },
     "AR": {
       "count": 1,
       "last_crawled": "2026-10-24T08:42:08Z"
     },
     "AU": {
-      "count": 8,
-      "last_crawled": "2026-10-24T06:54:07Z"
+      "count": 7,
+      "last_crawled": "2026-10-25T07:18:58Z"
     },
     "CC": {
       "count": 45,
@@ -5353,11 +5326,11 @@
     },
     "EO": {
       "count": 74,
-      "last_crawled": "2026-10-24T06:54:07Z"
+      "last_crawled": "2026-10-25T07:18:58Z"
     },
     "FE": {
       "count": 3,
-      "last_crawled": "2026-10-24T06:54:07Z"
+      "last_crawled": "2026-10-25T07:18:58Z"
     },
     "IA": {
       "count": 12,
@@ -5369,7 +5342,7 @@
     },
     "IM": {
       "count": 2,
-      "last_crawled": "2026-10-24T06:54:07Z"
+      "last_crawled": "2026-10-25T07:18:58Z"
     },
     "IP": {
       "count": 20,
@@ -5409,7 +5382,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-10-24T06:54:07Z"
+      "last_crawled": "2026-10-25T07:18:58Z"
     },
     "PT": {
       "count": 1,
@@ -5432,9 +5405,9 @@
       "last_crawled": "2026-10-24T07:48:41Z"
     },
     "TH": {
-      "count": 65,
-      "last_crawled": "2026-10-24T06:54:07Z"
+      "count": 64,
+      "last_crawled": "2026-10-25T07:18:58Z"
     }
   },
-  "updated": "2026-10-25T05:38:50Z"
+  "updated": "2026-10-25T07:18:58Z"
 }
