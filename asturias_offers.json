@@ -1,5 +1,5 @@
 {
-  "count": 593,
+  "count": 591,
   "failed_sectors": [],
   "offers": [
     {
@@ -633,15 +633,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006206&ret=B"
     },
     {
-      "date": "05/10/2026",
-      "id": "032026006212",
-      "municipio": "Boal",
-      "provincia": "Asturias",
-      "sector": "AA",
-      "title": "Encargado/a mantenimiento finca particular en boal(ref.:6212)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006212&ret=B"
-    },
-    {
       "date": "16/10/2026",
       "id": "032026006228",
       "municipio": "Gijón",
@@ -964,15 +955,6 @@
       "sector": "AO",
       "title": "nueva difusión auxiliar administrativo (ref. 6594)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006594&ret=B"
-    },
-    {
-      "date": "24/09/2026",
-      "id": "032026006595",
-      "municipio": "Villaviciosa",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Personal de limpieza a domicilio (ref.: 6595)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006595&ret=B"
     },
     {
       "date": "08/10/2026",
@@ -5342,8 +5324,8 @@
   ],
   "sectors": {
     "AA": {
-      "count": 24,
-      "last_crawled": "2026-10-24T05:21:47Z"
+      "count": 23,
+      "last_crawled": "2026-10-25T05:38:50Z"
     },
     "AO": {
       "count": 40,
@@ -5359,11 +5341,11 @@
     },
     "CC": {
       "count": 45,
-      "last_crawled": "2026-10-24T05:21:47Z"
+      "last_crawled": "2026-10-25T05:38:50Z"
     },
     "DO": {
       "count": 35,
-      "last_crawled": "2026-10-24T05:21:47Z"
+      "last_crawled": "2026-10-25T05:38:50Z"
     },
     "EM": {
       "count": 19,
@@ -5383,7 +5365,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-10-24T05:21:47Z"
+      "last_crawled": "2026-10-25T05:38:50Z"
     },
     "IM": {
       "count": 2,
@@ -5403,7 +5385,7 @@
     },
     "MD": {
       "count": 7,
-      "last_crawled": "2026-10-24T05:21:47Z"
+      "last_crawled": "2026-10-25T05:38:50Z"
     },
     "MN": {
       "count": 0,
@@ -5423,7 +5405,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-10-24T05:21:47Z"
+      "last_crawled": "2026-10-25T05:38:50Z"
     },
     "PC": {
       "count": 0,
@@ -5442,8 +5424,8 @@
       "last_crawled": "2026-10-24T07:48:41Z"
     },
     "SP": {
-      "count": 92,
-      "last_crawled": "2026-10-24T05:21:47Z"
+      "count": 91,
+      "last_crawled": "2026-10-25T05:38:50Z"
     },
     "TC": {
       "count": 41,
@@ -5454,5 +5436,5 @@
       "last_crawled": "2026-10-24T06:54:07Z"
     }
   },
-  "updated": "2026-10-24T08:42:08Z"
+  "updated": "2026-10-25T05:38:50Z"
 }
