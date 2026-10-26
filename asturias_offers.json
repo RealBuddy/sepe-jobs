@@ -1,5 +1,5 @@
 {
-  "count": 588,
+  "count": 584,
   "failed_sectors": [],
   "offers": [
     {
@@ -633,15 +633,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006206&ret=B"
     },
     {
-      "date": "16/10/2026",
-      "id": "032026006228",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "nueva difusiónconductor/a camión c+e (ref.: 6228)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006228&ret=B"
-    },
-    {
       "date": "21/10/2026",
       "id": "032026006236",
       "municipio": "Oviedo",
@@ -964,15 +955,6 @@
       "sector": "CC",
       "title": "Asesor/a comercial (ref.: 6596)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006596&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026006605",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "3 puestos de operario/a fabricación cierres metálicos (ref:6605) nueva difusión",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006605&ret=B"
     },
     {
       "date": "13/10/2026",
@@ -2092,15 +2074,6 @@
     },
     {
       "date": "07/10/2026",
-      "id": "032026007206",
-      "municipio": "Carreño",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Repartidor/a (ref.: 7206)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007206&ret=B"
-    },
-    {
-      "date": "07/10/2026",
       "id": "032026007210",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -2305,15 +2278,6 @@
       "sector": "SP",
       "title": "Director/a de residencia geriátrica (ref:7255)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007255&ret=B"
-    },
-    {
-      "date": "09/10/2026",
-      "id": "032026007257",
-      "municipio": "Castrillon",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Gerocultor/a (ref.: 7257)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007257&ret=B"
     },
     {
       "date": "09/10/2026",
@@ -3403,15 +3367,6 @@
       "sector": "CC",
       "title": "Mozo/a de almacen (ref.: 7418)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007418&ret=B"
-    },
-    {
-      "date": "16/10/2026",
-      "id": "032026007419",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "3 conductores/as de autobús urbano (ref.7419)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007419&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -5286,6 +5241,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007643&ret=B"
     },
     {
+      "date": "26/10/2026",
+      "id": "032026007647",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "IP",
+      "title": "Soldador/a vehículos industriales (ref: 7647)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007647&ret=B"
+    },
+    {
       "date": "16/10/2026",
       "id": "162026011053",
       "municipio": "Aviles",
@@ -5334,7 +5298,7 @@
     },
     "IA": {
       "count": 12,
-      "last_crawled": "2026-10-25T08:00:08Z"
+      "last_crawled": "2026-10-26T08:21:54Z"
     },
     "IG": {
       "count": 0,
@@ -5346,7 +5310,7 @@
     },
     "IP": {
       "count": 19,
-      "last_crawled": "2026-10-25T08:00:08Z"
+      "last_crawled": "2026-10-26T08:21:54Z"
     },
     "IQ": {
       "count": 0,
@@ -5362,7 +5326,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-25T08:00:08Z"
+      "last_crawled": "2026-10-26T08:21:54Z"
     },
     "MO": {
       "count": 17,
@@ -5370,7 +5334,7 @@
     },
     "MR": {
       "count": 21,
-      "last_crawled": "2026-10-25T08:00:08Z"
+      "last_crawled": "2026-10-26T08:21:54Z"
     },
     "MT": {
       "count": 4,
@@ -5389,25 +5353,25 @@
       "last_crawled": "2026-10-25T08:58:57Z"
     },
     "SA": {
-      "count": 59,
-      "last_crawled": "2026-10-25T08:00:08Z"
+      "count": 58,
+      "last_crawled": "2026-10-26T08:21:54Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-10-25T08:00:08Z"
+      "last_crawled": "2026-10-26T08:21:54Z"
     },
     "SP": {
       "count": 92,
       "last_crawled": "2026-10-26T05:45:04Z"
     },
     "TC": {
-      "count": 41,
-      "last_crawled": "2026-10-25T08:00:08Z"
+      "count": 38,
+      "last_crawled": "2026-10-26T08:21:54Z"
     },
     "TH": {
       "count": 64,
       "last_crawled": "2026-10-25T07:18:58Z"
     }
   },
-  "updated": "2026-10-26T05:45:04Z"
+  "updated": "2026-10-26T08:21:54Z"
 }
