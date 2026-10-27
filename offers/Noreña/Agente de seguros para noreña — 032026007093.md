@@ -1,7 +1,7 @@
-# Agente de seguros
+# Agente de seguros para noreña
 
-- **Профессия (ES):** Agente de seguros
-- **Оригинальное название:** Agente de seguros (ref. 7093)
+- **Профессия (ES):** Agente de seguros para noreña
+- **Оригинальное название:** Agente de seguros para noreña (ref. 7093)
 - **Город:** Noreña (Asturias)
 - **Дата публикации:** 05/10/2026
 - **ID оферты:** 032026007093

@@ -1,7 +1,7 @@
-# Oficial 1ª carpintería metálica
+# Oficial 1ª carpintería aluminio
 
-- **Профессия (ES):** Oficial 1ª carpintería metálica
-- **Оригинальное название:** Oficial 1ª carpintería metálica (ref.7614)
+- **Профессия (ES):** Oficial 1ª carpintería aluminio
+- **Оригинальное название:** Oficial 1ª carpintería aluminio (ref.7614)
 - **Город:** Llanes (Asturias)
 - **Дата публикации:** 23/10/2026
 - **ID оферты:** 032026007614

@@ -1,7 +1,7 @@
-# Oficial de tercera electromecánico/a para tratamiento de aguas residuales
+# oficiales de tercera electromecánico/a para tratamiento de aguas residuales
 
-- **Профессия (ES):** Oficial de tercera electromecánico/a para tratamiento de aguas residuales
-- **Оригинальное название:** Oficial de tercera electromecánico/a para tratamiento de aguas residuales(ref.:7518)
+- **Профессия (ES):** oficiales de tercera electromecánico/a para tratamiento de aguas residuales
+- **Оригинальное название:** 2 puestos de oficiales de tercera electromecánico/a para tratamiento de aguas residuales(ref.:7518)
 - **Город:** el (Asturias)
 - **Дата публикации:** 21/10/2026
 - **ID оферты:** 032026007518

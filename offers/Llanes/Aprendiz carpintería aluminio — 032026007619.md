@@ -1,7 +1,7 @@
-# Aprendiz carpintería metálica
+# Aprendiz carpintería aluminio
 
-- **Профессия (ES):** Aprendiz carpintería metálica
-- **Оригинальное название:** Aprendiz carpintería metálica (ref.7619)
+- **Профессия (ES):** Aprendiz carpintería aluminio
+- **Оригинальное название:** Aprendiz carpintería aluminio(ref.7619)
 - **Город:** Llanes (Asturias)
 - **Дата публикации:** 23/10/2026
 - **ID оферты:** 032026007619
