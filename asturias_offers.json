@@ -1,5 +1,5 @@
 {
-  "count": 589,
+  "count": 593,
   "failed_sectors": [],
   "offers": [
     {
@@ -1624,15 +1624,6 @@
     },
     {
       "date": "02/10/2026",
-      "id": "032026007064",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Ingeniera/o de datos júnior en proyectos de i+d con ia (ref. 7064)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007064&ret=B"
-    },
-    {
-      "date": "02/10/2026",
       "id": "032026007083",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -3016,15 +3007,6 @@
       "sector": "SP",
       "title": "Peluquero/a canino",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007394&ret=B"
-    },
-    {
-      "date": "15/10/2026",
-      "id": "032026007409",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "3 puestos técnico sup. en administración sist. informáticos en red/desarrollo apl. web (ref: 7409).1ª exp. profesional-ayto. gijón",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007409&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -5017,6 +4999,15 @@
     },
     {
       "date": "27/10/2026",
+      "id": "032026007651",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Ingeniero/a senior de cloud (ref.: 7651)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007651&ret=B"
+    },
+    {
+      "date": "27/10/2026",
       "id": "032026007653",
       "municipio": "Cangas de onis",
       "provincia": "Asturias",
@@ -5143,6 +5134,15 @@
     },
     {
       "date": "26/10/2026",
+      "id": "032026007670",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "1 puesto de operaria/o de taller- discapacidad (ref. 7670)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007670&ret=B"
+    },
+    {
+      "date": "26/10/2026",
       "id": "032026007671",
       "municipio": "Tineo",
       "provincia": "Asturias",
@@ -5233,12 +5233,30 @@
     },
     {
       "date": "26/10/2026",
+      "id": "032026007681",
+      "municipio": "Mieres",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Project manager (ref.: 7681)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007681&ret=B"
+    },
+    {
+      "date": "26/10/2026",
       "id": "032026007682",
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "CC",
       "title": "Mozo/a de almacén con discapacidad (ref. 7682)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007682&ret=B"
+    },
+    {
+      "date": "26/10/2026",
+      "id": "032026007683",
+      "municipio": "Mieres",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Senior project planner (ref.: 7683)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007683&ret=B"
     },
     {
       "date": "27/10/2026",
@@ -5295,6 +5313,24 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007691&ret=B"
     },
     {
+      "date": "27/10/2026",
+      "id": "032026007694",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Oficial electricista 1ª/2ª/3ª. ref:7694",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007694&ret=B"
+    },
+    {
+      "date": "27/10/2026",
+      "id": "032026007696",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "4 puestos de operario/a de cadena de envasado (ref. 7696)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007696&ret=B"
+    },
+    {
       "date": "16/10/2026",
       "id": "162026011053",
       "municipio": "Aviles",
@@ -5315,7 +5351,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-26T09:48:23Z"
+      "last_crawled": "2026-10-27T09:38:58Z"
     },
     "AU": {
       "count": 7,
@@ -5330,8 +5366,8 @@
       "last_crawled": "2026-10-27T05:57:57Z"
     },
     "EM": {
-      "count": 19,
-      "last_crawled": "2026-10-26T09:48:23Z"
+      "count": 20,
+      "last_crawled": "2026-10-27T09:38:58Z"
     },
     "EO": {
       "count": 74,
@@ -5359,11 +5395,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-10-26T09:48:23Z"
+      "last_crawled": "2026-10-27T09:38:58Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-26T09:48:23Z"
+      "last_crawled": "2026-10-27T09:38:58Z"
     },
     "MD": {
       "count": 7,
@@ -5374,16 +5410,16 @@
       "last_crawled": "2026-10-27T08:33:30Z"
     },
     "MO": {
-      "count": 17,
-      "last_crawled": "2026-10-26T09:48:23Z"
+      "count": 18,
+      "last_crawled": "2026-10-27T09:38:58Z"
     },
     "MR": {
       "count": 21,
       "last_crawled": "2026-10-27T08:33:30Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-10-26T09:48:23Z"
+      "count": 6,
+      "last_crawled": "2026-10-27T09:38:58Z"
     },
     "PA": {
       "count": 0,
@@ -5395,7 +5431,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-10-26T09:48:23Z"
+      "last_crawled": "2026-10-27T09:38:58Z"
     },
     "SA": {
       "count": 61,
@@ -5418,5 +5454,5 @@
       "last_crawled": "2026-10-27T07:22:03Z"
     }
   },
-  "updated": "2026-10-27T08:33:30Z"
+  "updated": "2026-10-27T09:38:58Z"
 }
