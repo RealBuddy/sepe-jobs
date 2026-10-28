@@ -1,9 +1,9 @@
-# conductores/as de cuba
+# nueva difusión: 2 conductores/as de cuba
 
-- **Профессия (ES):** conductores/as de cuba
-- **Оригинальное название:** 2 conductores/as de cuba (ref. 6839 )
+- **Профессия (ES):** nueva difusión: 2 conductores/as de cuba
+- **Оригинальное название:** nueva difusión: 2 conductores/as de cuba (ref. 6839 )
 - **Город:** Llanera (Asturias)
-- **Дата публикации:** 22/09/2026
+- **Дата публикации:** 28/10/2026
 - **ID оферты:** 032026006839
 
 ## 👉 Откликнуться на вакансию
