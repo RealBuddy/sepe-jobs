@@ -1,5 +1,5 @@
 {
-  "count": 591,
+  "count": 586,
   "failed_sectors": [],
   "offers": [
     {
@@ -712,15 +712,6 @@
       "sector": "SA",
       "title": "Enfermero/a (ref.6372)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006372&ret=B"
-    },
-    {
-      "date": "08/10/2026",
-      "id": "032026006374",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Nueva difusión-mediador/a comunicativo/a- (ref.:6374)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006374&ret=B"
     },
     {
       "date": "31/08/2026",
@@ -1858,15 +1849,6 @@
     },
     {
       "date": "07/10/2026",
-      "id": "032026007188",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "1 delineante/a mayor de 45 años, plan de empleo del ayuntamiento de corvera de asturias 2026-2027 ( ref: 7188)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007188&ret=B"
-    },
-    {
-      "date": "07/10/2026",
       "id": "032026007190",
       "municipio": "Castropol",
       "provincia": "Asturias",
@@ -1891,15 +1873,6 @@
       "sector": "MO",
       "title": "Oficial redes aereas distribucion electrica (ref.: 7202)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007202&ret=B"
-    },
-    {
-      "date": "07/10/2026",
-      "id": "032026007203",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "2 puestos de monitores/as de informática mayores de 45 años-plan de empleo 2026-2027. ayto de corvera ( ref. 7203 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007203&ret=B"
     },
     {
       "date": "07/10/2026",
@@ -2287,24 +2260,6 @@
       "sector": "SP",
       "title": "Técnico/a de cooperación local (ref. 7317).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007317&ret=B"
-    },
-    {
-      "date": "14/10/2026",
-      "id": "032026007320",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Operario/a de fábrica (ref.:7320)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007320&ret=B"
-    },
-    {
-      "date": "14/10/2026",
-      "id": "032026007321",
-      "municipio": "Carreño",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "2 puestos oficial de tercera obra civil (ref. 7321)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007321&ret=B"
     },
     {
       "date": "14/10/2026",
@@ -5039,7 +4994,7 @@
       "municipio": "Langreo",
       "provincia": "Asturias",
       "sector": "MO",
-      "title": "Oficial electricista 1ª/2ª/3ª. ref:7694",
+      "title": "Oficial electricista 1ª/2ª/3ª. (ref:7694)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007694&ret=B"
     },
     {
@@ -5333,7 +5288,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-27T09:38:58Z"
+      "last_crawled": "2026-10-28T10:23:22Z"
     },
     "AU": {
       "count": 7,
@@ -5348,8 +5303,8 @@
       "last_crawled": "2026-10-28T06:36:24Z"
     },
     "EM": {
-      "count": 20,
-      "last_crawled": "2026-10-27T09:38:58Z"
+      "count": 17,
+      "last_crawled": "2026-10-28T10:23:22Z"
     },
     "EO": {
       "count": 74,
@@ -5377,11 +5332,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-10-27T09:38:58Z"
+      "last_crawled": "2026-10-28T10:23:22Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-27T09:38:58Z"
+      "last_crawled": "2026-10-28T10:23:22Z"
     },
     "MD": {
       "count": 8,
@@ -5392,16 +5347,16 @@
       "last_crawled": "2026-10-28T09:12:04Z"
     },
     "MO": {
-      "count": 18,
-      "last_crawled": "2026-10-27T09:38:58Z"
+      "count": 17,
+      "last_crawled": "2026-10-28T10:23:22Z"
     },
     "MR": {
       "count": 20,
       "last_crawled": "2026-10-28T09:12:04Z"
     },
     "MT": {
-      "count": 6,
-      "last_crawled": "2026-10-27T09:38:58Z"
+      "count": 5,
+      "last_crawled": "2026-10-28T10:23:22Z"
     },
     "PA": {
       "count": 0,
@@ -5413,7 +5368,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-10-27T09:38:58Z"
+      "last_crawled": "2026-10-28T10:23:22Z"
     },
     "SA": {
       "count": 65,
@@ -5436,5 +5391,5 @@
       "last_crawled": "2026-10-28T07:57:34Z"
     }
   },
-  "updated": "2026-10-28T09:12:04Z"
+  "updated": "2026-10-28T10:23:22Z"
 }

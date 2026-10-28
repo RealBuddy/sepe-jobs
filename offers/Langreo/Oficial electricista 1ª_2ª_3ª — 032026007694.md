@@ -1,7 +1,7 @@
 # Oficial electricista 1ª/2ª/3ª
 
 - **Профессия (ES):** Oficial electricista 1ª/2ª/3ª
-- **Оригинальное название:** Oficial electricista 1ª/2ª/3ª. ref:7694
+- **Оригинальное название:** Oficial electricista 1ª/2ª/3ª. (ref:7694)
 - **Город:** Langreo (Asturias)
 - **Дата публикации:** 27/10/2026
 - **ID оферты:** 032026007694
