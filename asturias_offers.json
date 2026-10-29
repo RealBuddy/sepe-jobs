@@ -1,5 +1,5 @@
 {
-  "count": 603,
+  "count": 607,
   "failed_sectors": [],
   "offers": [
     {
@@ -793,6 +793,15 @@
       "sector": "TC",
       "title": "nueva difusión conductor/a camión y montador/a (ref.6488)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006488&ret=B"
+    },
+    {
+      "date": "28/10/2026",
+      "id": "032026006489",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Montadores/as de cubiertas industriales (ref: 6489)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006489&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -2253,15 +2262,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007313&ret=B"
     },
     {
-      "date": "14/10/2026",
-      "id": "032026007314",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Operario/a de producción (ref. 7314)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007314&ret=B"
-    },
-    {
       "date": "13/10/2026",
       "id": "032026007315",
       "municipio": "Belmonte de miranda",
@@ -2584,15 +2584,6 @@
       "sector": "TH",
       "title": "2 puestos de ayudante de camarero/a",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007374&ret=B"
-    },
-    {
-      "date": "15/10/2026",
-      "id": "032026007375",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Oficial/a electricista (ref: 7375)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007375&ret=B"
     },
     {
       "date": "15/10/2026",
@@ -4675,15 +4666,6 @@
     },
     {
       "date": "26/10/2026",
-      "id": "032026007670",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "1 puesto de operaria/o de taller- discapacidad (ref. 7670)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007670&ret=B"
-    },
-    {
-      "date": "26/10/2026",
       "id": "032026007672",
       "municipio": "Mieres",
       "provincia": "Asturias",
@@ -5251,6 +5233,15 @@
     },
     {
       "date": "28/10/2026",
+      "id": "032026007739",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a superior en prevención de riesgos laborales plan empleo ayto. oviedo (ref.: 7739)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007739&ret=B"
+    },
+    {
+      "date": "28/10/2026",
       "id": "032026007740",
       "municipio": "Piloña",
       "provincia": "Asturias",
@@ -5386,6 +5377,15 @@
     },
     {
       "date": "29/10/2026",
+      "id": "032026007761",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "2 puesos t.s. administración sist. informáticos en red programa contratos obtención práctica profesional ayto. oviedo (ref.: 7761)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007761&ret=B"
+    },
+    {
+      "date": "29/10/2026",
       "id": "032026007762",
       "municipio": "San martin del rey aurelio",
       "provincia": "Asturias",
@@ -5413,12 +5413,48 @@
     },
     {
       "date": "29/10/2026",
+      "id": "032026007768",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "T. s. en desarrollo de aplicaciones web en red programa contratos obtención práctica profesional ayto. oviedo (ref.: 7768)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007768&ret=B"
+    },
+    {
+      "date": "29/10/2026",
       "id": "032026007778",
       "municipio": "Onis",
       "provincia": "Asturias",
       "sector": "IP",
       "title": "Montador/a cubiertas y fachadas metálicas (ref. 7778)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007778&ret=B"
+    },
+    {
+      "date": "29/10/2026",
+      "id": "032026007782",
+      "municipio": "Onis",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Instalador/a de motores en portones y portillas (ref.7782)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007782&ret=B"
+    },
+    {
+      "date": "29/10/2026",
+      "id": "032026007792",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Electricista cableador/a (ref. 7792)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007792&ret=B"
+    },
+    {
+      "date": "29/10/2026",
+      "id": "032026007793",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Grado en sociología. programa contratos obtención práctica profesional ayto oviedo (ref.: 7793)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007793&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -5441,7 +5477,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-28T10:23:22Z"
+      "last_crawled": "2026-10-29T10:44:15Z"
     },
     "AU": {
       "count": 9,
@@ -5456,8 +5492,8 @@
       "last_crawled": "2026-10-29T06:44:12Z"
     },
     "EM": {
-      "count": 17,
-      "last_crawled": "2026-10-28T10:23:22Z"
+      "count": 21,
+      "last_crawled": "2026-10-29T10:44:15Z"
     },
     "EO": {
       "count": 84,
@@ -5485,11 +5521,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-10-28T10:23:22Z"
+      "last_crawled": "2026-10-29T10:44:15Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-10-28T10:23:22Z"
+      "last_crawled": "2026-10-29T10:44:15Z"
     },
     "MD": {
       "count": 8,
@@ -5500,16 +5536,16 @@
       "last_crawled": "2026-10-29T09:11:48Z"
     },
     "MO": {
-      "count": 17,
-      "last_crawled": "2026-10-28T10:23:22Z"
+      "count": 19,
+      "last_crawled": "2026-10-29T10:44:15Z"
     },
     "MR": {
       "count": 22,
       "last_crawled": "2026-10-29T09:11:48Z"
     },
     "MT": {
-      "count": 5,
-      "last_crawled": "2026-10-28T10:23:22Z"
+      "count": 3,
+      "last_crawled": "2026-10-29T10:44:15Z"
     },
     "PA": {
       "count": 0,
@@ -5521,7 +5557,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-10-28T10:23:22Z"
+      "last_crawled": "2026-10-29T10:44:15Z"
     },
     "SA": {
       "count": 62,
@@ -5544,5 +5580,5 @@
       "last_crawled": "2026-10-29T08:05:08Z"
     }
   },
-  "updated": "2026-10-29T09:11:48Z"
+  "updated": "2026-10-29T10:44:15Z"
 }
