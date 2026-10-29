@@ -3,7 +3,7 @@
 - **Профессия (ES):** Conductor/a de recogida de muebles y enseres
 - **Оригинальное название:** Conductor/a de recogida de muebles y enseres (ref: 7237)
 - **Город:** Aviles (Asturias)
-- **Дата публикации:** 08/10/2026
+- **Дата публикации:** 28/10/2026
 - **ID оферты:** 032026007237
 
 ## 👉 Откликнуться на вакансию
