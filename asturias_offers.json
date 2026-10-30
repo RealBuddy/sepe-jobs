@@ -1,5 +1,5 @@
 {
-  "count": 616,
+  "count": 618,
   "failed_sectors": [],
   "offers": [
     {
@@ -334,6 +334,15 @@
       "sector": "AO",
       "title": "Administrativo/a (ref: 5577)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005577&ret=B"
+    },
+    {
+      "date": "30/10/2026",
+      "id": "032026005597",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Administrativo/a (ref.: 5597)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005597&ret=B"
     },
     {
       "date": "27/10/2026",
@@ -937,15 +946,6 @@
       "sector": "TC",
       "title": "Conductor/a de grua para asistencia en carretera (ref.: 6649)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006649&ret=B"
-    },
-    {
-      "date": "14/10/2026",
-      "id": "032026006664",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "IT",
-      "title": "Nueva difusión - monitor/a de costura (ref.6664)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006664&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -1954,15 +1954,6 @@
       "sector": "SA",
       "title": "Enfermero/a (ref: 7259)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007259&ret=B"
-    },
-    {
-      "date": "09/10/2026",
-      "id": "032026007267",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Electricista (ref: 7267)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007267&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -4332,6 +4323,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007669&ret=B"
     },
     {
+      "date": "29/10/2026",
+      "id": "032026007670",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "1 puesto de operaria/o de taller- discapacidad (ref. 7670)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007670&ret=B"
+    },
+    {
       "date": "26/10/2026",
       "id": "032026007672",
       "municipio": "Mieres",
@@ -5530,12 +5530,30 @@
     },
     {
       "date": "30/10/2026",
+      "id": "032026007816",
+      "municipio": "Pravia",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Oficial/a de mantenimiento electrico (ref: 7816)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007816&ret=B"
+    },
+    {
+      "date": "30/10/2026",
       "id": "032026007819",
       "municipio": "Oviedo",
       "provincia": "Asturias",
       "sector": "SA",
       "title": "Bolsa de empleo: auxiliares de enfermeria y cuidadores/as (ref: 7819)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007819&ret=B"
+    },
+    {
+      "date": "30/10/2026",
+      "id": "032026007859",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "2 puestos técnico/a superior en marketing y publicidad (ref.: 7859). plan de empleo ayto. gijón",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007859&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -5558,7 +5576,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-29T10:44:15Z"
+      "last_crawled": "2026-10-30T10:44:03Z"
     },
     "AU": {
       "count": 9,
@@ -5573,8 +5591,8 @@
       "last_crawled": "2026-10-30T06:45:41Z"
     },
     "EM": {
-      "count": 21,
-      "last_crawled": "2026-10-29T10:44:15Z"
+      "count": 23,
+      "last_crawled": "2026-10-30T10:44:03Z"
     },
     "EO": {
       "count": 88,
@@ -5602,11 +5620,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-10-29T10:44:15Z"
+      "last_crawled": "2026-10-30T10:44:03Z"
     },
     "IT": {
-      "count": 1,
-      "last_crawled": "2026-10-29T10:44:15Z"
+      "count": 0,
+      "last_crawled": "2026-10-30T10:44:03Z"
     },
     "MD": {
       "count": 6,
@@ -5618,15 +5636,15 @@
     },
     "MO": {
       "count": 19,
-      "last_crawled": "2026-10-29T10:44:15Z"
+      "last_crawled": "2026-10-30T10:44:03Z"
     },
     "MR": {
       "count": 22,
       "last_crawled": "2026-10-30T09:23:56Z"
     },
     "MT": {
-      "count": 3,
-      "last_crawled": "2026-10-29T10:44:15Z"
+      "count": 4,
+      "last_crawled": "2026-10-30T10:44:03Z"
     },
     "PA": {
       "count": 0,
@@ -5638,7 +5656,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-10-29T10:44:15Z"
+      "last_crawled": "2026-10-30T10:44:03Z"
     },
     "SA": {
       "count": 60,
@@ -5661,5 +5679,5 @@
       "last_crawled": "2026-10-30T08:07:25Z"
     }
   },
-  "updated": "2026-10-30T09:23:56Z"
+  "updated": "2026-10-30T10:44:03Z"
 }
