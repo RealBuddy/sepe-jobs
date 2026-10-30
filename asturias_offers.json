@@ -1,5 +1,5 @@
 {
-  "count": 626,
+  "count": 616,
   "failed_sectors": [],
   "offers": [
     {
@@ -399,15 +399,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005758&ret=B"
     },
     {
-      "date": "21/10/2026",
-      "id": "032026005763",
-      "municipio": "Castrillon",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Nueva difusión - mozo/a conductor/a (ref.5763)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005763&ret=B"
-    },
-    {
       "date": "22/10/2026",
       "id": "032026005779",
       "municipio": "Llanera",
@@ -678,24 +669,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006372&ret=B"
     },
     {
-      "date": "01/09/2026",
-      "id": "032026006413",
-      "municipio": "Salas",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "2 conductores/as de camión (ref. 6413).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006413&ret=B"
-    },
-    {
-      "date": "01/09/2026",
-      "id": "032026006419",
-      "municipio": "Ribadesella",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermero/a (ref.6419)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006419&ret=B"
-    },
-    {
       "date": "16/10/2026",
       "id": "032026006446",
       "municipio": "Siero",
@@ -703,6 +676,15 @@
       "sector": "TC",
       "title": "nueva difusión repartidor/a (ref. 6446)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006446&ret=B"
+    },
+    {
+      "date": "02/09/2026",
+      "id": "032026006455",
+      "municipio": "Aller",
+      "provincia": "Asturias",
+      "sector": "IA",
+      "title": "Charcutero/a carnicero/a (ref: 6455)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006455&ret=B"
     },
     {
       "date": "02/09/2026",
@@ -912,15 +894,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006608&ret=B"
     },
     {
-      "date": "15/10/2026",
-      "id": "032026006610",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Ayudante de equipo de catering (ref.: 6610)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006610&ret=B"
-    },
-    {
       "date": "28/10/2026",
       "id": "032026006611",
       "municipio": "Aviles",
@@ -928,15 +901,6 @@
       "sector": "SP",
       "title": "Esteticista ( ref: 6611)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006611&ret=B"
-    },
-    {
-      "date": "01/10/2026",
-      "id": "032026006622",
-      "municipio": "Vegadeo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Higienista dental, vegadeo y navia (ref. 6622)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006622&ret=B"
     },
     {
       "date": "14/09/2026",
@@ -1018,15 +982,6 @@
       "sector": "MR",
       "title": "Nueva difusión: electromecánico/a (ref. 6703)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006703&ret=B"
-    },
-    {
-      "date": "17/09/2026",
-      "id": "032026006708",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "1 puesto de gerocultor/a (ref: 6708)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006708&ret=B"
     },
     {
       "date": "21/10/2026",
@@ -1387,24 +1342,6 @@
       "sector": "SA",
       "title": "Nueva difusión - gerocultor/a (ref. 6977)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006977&ret=B"
-    },
-    {
-      "date": "20/10/2026",
-      "id": "032026006979",
-      "municipio": "Parres",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Operario/a de producción (ref.: 6979)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006979&ret=B"
-    },
-    {
-      "date": "29/09/2026",
-      "id": "032026006983",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Fisioterapeuta (ref.: 6983)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006983&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -2020,15 +1957,6 @@
     },
     {
       "date": "09/10/2026",
-      "id": "032026007262",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Chofer 2ª ref.:(7262)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007262&ret=B"
-    },
-    {
-      "date": "09/10/2026",
       "id": "032026007267",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -2064,15 +1992,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007285&ret=B"
     },
     {
-      "date": "09/10/2026",
-      "id": "032026007288",
-      "municipio": "Coaña",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Peon especialista del metal (ref. 7288)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007288&ret=B"
-    },
-    {
       "date": "13/10/2026",
       "id": "032026007293",
       "municipio": "Oviedo",
@@ -2089,15 +2008,6 @@
       "sector": "AO",
       "title": "Administrativo o administrativa (ref: 7294)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007294&ret=B"
-    },
-    {
-      "date": "13/10/2026",
-      "id": "032026007297",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "2 torneros/as de torno convencional (ref.: 7297)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007297&ret=B"
     },
     {
       "date": "13/10/2026",
@@ -2476,15 +2386,6 @@
       "sector": "TH",
       "title": "Jefe/a de cocina (ref.7385)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007385&ret=B"
-    },
-    {
-      "date": "15/10/2026",
-      "id": "032026007388",
-      "municipio": "Cangas del narcea",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de camión (ref.: 7388)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007388&ret=B"
     },
     {
       "date": "15/10/2026",
@@ -3730,15 +3631,6 @@
     },
     {
       "date": "22/10/2026",
-      "id": "032026007571",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de camión con discapacidad (ref.:7571)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007571&ret=B"
-    },
-    {
-      "date": "22/10/2026",
       "id": "032026007572",
       "municipio": "Langreo",
       "provincia": "Asturias",
@@ -3970,15 +3862,6 @@
       "sector": "SP",
       "title": "2 puestos de limpieza para residencia (ref. 7604)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007604&ret=B"
-    },
-    {
-      "date": "23/10/2026",
-      "id": "032026007606",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Operario/a de carretilla y puente grúa (ref: 7606)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007606&ret=B"
     },
     {
       "date": "23/10/2026",
@@ -5314,6 +5197,15 @@
     },
     {
       "date": "29/10/2026",
+      "id": "032026007775",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Gerocultor/a (ref:7775)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007775&ret=B"
+    },
+    {
+      "date": "29/10/2026",
       "id": "032026007776",
       "municipio": "Mieres",
       "provincia": "Asturias",
@@ -5584,6 +5476,15 @@
     },
     {
       "date": "29/10/2026",
+      "id": "032026007806",
+      "municipio": "Ribadedeva",
+      "provincia": "Asturias",
+      "sector": "IP",
+      "title": "Soldador/a estructuras metálicas ligeras (ref.7806)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007806&ret=B"
+    },
+    {
+      "date": "29/10/2026",
       "id": "032026007807",
       "municipio": "Valdes",
       "provincia": "Asturias",
@@ -5626,6 +5527,15 @@
       "sector": "AA",
       "title": "Técnico/a forestal. contrato formativo para la obtención de la práctica profesional. ayto de candamo (ref. 7813).",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007813&ret=B"
+    },
+    {
+      "date": "30/10/2026",
+      "id": "032026007819",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Bolsa de empleo: auxiliares de enfermeria y cuidadores/as (ref: 7819)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007819&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -5675,8 +5585,8 @@
       "last_crawled": "2026-10-30T08:07:25Z"
     },
     "IA": {
-      "count": 12,
-      "last_crawled": "2026-10-29T09:11:48Z"
+      "count": 11,
+      "last_crawled": "2026-10-30T09:23:56Z"
     },
     "IG": {
       "count": 0,
@@ -5687,8 +5597,8 @@
       "last_crawled": "2026-10-30T08:07:25Z"
     },
     "IP": {
-      "count": 22,
-      "last_crawled": "2026-10-29T09:11:48Z"
+      "count": 20,
+      "last_crawled": "2026-10-30T09:23:56Z"
     },
     "IQ": {
       "count": 0,
@@ -5704,7 +5614,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-29T09:11:48Z"
+      "last_crawled": "2026-10-30T09:23:56Z"
     },
     "MO": {
       "count": 19,
@@ -5712,7 +5622,7 @@
     },
     "MR": {
       "count": 22,
-      "last_crawled": "2026-10-29T09:11:48Z"
+      "last_crawled": "2026-10-30T09:23:56Z"
     },
     "MT": {
       "count": 3,
@@ -5731,25 +5641,25 @@
       "last_crawled": "2026-10-29T10:44:15Z"
     },
     "SA": {
-      "count": 62,
-      "last_crawled": "2026-10-29T09:11:48Z"
+      "count": 60,
+      "last_crawled": "2026-10-30T09:23:56Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-10-29T09:11:48Z"
+      "last_crawled": "2026-10-30T09:23:56Z"
     },
     "SP": {
       "count": 98,
       "last_crawled": "2026-10-30T06:45:41Z"
     },
     "TC": {
-      "count": 46,
-      "last_crawled": "2026-10-29T09:11:48Z"
+      "count": 41,
+      "last_crawled": "2026-10-30T09:23:56Z"
     },
     "TH": {
       "count": 69,
       "last_crawled": "2026-10-30T08:07:25Z"
     }
   },
-  "updated": "2026-10-30T08:07:25Z"
+  "updated": "2026-10-30T09:23:56Z"
 }
