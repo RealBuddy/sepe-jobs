@@ -1,9 +1,9 @@
-# Nueva difusión - instalador/a de canalones y cubiertas
+# nueva difusión: instalador/a de canalones y cubiertas
 
-- **Профессия (ES):** Nueva difusión - instalador/a de canalones y cubiertas
-- **Оригинальное название:** Nueva difusión - instalador/a de canalones y cubiertas (ref. 5846)
+- **Профессия (ES):** nueva difusión: instalador/a de canalones y cubiertas
+- **Оригинальное название:** nueva difusión: instalador/a de canalones y cubiertas (ref. 5846)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 08/10/2026
+- **Дата публикации:** 30/10/2026
 - **ID оферты:** 032026005846
 
 ## 👉 Откликнуться на вакансию
