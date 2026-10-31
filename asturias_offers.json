@@ -3,15 +3,6 @@
   "failed_sectors": [],
   "offers": [
     {
-      "date": "30/09/2026",
-      "id": "032026000244",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Operario/a con discapacidad (ref: 244)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000244&ret=B"
-    },
-    {
       "date": "08/10/2026",
       "id": "032026002026",
       "municipio": "Siero",
@@ -2395,15 +2386,6 @@
       "sector": "TH",
       "title": "Ayudante de camarero/a (ref.7445)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007445&ret=B"
-    },
-    {
-      "date": "19/10/2026",
-      "id": "032026007448",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Técnico/a instalador/a (ref.7448)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007448&ret=B"
     },
     {
       "date": "19/10/2026",
@@ -5656,6 +5638,24 @@
     },
     {
       "date": "30/10/2026",
+      "id": "032026007880",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "17 puestos de peón/a de oficios. plan de empleo del ayuntamiento de gijón 26/27. (ref.: 7880)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007880&ret=B"
+    },
+    {
+      "date": "30/10/2026",
+      "id": "032026007881",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "3 puestos de peón/a de oficios.reserva de discapacidad intelectual. plan empleo ayto. de gijón 26/27. (ref.: 7881)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007881&ret=B"
+    },
+    {
+      "date": "30/10/2026",
       "id": "032026007882",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5711,7 +5711,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-10-30T10:44:03Z"
+      "last_crawled": "2026-10-31T10:13:46Z"
     },
     "AU": {
       "count": 9,
@@ -5727,7 +5727,7 @@
     },
     "EM": {
       "count": 23,
-      "last_crawled": "2026-10-30T10:44:03Z"
+      "last_crawled": "2026-10-31T10:13:46Z"
     },
     "EO": {
       "count": 91,
@@ -5755,11 +5755,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-10-30T10:44:03Z"
+      "last_crawled": "2026-10-31T10:13:46Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-10-30T10:44:03Z"
+      "last_crawled": "2026-10-31T10:13:46Z"
     },
     "MD": {
       "count": 8,
@@ -5770,16 +5770,16 @@
       "last_crawled": "2026-10-31T09:10:00Z"
     },
     "MO": {
-      "count": 19,
-      "last_crawled": "2026-10-30T10:44:03Z"
+      "count": 18,
+      "last_crawled": "2026-10-31T10:13:46Z"
     },
     "MR": {
       "count": 21,
       "last_crawled": "2026-10-31T09:10:00Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-10-30T10:44:03Z"
+      "count": 5,
+      "last_crawled": "2026-10-31T10:13:46Z"
     },
     "PA": {
       "count": 0,
@@ -5791,7 +5791,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-10-30T10:44:03Z"
+      "last_crawled": "2026-10-31T10:13:46Z"
     },
     "SA": {
       "count": 59,
@@ -5814,5 +5814,5 @@
       "last_crawled": "2026-10-31T08:01:06Z"
     }
   },
-  "updated": "2026-10-31T09:10:00Z"
+  "updated": "2026-10-31T10:13:46Z"
 }
