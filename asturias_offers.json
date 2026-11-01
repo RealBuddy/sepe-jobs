@@ -1,5 +1,5 @@
 {
-  "count": 631,
+  "count": 625,
   "failed_sectors": [],
   "offers": [
     {
@@ -705,15 +705,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006503&ret=B"
     },
     {
-      "date": "04/09/2026",
-      "id": "032026006508",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "AU",
-      "title": "Mecanico/a - soldador/a oficial de primera (ref.: 6508)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006508&ret=B"
-    },
-    {
       "date": "27/10/2026",
       "id": "032026006516",
       "municipio": "Oviedo",
@@ -901,15 +892,6 @@
       "sector": "SA",
       "title": "nueva difusión gerocultor/a (ref. 6687)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006687&ret=B"
-    },
-    {
-      "date": "28/09/2026",
-      "id": "032026006693",
-      "municipio": "San martin del rey aurelio",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "2 puestos de ayudante de camarero/a (ref.: 6693) nueva difusion",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006693&ret=B"
     },
     {
       "date": "22/10/2026",
@@ -1261,15 +1243,6 @@
       "sector": "SP",
       "title": "Monitor/a de pilates (ref.: 7002)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007002&ret=B"
-    },
-    {
-      "date": "30/09/2026",
-      "id": "032026007003",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "2 puestos de ayudante de cocina",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007003&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -2026,15 +1999,6 @@
       "sector": "AO",
       "title": "Administrativo/a contrato formativo para la prática laboral 2026/2027 - ayto. gozón (ref:7349)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007349&ret=B"
-    },
-    {
-      "date": "14/10/2026",
-      "id": "032026007353",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de cocina (ref.: 7353)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007353&ret=B"
     },
     {
       "date": "14/10/2026",
@@ -3199,15 +3163,6 @@
     },
     {
       "date": "22/10/2026",
-      "id": "032026007561",
-      "municipio": "Morcin",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Palista (ref: 7561)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007561&ret=B"
-    },
-    {
-      "date": "22/10/2026",
       "id": "032026007562",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -3430,15 +3385,6 @@
       "sector": "MR",
       "title": "Mecánico/a de turismos y furgonetas of.1ª (ref. 7596)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007596&ret=B"
-    },
-    {
-      "date": "22/10/2026",
-      "id": "032026007597",
-      "municipio": "Morcin",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Albañil (ref.:7597)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007597&ret=B"
     },
     {
       "date": "22/10/2026",
@@ -5689,15 +5635,15 @@
     },
     "AO": {
       "count": 41,
-      "last_crawled": "2026-10-31T08:01:06Z"
+      "last_crawled": "2026-11-01T08:46:40Z"
     },
     "AR": {
       "count": 1,
       "last_crawled": "2026-10-31T10:13:46Z"
     },
     "AU": {
-      "count": 9,
-      "last_crawled": "2026-10-31T08:01:06Z"
+      "count": 8,
+      "last_crawled": "2026-11-01T08:46:40Z"
     },
     "CC": {
       "count": 44,
@@ -5712,12 +5658,12 @@
       "last_crawled": "2026-10-31T10:13:46Z"
     },
     "EO": {
-      "count": 91,
-      "last_crawled": "2026-10-31T08:01:06Z"
+      "count": 89,
+      "last_crawled": "2026-11-01T08:46:40Z"
     },
     "FE": {
       "count": 6,
-      "last_crawled": "2026-10-31T08:01:06Z"
+      "last_crawled": "2026-11-01T08:46:40Z"
     },
     "IA": {
       "count": 12,
@@ -5729,7 +5675,7 @@
     },
     "IM": {
       "count": 3,
-      "last_crawled": "2026-10-31T08:01:06Z"
+      "last_crawled": "2026-11-01T08:46:40Z"
     },
     "IP": {
       "count": 20,
@@ -5769,7 +5715,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-10-31T08:01:06Z"
+      "last_crawled": "2026-11-01T08:46:40Z"
     },
     "PT": {
       "count": 1,
@@ -5792,9 +5738,9 @@
       "last_crawled": "2026-10-31T09:10:00Z"
     },
     "TH": {
-      "count": 71,
-      "last_crawled": "2026-10-31T08:01:06Z"
+      "count": 68,
+      "last_crawled": "2026-11-01T08:46:40Z"
     }
   },
-  "updated": "2026-11-01T07:06:34Z"
+  "updated": "2026-11-01T08:46:40Z"
 }
