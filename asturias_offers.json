@@ -1,5 +1,5 @@
 {
-  "count": 633,
+  "count": 631,
   "failed_sectors": [],
   "offers": [
     {
@@ -2029,15 +2029,6 @@
     },
     {
       "date": "14/10/2026",
-      "id": "032026007350",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Esteticista (ref.: 7350)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007350&ret=B"
-    },
-    {
-      "date": "14/10/2026",
       "id": "032026007353",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -2260,15 +2251,6 @@
       "sector": "DO",
       "title": "Docente fp rama sanitaria (ref.: 7427)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007427&ret=B"
-    },
-    {
-      "date": "16/10/2026",
-      "id": "032026007428",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Mozo/a de almacén (ref.7428)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007428&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -3124,15 +3106,6 @@
       "sector": "SA",
       "title": "Enfermero/a (ref.: 7546)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007546&ret=B"
-    },
-    {
-      "date": "22/10/2026",
-      "id": "032026007548",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a educación especial de apoyo \"programa trampolín\" (ref.7548)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007548&ret=B"
     },
     {
       "date": "22/10/2026",
@@ -5691,6 +5664,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007887&ret=B"
     },
     {
+      "date": "01/11/2026",
+      "id": "032026007888",
+      "municipio": "Valdes",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Animador/a sociocultural (ref.7888)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007888&ret=B"
+    },
+    {
       "date": "16/10/2026",
       "id": "162026011053",
       "municipio": "Aviles",
@@ -5703,7 +5685,7 @@
   "sectors": {
     "AA": {
       "count": 23,
-      "last_crawled": "2026-10-31T06:36:20Z"
+      "last_crawled": "2026-11-01T07:06:34Z"
     },
     "AO": {
       "count": 41,
@@ -5718,12 +5700,12 @@
       "last_crawled": "2026-10-31T08:01:06Z"
     },
     "CC": {
-      "count": 45,
-      "last_crawled": "2026-10-31T06:36:20Z"
+      "count": 44,
+      "last_crawled": "2026-11-01T07:06:34Z"
     },
     "DO": {
-      "count": 26,
-      "last_crawled": "2026-10-31T06:36:20Z"
+      "count": 25,
+      "last_crawled": "2026-11-01T07:06:34Z"
     },
     "EM": {
       "count": 23,
@@ -5743,7 +5725,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-10-31T06:36:20Z"
+      "last_crawled": "2026-11-01T07:06:34Z"
     },
     "IM": {
       "count": 3,
@@ -5763,7 +5745,7 @@
     },
     "MD": {
       "count": 8,
-      "last_crawled": "2026-10-31T06:36:20Z"
+      "last_crawled": "2026-11-01T07:06:34Z"
     },
     "MN": {
       "count": 0,
@@ -5783,7 +5765,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-10-31T06:36:20Z"
+      "last_crawled": "2026-11-01T07:06:34Z"
     },
     "PC": {
       "count": 0,
@@ -5803,7 +5785,7 @@
     },
     "SP": {
       "count": 109,
-      "last_crawled": "2026-10-31T06:36:20Z"
+      "last_crawled": "2026-11-01T07:06:34Z"
     },
     "TC": {
       "count": 39,
@@ -5814,5 +5796,5 @@
       "last_crawled": "2026-10-31T08:01:06Z"
     }
   },
-  "updated": "2026-10-31T10:13:46Z"
+  "updated": "2026-11-01T07:06:34Z"
 }
