@@ -1,5 +1,5 @@
 {
-  "count": 625,
+  "count": 621,
   "failed_sectors": [],
   "offers": [
     {
@@ -849,6 +849,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006611&ret=B"
     },
     {
+      "date": "01/11/2026",
+      "id": "032026006622",
+      "municipio": "Vegadeo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Higienista dental, vegadeo y navia (ref. 6622)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006622&ret=B"
+    },
+    {
       "date": "14/09/2026",
       "id": "032026006634",
       "municipio": "Grado",
@@ -1200,15 +1209,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006964&ret=B"
     },
     {
-      "date": "23/10/2026",
-      "id": "032026006965",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "4 puestos de repartidor/a moto (ref.: 6965) nueva difusion",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006965&ret=B"
-    },
-    {
       "date": "29/09/2026",
       "id": "032026006967",
       "municipio": "Pravia",
@@ -1270,15 +1270,6 @@
       "sector": "EO",
       "title": "Oficial de la construccion (ref.: 7021)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007021&ret=B"
-    },
-    {
-      "date": "30/09/2026",
-      "id": "032026007026",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermera/o (ref.:7026)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007026&ret=B"
     },
     {
       "date": "01/10/2026",
@@ -1495,15 +1486,6 @@
       "sector": "CC",
       "title": "Mozo/a de almacén de ferretería (ref. 7122)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007122&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026007123",
-      "municipio": "Aller",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Carnicero/a (ref.:7123)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007123&ret=B"
     },
     {
       "date": "05/10/2026",
@@ -2001,15 +1983,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007349&ret=B"
     },
     {
-      "date": "14/10/2026",
-      "id": "032026007358",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Fisioterapeuta (ref.: 7358)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007358&ret=B"
-    },
-    {
       "date": "15/10/2026",
       "id": "032026007361",
       "municipio": "Aviles",
@@ -2242,15 +2215,6 @@
       "sector": "SP",
       "title": "Terapeuta ocupacional (ref.:7434)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007434&ret=B"
-    },
-    {
-      "date": "19/10/2026",
-      "id": "032026007435",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "10 puestos de conductores/as de trailer c+e. rutas nacionales amazon (ref. 7435)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007435&ret=B"
     },
     {
       "date": "19/10/2026",
@@ -5666,8 +5630,8 @@
       "last_crawled": "2026-11-01T08:46:40Z"
     },
     "IA": {
-      "count": 12,
-      "last_crawled": "2026-10-31T09:10:00Z"
+      "count": 11,
+      "last_crawled": "2026-11-01T09:57:10Z"
     },
     "IG": {
       "count": 0,
@@ -5679,7 +5643,7 @@
     },
     "IP": {
       "count": 20,
-      "last_crawled": "2026-10-31T09:10:00Z"
+      "last_crawled": "2026-11-01T09:57:10Z"
     },
     "IQ": {
       "count": 0,
@@ -5695,7 +5659,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-10-31T09:10:00Z"
+      "last_crawled": "2026-11-01T09:57:10Z"
     },
     "MO": {
       "count": 18,
@@ -5703,7 +5667,7 @@
     },
     "MR": {
       "count": 21,
-      "last_crawled": "2026-10-31T09:10:00Z"
+      "last_crawled": "2026-11-01T09:57:10Z"
     },
     "MT": {
       "count": 5,
@@ -5722,25 +5686,25 @@
       "last_crawled": "2026-10-31T10:13:46Z"
     },
     "SA": {
-      "count": 59,
-      "last_crawled": "2026-10-31T09:10:00Z"
+      "count": 58,
+      "last_crawled": "2026-11-01T09:57:10Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-10-31T09:10:00Z"
+      "last_crawled": "2026-11-01T09:57:10Z"
     },
     "SP": {
       "count": 109,
       "last_crawled": "2026-11-01T07:06:34Z"
     },
     "TC": {
-      "count": 39,
-      "last_crawled": "2026-10-31T09:10:00Z"
+      "count": 37,
+      "last_crawled": "2026-11-01T09:57:10Z"
     },
     "TH": {
       "count": 68,
       "last_crawled": "2026-11-01T08:46:40Z"
     }
   },
-  "updated": "2026-11-01T08:46:40Z"
+  "updated": "2026-11-01T09:57:10Z"
 }
