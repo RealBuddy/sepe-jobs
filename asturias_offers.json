@@ -1,5 +1,5 @@
 {
-  "count": 598,
+  "count": 597,
   "failed_sectors": [],
   "offers": [
     {
@@ -154,15 +154,6 @@
       "sector": "AA",
       "title": "5 puestos de peón/a agrario (ref.: 5174)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005174&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026005267",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Coordinador/a de growth marqueting y crm",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005267&ret=B"
     },
     {
       "date": "13/10/2026",
@@ -5396,7 +5387,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-11-01T11:04:17Z"
+      "last_crawled": "2026-11-02T12:02:25Z"
     },
     "AU": {
       "count": 8,
@@ -5411,8 +5402,8 @@
       "last_crawled": "2026-11-02T07:10:49Z"
     },
     "EM": {
-      "count": 23,
-      "last_crawled": "2026-11-01T11:04:17Z"
+      "count": 22,
+      "last_crawled": "2026-11-02T12:02:25Z"
     },
     "EO": {
       "count": 88,
@@ -5440,11 +5431,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-11-01T11:04:17Z"
+      "last_crawled": "2026-11-02T12:02:25Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-11-01T11:04:17Z"
+      "last_crawled": "2026-11-02T12:02:25Z"
     },
     "MD": {
       "count": 8,
@@ -5456,7 +5447,7 @@
     },
     "MO": {
       "count": 18,
-      "last_crawled": "2026-11-01T11:04:17Z"
+      "last_crawled": "2026-11-02T12:02:25Z"
     },
     "MR": {
       "count": 19,
@@ -5464,7 +5455,7 @@
     },
     "MT": {
       "count": 5,
-      "last_crawled": "2026-11-01T11:04:17Z"
+      "last_crawled": "2026-11-02T12:02:25Z"
     },
     "PA": {
       "count": 0,
@@ -5476,7 +5467,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-01T11:04:17Z"
+      "last_crawled": "2026-11-02T12:02:25Z"
     },
     "SA": {
       "count": 57,
@@ -5499,5 +5490,5 @@
       "last_crawled": "2026-11-02T08:55:59Z"
     }
   },
-  "updated": "2026-11-02T10:24:39Z"
+  "updated": "2026-11-02T12:02:25Z"
 }
