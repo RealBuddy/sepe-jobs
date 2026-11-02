@@ -1,5 +1,5 @@
 {
-  "count": 602,
+  "count": 598,
   "failed_sectors": [],
   "offers": [
     {
@@ -154,15 +154,6 @@
       "sector": "AA",
       "title": "5 puestos de peón/a agrario (ref.: 5174)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005174&ret=B"
-    },
-    {
-      "date": "09/10/2026",
-      "id": "032026005222",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductores/as de tráiler (ref. 5222 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005222&ret=B"
     },
     {
       "date": "05/10/2026",
@@ -1063,15 +1054,6 @@
       "sector": "AA",
       "title": "5 tractoristas (ref. 6871)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006871&ret=B"
-    },
-    {
-      "date": "24/09/2026",
-      "id": "032026006876",
-      "municipio": "Morcin",
-      "provincia": "Asturias",
-      "sector": "MR",
-      "title": "Técnico/a de mantenimiento -industria alimentaria- (ref.: 6876)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006876&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -1999,15 +1981,6 @@
       "sector": "MR",
       "title": "Electromecánico/a (ref.: 7414)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007414&ret=B"
-    },
-    {
-      "date": "16/10/2026",
-      "id": "032026007415",
-      "municipio": "Belmonte de miranda",
-      "provincia": "Asturias",
-      "sector": "MR",
-      "title": "1 operador/a planta (ref.7415)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007415&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -3574,15 +3547,6 @@
       "sector": "TH",
       "title": "Camarero/a (ref. 7661)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007661&ret=B"
-    },
-    {
-      "date": "26/10/2026",
-      "id": "032026007663",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Ats/due (ref: 7663)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007663&ret=B"
     },
     {
       "date": "26/10/2026",
@@ -5460,7 +5424,7 @@
     },
     "IA": {
       "count": 11,
-      "last_crawled": "2026-11-01T09:57:10Z"
+      "last_crawled": "2026-11-02T10:24:39Z"
     },
     "IG": {
       "count": 0,
@@ -5472,7 +5436,7 @@
     },
     "IP": {
       "count": 20,
-      "last_crawled": "2026-11-01T09:57:10Z"
+      "last_crawled": "2026-11-02T10:24:39Z"
     },
     "IQ": {
       "count": 0,
@@ -5488,15 +5452,15 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-11-01T09:57:10Z"
+      "last_crawled": "2026-11-02T10:24:39Z"
     },
     "MO": {
       "count": 18,
       "last_crawled": "2026-11-01T11:04:17Z"
     },
     "MR": {
-      "count": 21,
-      "last_crawled": "2026-11-01T09:57:10Z"
+      "count": 19,
+      "last_crawled": "2026-11-02T10:24:39Z"
     },
     "MT": {
       "count": 5,
@@ -5515,25 +5479,25 @@
       "last_crawled": "2026-11-01T11:04:17Z"
     },
     "SA": {
-      "count": 58,
-      "last_crawled": "2026-11-01T09:57:10Z"
+      "count": 57,
+      "last_crawled": "2026-11-02T10:24:39Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-11-01T09:57:10Z"
+      "last_crawled": "2026-11-02T10:24:39Z"
     },
     "SP": {
       "count": 101,
       "last_crawled": "2026-11-02T07:10:49Z"
     },
     "TC": {
-      "count": 37,
-      "last_crawled": "2026-11-01T09:57:10Z"
+      "count": 36,
+      "last_crawled": "2026-11-02T10:24:39Z"
     },
     "TH": {
       "count": 66,
       "last_crawled": "2026-11-02T08:55:59Z"
     }
   },
-  "updated": "2026-11-02T08:55:59Z"
+  "updated": "2026-11-02T10:24:39Z"
 }
