@@ -1,5 +1,5 @@
 {
-  "count": 621,
+  "count": 608,
   "failed_sectors": [],
   "offers": [
     {
@@ -37,15 +37,6 @@
       "sector": "EO",
       "title": "Montador/a de pladur. instalador/a de yeso laminado (ref.3343)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003343&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026003675",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Comerciales inteligencia artificial (ref : 3675)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026003675&ret=B"
     },
     {
       "date": "20/10/2026",
@@ -534,15 +525,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006186&ret=B"
     },
     {
-      "date": "06/10/2026",
-      "id": "032026006206",
-      "municipio": "Castrillon",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Empleada/o de hogar interna (ref: 6206)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006206&ret=B"
-    },
-    {
       "date": "30/10/2026",
       "id": "032026006212",
       "municipio": "Boal",
@@ -660,15 +642,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006467&ret=B"
     },
     {
-      "date": "03/09/2026",
-      "id": "032026006471",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Operario/a de limpieza (ref.: 6471)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006471&ret=B"
-    },
-    {
       "date": "08/10/2026",
       "id": "032026006472",
       "municipio": "Siero",
@@ -759,24 +732,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006571&ret=B"
     },
     {
-      "date": "05/10/2026",
-      "id": "032026006572",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Asesores/as comerciales energéticos (ref: 6572)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006572&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026006573",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Asesores/as comerciales de telecomunicaciones (ref: 6573)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006573&ret=B"
-    },
-    {
       "date": "10/09/2026",
       "id": "032026006583",
       "municipio": "Oviedo",
@@ -811,15 +766,6 @@
       "sector": "EM",
       "title": "Ingeniero/a de proyectos y soluciones de seguridad (ref. 6590)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006590&ret=B"
-    },
-    {
-      "date": "08/10/2026",
-      "id": "032026006596",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Asesor/a comercial (ref.: 6596)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006596&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -1111,15 +1057,6 @@
     },
     {
       "date": "23/09/2026",
-      "id": "032026006866",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a cristalero/a (ref.: 6866)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006866&ret=B"
-    },
-    {
-      "date": "23/09/2026",
       "id": "032026006867",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -1252,15 +1189,6 @@
       "sector": "TH",
       "title": "Ayte. de cocina (ref: 7008)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007008&ret=B"
-    },
-    {
-      "date": "19/10/2026",
-      "id": "032026007015",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a (ref.:7015)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007015&ret=B"
     },
     {
       "date": "30/09/2026",
@@ -1489,30 +1417,12 @@
     },
     {
       "date": "05/10/2026",
-      "id": "032026007130",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador o limpiadora (ref: 7130)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007130&ret=B"
-    },
-    {
-      "date": "05/10/2026",
       "id": "032026007131",
       "municipio": "Mieres",
       "provincia": "Asturias",
       "sector": "IP",
       "title": "Calderero/a (ref. 7131)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007131&ret=B"
-    },
-    {
-      "date": "19/10/2026",
-      "id": "032026007135",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Agente inmobiliario/a (ref.: 7135)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007135&ret=B"
     },
     {
       "date": "06/10/2026",
@@ -1867,15 +1777,6 @@
     },
     {
       "date": "14/10/2026",
-      "id": "032026007332",
-      "municipio": "Villaviciosa",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a doméstico/a (ref.: 7332)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007332&ret=B"
-    },
-    {
-      "date": "14/10/2026",
       "id": "032026007333",
       "municipio": "Castropol",
       "provincia": "Asturias",
@@ -2191,15 +2092,6 @@
     },
     {
       "date": "16/10/2026",
-      "id": "032026007431",
-      "municipio": "Cangas del narcea",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "1 limpiador/a (ref. 7431)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007431&ret=B"
-    },
-    {
-      "date": "16/10/2026",
       "id": "032026007432",
       "municipio": "Navia",
       "provincia": "Asturias",
@@ -2332,15 +2224,6 @@
       "sector": "EO",
       "title": "3 peones/as de edificación y obra civil ayuntamiento boal ple itinerarios integrales de activación en el ámbito local (ref.: 7454)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007454&ret=B"
-    },
-    {
-      "date": "19/10/2026",
-      "id": "032026007455",
-      "municipio": "Cangas de onis",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a (ref.:7455)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007455&ret=B"
     },
     {
       "date": "21/10/2026",
@@ -5595,7 +5478,7 @@
   "sectors": {
     "AA": {
       "count": 23,
-      "last_crawled": "2026-11-01T07:06:34Z"
+      "last_crawled": "2026-11-02T07:10:49Z"
     },
     "AO": {
       "count": 41,
@@ -5610,12 +5493,12 @@
       "last_crawled": "2026-11-01T08:46:40Z"
     },
     "CC": {
-      "count": 44,
-      "last_crawled": "2026-11-01T07:06:34Z"
+      "count": 39,
+      "last_crawled": "2026-11-02T07:10:49Z"
     },
     "DO": {
       "count": 25,
-      "last_crawled": "2026-11-01T07:06:34Z"
+      "last_crawled": "2026-11-02T07:10:49Z"
     },
     "EM": {
       "count": 23,
@@ -5635,7 +5518,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-11-01T07:06:34Z"
+      "last_crawled": "2026-11-02T07:10:49Z"
     },
     "IM": {
       "count": 3,
@@ -5655,7 +5538,7 @@
     },
     "MD": {
       "count": 8,
-      "last_crawled": "2026-11-01T07:06:34Z"
+      "last_crawled": "2026-11-02T07:10:49Z"
     },
     "MN": {
       "count": 0,
@@ -5675,7 +5558,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-11-01T07:06:34Z"
+      "last_crawled": "2026-11-02T07:10:49Z"
     },
     "PC": {
       "count": 0,
@@ -5694,8 +5577,8 @@
       "last_crawled": "2026-11-01T09:57:10Z"
     },
     "SP": {
-      "count": 109,
-      "last_crawled": "2026-11-01T07:06:34Z"
+      "count": 101,
+      "last_crawled": "2026-11-02T07:10:49Z"
     },
     "TC": {
       "count": 37,
@@ -5706,5 +5589,5 @@
       "last_crawled": "2026-11-01T08:46:40Z"
     }
   },
-  "updated": "2026-11-01T11:04:17Z"
+  "updated": "2026-11-02T07:10:49Z"
 }
