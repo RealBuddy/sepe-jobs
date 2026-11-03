@@ -1,5 +1,5 @@
 {
-  "count": 597,
+  "count": 594,
   "failed_sectors": [],
   "offers": [
     {
@@ -318,15 +318,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005790&ret=B"
     },
     {
-      "date": "23/10/2026",
-      "id": "032026005815",
-      "municipio": "Ponga",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Auxiliar de ayuda a domicilio(ref:5815)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005815&ret=B"
-    },
-    {
       "date": "30/10/2026",
       "id": "032026005819",
       "municipio": "Llanera",
@@ -334,15 +325,6 @@
       "sector": "SA",
       "title": "Gerocultor/a (ref.5819)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005819&ret=B"
-    },
-    {
-      "date": "23/10/2026",
-      "id": "032026005820",
-      "municipio": "Ponga",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Auxiliar de ayuda a domicilio (ref:5820)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005820&ret=B"
     },
     {
       "date": "15/10/2026",
@@ -894,15 +876,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006757&ret=B"
     },
     {
-      "date": "21/09/2026",
-      "id": "032026006771",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "2 jefes/as de equipo comercial para varias localidades (ref. 6771)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006771&ret=B"
-    },
-    {
       "date": "26/10/2026",
       "id": "032026006781",
       "municipio": "Siero",
@@ -913,30 +886,12 @@
     },
     {
       "date": "21/09/2026",
-      "id": "032026006782",
-      "municipio": "Ribadesella",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "3 responsables comerciales de zona- consulting para varias localidades (ref.6782)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006782&ret=B"
-    },
-    {
-      "date": "21/09/2026",
       "id": "032026006789",
       "municipio": "Pravia",
       "provincia": "Asturias",
       "sector": "SP",
       "title": "1 peluquero/a canino (re. 6789)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006789&ret=B"
-    },
-    {
-      "date": "21/09/2026",
-      "id": "032026006792",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Empleado de atención al cliente presencial y desarrollo (ref.6792)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006792&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -5115,6 +5070,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007852&ret=B"
     },
     {
+      "date": "03/11/2026",
+      "id": "032026007853",
+      "municipio": "Villaviciosa",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Técnico/a biblioteca ayto. villaviciosa plan de empleo local (ref.7853)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007853&ret=B"
+    },
+    {
       "date": "30/10/2026",
       "id": "032026007854",
       "municipio": "Gijón",
@@ -5349,6 +5313,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007884&ret=B"
     },
     {
+      "date": "03/11/2026",
+      "id": "032026007885",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Personal de limpieza (ref: 7885)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007885&ret=B"
+    },
+    {
       "date": "30/10/2026",
       "id": "032026007887",
       "municipio": "Llanera",
@@ -5379,7 +5352,7 @@
   "sectors": {
     "AA": {
       "count": 23,
-      "last_crawled": "2026-11-02T07:10:49Z"
+      "last_crawled": "2026-11-03T07:32:18Z"
     },
     "AO": {
       "count": 38,
@@ -5394,12 +5367,12 @@
       "last_crawled": "2026-11-02T08:55:59Z"
     },
     "CC": {
-      "count": 39,
-      "last_crawled": "2026-11-02T07:10:49Z"
+      "count": 36,
+      "last_crawled": "2026-11-03T07:32:18Z"
     },
     "DO": {
       "count": 25,
-      "last_crawled": "2026-11-02T07:10:49Z"
+      "last_crawled": "2026-11-03T07:32:18Z"
     },
     "EM": {
       "count": 22,
@@ -5419,7 +5392,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-11-02T07:10:49Z"
+      "last_crawled": "2026-11-03T07:32:18Z"
     },
     "IM": {
       "count": 3,
@@ -5439,7 +5412,7 @@
     },
     "MD": {
       "count": 8,
-      "last_crawled": "2026-11-02T07:10:49Z"
+      "last_crawled": "2026-11-03T07:32:18Z"
     },
     "MN": {
       "count": 0,
@@ -5459,7 +5432,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-11-02T07:10:49Z"
+      "last_crawled": "2026-11-03T07:32:18Z"
     },
     "PC": {
       "count": 0,
@@ -5479,7 +5452,7 @@
     },
     "SP": {
       "count": 101,
-      "last_crawled": "2026-11-02T07:10:49Z"
+      "last_crawled": "2026-11-03T07:32:18Z"
     },
     "TC": {
       "count": 36,
@@ -5490,5 +5463,5 @@
       "last_crawled": "2026-11-02T08:55:59Z"
     }
   },
-  "updated": "2026-11-02T12:02:25Z"
+  "updated": "2026-11-03T07:32:18Z"
 }
