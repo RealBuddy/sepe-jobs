@@ -1,5 +1,5 @@
 {
-  "count": 590,
+  "count": 587,
   "failed_sectors": [],
   "offers": [
     {
@@ -118,15 +118,6 @@
       "sector": "CC",
       "title": "Mozo/a de almacén-repartidor/a (ref.: 4426)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004426&ret=B"
-    },
-    {
-      "date": "24/09/2026",
-      "id": "032026004617",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Carpintero/montador de carpintería metálica de aluminio y pvc (ref. 4617)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004617&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -496,15 +487,6 @@
       "sector": "AA",
       "title": "Encargado/a mantenimiento finca particular en boal(ref.:6212)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006212&ret=B"
-    },
-    {
-      "date": "21/10/2026",
-      "id": "032026006236",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermera/o (ref.: 6236)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006236&ret=B"
     },
     {
       "date": "15/10/2026",
@@ -1173,15 +1155,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007085&ret=B"
     },
     {
-      "date": "02/10/2026",
-      "id": "032026007087",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de camión (ref.: 7087)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007087&ret=B"
-    },
-    {
       "date": "28/10/2026",
       "id": "032026007091",
       "municipio": "Castrillon",
@@ -1263,7 +1236,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007122&ret=B"
     },
     {
-      "date": "05/10/2026",
+      "date": "03/11/2026",
       "id": "032026007131",
       "municipio": "Mieres",
       "provincia": "Asturias",
@@ -2101,15 +2074,6 @@
     },
     {
       "date": "20/10/2026",
-      "id": "032026007465",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Ayudante de confitero/a (ref.:7465)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007465&ret=B"
-    },
-    {
-      "date": "20/10/2026",
       "id": "032026007467",
       "municipio": "Sariego",
       "provincia": "Asturias",
@@ -2215,15 +2179,6 @@
       "sector": "SA",
       "title": "Cuidador/a para residencia-gerocultor/a (ref.: 7479)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007479&ret=B"
-    },
-    {
-      "date": "20/10/2026",
-      "id": "032026007480",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Operario/a de fresa cnc (ref: 7480)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007480&ret=B"
     },
     {
       "date": "20/10/2026",
@@ -5260,6 +5215,15 @@
     },
     {
       "date": "03/11/2026",
+      "id": "032026007889",
+      "municipio": "Vegadeo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Auxiliar de clinica vegadeo y navia (ref.7889)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007889&ret=B"
+    },
+    {
+      "date": "03/11/2026",
       "id": "032026007893",
       "municipio": "Villaviciosa",
       "provincia": "Asturias",
@@ -5293,6 +5257,15 @@
       "sector": "TH",
       "title": "Ayudante de cocina (ref.: 7903)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007903&ret=B"
+    },
+    {
+      "date": "03/11/2026",
+      "id": "032026007904",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "4 puestos de terapeuta para tratamientos orientales (ref.7904)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007904&ret=B"
     },
     {
       "date": "03/11/2026",
@@ -5351,8 +5324,8 @@
       "last_crawled": "2026-11-03T09:04:16Z"
     },
     "IA": {
-      "count": 11,
-      "last_crawled": "2026-11-02T10:24:39Z"
+      "count": 10,
+      "last_crawled": "2026-11-03T10:22:39Z"
     },
     "IG": {
       "count": 0,
@@ -5363,8 +5336,8 @@
       "last_crawled": "2026-11-03T09:04:16Z"
     },
     "IP": {
-      "count": 20,
-      "last_crawled": "2026-11-02T10:24:39Z"
+      "count": 18,
+      "last_crawled": "2026-11-03T10:22:39Z"
     },
     "IQ": {
       "count": 0,
@@ -5380,7 +5353,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-11-02T10:24:39Z"
+      "last_crawled": "2026-11-03T10:22:39Z"
     },
     "MO": {
       "count": 18,
@@ -5388,7 +5361,7 @@
     },
     "MR": {
       "count": 19,
-      "last_crawled": "2026-11-02T10:24:39Z"
+      "last_crawled": "2026-11-03T10:22:39Z"
     },
     "MT": {
       "count": 5,
@@ -5407,25 +5380,25 @@
       "last_crawled": "2026-11-02T12:02:25Z"
     },
     "SA": {
-      "count": 57,
-      "last_crawled": "2026-11-02T10:24:39Z"
+      "count": 58,
+      "last_crawled": "2026-11-03T10:22:39Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-11-02T10:24:39Z"
+      "last_crawled": "2026-11-03T10:22:39Z"
     },
     "SP": {
       "count": 101,
       "last_crawled": "2026-11-03T07:32:18Z"
     },
     "TC": {
-      "count": 36,
-      "last_crawled": "2026-11-02T10:24:39Z"
+      "count": 35,
+      "last_crawled": "2026-11-03T10:22:39Z"
     },
     "TH": {
       "count": 62,
       "last_crawled": "2026-11-03T09:04:16Z"
     }
   },
-  "updated": "2026-11-03T09:04:16Z"
+  "updated": "2026-11-03T10:22:39Z"
 }
