@@ -1,9 +1,9 @@
-# operaria/o de taller- discapacidad
+# operaria/o de taller
 
-- **Профессия (ES):** operaria/o de taller- discapacidad
-- **Оригинальное название:** 1 puesto de operaria/o de taller- discapacidad (ref. 7670)
+- **Профессия (ES):** operaria/o de taller
+- **Оригинальное название:** 1 puesto de operaria/o de taller (ref. 7670)
 - **Город:** Gijón (Asturias)
-- **Дата публикации:** 29/10/2026
+- **Дата публикации:** 03/11/2026
 - **ID оферты:** 032026007670
 
 ## 👉 Откликнуться на вакансию

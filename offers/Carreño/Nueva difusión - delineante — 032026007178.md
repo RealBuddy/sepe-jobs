@@ -1,9 +1,9 @@
-# Чертежник
+# Nueva difusión - delineante
 
-- **Профессия (ES):** Delineante
-- **Оригинальное название:** Delineante (ref. 7178)
+- **Профессия (ES):** Nueva difusión - delineante
+- **Оригинальное название:** Nueva difusión - delineante (ref. 7178)
 - **Город:** Carreño (Asturias)
-- **Дата публикации:** 20/10/2026
+- **Дата публикации:** 03/11/2026
 - **ID оферты:** 032026007178
 
 ## 👉 Откликнуться на вакансию
