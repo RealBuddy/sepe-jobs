@@ -1,7 +1,16 @@
 {
-  "count": 613,
+  "count": 615,
   "failed_sectors": [],
   "offers": [
+    {
+      "date": "04/11/2026",
+      "id": "032026000244",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a con discapacidad (ref: 244)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026000244&ret=B"
+    },
     {
       "date": "08/10/2026",
       "id": "032026002026",
@@ -417,21 +426,21 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005991&ret=B"
     },
     {
-      "date": "23/09/2026",
+      "date": "03/11/2026",
       "id": "032026005995",
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "MO",
-      "title": "Nueva difusión: montador/a decoración navideña (ref. 5995)",
+      "title": "nueva difusión: montador/a decoración navideña (ref. 5995)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005995&ret=B"
     },
     {
-      "date": "23/09/2026",
+      "date": "03/11/2026",
       "id": "032026005996",
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "MO",
-      "title": "Nueva difusión: oficial electricista iluminación navideña (ref. 5996)",
+      "title": "nueva difusión: oficial electricista iluminación navideña (ref. 5996)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005996&ret=B"
     },
     {
@@ -984,6 +993,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006871&ret=B"
     },
     {
+      "date": "03/11/2026",
+      "id": "032026006873",
+      "municipio": "Morcin",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Empleado/a atención al cliente- retail (ref. 6873)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006873&ret=B"
+    },
+    {
       "date": "28/10/2026",
       "id": "032026006880",
       "municipio": "Aviles",
@@ -1225,15 +1243,6 @@
       "sector": "MR",
       "title": "Mecánico/a de maquinaria pesada (ref: 7109)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007109&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026007111",
-      "municipio": "Nava",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Delineante (ref.7111)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007111&ret=B"
     },
     {
       "date": "23/10/2026",
@@ -2119,15 +2128,6 @@
     },
     {
       "date": "20/10/2026",
-      "id": "032026007476",
-      "municipio": "Salas",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Técnico/a superior de oficinas y despachos. (ref: 7476)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007476&ret=B"
-    },
-    {
-      "date": "20/10/2026",
       "id": "032026007477",
       "municipio": "Carreño",
       "provincia": "Asturias",
@@ -2200,15 +2200,6 @@
     },
     {
       "date": "20/10/2026",
-      "id": "032026007487",
-      "municipio": "Morcin",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Diseñador/a grafico y multimedia (ref:7487)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007487&ret=B"
-    },
-    {
-      "date": "20/10/2026",
       "id": "032026007488",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -2233,15 +2224,6 @@
       "sector": "SA",
       "title": "3 puestos de gerocultor/a o aux. enfermería (ref 7490)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007490&ret=B"
-    },
-    {
-      "date": "21/10/2026",
-      "id": "032026007491",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Diseñador/a gráfico/a (ref.:7491)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007491&ret=B"
     },
     {
       "date": "21/10/2026",
@@ -5458,6 +5440,15 @@
     },
     {
       "date": "03/11/2026",
+      "id": "032026007935",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Delineante (ref.: 7935)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007935&ret=B"
+    },
+    {
+      "date": "03/11/2026",
       "id": "032026007937",
       "municipio": "Aviles",
       "provincia": "Asturias",
@@ -5511,6 +5502,33 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007943&ret=B"
     },
     {
+      "date": "04/11/2026",
+      "id": "032026007948",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Operario/a montaje eléctrico obras (ref.7948)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007948&ret=B"
+    },
+    {
+      "date": "04/11/2026",
+      "id": "032026007954",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Asesor/a y gestor fiscal (ref: 7954)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007954&ret=B"
+    },
+    {
+      "date": "04/11/2026",
+      "id": "032026007957",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Auxiliar de taller (ref. 7957).",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007957&ret=B"
+    },
+    {
       "date": "16/10/2026",
       "id": "162026011053",
       "municipio": "Aviles",
@@ -5531,7 +5549,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-11-03T11:40:27Z"
+      "last_crawled": "2026-11-04T11:53:33Z"
     },
     "AU": {
       "count": 7,
@@ -5546,8 +5564,8 @@
       "last_crawled": "2026-11-04T07:13:16Z"
     },
     "EM": {
-      "count": 23,
-      "last_crawled": "2026-11-03T11:40:27Z"
+      "count": 22,
+      "last_crawled": "2026-11-04T11:53:33Z"
     },
     "EO": {
       "count": 92,
@@ -5575,11 +5593,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-11-03T11:40:27Z"
+      "last_crawled": "2026-11-04T11:53:33Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-11-03T11:40:27Z"
+      "last_crawled": "2026-11-04T11:53:33Z"
     },
     "MD": {
       "count": 8,
@@ -5590,16 +5608,16 @@
       "last_crawled": "2026-11-04T10:16:40Z"
     },
     "MO": {
-      "count": 19,
-      "last_crawled": "2026-11-03T11:40:27Z"
+      "count": 20,
+      "last_crawled": "2026-11-04T11:53:33Z"
     },
     "MR": {
       "count": 19,
       "last_crawled": "2026-11-04T10:16:40Z"
     },
     "MT": {
-      "count": 5,
-      "last_crawled": "2026-11-03T11:40:27Z"
+      "count": 7,
+      "last_crawled": "2026-11-04T11:53:33Z"
     },
     "PA": {
       "count": 0,
@@ -5611,7 +5629,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-03T11:40:27Z"
+      "last_crawled": "2026-11-04T11:53:33Z"
     },
     "SA": {
       "count": 63,
@@ -5634,5 +5652,5 @@
       "last_crawled": "2026-11-04T08:41:07Z"
     }
   },
-  "updated": "2026-11-04T10:16:40Z"
+  "updated": "2026-11-04T11:53:33Z"
 }
