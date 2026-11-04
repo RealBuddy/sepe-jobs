@@ -1,5 +1,5 @@
 {
-  "count": 607,
+  "count": 613,
   "failed_sectors": [],
   "offers": [
     {
@@ -381,15 +381,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005941&ret=B"
     },
     {
-      "date": "15/10/2026",
-      "id": "032026005961",
-      "municipio": "Valdes",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a de reparto (ref.5961)\"modificada\"",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005961&ret=B"
-    },
-    {
       "date": "08/10/2026",
       "id": "032026005965",
       "municipio": "Siero",
@@ -417,12 +408,12 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005988&ret=B"
     },
     {
-      "date": "23/09/2026",
+      "date": "03/11/2026",
       "id": "032026005991",
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "TC",
-      "title": "Nueva difusión: conductor/a gruista montaje iluminación navideña (ref. 5991)",
+      "title": "nueva difusión: conductor/a gruista montaje iluminación navideña (ref. 5991)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005991&ret=B"
     },
     {
@@ -1092,6 +1083,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007008&ret=B"
     },
     {
+      "date": "03/11/2026",
+      "id": "032026007026",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Enfermera/o (ref.:7026) nueva difusion",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007026&ret=B"
+    },
+    {
       "date": "28/10/2026",
       "id": "032026007041",
       "municipio": "Gijón",
@@ -1741,15 +1741,6 @@
     },
     {
       "date": "15/10/2026",
-      "id": "032026007366",
-      "municipio": "Carreño",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Auxiliar de geriatría (ref: 7366)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007366&ret=B"
-    },
-    {
-      "date": "15/10/2026",
       "id": "032026007369",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -1801,15 +1792,6 @@
       "sector": "AO",
       "title": "Auxiliar administrativa/o (ref.: 7380)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007380&ret=B"
-    },
-    {
-      "date": "15/10/2026",
-      "id": "032026007389",
-      "municipio": "Carreño",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a camión de mercancías peligrosas (ref.: 7389)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007389&ret=B"
     },
     {
       "date": "15/10/2026",
@@ -2721,7 +2703,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007568&ret=B"
     },
     {
-      "date": "22/10/2026",
+      "date": "04/11/2026",
       "id": "032026007569",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5323,6 +5305,15 @@
     },
     {
       "date": "03/11/2026",
+      "id": "032026007918",
+      "municipio": "Nava",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Gerocultor/a - auxiliar de enfermería (ref.7918)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007918&ret=B"
+    },
+    {
+      "date": "03/11/2026",
       "id": "032026007919",
       "municipio": "Llanes",
       "provincia": "Asturias",
@@ -5368,6 +5359,15 @@
     },
     {
       "date": "03/11/2026",
+      "id": "032026007924",
+      "municipio": "Ribadesella",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Licenciado/a en farmacia (ref.7924)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007924&ret=B"
+    },
+    {
+      "date": "03/11/2026",
       "id": "032026007925",
       "municipio": "Aller",
       "provincia": "Asturias",
@@ -5383,6 +5383,15 @@
       "sector": "CC",
       "title": "Dependiente/a de charcutería (ref.: 7926)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007926&ret=B"
+    },
+    {
+      "date": "03/11/2026",
+      "id": "032026007927",
+      "municipio": "Tineo",
+      "provincia": "Asturias",
+      "sector": "TC",
+      "title": "Repartidor (ref. 7927)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007927&ret=B"
     },
     {
       "date": "04/11/2026",
@@ -5457,6 +5466,51 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007937&ret=B"
     },
     {
+      "date": "03/11/2026",
+      "id": "032026007938",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Gerocultor/a-certificado profesionalidad -auxiliar ref.:(7938)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007938&ret=B"
+    },
+    {
+      "date": "04/11/2026",
+      "id": "032026007939",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Gerocultor/a o aux. de enfermería (ref. 7939)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007939&ret=B"
+    },
+    {
+      "date": "04/11/2026",
+      "id": "032026007940",
+      "municipio": "San martin del rey aurelio",
+      "provincia": "Asturias",
+      "sector": "IP",
+      "title": "Oficial carpinteria metalica (ref:7940)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007940&ret=B"
+    },
+    {
+      "date": "04/11/2026",
+      "id": "032026007942",
+      "municipio": "Cangas del narcea",
+      "provincia": "Asturias",
+      "sector": "TC",
+      "title": "1 conductor/a coche funebre (ref. 7942)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007942&ret=B"
+    },
+    {
+      "date": "04/11/2026",
+      "id": "032026007943",
+      "municipio": "Navia",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Higienista dental o auxiliar de clinica (ref.:7943)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007943&ret=B"
+    },
+    {
       "date": "16/10/2026",
       "id": "162026011053",
       "municipio": "Aviles",
@@ -5505,7 +5559,7 @@
     },
     "IA": {
       "count": 10,
-      "last_crawled": "2026-11-03T10:22:39Z"
+      "last_crawled": "2026-11-04T10:16:40Z"
     },
     "IG": {
       "count": 0,
@@ -5516,8 +5570,8 @@
       "last_crawled": "2026-11-04T08:41:07Z"
     },
     "IP": {
-      "count": 18,
-      "last_crawled": "2026-11-03T10:22:39Z"
+      "count": 19,
+      "last_crawled": "2026-11-04T10:16:40Z"
     },
     "IQ": {
       "count": 0,
@@ -5533,7 +5587,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-11-03T10:22:39Z"
+      "last_crawled": "2026-11-04T10:16:40Z"
     },
     "MO": {
       "count": 19,
@@ -5541,7 +5595,7 @@
     },
     "MR": {
       "count": 19,
-      "last_crawled": "2026-11-03T10:22:39Z"
+      "last_crawled": "2026-11-04T10:16:40Z"
     },
     "MT": {
       "count": 5,
@@ -5560,12 +5614,12 @@
       "last_crawled": "2026-11-03T11:40:27Z"
     },
     "SA": {
-      "count": 58,
-      "last_crawled": "2026-11-03T10:22:39Z"
+      "count": 63,
+      "last_crawled": "2026-11-04T10:16:40Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-11-03T10:22:39Z"
+      "last_crawled": "2026-11-04T10:16:40Z"
     },
     "SP": {
       "count": 107,
@@ -5573,12 +5627,12 @@
     },
     "TC": {
       "count": 35,
-      "last_crawled": "2026-11-03T10:22:39Z"
+      "last_crawled": "2026-11-04T10:16:40Z"
     },
     "TH": {
       "count": 63,
       "last_crawled": "2026-11-04T08:41:07Z"
     }
   },
-  "updated": "2026-11-04T08:41:07Z"
+  "updated": "2026-11-04T10:16:40Z"
 }

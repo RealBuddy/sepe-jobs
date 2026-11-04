@@ -3,7 +3,7 @@
 - **Профессия (ES):** agente de seguros - gestor comercial
 - **Оригинальное название:** 2 puestos de agente de seguros - gestor comercial (ref. 7569)
 - **Город:** Oviedo (Asturias)
-- **Дата публикации:** 22/10/2026
+- **Дата публикации:** 04/11/2026
 - **ID оферты:** 032026007569
 
 ## 👉 Откликнуться на вакансию
