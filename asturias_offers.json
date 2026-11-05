@@ -1,5 +1,5 @@
 {
-  "count": 633,
+  "count": 636,
   "failed_sectors": [],
   "offers": [
     {
@@ -1335,6 +1335,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007109&ret=B"
     },
     {
+      "date": "05/10/2026",
+      "id": "032026007111",
+      "municipio": "Nava",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Delineante (ref.7111)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007111&ret=B"
+    },
+    {
       "date": "23/10/2026",
       "id": "032026007114",
       "municipio": "Peñamellera baja",
@@ -1999,15 +2008,6 @@
       "sector": "MO",
       "title": "Frigorista (ref.: 7449)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007449&ret=B"
-    },
-    {
-      "date": "19/10/2026",
-      "id": "032026007451",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Instalador/a electricista en general (ref: 7451)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007451&ret=B"
     },
     {
       "date": "19/10/2026",
@@ -5602,6 +5602,15 @@
     },
     {
       "date": "05/11/2026",
+      "id": "032026007969",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Delineante - contrato formativo para la obtención de la práctica profesional (ref. 7969)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007969&ret=B"
+    },
+    {
+      "date": "05/11/2026",
       "id": "032026007970",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -5656,6 +5665,15 @@
     },
     {
       "date": "05/11/2026",
+      "id": "032026007978",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "IT",
+      "title": "Modisto/a especializado/a en moda nupcial (ref.: 7978)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007978&ret=B"
+    },
+    {
+      "date": "05/11/2026",
       "id": "032026007980",
       "municipio": "Valdes",
       "provincia": "Asturias",
@@ -5680,6 +5698,15 @@
       "sector": "TC",
       "title": "Conductor/a de vehículos vtc (ref.: 7984)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007984&ret=B"
+    },
+    {
+      "date": "05/11/2026",
+      "id": "032026007986",
+      "municipio": "Tineo",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a de producción (ref: 7986)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007986&ret=B"
     },
     {
       "date": "05/11/2026",
@@ -5711,7 +5738,7 @@
     },
     "AR": {
       "count": 1,
-      "last_crawled": "2026-11-04T11:53:33Z"
+      "last_crawled": "2026-11-05T11:55:46Z"
     },
     "AU": {
       "count": 7,
@@ -5726,8 +5753,8 @@
       "last_crawled": "2026-11-05T07:40:31Z"
     },
     "EM": {
-      "count": 22,
-      "last_crawled": "2026-11-04T11:53:33Z"
+      "count": 24,
+      "last_crawled": "2026-11-05T11:55:46Z"
     },
     "EO": {
       "count": 90,
@@ -5755,11 +5782,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-11-04T11:53:33Z"
+      "last_crawled": "2026-11-05T11:55:46Z"
     },
     "IT": {
-      "count": 0,
-      "last_crawled": "2026-11-04T11:53:33Z"
+      "count": 1,
+      "last_crawled": "2026-11-05T11:55:46Z"
     },
     "MD": {
       "count": 7,
@@ -5770,16 +5797,16 @@
       "last_crawled": "2026-11-05T10:10:04Z"
     },
     "MO": {
-      "count": 20,
-      "last_crawled": "2026-11-04T11:53:33Z"
+      "count": 19,
+      "last_crawled": "2026-11-05T11:55:46Z"
     },
     "MR": {
       "count": 18,
       "last_crawled": "2026-11-05T10:10:04Z"
     },
     "MT": {
-      "count": 7,
-      "last_crawled": "2026-11-04T11:53:33Z"
+      "count": 8,
+      "last_crawled": "2026-11-05T11:55:46Z"
     },
     "PA": {
       "count": 0,
@@ -5791,7 +5818,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-04T11:53:33Z"
+      "last_crawled": "2026-11-05T11:55:46Z"
     },
     "SA": {
       "count": 66,
@@ -5814,5 +5841,5 @@
       "last_crawled": "2026-11-05T09:00:28Z"
     }
   },
-  "updated": "2026-11-05T10:10:04Z"
+  "updated": "2026-11-05T11:55:46Z"
 }
