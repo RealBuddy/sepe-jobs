@@ -1,7 +1,7 @@
-# Oficial carpinteria metalica
+# Carpintero/a metalico/a
 
-- **Профессия (ES):** Oficial carpinteria metalica
-- **Оригинальное название:** Oficial carpinteria metalica (ref:7940)
+- **Профессия (ES):** Carpintero/a metalico/a
+- **Оригинальное название:** Carpintero/a metalico/a (ref:7940)
 - **Город:** San martin del rey aurelio (Asturias)
 - **Дата публикации:** 04/11/2026
 - **ID оферты:** 032026007940
