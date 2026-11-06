@@ -1,5 +1,5 @@
 {
-  "count": 616,
+  "count": 610,
   "failed_sectors": [],
   "offers": [
     {
@@ -939,6 +939,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006833&ret=B"
     },
     {
+      "date": "06/11/2026",
+      "id": "032026006835",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "nueva difusión dos montadores/as de estructuras metálicas (ref. 6835)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006835&ret=B"
+    },
+    {
       "date": "28/10/2026",
       "id": "032026006839",
       "municipio": "Llanera",
@@ -1270,15 +1279,6 @@
       "sector": "SF",
       "title": "Agente de seguros para noreña (ref. 7093)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007093&ret=B"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "032026007103",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "AR",
-      "title": "Carpintero/a armarios ref.:(7103)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007103&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -2812,15 +2812,6 @@
     },
     {
       "date": "23/10/2026",
-      "id": "032026007635",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Analista funcional y/o técnico/a de sistemas (ref: 7635)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007635&ret=B"
-    },
-    {
-      "date": "23/10/2026",
       "id": "032026007637",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -2908,15 +2899,6 @@
       "sector": "CC",
       "title": "Dependiente/a tienda de alimentacion (ref: 7650)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007650&ret=B"
-    },
-    {
-      "date": "27/10/2026",
-      "id": "032026007651",
-      "municipio": "Carreño",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Ingeniero/a senior de cloud (ref.: 7651)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007651&ret=B"
     },
     {
       "date": "27/10/2026",
@@ -3541,15 +3523,6 @@
     },
     {
       "date": "28/10/2026",
-      "id": "032026007739",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Técnico/a superior en prevención de riesgos laborales plan empleo ayto. oviedo (ref.: 7739)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007739&ret=B"
-    },
-    {
-      "date": "28/10/2026",
       "id": "032026007740",
       "municipio": "Piloña",
       "provincia": "Asturias",
@@ -3622,15 +3595,6 @@
     },
     {
       "date": "29/10/2026",
-      "id": "032026007761",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "2 puesos t.s. administración sist. informáticos en red programa contratos obtención práctica profesional ayto. oviedo (ref.: 7761)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007761&ret=B"
-    },
-    {
-      "date": "29/10/2026",
       "id": "032026007764",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -3655,15 +3619,6 @@
       "sector": "SP",
       "title": "Animador/a sociocultural (ref:7766)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007766&ret=B"
-    },
-    {
-      "date": "29/10/2026",
-      "id": "032026007768",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "T. s. en desarrollo de aplicaciones web en red programa contratos obtención práctica profesional ayto. oviedo (ref.: 7768)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007768&ret=B"
     },
     {
       "date": "29/10/2026",
@@ -3790,15 +3745,6 @@
       "sector": "MO",
       "title": "Electricista cableador/a (ref. 7792)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007792&ret=B"
-    },
-    {
-      "date": "29/10/2026",
-      "id": "032026007793",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Grado en sociología. programa contratos obtención práctica profesional ayto oviedo (ref.: 7793)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007793&ret=B"
     },
     {
       "date": "29/10/2026",
@@ -5557,8 +5503,8 @@
       "last_crawled": "2026-11-06T08:58:04Z"
     },
     "AR": {
-      "count": 1,
-      "last_crawled": "2026-11-05T11:55:46Z"
+      "count": 0,
+      "last_crawled": "2026-11-06T11:51:44Z"
     },
     "AU": {
       "count": 8,
@@ -5573,8 +5519,8 @@
       "last_crawled": "2026-11-06T07:38:34Z"
     },
     "EM": {
-      "count": 24,
-      "last_crawled": "2026-11-05T11:55:46Z"
+      "count": 18,
+      "last_crawled": "2026-11-06T11:51:44Z"
     },
     "EO": {
       "count": 76,
@@ -5602,11 +5548,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-11-05T11:55:46Z"
+      "last_crawled": "2026-11-06T11:51:44Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-11-05T11:55:46Z"
+      "last_crawled": "2026-11-06T11:51:44Z"
     },
     "MD": {
       "count": 7,
@@ -5617,8 +5563,8 @@
       "last_crawled": "2026-11-06T10:14:15Z"
     },
     "MO": {
-      "count": 19,
-      "last_crawled": "2026-11-05T11:55:46Z"
+      "count": 20,
+      "last_crawled": "2026-11-06T11:51:44Z"
     },
     "MR": {
       "count": 17,
@@ -5626,7 +5572,7 @@
     },
     "MT": {
       "count": 8,
-      "last_crawled": "2026-11-05T11:55:46Z"
+      "last_crawled": "2026-11-06T11:51:44Z"
     },
     "PA": {
       "count": 0,
@@ -5638,7 +5584,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-05T11:55:46Z"
+      "last_crawled": "2026-11-06T11:51:44Z"
     },
     "SA": {
       "count": 64,
@@ -5661,5 +5607,5 @@
       "last_crawled": "2026-11-06T08:58:04Z"
     }
   },
-  "updated": "2026-11-06T10:14:15Z"
+  "updated": "2026-11-06T11:51:44Z"
 }
