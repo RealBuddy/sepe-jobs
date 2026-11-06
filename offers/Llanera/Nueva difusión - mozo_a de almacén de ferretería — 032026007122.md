@@ -1,9 +1,9 @@
-# Mozo/a de almacén de ferretería
+# Nueva difusión - mozo/a de almacén de ferretería
 
-- **Профессия (ES):** Mozo/a de almacén de ferretería
-- **Оригинальное название:** Mozo/a de almacén de ferretería (ref. 7122)
+- **Профессия (ES):** Nueva difusión - mozo/a de almacén de ferretería
+- **Оригинальное название:** Nueva difusión - mozo/a de almacén de ferretería (ref. 7122)
 - **Город:** Llanera (Asturias)
-- **Дата публикации:** 05/10/2026
+- **Дата публикации:** 05/11/2026
 - **ID оферты:** 032026007122
 
 ## 👉 Откликнуться на вакансию
