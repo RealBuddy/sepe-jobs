@@ -1,9 +1,9 @@
-# Электрик-специалист
+# Nueva difusión - electricista
 
-- **Профессия (ES):** Oficial electricista
-- **Оригинальное название:** Oficial electricista (ref. 7042)
+- **Профессия (ES):** Nueva difusión - electricista
+- **Оригинальное название:** Nueva difusión - electricista (ref. 7042)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 01/10/2026
+- **Дата публикации:** 06/11/2026
 - **ID оферты:** 032026007042
 
 ## 👉 Откликнуться на вакансию
