@@ -1,5 +1,5 @@
 {
-  "count": 603,
+  "count": 602,
   "failed_sectors": [],
   "offers": [
     {
@@ -1921,15 +1921,6 @@
     },
     {
       "date": "19/10/2026",
-      "id": "032026007449",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Frigorista (ref.: 7449)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007449&ret=B"
-    },
-    {
-      "date": "19/10/2026",
       "id": "032026007453",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -2494,15 +2485,6 @@
       "sector": "EO",
       "title": "Encargado/a de obras (ref.: 7573)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007573&ret=B"
-    },
-    {
-      "date": "22/10/2026",
-      "id": "032026007574",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "2 ingenieros/as - 1 plaza reservada mayores de 45 años - plan de empleo ayto langreo (ref.:7574)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007574&ret=B"
     },
     {
       "date": "22/10/2026",
@@ -5413,6 +5395,15 @@
     },
     {
       "date": "06/11/2026",
+      "id": "032026008042",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "PT",
+      "title": "Encargado/a de subestaciones electricas (ref: 8042)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008042&ret=B"
+    },
+    {
+      "date": "06/11/2026",
       "id": "032026008044",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -5441,7 +5432,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-06T11:51:44Z"
+      "last_crawled": "2026-11-07T10:54:38Z"
     },
     "AU": {
       "count": 8,
@@ -5456,8 +5447,8 @@
       "last_crawled": "2026-11-07T06:48:55Z"
     },
     "EM": {
-      "count": 18,
-      "last_crawled": "2026-11-06T11:51:44Z"
+      "count": 17,
+      "last_crawled": "2026-11-07T10:54:38Z"
     },
     "EO": {
       "count": 71,
@@ -5485,11 +5476,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-11-06T11:51:44Z"
+      "last_crawled": "2026-11-07T10:54:38Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-11-06T11:51:44Z"
+      "last_crawled": "2026-11-07T10:54:38Z"
     },
     "MD": {
       "count": 8,
@@ -5500,8 +5491,8 @@
       "last_crawled": "2026-11-07T09:30:06Z"
     },
     "MO": {
-      "count": 20,
-      "last_crawled": "2026-11-06T11:51:44Z"
+      "count": 19,
+      "last_crawled": "2026-11-07T10:54:38Z"
     },
     "MR": {
       "count": 17,
@@ -5509,7 +5500,7 @@
     },
     "MT": {
       "count": 8,
-      "last_crawled": "2026-11-06T11:51:44Z"
+      "last_crawled": "2026-11-07T10:54:38Z"
     },
     "PA": {
       "count": 0,
@@ -5520,8 +5511,8 @@
       "last_crawled": "2026-11-07T08:23:51Z"
     },
     "PT": {
-      "count": 1,
-      "last_crawled": "2026-11-06T11:51:44Z"
+      "count": 2,
+      "last_crawled": "2026-11-07T10:54:38Z"
     },
     "SA": {
       "count": 60,
@@ -5544,5 +5535,5 @@
       "last_crawled": "2026-11-07T08:23:51Z"
     }
   },
-  "updated": "2026-11-07T09:30:06Z"
+  "updated": "2026-11-07T10:54:38Z"
 }
