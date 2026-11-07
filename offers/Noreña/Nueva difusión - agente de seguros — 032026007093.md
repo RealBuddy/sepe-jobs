@@ -1,9 +1,9 @@
-# Agente de seguros para noreña
+# Nueva difusión - agente de seguros
 
-- **Профессия (ES):** Agente de seguros para noreña
-- **Оригинальное название:** Agente de seguros para noreña (ref. 7093)
+- **Профессия (ES):** Nueva difusión - agente de seguros
+- **Оригинальное название:** Nueva difusión - agente de seguros (ref. 7093)
 - **Город:** Noreña (Asturias)
-- **Дата публикации:** 05/10/2026
+- **Дата публикации:** 06/11/2026
 - **ID оферты:** 032026007093
 
 ## 👉 Откликнуться на вакансию
