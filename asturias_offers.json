@@ -1,5 +1,5 @@
 {
-  "count": 594,
+  "count": 591,
   "failed_sectors": [],
   "offers": [
     {
@@ -37,15 +37,6 @@
       "sector": "TC",
       "title": "Chófer-gruista (ref. 1615)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026001615&ret=B"
-    },
-    {
-      "date": "08/10/2026",
-      "id": "032026002026",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "nueva difusión aux. administrativo - el berrón (ref. 2026)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026002026&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -634,15 +625,6 @@
     },
     {
       "date": "08/10/2026",
-      "id": "032026006467",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "nueva difusión montador/a de toldos (ref.6467)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006467&ret=B"
-    },
-    {
-      "date": "08/10/2026",
       "id": "032026006472",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -1090,15 +1072,6 @@
       "sector": "EO",
       "title": "Ayudante-oficial 2ª pladurista-pintor/a (ref.:6962)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006962&ret=B"
-    },
-    {
-      "date": "19/10/2026",
-      "id": "032026006964",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Camarero/a (ref.:6964)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006964&ret=B"
     },
     {
       "date": "29/09/2026",
@@ -5355,8 +5328,8 @@
       "last_crawled": "2026-11-08T06:54:50Z"
     },
     "AO": {
-      "count": 44,
-      "last_crawled": "2026-11-07T08:23:51Z"
+      "count": 43,
+      "last_crawled": "2026-11-08T08:39:22Z"
     },
     "AR": {
       "count": 0,
@@ -5364,7 +5337,7 @@
     },
     "AU": {
       "count": 8,
-      "last_crawled": "2026-11-07T08:23:51Z"
+      "last_crawled": "2026-11-08T08:39:22Z"
     },
     "CC": {
       "count": 45,
@@ -5379,12 +5352,12 @@
       "last_crawled": "2026-11-07T10:54:38Z"
     },
     "EO": {
-      "count": 71,
-      "last_crawled": "2026-11-07T08:23:51Z"
+      "count": 70,
+      "last_crawled": "2026-11-08T08:39:22Z"
     },
     "FE": {
       "count": 7,
-      "last_crawled": "2026-11-07T08:23:51Z"
+      "last_crawled": "2026-11-08T08:39:22Z"
     },
     "IA": {
       "count": 11,
@@ -5396,7 +5369,7 @@
     },
     "IM": {
       "count": 2,
-      "last_crawled": "2026-11-07T08:23:51Z"
+      "last_crawled": "2026-11-08T08:39:22Z"
     },
     "IP": {
       "count": 19,
@@ -5436,7 +5409,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-11-07T08:23:51Z"
+      "last_crawled": "2026-11-08T08:39:22Z"
     },
     "PT": {
       "count": 2,
@@ -5459,9 +5432,9 @@
       "last_crawled": "2026-11-07T09:30:06Z"
     },
     "TH": {
-      "count": 68,
-      "last_crawled": "2026-11-07T08:23:51Z"
+      "count": 67,
+      "last_crawled": "2026-11-08T08:39:22Z"
     }
   },
-  "updated": "2026-11-08T06:54:50Z"
+  "updated": "2026-11-08T08:39:22Z"
 }
