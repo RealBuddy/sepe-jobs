@@ -1,5 +1,5 @@
 {
-  "count": 602,
+  "count": 594,
   "failed_sectors": [],
   "offers": [
     {
@@ -1471,15 +1471,6 @@
     },
     {
       "date": "08/10/2026",
-      "id": "032026007216",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de refuerzo educativo en ciencias (ref. 7216)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007216&ret=B"
-    },
-    {
-      "date": "08/10/2026",
       "id": "032026007217",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -1687,15 +1678,6 @@
     },
     {
       "date": "14/10/2026",
-      "id": "032026007334",
-      "municipio": "Villaviciosa",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Empleado/a de hogar (ref.: 7334)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007334&ret=B"
-    },
-    {
-      "date": "14/10/2026",
       "id": "032026007335",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -1873,15 +1855,6 @@
       "sector": "CC",
       "title": "Mozo/a de almacen (ref.: 7418)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007418&ret=B"
-    },
-    {
-      "date": "19/10/2026",
-      "id": "032026007434",
-      "municipio": "el",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Terapeuta ocupacional (ref.:7434)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007434&ret=B"
     },
     {
       "date": "19/10/2026",
@@ -2181,15 +2154,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007514&ret=B"
     },
     {
-      "date": "22/10/2026",
-      "id": "032026007516",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de matemáticas(ref.7516)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007516&ret=B"
-    },
-    {
       "date": "21/10/2026",
       "id": "032026007517",
       "municipio": "Mieres",
@@ -2226,15 +2190,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007524&ret=B"
     },
     {
-      "date": "22/10/2026",
-      "id": "032026007525",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de técnicas ortoprotésicas (ref.7525)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007525&ret=B"
-    },
-    {
       "date": "21/10/2026",
       "id": "032026007526",
       "municipio": "Llanes",
@@ -2242,15 +2197,6 @@
       "sector": "IA",
       "title": "Pastelero/a (ref.7526)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007526&ret=B"
-    },
-    {
-      "date": "22/10/2026",
-      "id": "032026007527",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de innovación y proyectos en la educación infantil (ref.: 7527)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007527&ret=B"
     },
     {
       "date": "22/10/2026",
@@ -2332,15 +2278,6 @@
       "sector": "SP",
       "title": "1 técnico/a auxiliar de spa (ref: 7542)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007542&ret=B"
-    },
-    {
-      "date": "22/10/2026",
-      "id": "032026007545",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Profesor/a de actividades deportivas (ref.7545)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007545&ret=B"
     },
     {
       "date": "22/10/2026",
@@ -2782,15 +2719,6 @@
       "sector": "TH",
       "title": "Camarero/a (ref. 7661)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007661&ret=B"
-    },
-    {
-      "date": "26/10/2026",
-      "id": "032026007664",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "2 puestos de limpieza para residencia (ref. 7664)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007664&ret=B"
     },
     {
       "date": "26/10/2026",
@@ -5424,7 +5352,7 @@
   "sectors": {
     "AA": {
       "count": 28,
-      "last_crawled": "2026-11-07T06:48:55Z"
+      "last_crawled": "2026-11-08T06:54:50Z"
     },
     "AO": {
       "count": 44,
@@ -5440,11 +5368,11 @@
     },
     "CC": {
       "count": 45,
-      "last_crawled": "2026-11-07T06:48:55Z"
+      "last_crawled": "2026-11-08T06:54:50Z"
     },
     "DO": {
-      "count": 24,
-      "last_crawled": "2026-11-07T06:48:55Z"
+      "count": 19,
+      "last_crawled": "2026-11-08T06:54:50Z"
     },
     "EM": {
       "count": 17,
@@ -5464,7 +5392,7 @@
     },
     "IG": {
       "count": 1,
-      "last_crawled": "2026-11-07T06:48:55Z"
+      "last_crawled": "2026-11-08T06:54:50Z"
     },
     "IM": {
       "count": 2,
@@ -5484,7 +5412,7 @@
     },
     "MD": {
       "count": 8,
-      "last_crawled": "2026-11-07T06:48:55Z"
+      "last_crawled": "2026-11-08T06:54:50Z"
     },
     "MN": {
       "count": 0,
@@ -5504,7 +5432,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-11-07T06:48:55Z"
+      "last_crawled": "2026-11-08T06:54:50Z"
     },
     "PC": {
       "count": 0,
@@ -5523,8 +5451,8 @@
       "last_crawled": "2026-11-07T09:30:06Z"
     },
     "SP": {
-      "count": 102,
-      "last_crawled": "2026-11-07T06:48:55Z"
+      "count": 99,
+      "last_crawled": "2026-11-08T06:54:50Z"
     },
     "TC": {
       "count": 38,
@@ -5535,5 +5463,5 @@
       "last_crawled": "2026-11-07T08:23:51Z"
     }
   },
-  "updated": "2026-11-07T10:54:38Z"
+  "updated": "2026-11-08T06:54:50Z"
 }
