@@ -1,5 +1,5 @@
 {
-  "count": 591,
+  "count": 590,
   "failed_sectors": [],
   "offers": [
     {
@@ -631,15 +631,6 @@
       "sector": "MO",
       "title": "nueva difusión montador/a de carpas (ref.6472)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006472&ret=B"
-    },
-    {
-      "date": "08/10/2026",
-      "id": "032026006488",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "nueva difusión conductor/a camión y montador/a (ref.6488)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006488&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -5361,7 +5352,7 @@
     },
     "IA": {
       "count": 11,
-      "last_crawled": "2026-11-07T09:30:06Z"
+      "last_crawled": "2026-11-08T09:45:53Z"
     },
     "IG": {
       "count": 1,
@@ -5373,7 +5364,7 @@
     },
     "IP": {
       "count": 19,
-      "last_crawled": "2026-11-07T09:30:06Z"
+      "last_crawled": "2026-11-08T09:45:53Z"
     },
     "IQ": {
       "count": 0,
@@ -5389,7 +5380,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-11-07T09:30:06Z"
+      "last_crawled": "2026-11-08T09:45:53Z"
     },
     "MO": {
       "count": 19,
@@ -5397,7 +5388,7 @@
     },
     "MR": {
       "count": 17,
-      "last_crawled": "2026-11-07T09:30:06Z"
+      "last_crawled": "2026-11-08T09:45:53Z"
     },
     "MT": {
       "count": 8,
@@ -5417,24 +5408,24 @@
     },
     "SA": {
       "count": 60,
-      "last_crawled": "2026-11-07T09:30:06Z"
+      "last_crawled": "2026-11-08T09:45:53Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-11-07T09:30:06Z"
+      "last_crawled": "2026-11-08T09:45:53Z"
     },
     "SP": {
       "count": 99,
       "last_crawled": "2026-11-08T06:54:50Z"
     },
     "TC": {
-      "count": 38,
-      "last_crawled": "2026-11-07T09:30:06Z"
+      "count": 37,
+      "last_crawled": "2026-11-08T09:45:53Z"
     },
     "TH": {
       "count": 67,
       "last_crawled": "2026-11-08T08:39:22Z"
     }
   },
-  "updated": "2026-11-08T08:39:22Z"
+  "updated": "2026-11-08T09:45:53Z"
 }
