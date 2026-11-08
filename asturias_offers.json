@@ -1,5 +1,5 @@
 {
-  "count": 590,
+  "count": 589,
   "failed_sectors": [],
   "offers": [
     {
@@ -622,15 +622,6 @@
       "sector": "TH",
       "title": "Ayudante de cocina (ref: 6458)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006458&ret=B"
-    },
-    {
-      "date": "08/10/2026",
-      "id": "032026006472",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "nueva difusión montador/a de carpas (ref.6472)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006472&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -5324,7 +5315,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-07T10:54:38Z"
+      "last_crawled": "2026-11-08T11:05:04Z"
     },
     "AU": {
       "count": 8,
@@ -5340,7 +5331,7 @@
     },
     "EM": {
       "count": 17,
-      "last_crawled": "2026-11-07T10:54:38Z"
+      "last_crawled": "2026-11-08T11:05:04Z"
     },
     "EO": {
       "count": 70,
@@ -5368,11 +5359,11 @@
     },
     "IQ": {
       "count": 0,
-      "last_crawled": "2026-11-07T10:54:38Z"
+      "last_crawled": "2026-11-08T11:05:04Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-11-07T10:54:38Z"
+      "last_crawled": "2026-11-08T11:05:04Z"
     },
     "MD": {
       "count": 8,
@@ -5383,8 +5374,8 @@
       "last_crawled": "2026-11-08T09:45:53Z"
     },
     "MO": {
-      "count": 19,
-      "last_crawled": "2026-11-07T10:54:38Z"
+      "count": 18,
+      "last_crawled": "2026-11-08T11:05:04Z"
     },
     "MR": {
       "count": 17,
@@ -5392,7 +5383,7 @@
     },
     "MT": {
       "count": 8,
-      "last_crawled": "2026-11-07T10:54:38Z"
+      "last_crawled": "2026-11-08T11:05:04Z"
     },
     "PA": {
       "count": 0,
@@ -5404,7 +5395,7 @@
     },
     "PT": {
       "count": 2,
-      "last_crawled": "2026-11-07T10:54:38Z"
+      "last_crawled": "2026-11-08T11:05:04Z"
     },
     "SA": {
       "count": 60,
@@ -5427,5 +5418,5 @@
       "last_crawled": "2026-11-08T08:39:22Z"
     }
   },
-  "updated": "2026-11-08T09:45:53Z"
+  "updated": "2026-11-08T11:05:04Z"
 }
