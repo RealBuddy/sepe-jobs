@@ -1,5 +1,5 @@
 {
-  "count": 591,
+  "count": 589,
   "failed_sectors": [],
   "offers": [
     {
@@ -163,15 +163,6 @@
       "sector": "MO",
       "title": "Electricista industrial (ref: 4820)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004820&ret=B"
-    },
-    {
-      "date": "09/10/2026",
-      "id": "032026005058",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "nueva difusión enfermero/a valdesoto (ref. 5058)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005058&ret=B"
     },
     {
       "date": "06/11/2026",
@@ -525,15 +516,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006250&ret=B"
     },
     {
-      "date": "09/10/2026",
-      "id": "032026006271",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "nueva difusión enfermero/a (ref. 6271)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006271&ret=B"
-    },
-    {
       "date": "23/10/2026",
       "id": "032026006295",
       "municipio": "Oviedo",
@@ -757,6 +739,15 @@
       "sector": "SA",
       "title": "nueva difusión gerocultor/a (ref. 6687)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006687&ret=B"
+    },
+    {
+      "date": "09/11/2026",
+      "id": "032026006696",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Nueva difusión - 2 puestos de auxiliar de clínica (ref. 6696)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006696&ret=B"
     },
     {
       "date": "22/10/2026",
@@ -1155,6 +1146,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007043&ret=B"
     },
     {
+      "date": "09/11/2026",
+      "id": "032026007051",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Nueva difusión - gerocultor/a (ref. 7051)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007051&ret=B"
+    },
+    {
       "date": "28/10/2026",
       "id": "032026007067",
       "municipio": "Carreño",
@@ -1389,15 +1389,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007211&ret=B"
     },
     {
-      "date": "07/10/2026",
-      "id": "032026007212",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Conductor/a camion grua/vehiculo tipo uro con grua oficial (ref.: 7212)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007212&ret=B"
-    },
-    {
       "date": "08/10/2026",
       "id": "032026007217",
       "municipio": "Siero",
@@ -1459,15 +1450,6 @@
       "sector": "SP",
       "title": "Director/a de residencia geriátrica (ref:7255)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007255&ret=B"
-    },
-    {
-      "date": "09/10/2026",
-      "id": "032026007259",
-      "municipio": "Corvera de asturias",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Enfermero/a (ref: 7259)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007259&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -2542,15 +2524,6 @@
     },
     {
       "date": "26/10/2026",
-      "id": "032026007647",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Soldador/a vehículos industriales (ref: 7647)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007647&ret=B"
-    },
-    {
-      "date": "26/10/2026",
       "id": "032026007649",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -2578,15 +2551,6 @@
     },
     {
       "date": "26/10/2026",
-      "id": "032026007656",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Carretillero/a sector metal (ref: 7656)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007656&ret=B"
-    },
-    {
-      "date": "26/10/2026",
       "id": "032026007659",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -2602,15 +2566,6 @@
       "sector": "TH",
       "title": "Camarero/a (ref. 7661)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007661&ret=B"
-    },
-    {
-      "date": "26/10/2026",
-      "id": "032026007667",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Auxiliar de ayuda a domicilio (ref. 7667)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007667&ret=B"
     },
     {
       "date": "26/10/2026",
@@ -2928,7 +2883,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007714&ret=B"
     },
     {
-      "date": "27/10/2026",
+      "date": "09/11/2026",
       "id": "032026007715",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -4053,15 +4008,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007885&ret=B"
     },
     {
-      "date": "30/10/2026",
-      "id": "032026007887",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Técnico/a de calidad alimentaria (ref. 7887)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007887&ret=B"
-    },
-    {
       "date": "01/11/2026",
       "id": "032026007888",
       "municipio": "Valdes",
@@ -5016,6 +4962,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008013&ret=B"
     },
     {
+      "date": "09/11/2026",
+      "id": "032026008014",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "2 puestos auxiliar de enfermería (ref.8014)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008014&ret=B"
+    },
+    {
       "date": "06/11/2026",
       "id": "032026008015",
       "municipio": "Siero",
@@ -5241,6 +5196,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008042&ret=B"
     },
     {
+      "date": "09/11/2026",
+      "id": "032026008043",
+      "municipio": "el",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Auxiliar de farmacia (ref.:8043)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008043&ret=B"
+    },
+    {
       "date": "06/11/2026",
       "id": "032026008044",
       "municipio": "Llanera",
@@ -5269,6 +5233,15 @@
     },
     {
       "date": "09/11/2026",
+      "id": "032026008048",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "2 auxiliares de enfermería (ref. 8048)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008048&ret=B"
+    },
+    {
+      "date": "09/11/2026",
       "id": "032026008049",
       "municipio": "Langreo",
       "provincia": "Asturias",
@@ -5293,6 +5266,15 @@
       "sector": "TH",
       "title": "Ayudante/a de cocina (ref.: 8053)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008053&ret=B"
+    },
+    {
+      "date": "09/11/2026",
+      "id": "032026008054",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Gerocultor/a (ref.: 8054)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008054&ret=B"
     },
     {
       "date": "09/11/2026",
@@ -5360,8 +5342,8 @@
       "last_crawled": "2026-11-09T09:13:09Z"
     },
     "IA": {
-      "count": 11,
-      "last_crawled": "2026-11-08T09:45:53Z"
+      "count": 10,
+      "last_crawled": "2026-11-09T10:45:35Z"
     },
     "IG": {
       "count": 1,
@@ -5372,8 +5354,8 @@
       "last_crawled": "2026-11-09T09:13:09Z"
     },
     "IP": {
-      "count": 19,
-      "last_crawled": "2026-11-08T09:45:53Z"
+      "count": 18,
+      "last_crawled": "2026-11-09T10:45:35Z"
     },
     "IQ": {
       "count": 0,
@@ -5389,7 +5371,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-11-08T09:45:53Z"
+      "last_crawled": "2026-11-09T10:45:35Z"
     },
     "MO": {
       "count": 18,
@@ -5397,7 +5379,7 @@
     },
     "MR": {
       "count": 17,
-      "last_crawled": "2026-11-08T09:45:53Z"
+      "last_crawled": "2026-11-09T10:45:35Z"
     },
     "MT": {
       "count": 8,
@@ -5416,25 +5398,25 @@
       "last_crawled": "2026-11-08T11:05:04Z"
     },
     "SA": {
-      "count": 60,
-      "last_crawled": "2026-11-08T09:45:53Z"
+      "count": 62,
+      "last_crawled": "2026-11-09T10:45:35Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-11-08T09:45:53Z"
+      "last_crawled": "2026-11-09T10:45:35Z"
     },
     "SP": {
       "count": 99,
       "last_crawled": "2026-11-09T07:37:18Z"
     },
     "TC": {
-      "count": 37,
-      "last_crawled": "2026-11-08T09:45:53Z"
+      "count": 35,
+      "last_crawled": "2026-11-09T10:45:35Z"
     },
     "TH": {
       "count": 72,
       "last_crawled": "2026-11-09T09:13:09Z"
     }
   },
-  "updated": "2026-11-09T09:13:09Z"
+  "updated": "2026-11-09T10:45:35Z"
 }
