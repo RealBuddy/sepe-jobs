@@ -1,5 +1,5 @@
 {
-  "count": 578,
+  "count": 575,
   "failed_sectors": [],
   "offers": [
     {
@@ -372,15 +372,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005825&ret=B"
     },
     {
-      "date": "15/10/2026",
-      "id": "032026005831",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Nueva difusión: instalador/a de alarmas (ref. 5831)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005831&ret=B"
-    },
-    {
       "date": "30/10/2026",
       "id": "032026005846",
       "municipio": "Siero",
@@ -676,15 +667,6 @@
       "sector": "EO",
       "title": "Albañil (ref: 6585)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006585&ret=B"
-    },
-    {
-      "date": "15/10/2026",
-      "id": "032026006590",
-      "municipio": "Llanera",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Ingeniero/a de proyectos y soluciones de seguridad (ref. 6590)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006590&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -2677,15 +2659,6 @@
     },
     {
       "date": "27/10/2026",
-      "id": "032026007694",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Oficial electricista 1ª/2ª/3ª. (ref:7694)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007694&ret=B"
-    },
-    {
-      "date": "27/10/2026",
       "id": "032026007697",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -3559,15 +3532,6 @@
     },
     {
       "date": "30/10/2026",
-      "id": "032026007859",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "2 puestos técnico/a superior en marketing y publicidad (ref.: 7859). plan de empleo ayto. gijón",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007859&ret=B"
-    },
-    {
-      "date": "30/10/2026",
       "id": "032026007861",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -3691,24 +3655,6 @@
       "sector": "TC",
       "title": "Conductor/a de camión de limpieza industrial (ref.: 7878)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007878&ret=B"
-    },
-    {
-      "date": "30/10/2026",
-      "id": "032026007880",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "17 puestos de peón/a de oficios. plan de empleo del ayuntamiento de gijón 26/27. (ref.: 7880)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007880&ret=B"
-    },
-    {
-      "date": "30/10/2026",
-      "id": "032026007881",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "3 puestos de peón/a de oficios.reserva de discapacidad intelectual. plan empleo ayto. de gijón 26/27. (ref.: 7881)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007881&ret=B"
     },
     {
       "date": "30/10/2026",
@@ -5134,6 +5080,15 @@
     },
     {
       "date": "09/11/2026",
+      "id": "032026008077",
+      "municipio": "Piloña",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Oficial electricista (ref.: 8077)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008077&ret=B"
+    },
+    {
+      "date": "09/11/2026",
       "id": "032026008078",
       "municipio": "Navia",
       "provincia": "Asturias",
@@ -5158,6 +5113,15 @@
       "sector": "SP",
       "title": "Limpiador/a para mieres. (ref: 8081)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008081&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008091",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Asesoría jurídica (ref: 8091)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008091&ret=B"
     },
     {
       "date": "10/11/2026",
@@ -5203,6 +5167,15 @@
       "sector": "SP",
       "title": "Conductor/a/limpiador/a",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=162026011053&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "162026011992",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Planificador/a de producción",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=162026011992&ret=B"
     }
   ],
   "sectors": {
@@ -5216,7 +5189,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-09T12:35:25Z"
+      "last_crawled": "2026-11-10T12:12:32Z"
     },
     "AU": {
       "count": 8,
@@ -5232,7 +5205,7 @@
     },
     "EM": {
       "count": 20,
-      "last_crawled": "2026-11-09T12:35:25Z"
+      "last_crawled": "2026-11-10T12:12:32Z"
     },
     "EO": {
       "count": 71,
@@ -5260,11 +5233,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-11-09T12:35:25Z"
+      "last_crawled": "2026-11-10T12:12:32Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-11-09T12:35:25Z"
+      "last_crawled": "2026-11-10T12:12:32Z"
     },
     "MD": {
       "count": 8,
@@ -5275,16 +5248,16 @@
       "last_crawled": "2026-11-10T10:40:06Z"
     },
     "MO": {
-      "count": 13,
-      "last_crawled": "2026-11-09T12:35:25Z"
+      "count": 12,
+      "last_crawled": "2026-11-10T12:12:32Z"
     },
     "MR": {
       "count": 18,
       "last_crawled": "2026-11-10T10:40:06Z"
     },
     "MT": {
-      "count": 6,
-      "last_crawled": "2026-11-09T12:35:25Z"
+      "count": 4,
+      "last_crawled": "2026-11-10T12:12:32Z"
     },
     "PA": {
       "count": 0,
@@ -5296,7 +5269,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-09T12:35:25Z"
+      "last_crawled": "2026-11-10T12:12:32Z"
     },
     "SA": {
       "count": 63,
@@ -5319,5 +5292,5 @@
       "last_crawled": "2026-11-09T09:13:09Z"
     }
   },
-  "updated": "2026-11-10T10:40:06Z"
+  "updated": "2026-11-10T12:12:32Z"
 }
