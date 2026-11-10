@@ -1,9 +1,9 @@
-# Dependiente/a supermercado
+# Nueva difusión - dependiente/a supermercado
 
-- **Профессия (ES):** Dependiente/a supermercado
-- **Оригинальное название:** Dependiente/a supermercado (ref. 7673)
+- **Профессия (ES):** Nueva difusión - dependiente/a supermercado
+- **Оригинальное название:** Nueva difusión - dependiente/a supermercado (ref. 7673)
 - **Город:** Gijón (Asturias)
-- **Дата публикации:** 26/10/2026
+- **Дата публикации:** 09/11/2026
 - **ID оферты:** 032026007673
 
 ## 👉 Откликнуться на вакансию
