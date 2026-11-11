@@ -1,5 +1,5 @@
 {
-  "count": 575,
+  "count": 578,
   "failed_sectors": [],
   "offers": [
     {
@@ -649,15 +649,6 @@
       "sector": "CC",
       "title": "Asesores/as comerciales de telecomunicaciones (ref: 6573)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006573&ret=B"
-    },
-    {
-      "date": "10/09/2026",
-      "id": "032026006583",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Consultor/a de proteccion de datos (ref.: 6583)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006583&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -5079,6 +5070,33 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008108&ret=B"
     },
     {
+      "date": "11/11/2026",
+      "id": "032026008109",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a investigador/a detección inteligente y automatización analítica ciberseguridad (ref.: 8109) programa investigo puesto a",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008109&ret=B"
+    },
+    {
+      "date": "11/11/2026",
+      "id": "032026008110",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a investigador/a en diseño e integración para servicio digitales de ciberseguridad (ref.: 8110)programa investigo puesto b",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008110&ret=B"
+    },
+    {
+      "date": "11/11/2026",
+      "id": "032026008111",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a investigador/a en validación automatizada de seguridad y telecomunicaciones (ref.: 8111) programa investigo puesto c",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008111&ret=B"
+    },
+    {
       "date": "10/11/2026",
       "id": "032026008112",
       "municipio": "Langreo",
@@ -5160,6 +5178,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008129&ret=B"
     },
     {
+      "date": "11/11/2026",
+      "id": "032026008130",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Asesor/a fiscal (ref.: 8130)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008130&ret=B"
+    },
+    {
       "date": "16/10/2026",
       "id": "162026011053",
       "municipio": "Aviles",
@@ -5189,7 +5216,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-10T12:12:32Z"
+      "last_crawled": "2026-11-11T11:42:25Z"
     },
     "AU": {
       "count": 9,
@@ -5204,8 +5231,8 @@
       "last_crawled": "2026-11-11T07:28:54Z"
     },
     "EM": {
-      "count": 20,
-      "last_crawled": "2026-11-10T12:12:32Z"
+      "count": 23,
+      "last_crawled": "2026-11-11T11:42:25Z"
     },
     "EO": {
       "count": 66,
@@ -5233,11 +5260,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-11-10T12:12:32Z"
+      "last_crawled": "2026-11-11T11:42:25Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-11-10T12:12:32Z"
+      "last_crawled": "2026-11-11T11:42:25Z"
     },
     "MD": {
       "count": 6,
@@ -5249,7 +5276,7 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-11-10T12:12:32Z"
+      "last_crawled": "2026-11-11T11:42:25Z"
     },
     "MR": {
       "count": 20,
@@ -5257,7 +5284,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-11-10T12:12:32Z"
+      "last_crawled": "2026-11-11T11:42:25Z"
     },
     "PA": {
       "count": 0,
@@ -5269,7 +5296,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-10T12:12:32Z"
+      "last_crawled": "2026-11-11T11:42:25Z"
     },
     "SA": {
       "count": 60,
@@ -5292,5 +5319,5 @@
       "last_crawled": "2026-11-11T08:54:03Z"
     }
   },
-  "updated": "2026-11-11T10:08:26Z"
+  "updated": "2026-11-11T11:42:25Z"
 }
