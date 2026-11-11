@@ -1,5 +1,5 @@
 {
-  "count": 575,
+  "count": 580,
   "failed_sectors": [],
   "offers": [
     {
@@ -156,12 +156,12 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004338&ret=B"
     },
     {
-      "date": "14/10/2026",
+      "date": "10/11/2026",
       "id": "032026004426",
       "municipio": "Gijón",
       "provincia": "Asturias",
       "sector": "CC",
-      "title": "Mozo/a de almacén-repartidor/a (ref.: 4426)",
+      "title": "nueva difusión2 puestos mozo/a de almacén-repartidor/a (ref.: 4426)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026004426&ret=B"
     },
     {
@@ -705,6 +705,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006622&ret=B"
     },
     {
+      "date": "10/11/2026",
+      "id": "032026006634",
+      "municipio": "Grado",
+      "provincia": "Asturias",
+      "sector": "CC",
+      "title": "2 dependientes/as de comercio (ref.6634)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006634&ret=B"
+    },
+    {
       "date": "14/09/2026",
       "id": "032026006645",
       "municipio": "Villaviciosa",
@@ -1189,15 +1198,6 @@
       "sector": "AU",
       "title": "Mecánico/a del automóvil (ref: 7076)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007076&ret=B"
-    },
-    {
-      "date": "04/11/2026",
-      "id": "032026007080",
-      "municipio": "Gozon",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "12 alumnos/as trabajadores/as c.p.\"limpieza de playas y espacios singulares\" programa joven ocúpate (ref. 7080)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007080&ret=B"
     },
     {
       "date": "02/10/2026",
@@ -1939,15 +1939,6 @@
     },
     {
       "date": "21/10/2026",
-      "id": "032026007507",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Vendedor/a de muebles (ref.: 7507)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007507&ret=B"
-    },
-    {
-      "date": "21/10/2026",
       "id": "032026007508",
       "municipio": "Mieres",
       "provincia": "Asturias",
@@ -1975,15 +1966,6 @@
     },
     {
       "date": "21/10/2026",
-      "id": "032026007514",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "DO",
-      "title": "Docente formación profesional rama sanitaria (ref.: 7514)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007514&ret=B"
-    },
-    {
-      "date": "21/10/2026",
       "id": "032026007517",
       "municipio": "Mieres",
       "provincia": "Asturias",
@@ -2008,15 +1990,6 @@
       "sector": "EO",
       "title": "4 peones/as de obras públicas. plan de empleo ayuntamiento de pravia (ref. 7523)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007523&ret=B"
-    },
-    {
-      "date": "21/10/2026",
-      "id": "032026007524",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MD",
-      "title": "Instalador/a de muebles de cocina (ref.: 7524)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007524&ret=B"
     },
     {
       "date": "21/10/2026",
@@ -2071,15 +2044,6 @@
       "sector": "EO",
       "title": "2 oficiales albañiles - plan de empleo ayto. mieres - (ref. 7533)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007533&ret=B"
-    },
-    {
-      "date": "22/10/2026",
-      "id": "032026007534",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "MD",
-      "title": "Oficial carpintero/a - plan de empleo ayto. mieres - (ref. 7534)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007534&ret=B"
     },
     {
       "date": "22/10/2026",
@@ -2470,24 +2434,6 @@
     },
     {
       "date": "26/10/2026",
-      "id": "032026007650",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Dependiente/a tienda de alimentacion (ref: 7650)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007650&ret=B"
-    },
-    {
-      "date": "27/10/2026",
-      "id": "032026007653",
-      "municipio": "Cangas de onis",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Técnico/a contrato formativo para la obtención de la práctica profesional. ayto. de cangas de onís (ref:7653)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007653&ret=B"
-    },
-    {
-      "date": "26/10/2026",
       "id": "032026007661",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -2866,15 +2812,6 @@
     },
     {
       "date": "28/10/2026",
-      "id": "032026007727",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "CC",
-      "title": "Responsable regional de compras (ref: 7727)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007727&ret=B"
-    },
-    {
-      "date": "28/10/2026",
       "id": "032026007728",
       "municipio": "Soto del barco",
       "provincia": "Asturias",
@@ -3082,15 +3019,6 @@
     },
     {
       "date": "29/10/2026",
-      "id": "032026007773",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Limpiador/a (ref.: 7773)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007773&ret=B"
-    },
-    {
-      "date": "29/10/2026",
       "id": "032026007774",
       "municipio": "Teverga",
       "provincia": "Asturias",
@@ -3270,12 +3198,12 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007809&ret=B"
     },
     {
-      "date": "10/11/2026",
+      "date": "11/11/2026",
       "id": "032026007811",
       "municipio": "Teverga",
       "provincia": "Asturias",
       "sector": "SP",
-      "title": "Dinamizador social - contrato en prácticas ayto. teverga (ref. 7811)",
+      "title": "Dinamizador social y turistico - contrato prácticas ayto. teverga ¡¡modificacion condiciones!!",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007811&ret=B"
     },
     {
@@ -3837,7 +3765,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007908&ret=B"
     },
     {
-      "date": "05/11/2026",
+      "date": "10/11/2026",
       "id": "032026007909",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -4782,15 +4710,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008030&ret=B"
     },
     {
-      "date": "09/11/2026",
-      "id": "032026008031",
-      "municipio": "Castrillon",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Trabajador/a social -contrato formativo para la obtención de la práctica profesional- ayto castrillón- ref. (8031)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008031&ret=B"
-    },
-    {
       "date": "06/11/2026",
       "id": "032026008032",
       "municipio": "Grado",
@@ -5102,7 +5021,7 @@
       "municipio": "Navia",
       "provincia": "Asturias",
       "sector": "SP",
-      "title": "Limpiador/a para navia. ref: 8079",
+      "title": "Limpiador/a (ref: 8079)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008079&ret=B"
     },
     {
@@ -5111,8 +5030,62 @@
       "municipio": "Mieres",
       "provincia": "Asturias",
       "sector": "SP",
-      "title": "Limpiador/a para mieres. (ref: 8081)",
+      "title": "Limpiador/a. (ref: 8081)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008081&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008083",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "AA",
+      "title": "2 puestos de peón/a agrícola (ref.: 8083)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008083&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008084",
+      "municipio": "Noreña",
+      "provincia": "Asturias",
+      "sector": "AA",
+      "title": "4 peones servicios múltiples. plan de empleo local ayto. noreña (ref.8084)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008084&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008085",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Dependiente/a para tintorería (ref: 8085)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008085&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008086",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Limpiador/a (ref: 8086)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008086&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008089",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "2 puestos de limpiador/a (ref.: 8019)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008089&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008090",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Limpiador/a (ref. 8090)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008090&ret=B"
     },
     {
       "date": "10/11/2026",
@@ -5122,6 +5095,15 @@
       "sector": "EM",
       "title": "Asesoría jurídica (ref: 8091)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008091&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008093",
+      "municipio": "Castrillon",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Agente aeroportuario (ref: 8093)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008093&ret=B"
     },
     {
       "date": "10/11/2026",
@@ -5143,6 +5125,24 @@
     },
     {
       "date": "10/11/2026",
+      "id": "032026008096",
+      "municipio": "Cangas del narcea",
+      "provincia": "Asturias",
+      "sector": "DO",
+      "title": "Formador/a (ref.: 8096)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008096&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008097",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "CC",
+      "title": "Expendedor/a de combustible (ref: 8097)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008097&ret=B"
+    },
+    {
+      "date": "10/11/2026",
       "id": "032026008098",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -5158,6 +5158,51 @@
       "sector": "MR",
       "title": "Mecánico/a de mecánica rápida (ref. 8099)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008099&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008101",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "Limpiador/a para restaurante (ref. 8101)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008101&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008102",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "CC",
+      "title": "Mozo/a de almacén con carretilla (ref: 8102)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008102&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008104",
+      "municipio": "Lena",
+      "provincia": "Asturias",
+      "sector": "CC",
+      "title": "Cajero/a - reponedor/a (ref.8104)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008104&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008107",
+      "municipio": "Candamo",
+      "provincia": "Asturias",
+      "sector": "SP",
+      "title": "2 auxiliares de ayuda a domicilio (ref.8107).",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008107&ret=B"
+    },
+    {
+      "date": "10/11/2026",
+      "id": "032026008112",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "CC",
+      "title": "Dependiente/a de ferreteria (ref:8112)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008112&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -5180,8 +5225,8 @@
   ],
   "sectors": {
     "AA": {
-      "count": 25,
-      "last_crawled": "2026-11-10T07:59:11Z"
+      "count": 27,
+      "last_crawled": "2026-11-11T07:28:54Z"
     },
     "AO": {
       "count": 42,
@@ -5196,12 +5241,12 @@
       "last_crawled": "2026-11-09T09:13:09Z"
     },
     "CC": {
-      "count": 44,
-      "last_crawled": "2026-11-10T07:59:11Z"
+      "count": 46,
+      "last_crawled": "2026-11-11T07:28:54Z"
     },
     "DO": {
       "count": 16,
-      "last_crawled": "2026-11-10T07:59:11Z"
+      "last_crawled": "2026-11-11T07:28:54Z"
     },
     "EM": {
       "count": 20,
@@ -5221,7 +5266,7 @@
     },
     "IG": {
       "count": 1,
-      "last_crawled": "2026-11-10T07:59:11Z"
+      "last_crawled": "2026-11-11T07:28:54Z"
     },
     "IM": {
       "count": 2,
@@ -5240,8 +5285,8 @@
       "last_crawled": "2026-11-10T12:12:32Z"
     },
     "MD": {
-      "count": 8,
-      "last_crawled": "2026-11-10T07:59:11Z"
+      "count": 6,
+      "last_crawled": "2026-11-11T07:28:54Z"
     },
     "MN": {
       "count": 0,
@@ -5261,7 +5306,7 @@
     },
     "PA": {
       "count": 0,
-      "last_crawled": "2026-11-10T07:59:11Z"
+      "last_crawled": "2026-11-11T07:28:54Z"
     },
     "PC": {
       "count": 0,
@@ -5280,8 +5325,8 @@
       "last_crawled": "2026-11-10T10:40:06Z"
     },
     "SP": {
-      "count": 96,
-      "last_crawled": "2026-11-10T07:59:11Z"
+      "count": 99,
+      "last_crawled": "2026-11-11T07:28:54Z"
     },
     "TC": {
       "count": 32,
@@ -5292,5 +5337,5 @@
       "last_crawled": "2026-11-09T09:13:09Z"
     }
   },
-  "updated": "2026-11-10T12:12:32Z"
+  "updated": "2026-11-11T07:28:54Z"
 }

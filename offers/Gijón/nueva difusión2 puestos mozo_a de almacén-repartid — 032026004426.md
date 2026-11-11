@@ -1,9 +1,9 @@
-# Мальчик/девушка-склад-доставщик
+# nueva difusión2 puestos mozo/a de almacén-repartidor/a
 
-- **Профессия (ES):** Mozo/a de almacén-repartidor/a
-- **Оригинальное название:** Mozo/a de almacén-repartidor/a (ref.: 4426)
+- **Профессия (ES):** nueva difusión2 puestos mozo/a de almacén-repartidor/a
+- **Оригинальное название:** nueva difusión2 puestos mozo/a de almacén-repartidor/a (ref.: 4426)
 - **Город:** Gijón (Asturias)
-- **Дата публикации:** 14/10/2026
+- **Дата публикации:** 10/11/2026
 - **ID оферты:** 032026004426
 
 ## 👉 Откликнуться на вакансию
