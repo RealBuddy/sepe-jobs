@@ -1,5 +1,5 @@
 {
-  "count": 578,
+  "count": 575,
   "failed_sectors": [],
   "offers": [
     {
@@ -1866,15 +1866,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007494&ret=B"
     },
     {
-      "date": "22/10/2026",
-      "id": "032026007496",
-      "municipio": "Pravia",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "1 informático/a. contrato formativo. ayuntamiento de pravia (ref. 7496)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007496&ret=B"
-    },
-    {
       "date": "04/11/2026",
       "id": "032026007500",
       "municipio": "Carreño",
@@ -2044,15 +2035,6 @@
       "sector": "TH",
       "title": "Ayte. camarero/a (ref: 7562)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007562&ret=B"
-    },
-    {
-      "date": "22/10/2026",
-      "id": "032026007565",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Electricista oficial de 1ª (ref.: 7565)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007565&ret=B"
     },
     {
       "date": "22/10/2026",
@@ -2800,15 +2782,6 @@
       "sector": "CC",
       "title": "Dependiente/a de panadería (ref: 7789)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007789&ret=B"
-    },
-    {
-      "date": "29/10/2026",
-      "id": "032026007792",
-      "municipio": "Carreño",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Electricista cableador/a (ref. 7792)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007792&ret=B"
     },
     {
       "date": "29/10/2026",
@@ -4405,15 +4378,6 @@
     },
     {
       "date": "09/11/2026",
-      "id": "032026008058",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Limpiador/a (ref.8058)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008058&ret=B"
-    },
-    {
-      "date": "09/11/2026",
       "id": "032026008059",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5179,6 +5143,15 @@
     },
     {
       "date": "12/11/2026",
+      "id": "032026008156",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Promotor/a laboral (ref.:8156)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008156&ret=B"
+    },
+    {
+      "date": "12/11/2026",
       "id": "032026008160",
       "municipio": "Noreña",
       "provincia": "Asturias",
@@ -5216,7 +5189,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-11T11:42:25Z"
+      "last_crawled": "2026-11-12T12:15:36Z"
     },
     "AU": {
       "count": 9,
@@ -5231,8 +5204,8 @@
       "last_crawled": "2026-11-12T07:56:43Z"
     },
     "EM": {
-      "count": 23,
-      "last_crawled": "2026-11-11T11:42:25Z"
+      "count": 22,
+      "last_crawled": "2026-11-12T12:15:36Z"
     },
     "EO": {
       "count": 59,
@@ -5260,11 +5233,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-11-11T11:42:25Z"
+      "last_crawled": "2026-11-12T12:15:36Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-11-11T11:42:25Z"
+      "last_crawled": "2026-11-12T12:15:36Z"
     },
     "MD": {
       "count": 6,
@@ -5275,8 +5248,8 @@
       "last_crawled": "2026-11-12T10:32:09Z"
     },
     "MO": {
-      "count": 12,
-      "last_crawled": "2026-11-11T11:42:25Z"
+      "count": 10,
+      "last_crawled": "2026-11-12T12:15:36Z"
     },
     "MR": {
       "count": 22,
@@ -5284,7 +5257,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-11-11T11:42:25Z"
+      "last_crawled": "2026-11-12T12:15:36Z"
     },
     "PA": {
       "count": 0,
@@ -5296,7 +5269,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-11T11:42:25Z"
+      "last_crawled": "2026-11-12T12:15:36Z"
     },
     "SA": {
       "count": 60,
@@ -5319,5 +5292,5 @@
       "last_crawled": "2026-11-12T09:21:08Z"
     }
   },
-  "updated": "2026-11-12T10:32:09Z"
+  "updated": "2026-11-12T12:15:36Z"
 }
