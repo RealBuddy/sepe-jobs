@@ -1,5 +1,5 @@
 {
-  "count": 588,
+  "count": 589,
   "failed_sectors": [],
   "offers": [
     {
@@ -289,15 +289,6 @@
       "sector": "TH",
       "title": "Pasteleros/as (ref: 5475)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005475&ret=B"
-    },
-    {
-      "date": "30/10/2026",
-      "id": "032026005597",
-      "municipio": "Langreo",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Administrativo/a (ref.: 5597)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005597&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -2604,6 +2595,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007784&ret=B"
     },
     {
+      "date": "12/11/2026",
+      "id": "032026007792",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Electricista cableador/a (ref. 7792)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007792&ret=B"
+    },
+    {
       "date": "13/11/2026",
       "id": "032026007797",
       "municipio": "Siero",
@@ -2692,15 +2692,6 @@
       "sector": "EO",
       "title": "3puestos de operario/a de servicios múltiples. plan de empleo 2026-2027. ayto santo adriano(ref.7815)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007815&ret=B"
-    },
-    {
-      "date": "30/10/2026",
-      "id": "032026007816",
-      "municipio": "Pravia",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Oficial/a de mantenimiento electrico (ref: 7816)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007816&ret=B"
     },
     {
       "date": "30/10/2026",
@@ -3369,7 +3360,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007956&ret=B"
     },
     {
-      "date": "04/11/2026",
+      "date": "13/11/2026",
       "id": "032026007957",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -5260,6 +5251,15 @@
     },
     {
       "date": "13/11/2026",
+      "id": "032026008196",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Oficial 1ª electrista (ref.: 8196)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008196&ret=B"
+    },
+    {
+      "date": "13/11/2026",
       "id": "032026008197",
       "municipio": "Mieres",
       "provincia": "Asturias",
@@ -5275,6 +5275,15 @@
       "sector": "TH",
       "title": "Gerocultor/a o aux. enfermería (ref. 8197)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008199&ret=B"
+    },
+    {
+      "date": "13/11/2026",
+      "id": "032026008203",
+      "municipio": "Morcin",
+      "provincia": "Asturias",
+      "sector": "MT",
+      "title": "Operario/a de ensamblaje en línea de producción (ref. 8203)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008203&ret=B"
     },
     {
       "date": "16/10/2026",
@@ -5306,7 +5315,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-12T12:15:36Z"
+      "last_crawled": "2026-11-13T11:55:02Z"
     },
     "AU": {
       "count": 9,
@@ -5321,8 +5330,8 @@
       "last_crawled": "2026-11-13T07:35:09Z"
     },
     "EM": {
-      "count": 22,
-      "last_crawled": "2026-11-12T12:15:36Z"
+      "count": 21,
+      "last_crawled": "2026-11-13T11:55:02Z"
     },
     "EO": {
       "count": 64,
@@ -5350,11 +5359,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-11-12T12:15:36Z"
+      "last_crawled": "2026-11-13T11:55:02Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-11-12T12:15:36Z"
+      "last_crawled": "2026-11-13T11:55:02Z"
     },
     "MD": {
       "count": 6,
@@ -5365,16 +5374,16 @@
       "last_crawled": "2026-11-13T10:25:16Z"
     },
     "MO": {
-      "count": 10,
-      "last_crawled": "2026-11-12T12:15:36Z"
+      "count": 11,
+      "last_crawled": "2026-11-13T11:55:02Z"
     },
     "MR": {
       "count": 22,
       "last_crawled": "2026-11-13T10:25:16Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-11-12T12:15:36Z"
+      "count": 5,
+      "last_crawled": "2026-11-13T11:55:02Z"
     },
     "PA": {
       "count": 0,
@@ -5386,7 +5395,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-12T12:15:36Z"
+      "last_crawled": "2026-11-13T11:55:02Z"
     },
     "SA": {
       "count": 62,
@@ -5409,5 +5418,5 @@
       "last_crawled": "2026-11-13T09:08:52Z"
     }
   },
-  "updated": "2026-11-13T10:25:16Z"
+  "updated": "2026-11-13T11:55:02Z"
 }
