@@ -3,7 +3,7 @@
 - **Профессия (ES):** Auxiliar administrativo/a para el departamento de rrhh
 - **Оригинальное название:** Auxiliar administrativo/a para el departamento de rrhh (ref. 7797)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 29/10/2026
+- **Дата публикации:** 13/11/2026
 - **ID оферты:** 032026007797
 
 ## 👉 Откликнуться на вакансию

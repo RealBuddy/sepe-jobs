@@ -1,0 +1,12 @@
+# Técnico/a administrativo/a
+
+- **Профессия (ES):** Técnico/a administrativo/a
+- **Оригинальное название:** Técnico/a administrativo/a (ref.: 8190)
+- **Город:** Oviedo (Asturias)
+- **Дата публикации:** 12/11/2026
+- **ID оферты:** 032026008190
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008190&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
