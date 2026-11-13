@@ -1,9 +1,9 @@
-# Docente para impartición del cp operaciones básicas de cocina
+# Docente para impartición del cp operaciones básicas de cocina nueva difusion
 
-- **Профессия (ES):** Docente para impartición del cp operaciones básicas de cocina
-- **Оригинальное название:** Docente para impartición del cp operaciones básicas de cocina (ref.: 7310)
+- **Профессия (ES):** Docente para impartición del cp operaciones básicas de cocina nueva difusion
+- **Оригинальное название:** Docente para impartición del cp operaciones básicas de cocina (ref.: 7310) nueva difusion
 - **Город:** Oviedo (Asturias)
-- **Дата публикации:** 13/10/2026
+- **Дата публикации:** 12/11/2026
 - **ID оферты:** 032026007310
 
 ## 👉 Откликнуться на вакансию
