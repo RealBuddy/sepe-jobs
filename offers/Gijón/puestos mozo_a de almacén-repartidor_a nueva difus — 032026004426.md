@@ -1,7 +1,7 @@
-# nueva difusión2 puestos mozo/a de almacén-repartidor/a
+# puestos mozo/a de almacén-repartidor/a nueva difusión
 
-- **Профессия (ES):** nueva difusión2 puestos mozo/a de almacén-repartidor/a
-- **Оригинальное название:** nueva difusión2 puestos mozo/a de almacén-repartidor/a (ref.: 4426)
+- **Профессия (ES):** puestos mozo/a de almacén-repartidor/a nueva difusión
+- **Оригинальное название:** 2 puestos mozo/a de almacén-repartidor/a (ref.: 4426) nueva difusión
 - **Город:** Gijón (Asturias)
 - **Дата публикации:** 10/11/2026
 - **ID оферты:** 032026004426
