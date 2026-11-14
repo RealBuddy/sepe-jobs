@@ -1,5 +1,5 @@
 {
-  "count": 562,
+  "count": 561,
   "failed_sectors": [],
   "offers": [
     {
@@ -2074,30 +2074,12 @@
     },
     {
       "date": "26/10/2026",
-      "id": "032026007681",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Project manager (ref.: 7681)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007681&ret=B"
-    },
-    {
-      "date": "26/10/2026",
       "id": "032026007682",
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "CC",
       "title": "Mozo/a de almacén con discapacidad (ref. 7682)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007682&ret=B"
-    },
-    {
-      "date": "26/10/2026",
-      "id": "032026007683",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Senior project planner (ref.: 7683)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007683&ret=B"
     },
     {
       "date": "27/10/2026",
@@ -5035,6 +5017,15 @@
     },
     {
       "date": "13/11/2026",
+      "id": "032026008209",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Técnico/a de alta tensión ( ref. 8209 )",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008209&ret=B"
+    },
+    {
+      "date": "13/11/2026",
       "id": "032026008211",
       "municipio": "Sariego",
       "provincia": "Asturias",
@@ -5072,7 +5063,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-13T11:55:02Z"
+      "last_crawled": "2026-11-14T11:14:39Z"
     },
     "AU": {
       "count": 9,
@@ -5087,8 +5078,8 @@
       "last_crawled": "2026-11-14T07:19:39Z"
     },
     "EM": {
-      "count": 21,
-      "last_crawled": "2026-11-13T11:55:02Z"
+      "count": 19,
+      "last_crawled": "2026-11-14T11:14:39Z"
     },
     "EO": {
       "count": 59,
@@ -5116,11 +5107,11 @@
     },
     "IQ": {
       "count": 1,
-      "last_crawled": "2026-11-13T11:55:02Z"
+      "last_crawled": "2026-11-14T11:14:39Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-11-13T11:55:02Z"
+      "last_crawled": "2026-11-14T11:14:39Z"
     },
     "MD": {
       "count": 6,
@@ -5131,8 +5122,8 @@
       "last_crawled": "2026-11-14T09:42:48Z"
     },
     "MO": {
-      "count": 11,
-      "last_crawled": "2026-11-13T11:55:02Z"
+      "count": 12,
+      "last_crawled": "2026-11-14T11:14:39Z"
     },
     "MR": {
       "count": 20,
@@ -5140,7 +5131,7 @@
     },
     "MT": {
       "count": 5,
-      "last_crawled": "2026-11-13T11:55:02Z"
+      "last_crawled": "2026-11-14T11:14:39Z"
     },
     "PA": {
       "count": 0,
@@ -5152,7 +5143,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-13T11:55:02Z"
+      "last_crawled": "2026-11-14T11:14:39Z"
     },
     "SA": {
       "count": 59,
@@ -5175,5 +5166,5 @@
       "last_crawled": "2026-11-14T08:39:23Z"
     }
   },
-  "updated": "2026-11-14T09:42:48Z"
+  "updated": "2026-11-14T11:14:39Z"
 }
