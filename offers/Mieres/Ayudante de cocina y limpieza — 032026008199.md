@@ -1,7 +1,7 @@
-# Gerocultor/a o aux. enfermería
+# Ayudante de cocina y limpieza
 
-- **Профессия (ES):** Gerocultor/a o aux. enfermería
-- **Оригинальное название:** Gerocultor/a o aux. enfermería (ref. 8197)
+- **Профессия (ES):** Ayudante de cocina y limpieza
+- **Оригинальное название:** Ayudante de cocina y limpieza (ref. 8199)
 - **Город:** Mieres (Asturias)
 - **Дата публикации:** 13/11/2026
 - **ID оферты:** 032026008199
