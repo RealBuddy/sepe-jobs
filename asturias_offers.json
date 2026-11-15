@@ -1,5 +1,5 @@
 {
-  "count": 550,
+  "count": 542,
   "failed_sectors": [],
   "offers": [
     {
@@ -487,15 +487,6 @@
       "sector": "AA",
       "title": "Encargado/a mantenimiento finca particular en boal(ref.:6212)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006212&ret=B"
-    },
-    {
-      "date": "15/10/2026",
-      "id": "032026006250",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "AO",
-      "title": "Administrativo/a contable (ref.: 6250) nueva difusion",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006250&ret=B"
     },
     {
       "date": "23/10/2026",
@@ -1398,24 +1389,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007356&ret=B"
     },
     {
-      "date": "15/10/2026",
-      "id": "032026007361",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Encargado/a de restaurante (ref: 7361)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007361&ret=B"
-    },
-    {
-      "date": "15/10/2026",
-      "id": "032026007364",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "EO",
-      "title": "Operario/a de red aviles (ref: 7364)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007364&ret=B"
-    },
-    {
       "date": "09/11/2026",
       "id": "032026007368",
       "municipio": "Gijón",
@@ -1432,15 +1405,6 @@
       "sector": "TH",
       "title": "Ayudante de cocina (ref.: 7370)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007370&ret=B"
-    },
-    {
-      "date": "15/10/2026",
-      "id": "032026007372",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "2 puestos de ayudante de cocina (ref.: 7372)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007372&ret=B"
     },
     {
       "date": "10/11/2026",
@@ -1597,30 +1561,12 @@
     },
     {
       "date": "20/10/2026",
-      "id": "032026007478",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayte. camarero/a (ref: 7478)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007478&ret=B"
-    },
-    {
-      "date": "20/10/2026",
       "id": "032026007479",
       "municipio": "Carreño",
       "provincia": "Asturias",
       "sector": "SA",
       "title": "Cuidador/a para residencia-gerocultor/a (ref.: 7479)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007479&ret=B"
-    },
-    {
-      "date": "20/10/2026",
-      "id": "032026007484",
-      "municipio": "Grado",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayudante de cocina (ref.7484)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007484&ret=B"
     },
     {
       "date": "20/10/2026",
@@ -1777,30 +1723,12 @@
     },
     {
       "date": "22/10/2026",
-      "id": "032026007559",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayte/a. de cocina (ref: 7559)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007559&ret=B"
-    },
-    {
-      "date": "22/10/2026",
       "id": "032026007560",
       "municipio": "Gijón",
       "provincia": "Asturias",
       "sector": "AO",
       "title": "Administrativo/a contable ref.:(7560)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007560&ret=B"
-    },
-    {
-      "date": "22/10/2026",
-      "id": "032026007562",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "TH",
-      "title": "Ayte. camarero/a (ref: 7562)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007562&ret=B"
     },
     {
       "date": "22/10/2026",
@@ -4959,8 +4887,8 @@
       "last_crawled": "2026-11-15T07:30:47Z"
     },
     "AO": {
-      "count": 38,
-      "last_crawled": "2026-11-14T08:39:23Z"
+      "count": 37,
+      "last_crawled": "2026-11-15T08:52:16Z"
     },
     "AR": {
       "count": 0,
@@ -4968,7 +4896,7 @@
     },
     "AU": {
       "count": 9,
-      "last_crawled": "2026-11-14T08:39:23Z"
+      "last_crawled": "2026-11-15T08:52:16Z"
     },
     "CC": {
       "count": 43,
@@ -4983,12 +4911,12 @@
       "last_crawled": "2026-11-14T11:14:39Z"
     },
     "EO": {
-      "count": 59,
-      "last_crawled": "2026-11-14T08:39:23Z"
+      "count": 58,
+      "last_crawled": "2026-11-15T08:52:16Z"
     },
     "FE": {
       "count": 7,
-      "last_crawled": "2026-11-14T08:39:23Z"
+      "last_crawled": "2026-11-15T08:52:16Z"
     },
     "IA": {
       "count": 8,
@@ -5000,7 +4928,7 @@
     },
     "IM": {
       "count": 0,
-      "last_crawled": "2026-11-14T08:39:23Z"
+      "last_crawled": "2026-11-15T08:52:16Z"
     },
     "IP": {
       "count": 19,
@@ -5040,7 +4968,7 @@
     },
     "PC": {
       "count": 0,
-      "last_crawled": "2026-11-14T08:39:23Z"
+      "last_crawled": "2026-11-15T08:52:16Z"
     },
     "PT": {
       "count": 1,
@@ -5063,9 +4991,9 @@
       "last_crawled": "2026-11-14T09:42:48Z"
     },
     "TH": {
-      "count": 65,
-      "last_crawled": "2026-11-14T08:39:23Z"
+      "count": 59,
+      "last_crawled": "2026-11-15T08:52:16Z"
     }
   },
-  "updated": "2026-11-15T07:30:47Z"
+  "updated": "2026-11-15T08:52:16Z"
 }
