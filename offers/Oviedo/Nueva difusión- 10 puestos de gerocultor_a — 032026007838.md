@@ -1,7 +1,7 @@
-# Сиделка по уходу за пожилыми (герокультор)
+# Nueva difusión- 10 puestos de gerocultor/a
 
-- **Профессия (ES):** gerocultor/a
-- **Оригинальное название:** 10 puestos de gerocultor/a (ref.7838)
+- **Профессия (ES):** Nueva difusión- 10 puestos de gerocultor/a
+- **Оригинальное название:** Nueva difusión- 10 puestos de gerocultor/a (ref.7838)
 - **Город:** Oviedo (Asturias)
 - **Дата публикации:** 13/11/2026
 - **ID оферты:** 032026007838
