@@ -435,15 +435,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006184&ret=B"
     },
     {
-      "date": "16/10/2026",
-      "id": "032026006186",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "2 puestos gestor/a comercial de servicios visitas concertadas (ref.6186)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006186&ret=B"
-    },
-    {
       "date": "10/11/2026",
       "id": "032026006195",
       "municipio": "Siero",
@@ -541,15 +532,6 @@
       "sector": "TH",
       "title": "Ayudante de cocina (ref: 6458)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006458&ret=B"
-    },
-    {
-      "date": "28/10/2026",
-      "id": "032026006489",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Montadores/as de cubiertas industriales (ref: 6489)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006489&ret=B"
     },
     {
       "date": "27/10/2026",
@@ -2721,15 +2703,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007956&ret=B"
     },
     {
-      "date": "13/11/2026",
-      "id": "032026007957",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Auxiliar de taller (ref. 7957).",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007957&ret=B"
-    },
-    {
       "date": "04/11/2026",
       "id": "032026007958",
       "municipio": "Gijón",
@@ -4792,6 +4765,15 @@
     },
     {
       "date": "16/11/2026",
+      "id": "032026008220",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Investigador/a en evaluación, seguridad y trazabilidad de sistemas ia para uso biomédico. programa investigo asturias (ref.: 8220)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008220&ret=B"
+    },
+    {
+      "date": "16/11/2026",
       "id": "032026008221",
       "municipio": "Carreño",
       "provincia": "Asturias",
@@ -4810,12 +4792,30 @@
     },
     {
       "date": "16/11/2026",
+      "id": "032026008227",
+      "municipio": "Castropol",
+      "provincia": "Asturias",
+      "sector": "IQ",
+      "title": "Analista de laboratorio (ref.: 8227)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008227&ret=B"
+    },
+    {
+      "date": "16/11/2026",
       "id": "032026008233",
       "municipio": "Siero",
       "provincia": "Asturias",
       "sector": "SA",
       "title": "Enfermero/a para residencia (ref.8233 )",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008233&ret=B"
+    },
+    {
+      "date": "16/11/2026",
+      "id": "032026008234",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "IQ",
+      "title": "Investigador/a en datos biomédicos y estructuración de conocimiento clínico. programa investigo asturias (ref.: 8234).",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008234&ret=B"
     },
     {
       "date": "16/11/2026",
@@ -4847,7 +4847,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-15T11:47:09Z"
+      "last_crawled": "2026-11-16T12:28:58Z"
     },
     "AU": {
       "count": 9,
@@ -4863,7 +4863,7 @@
     },
     "EM": {
       "count": 19,
-      "last_crawled": "2026-11-15T11:47:09Z"
+      "last_crawled": "2026-11-16T12:28:58Z"
     },
     "EO": {
       "count": 58,
@@ -4890,12 +4890,12 @@
       "last_crawled": "2026-11-16T10:28:52Z"
     },
     "IQ": {
-      "count": 1,
-      "last_crawled": "2026-11-15T11:47:09Z"
+      "count": 3,
+      "last_crawled": "2026-11-16T12:28:58Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-11-15T11:47:09Z"
+      "last_crawled": "2026-11-16T12:28:58Z"
     },
     "MD": {
       "count": 5,
@@ -4906,16 +4906,16 @@
       "last_crawled": "2026-11-16T10:28:52Z"
     },
     "MO": {
-      "count": 12,
-      "last_crawled": "2026-11-15T11:47:09Z"
+      "count": 11,
+      "last_crawled": "2026-11-16T12:28:58Z"
     },
     "MR": {
       "count": 18,
       "last_crawled": "2026-11-16T10:28:52Z"
     },
     "MT": {
-      "count": 5,
-      "last_crawled": "2026-11-15T11:47:09Z"
+      "count": 4,
+      "last_crawled": "2026-11-16T12:28:58Z"
     },
     "PA": {
       "count": 0,
@@ -4927,7 +4927,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-15T11:47:09Z"
+      "last_crawled": "2026-11-16T12:28:58Z"
     },
     "SA": {
       "count": 61,
@@ -4950,5 +4950,5 @@
       "last_crawled": "2026-11-16T09:03:48Z"
     }
   },
-  "updated": "2026-11-16T10:28:52Z"
+  "updated": "2026-11-16T12:28:58Z"
 }
