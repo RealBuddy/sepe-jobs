@@ -1,5 +1,5 @@
 {
-  "count": 565,
+  "count": 569,
   "failed_sectors": [],
   "offers": [
     {
@@ -838,15 +838,6 @@
       "sector": "AA",
       "title": "5 tractoristas (ref. 6871)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006871&ret=B"
-    },
-    {
-      "date": "03/11/2026",
-      "id": "032026006873",
-      "municipio": "Morcin",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Empleado/a atención al cliente- retail (ref. 6873)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006873&ret=B"
     },
     {
       "date": "28/10/2026",
@@ -4900,6 +4891,15 @@
     },
     {
       "date": "16/11/2026",
+      "id": "032026008248",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "2 puestos de investigador/a en ingeniería de sistemas software para entornos clínicos. programa investigo asturias (ref.: 8248).",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008248&ret=B"
+    },
+    {
+      "date": "16/11/2026",
       "id": "032026008249",
       "municipio": "Villaviciosa",
       "provincia": "Asturias",
@@ -4981,6 +4981,15 @@
     },
     {
       "date": "17/11/2026",
+      "id": "032026008258",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Controlador/a de accesos (ref:8258)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008258&ret=B"
+    },
+    {
+      "date": "17/11/2026",
       "id": "032026008259",
       "municipio": "Siero",
       "provincia": "Asturias",
@@ -5053,6 +5062,15 @@
     },
     {
       "date": "17/11/2026",
+      "id": "032026008281",
+      "municipio": "Navia",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a auxiliar informática ayto navia programa contratos formativos para la obtención de la práctica profesional (ref.:8281)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008281&ret=B"
+    },
+    {
+      "date": "17/11/2026",
       "id": "032026008282",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -5079,6 +5097,24 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008286&ret=B"
     },
     {
+      "date": "17/11/2026",
+      "id": "032026008293",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a prevención de riesgos laborales (ref.: 8293)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008293&ret=B"
+    },
+    {
+      "date": "17/11/2026",
+      "id": "122026009756",
+      "municipio": "Navia",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Mediador comunicativo/intérprete de lengua de signos",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=122026009756&ret=B"
+    },
+    {
       "date": "10/11/2026",
       "id": "162026011992",
       "municipio": "Aviles",
@@ -5099,7 +5135,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-16T12:28:58Z"
+      "last_crawled": "2026-11-17T12:49:51Z"
     },
     "AU": {
       "count": 10,
@@ -5114,8 +5150,8 @@
       "last_crawled": "2026-11-17T08:47:03Z"
     },
     "EM": {
-      "count": 19,
-      "last_crawled": "2026-11-16T12:28:58Z"
+      "count": 23,
+      "last_crawled": "2026-11-17T12:49:51Z"
     },
     "EO": {
       "count": 59,
@@ -5143,11 +5179,11 @@
     },
     "IQ": {
       "count": 3,
-      "last_crawled": "2026-11-16T12:28:58Z"
+      "last_crawled": "2026-11-17T12:49:51Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-11-16T12:28:58Z"
+      "last_crawled": "2026-11-17T12:49:51Z"
     },
     "MD": {
       "count": 5,
@@ -5159,7 +5195,7 @@
     },
     "MO": {
       "count": 11,
-      "last_crawled": "2026-11-16T12:28:58Z"
+      "last_crawled": "2026-11-17T12:49:51Z"
     },
     "MR": {
       "count": 19,
@@ -5167,7 +5203,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-11-16T12:28:58Z"
+      "last_crawled": "2026-11-17T12:49:51Z"
     },
     "PA": {
       "count": 0,
@@ -5179,7 +5215,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-16T12:28:58Z"
+      "last_crawled": "2026-11-17T12:49:51Z"
     },
     "SA": {
       "count": 64,
@@ -5202,5 +5238,5 @@
       "last_crawled": "2026-11-17T10:15:12Z"
     }
   },
-  "updated": "2026-11-17T11:24:19Z"
+  "updated": "2026-11-17T12:49:51Z"
 }
