@@ -1,7 +1,7 @@
-# Auxiliar de enfermeria/gerocultor/a
+# auxiliar de enfermeria/gerocultor/a
 
-- **Профессия (ES):** Auxiliar de enfermeria/gerocultor/a
-- **Оригинальное название:** Auxiliar de enfermeria/gerocultor/a (ref.8260)
+- **Профессия (ES):** auxiliar de enfermeria/gerocultor/a
+- **Оригинальное название:** 2 puestos de auxiliar de enfermeria/gerocultor/a (ref.8260)
 - **Город:** Valdes (Asturias)
 - **Дата публикации:** 17/11/2026
 - **ID оферты:** 032026008260

@@ -3,7 +3,7 @@
 - **Профессия (ES):** Aprendiz de mecánico/a de maquinaria agrícola
 - **Оригинальное название:** Aprendiz de mecánico/a de maquinaria agrícola (ref.7593)
 - **Город:** Salas (Asturias)
-- **Дата публикации:** 22/10/2026
+- **Дата публикации:** 18/11/2026
 - **ID оферты:** 032026007593
 
 ## 👉 Откликнуться на вакансию
