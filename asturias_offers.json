@@ -1,5 +1,5 @@
 {
-  "count": 581,
+  "count": 584,
   "failed_sectors": [],
   "offers": [
     {
@@ -1083,6 +1083,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007166&ret=B"
     },
     {
+      "date": "19/11/2026",
+      "id": "032026007178",
+      "municipio": "Carreño",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Nueva difusión - delineante (ref. 7178)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007178&ret=B"
+    },
+    {
       "date": "06/11/2026",
       "id": "032026007198",
       "municipio": "Colunga",
@@ -1155,7 +1164,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007274&ret=B"
     },
     {
-      "date": "09/10/2026",
+      "date": "19/11/2026",
       "id": "032026007285",
       "municipio": "Llanera",
       "provincia": "Asturias",
@@ -2190,15 +2199,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007900&ret=B"
     },
     {
-      "date": "03/11/2026",
-      "id": "032026007901",
-      "municipio": "Castrillon",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Tco/a. prevención de riesgos laborales (ref: 7901)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007901&ret=B"
-    },
-    {
       "date": "04/11/2026",
       "id": "032026007902",
       "municipio": "Castrillon",
@@ -2712,7 +2712,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008002&ret=B"
     },
     {
-      "date": "09/11/2026",
+      "date": "18/11/2026",
       "id": "032026008005",
       "municipio": "Parres",
       "provincia": "Asturias",
@@ -5179,12 +5179,30 @@
     },
     {
       "date": "19/11/2026",
+      "id": "032026008339",
+      "municipio": "Mieres",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Electricistas para gijón y mieres (ref:8339)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008339&ret=B"
+    },
+    {
+      "date": "19/11/2026",
       "id": "032026008343",
       "municipio": "Oviedo",
       "provincia": "Asturias",
       "sector": "TH",
       "title": "2 puestos de ayudante camarero/a (ref.: 8343)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008343&ret=B"
+    },
+    {
+      "date": "19/11/2026",
+      "id": "032026008346",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Técnico/a frigorista (ref.: 8346)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008346&ret=B"
     },
     {
       "date": "19/11/2026",
@@ -5212,6 +5230,15 @@
       "sector": "EO",
       "title": "Oficial de albañileria(ref:8351)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008351&ret=B"
+    },
+    {
+      "date": "19/11/2026",
+      "id": "032026008355",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Operario/a de montaje electromecánico (ref.: 8355)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008355&ret=B"
     },
     {
       "date": "17/11/2026",
@@ -5243,7 +5270,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-18T12:43:00Z"
+      "last_crawled": "2026-11-19T12:33:08Z"
     },
     "AU": {
       "count": 12,
@@ -5259,7 +5286,7 @@
     },
     "EM": {
       "count": 23,
-      "last_crawled": "2026-11-18T12:43:00Z"
+      "last_crawled": "2026-11-19T12:33:08Z"
     },
     "EO": {
       "count": 66,
@@ -5287,11 +5314,11 @@
     },
     "IQ": {
       "count": 3,
-      "last_crawled": "2026-11-18T12:43:00Z"
+      "last_crawled": "2026-11-19T12:33:08Z"
     },
     "IT": {
       "count": 1,
-      "last_crawled": "2026-11-18T12:43:00Z"
+      "last_crawled": "2026-11-19T12:33:08Z"
     },
     "MD": {
       "count": 5,
@@ -5302,8 +5329,8 @@
       "last_crawled": "2026-11-18T10:57:17Z"
     },
     "MO": {
-      "count": 10,
-      "last_crawled": "2026-11-18T12:43:00Z"
+      "count": 13,
+      "last_crawled": "2026-11-19T12:33:08Z"
     },
     "MR": {
       "count": 19,
@@ -5311,7 +5338,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-11-18T12:43:00Z"
+      "last_crawled": "2026-11-19T12:33:08Z"
     },
     "PA": {
       "count": 0,
@@ -5323,7 +5350,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-18T12:43:00Z"
+      "last_crawled": "2026-11-19T12:33:08Z"
     },
     "SA": {
       "count": 64,
@@ -5346,5 +5373,5 @@
       "last_crawled": "2026-11-19T09:56:22Z"
     }
   },
-  "updated": "2026-11-19T09:56:22Z"
+  "updated": "2026-11-19T12:33:08Z"
 }

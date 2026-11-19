@@ -3,7 +3,7 @@
 - **Профессия (ES):** Técnico/a medio contrato formativo adquisición de la práctica profesional ayto. de parres
 - **Оригинальное название:** Técnico/a medio contrato formativo adquisición de la práctica profesional ayto. de parres (ref.8005)
 - **Город:** Parres (Asturias)
-- **Дата публикации:** 09/11/2026
+- **Дата публикации:** 18/11/2026
 - **ID оферты:** 032026008005
 
 ## 👉 Откликнуться на вакансию
