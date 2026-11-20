@@ -3,7 +3,7 @@
 - **Профессия (ES):** Electromecánico/a de vehículos industriales. oficial de 1ª
 - **Оригинальное название:** Electromecánico/a de vehículos industriales. oficial de 1ª (ref.: 7475)
 - **Город:** Gijón (Asturias)
-- **Дата публикации:** 20/10/2026
+- **Дата публикации:** 19/11/2026
 - **ID оферты:** 032026007475
 
 ## 👉 Откликнуться на вакансию
