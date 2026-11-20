@@ -1,5 +1,5 @@
 {
-  "count": 565,
+  "count": 564,
   "failed_sectors": [],
   "offers": [
     {
@@ -2253,15 +2253,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007968&ret=B"
     },
     {
-      "date": "05/11/2026",
-      "id": "032026007969",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Delineante - contrato formativo para la obtención de la práctica profesional (ref. 7969)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007969&ret=B"
-    },
-    {
       "date": "04/11/2026",
       "id": "032026007972",
       "municipio": "Oviedo",
@@ -2287,15 +2278,6 @@
       "sector": "SP",
       "title": "2 limpiadores/as (ref. 7977)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007977&ret=B"
-    },
-    {
-      "date": "05/11/2026",
-      "id": "032026007978",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "IT",
-      "title": "Modisto/a especializado/a en moda nupcial (ref.: 7978)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007978&ret=B"
     },
     {
       "date": "05/11/2026",
@@ -2658,7 +2640,7 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008055&ret=B"
     },
     {
-      "date": "09/11/2026",
+      "date": "20/11/2026",
       "id": "032026008056",
       "municipio": "Mieres",
       "provincia": "Asturias",
@@ -5070,6 +5052,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008377&ret=B"
     },
     {
+      "date": "20/11/2026",
+      "id": "032026008383",
+      "municipio": "Langreo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Graduado/a en ingeniería - programa investigo- (ref.: 8383)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008383&ret=B"
+    },
+    {
       "date": "17/11/2026",
       "id": "122026009756",
       "municipio": "Navia",
@@ -5099,7 +5090,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-19T12:33:08Z"
+      "last_crawled": "2026-11-20T12:32:55Z"
     },
     "AU": {
       "count": 11,
@@ -5115,7 +5106,7 @@
     },
     "EM": {
       "count": 23,
-      "last_crawled": "2026-11-19T12:33:08Z"
+      "last_crawled": "2026-11-20T12:32:55Z"
     },
     "EO": {
       "count": 62,
@@ -5143,11 +5134,11 @@
     },
     "IQ": {
       "count": 3,
-      "last_crawled": "2026-11-19T12:33:08Z"
+      "last_crawled": "2026-11-20T12:32:55Z"
     },
     "IT": {
-      "count": 1,
-      "last_crawled": "2026-11-19T12:33:08Z"
+      "count": 0,
+      "last_crawled": "2026-11-20T12:32:55Z"
     },
     "MD": {
       "count": 5,
@@ -5159,7 +5150,7 @@
     },
     "MO": {
       "count": 13,
-      "last_crawled": "2026-11-19T12:33:08Z"
+      "last_crawled": "2026-11-20T12:32:55Z"
     },
     "MR": {
       "count": 18,
@@ -5167,7 +5158,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-11-19T12:33:08Z"
+      "last_crawled": "2026-11-20T12:32:55Z"
     },
     "PA": {
       "count": 1,
@@ -5179,7 +5170,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-19T12:33:08Z"
+      "last_crawled": "2026-11-20T12:32:55Z"
     },
     "SA": {
       "count": 67,
@@ -5202,5 +5193,5 @@
       "last_crawled": "2026-11-20T09:43:32Z"
     }
   },
-  "updated": "2026-11-20T10:48:06Z"
+  "updated": "2026-11-20T12:32:55Z"
 }
