@@ -1,5 +1,5 @@
 {
-  "count": 555,
+  "count": 554,
   "failed_sectors": [],
   "offers": [
     {
@@ -2287,15 +2287,6 @@
       "sector": "TH",
       "title": "1 cocinero/a colectividades (ref. 7999)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007999&ret=B"
-    },
-    {
-      "date": "18/11/2026",
-      "id": "032026008005",
-      "municipio": "Parres",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Técnico/a medio contrato formativo adquisición de la práctica profesional ayto. de parres (ref.8005)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008005&ret=B"
     },
     {
       "date": "05/11/2026",
@@ -5009,7 +5000,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-20T12:32:55Z"
+      "last_crawled": "2026-11-21T12:12:13Z"
     },
     "AU": {
       "count": 11,
@@ -5024,8 +5015,8 @@
       "last_crawled": "2026-11-21T07:57:27Z"
     },
     "EM": {
-      "count": 23,
-      "last_crawled": "2026-11-20T12:32:55Z"
+      "count": 22,
+      "last_crawled": "2026-11-21T12:12:13Z"
     },
     "EO": {
       "count": 62,
@@ -5053,11 +5044,11 @@
     },
     "IQ": {
       "count": 3,
-      "last_crawled": "2026-11-20T12:32:55Z"
+      "last_crawled": "2026-11-21T12:12:13Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-11-20T12:32:55Z"
+      "last_crawled": "2026-11-21T12:12:13Z"
     },
     "MD": {
       "count": 5,
@@ -5069,7 +5060,7 @@
     },
     "MO": {
       "count": 13,
-      "last_crawled": "2026-11-20T12:32:55Z"
+      "last_crawled": "2026-11-21T12:12:13Z"
     },
     "MR": {
       "count": 17,
@@ -5077,7 +5068,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-11-20T12:32:55Z"
+      "last_crawled": "2026-11-21T12:12:13Z"
     },
     "PA": {
       "count": 1,
@@ -5089,7 +5080,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-20T12:32:55Z"
+      "last_crawled": "2026-11-21T12:12:13Z"
     },
     "SA": {
       "count": 70,
@@ -5112,5 +5103,5 @@
       "last_crawled": "2026-11-20T09:43:32Z"
     }
   },
-  "updated": "2026-11-21T10:31:23Z"
+  "updated": "2026-11-21T12:12:13Z"
 }
