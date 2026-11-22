@@ -1,5 +1,5 @@
 {
-  "count": 554,
+  "count": 553,
   "failed_sectors": [],
   "offers": [
     {
@@ -1378,15 +1378,6 @@
       "sector": "MR",
       "title": "Mecánico/a de turismos y furgonetas of.1ª (ref. 7596)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007596&ret=B"
-    },
-    {
-      "date": "22/10/2026",
-      "id": "032026007598",
-      "municipio": "Oviedo",
-      "provincia": "Asturias",
-      "sector": "SP",
-      "title": "Estetica y manicura (ref.: 7598)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007598&ret=B"
     },
     {
       "date": "23/10/2026",
@@ -4992,7 +4983,7 @@
   "sectors": {
     "AA": {
       "count": 12,
-      "last_crawled": "2026-11-21T07:57:27Z"
+      "last_crawled": "2026-11-22T07:44:41Z"
     },
     "AO": {
       "count": 34,
@@ -5008,11 +4999,11 @@
     },
     "CC": {
       "count": 37,
-      "last_crawled": "2026-11-21T07:57:27Z"
+      "last_crawled": "2026-11-22T07:44:41Z"
     },
     "DO": {
       "count": 17,
-      "last_crawled": "2026-11-21T07:57:27Z"
+      "last_crawled": "2026-11-22T07:44:41Z"
     },
     "EM": {
       "count": 22,
@@ -5032,7 +5023,7 @@
     },
     "IG": {
       "count": 0,
-      "last_crawled": "2026-11-21T07:57:27Z"
+      "last_crawled": "2026-11-22T07:44:41Z"
     },
     "IM": {
       "count": 1,
@@ -5052,7 +5043,7 @@
     },
     "MD": {
       "count": 5,
-      "last_crawled": "2026-11-21T07:57:27Z"
+      "last_crawled": "2026-11-22T07:44:41Z"
     },
     "MN": {
       "count": 0,
@@ -5072,7 +5063,7 @@
     },
     "PA": {
       "count": 1,
-      "last_crawled": "2026-11-21T07:57:27Z"
+      "last_crawled": "2026-11-22T07:44:41Z"
     },
     "PC": {
       "count": 0,
@@ -5091,8 +5082,8 @@
       "last_crawled": "2026-11-21T10:31:23Z"
     },
     "SP": {
-      "count": 102,
-      "last_crawled": "2026-11-21T07:57:27Z"
+      "count": 101,
+      "last_crawled": "2026-11-22T07:44:41Z"
     },
     "TC": {
       "count": 38,
@@ -5103,5 +5094,5 @@
       "last_crawled": "2026-11-20T09:43:32Z"
     }
   },
-  "updated": "2026-11-21T12:12:13Z"
+  "updated": "2026-11-22T07:44:41Z"
 }
