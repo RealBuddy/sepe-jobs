@@ -1,5 +1,5 @@
 {
-  "count": 536,
+  "count": 533,
   "failed_sectors": [],
   "offers": [
     {
@@ -444,15 +444,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006458&ret=B"
     },
     {
-      "date": "17/11/2026",
-      "id": "032026006483",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "TC",
-      "title": "Nueva difusión - personal de gestión de flota de vehículos eléctricos (ref. 6483)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006483&ret=B"
-    },
-    {
       "date": "20/11/2026",
       "id": "032026006509",
       "municipio": "Oviedo",
@@ -577,15 +568,6 @@
       "sector": "TC",
       "title": "Mecánico/a naval (ref: 6668)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006668&ret=B"
-    },
-    {
-      "date": "22/10/2026",
-      "id": "032026006687",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "nueva difusión gerocultor/a (ref. 6687)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006687&ret=B"
     },
     {
       "date": "18/11/2026",
@@ -1288,15 +1270,6 @@
       "sector": "MR",
       "title": "Aprendiz de mecánico/a de maquinaria agrícola (ref.7593)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007593&ret=B"
-    },
-    {
-      "date": "22/10/2026",
-      "id": "032026007596",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MR",
-      "title": "Mecánico/a de turismos y furgonetas of.1ª (ref. 7596)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007596&ret=B"
     },
     {
       "date": "23/10/2026",
@@ -4866,7 +4839,7 @@
     },
     "IA": {
       "count": 8,
-      "last_crawled": "2026-11-21T10:31:23Z"
+      "last_crawled": "2026-11-22T10:36:12Z"
     },
     "IG": {
       "count": 0,
@@ -4878,7 +4851,7 @@
     },
     "IP": {
       "count": 23,
-      "last_crawled": "2026-11-21T10:31:23Z"
+      "last_crawled": "2026-11-22T10:36:12Z"
     },
     "IQ": {
       "count": 3,
@@ -4894,15 +4867,15 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-11-21T10:31:23Z"
+      "last_crawled": "2026-11-22T10:36:12Z"
     },
     "MO": {
       "count": 13,
       "last_crawled": "2026-11-21T12:12:13Z"
     },
     "MR": {
-      "count": 17,
-      "last_crawled": "2026-11-21T10:31:23Z"
+      "count": 16,
+      "last_crawled": "2026-11-22T10:36:12Z"
     },
     "MT": {
       "count": 4,
@@ -4921,25 +4894,25 @@
       "last_crawled": "2026-11-21T12:12:13Z"
     },
     "SA": {
-      "count": 70,
-      "last_crawled": "2026-11-21T10:31:23Z"
+      "count": 69,
+      "last_crawled": "2026-11-22T10:36:12Z"
     },
     "SF": {
       "count": 3,
-      "last_crawled": "2026-11-21T10:31:23Z"
+      "last_crawled": "2026-11-22T10:36:12Z"
     },
     "SP": {
       "count": 101,
       "last_crawled": "2026-11-22T07:44:41Z"
     },
     "TC": {
-      "count": 38,
-      "last_crawled": "2026-11-21T10:31:23Z"
+      "count": 37,
+      "last_crawled": "2026-11-22T10:36:12Z"
     },
     "TH": {
       "count": 63,
       "last_crawled": "2026-11-22T09:25:15Z"
     }
   },
-  "updated": "2026-11-22T09:25:15Z"
+  "updated": "2026-11-22T10:36:12Z"
 }
