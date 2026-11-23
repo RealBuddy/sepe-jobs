@@ -1,5 +1,5 @@
 {
-  "count": 530,
+  "count": 532,
   "failed_sectors": [],
   "offers": [
     {
@@ -1270,15 +1270,6 @@
       "sector": "MR",
       "title": "Técnico/a de mantenimiento eléctrico industrial (ref.: 7633)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007633&ret=B"
-    },
-    {
-      "date": "23/10/2026",
-      "id": "032026007634",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Electricistas (ref: 7634)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007634&ret=B"
     },
     {
       "date": "17/11/2026",
@@ -4738,6 +4729,15 @@
     },
     {
       "date": "23/11/2026",
+      "id": "032026008410",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "IQ",
+      "title": "Grado o licenciatura en química, biología o biotecnología. programa investigo asturias (ref.: 8410)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008410&ret=B"
+    },
+    {
+      "date": "23/11/2026",
       "id": "032026008412",
       "municipio": "Gijón",
       "provincia": "Asturias",
@@ -4753,6 +4753,24 @@
       "sector": "IP",
       "title": "2 puestos de operador/a de grúa torre ref.:(8413)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008413&ret=B"
+    },
+    {
+      "date": "23/11/2026",
+      "id": "032026008414",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a de calidad para metal (ref. 8414)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008414&ret=B"
+    },
+    {
+      "date": "23/11/2026",
+      "id": "032026008426",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "IQ",
+      "title": "Técnico/a - programa investigo (ref.8411)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008426&ret=B"
     },
     {
       "date": "17/11/2026",
@@ -4784,7 +4802,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-22T12:19:25Z"
+      "last_crawled": "2026-11-23T14:05:53Z"
     },
     "AU": {
       "count": 9,
@@ -4799,8 +4817,8 @@
       "last_crawled": "2026-11-22T07:44:41Z"
     },
     "EM": {
-      "count": 22,
-      "last_crawled": "2026-11-22T12:19:25Z"
+      "count": 23,
+      "last_crawled": "2026-11-23T14:05:53Z"
     },
     "EO": {
       "count": 51,
@@ -4827,12 +4845,12 @@
       "last_crawled": "2026-11-23T11:37:13Z"
     },
     "IQ": {
-      "count": 3,
-      "last_crawled": "2026-11-22T12:19:25Z"
+      "count": 5,
+      "last_crawled": "2026-11-23T14:05:53Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-11-22T12:19:25Z"
+      "last_crawled": "2026-11-23T14:05:53Z"
     },
     "MD": {
       "count": 5,
@@ -4843,8 +4861,8 @@
       "last_crawled": "2026-11-23T11:37:13Z"
     },
     "MO": {
-      "count": 13,
-      "last_crawled": "2026-11-22T12:19:25Z"
+      "count": 12,
+      "last_crawled": "2026-11-23T14:05:53Z"
     },
     "MR": {
       "count": 18,
@@ -4852,7 +4870,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-11-22T12:19:25Z"
+      "last_crawled": "2026-11-23T14:05:53Z"
     },
     "PA": {
       "count": 1,
@@ -4864,7 +4882,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-22T12:19:25Z"
+      "last_crawled": "2026-11-23T14:05:53Z"
     },
     "SA": {
       "count": 70,
@@ -4887,5 +4905,5 @@
       "last_crawled": "2026-11-23T10:21:44Z"
     }
   },
-  "updated": "2026-11-23T11:37:13Z"
+  "updated": "2026-11-23T14:05:53Z"
 }
