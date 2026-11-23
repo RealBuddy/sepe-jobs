@@ -1,0 +1,12 @@
+# verificador/a e inspector/a de soldadura ref
+
+- **Профессия (ES):** verificador/a e inspector/a de soldadura ref
+- **Оригинальное название:** 2 puestos de verificador/a e inspector/a de soldadura ref.:(8406)
+- **Город:** Oviedo (Asturias)
+- **Дата публикации:** 23/11/2026
+- **ID оферты:** 032026008406
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008406&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._

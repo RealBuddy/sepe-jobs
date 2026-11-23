@@ -3,7 +3,7 @@
 - **Профессия (ES):** Conductor/a c reparto zona asturias
 - **Оригинальное название:** Conductor/a c reparto zona asturias (ref.7620)
 - **Город:** Llanera (Asturias)
-- **Дата публикации:** 23/10/2026
+- **Дата публикации:** 23/11/2026
 - **ID оферты:** 032026007620
 
 ## 👉 Откликнуться на вакансию
