@@ -1,9 +1,9 @@
-# Электрик по промышленному обслуживанию
+# Electricista mantenimiento industrial -nueva difusión
 
-- **Профессия (ES):** Electricista mantenimiento industrial
-- **Оригинальное название:** Electricista mantenimiento industrial (ref.:8354)
+- **Профессия (ES):** Electricista mantenimiento industrial -nueva difusión
+- **Оригинальное название:** Electricista mantenimiento industrial (ref.:8354)-nueva difusión
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 19/11/2026
+- **Дата публикации:** 24/11/2026
 - **ID оферты:** 032026008354
 
 ## 👉 Откликнуться на вакансию

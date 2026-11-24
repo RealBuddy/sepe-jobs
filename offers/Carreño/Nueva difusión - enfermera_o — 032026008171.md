@@ -1,7 +1,7 @@
-# Медсестра / медбрат
+# Nueva difusión - enfermera/o
 
-- **Профессия (ES):** Enfermera/o
-- **Оригинальное название:** Enfermera/o (ref. 8171)
+- **Профессия (ES):** Nueva difusión - enfermera/o
+- **Оригинальное название:** Nueva difusión - enfermera/o (ref. 8171)
 - **Город:** Carreño (Asturias)
 - **Дата публикации:** 12/11/2026
 - **ID оферты:** 032026008171

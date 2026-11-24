@@ -1,9 +1,9 @@
-# Сиделка по уходу за пожилыми (герокультор)
+# nueva difusión: 2 puestos de gerocultor/a
 
-- **Профессия (ES):** Gerocultor/a
-- **Оригинальное название:** Gerocultor/a (ref.5819)
+- **Профессия (ES):** nueva difusión: 2 puestos de gerocultor/a
+- **Оригинальное название:** nueva difusión: 2 puestos de gerocultor/a (ref.5819)
 - **Город:** Llanera (Asturias)
-- **Дата публикации:** 30/10/2026
+- **Дата публикации:** 23/11/2026
 - **ID оферты:** 032026005819
 
 ## 👉 Откликнуться на вакансию
