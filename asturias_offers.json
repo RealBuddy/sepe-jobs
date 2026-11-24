@@ -1,5 +1,5 @@
 {
-  "count": 552,
+  "count": 556,
   "failed_sectors": [],
   "offers": [
     {
@@ -298,15 +298,6 @@
       "sector": "MO",
       "title": "nueva difusión: montador/a decoración navideña (ref. 5995)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005995&ret=B"
-    },
-    {
-      "date": "03/11/2026",
-      "id": "032026005996",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "nueva difusión: oficial electricista iluminación navideña (ref. 5996)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005996&ret=B"
     },
     {
       "date": "20/11/2026",
@@ -4774,6 +4765,15 @@
     },
     {
       "date": "24/11/2026",
+      "id": "032026008434",
+      "municipio": "Aviles",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Montador/a de estructuras metálicas (ref. 8434)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008434&ret=B"
+    },
+    {
+      "date": "24/11/2026",
       "id": "032026008435",
       "municipio": "Carreño",
       "provincia": "Asturias",
@@ -4900,12 +4900,30 @@
     },
     {
       "date": "24/11/2026",
+      "id": "032026008450",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a en sistemas informáticos (ref.8450)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008450&ret=B"
+    },
+    {
+      "date": "24/11/2026",
       "id": "032026008452",
       "municipio": "Llanera",
       "provincia": "Asturias",
       "sector": "AO",
       "title": "Consultor/a de negocio en erp (ref.8452)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008452&ret=B"
+    },
+    {
+      "date": "24/11/2026",
+      "id": "032026008453",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Programador/a para erp (ref.8453)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008453&ret=B"
     },
     {
       "date": "24/11/2026",
@@ -4945,12 +4963,30 @@
     },
     {
       "date": "24/11/2026",
+      "id": "032026008462",
+      "municipio": "Oviedo",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Técnico/a superior en marketing y publicidad (ref.: 8462)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008462&ret=B"
+    },
+    {
+      "date": "24/11/2026",
       "id": "032026008463",
       "municipio": "Villaviciosa",
       "provincia": "Asturias",
       "sector": "IP",
       "title": "Oficial de primera (ref: 8463)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008463&ret=B"
+    },
+    {
+      "date": "24/11/2026",
+      "id": "032026008465",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "3 puestos auxiliar de servicios (ref.: 8465)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008465&ret=B"
     },
     {
       "date": "17/11/2026",
@@ -4982,7 +5018,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-23T14:05:53Z"
+      "last_crawled": "2026-11-24T14:36:19Z"
     },
     "AU": {
       "count": 11,
@@ -4997,8 +5033,8 @@
       "last_crawled": "2026-11-24T10:39:49Z"
     },
     "EM": {
-      "count": 23,
-      "last_crawled": "2026-11-23T14:05:53Z"
+      "count": 27,
+      "last_crawled": "2026-11-24T14:36:19Z"
     },
     "EO": {
       "count": 50,
@@ -5026,11 +5062,11 @@
     },
     "IQ": {
       "count": 5,
-      "last_crawled": "2026-11-23T14:05:53Z"
+      "last_crawled": "2026-11-24T14:36:19Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-11-23T14:05:53Z"
+      "last_crawled": "2026-11-24T14:36:19Z"
     },
     "MD": {
       "count": 5,
@@ -5042,7 +5078,7 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-11-23T14:05:53Z"
+      "last_crawled": "2026-11-24T14:36:19Z"
     },
     "MR": {
       "count": 20,
@@ -5050,7 +5086,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-11-23T14:05:53Z"
+      "last_crawled": "2026-11-24T14:36:19Z"
     },
     "PA": {
       "count": 1,
@@ -5062,7 +5098,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-23T14:05:53Z"
+      "last_crawled": "2026-11-24T14:36:19Z"
     },
     "SA": {
       "count": 72,
@@ -5085,5 +5121,5 @@
       "last_crawled": "2026-11-24T12:02:39Z"
     }
   },
-  "updated": "2026-11-24T13:09:58Z"
+  "updated": "2026-11-24T14:36:19Z"
 }
