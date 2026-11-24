@@ -1,9 +1,9 @@
-# Dependiente/a de tienda agrícola
+# Mecánico/a de maquinaría de jardinería
 
-- **Профессия (ES):** Dependiente/a de tienda agrícola
-- **Оригинальное название:** Dependiente/a de tienda agrícola (ref.: 8341)
+- **Профессия (ES):** Mecánico/a de maquinaría de jardinería
+- **Оригинальное название:** Mecánico/a de maquinaría de jardinería (ref.: 8341)
 - **Город:** Oviedo (Asturias)
-- **Дата публикации:** 19/11/2026
+- **Дата публикации:** 23/11/2026
 - **ID оферты:** 032026008341
 
 ## 👉 Откликнуться на вакансию
