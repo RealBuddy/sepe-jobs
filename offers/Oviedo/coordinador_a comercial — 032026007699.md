@@ -1,7 +1,7 @@
-# consultor/a de empresas
+# coordinador/a comercial
 
-- **Профессия (ES):** consultor/a de empresas
-- **Оригинальное название:** 5 puestos de consultor/a de empresas (ref.: 7699)
+- **Профессия (ES):** coordinador/a comercial
+- **Оригинальное название:** 3 puestos de coordinador/a comercial (ref.: 7699)
 - **Город:** Oviedo (Asturias)
 - **Дата публикации:** 09/11/2026
 - **ID оферты:** 032026007699

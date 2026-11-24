@@ -1,7 +1,7 @@
-# Помощник повара (общепит)
+# Auxiliar de cocina para colectividades
 
-- **Профессия (ES):** Ayudante de cocina para colectividades
-- **Оригинальное название:** Ayudante de cocina para colectividades (ref. 6918)
+- **Профессия (ES):** Auxiliar de cocina para colectividades
+- **Оригинальное название:** Auxiliar de cocina para colectividades (ref. 6918)
 - **Город:** Mieres (Asturias)
 - **Дата публикации:** 23/11/2026
 - **ID оферты:** 032026006918
