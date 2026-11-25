@@ -1,0 +1,12 @@
+# Ayudante cocina
+
+- **Профессия (ES):** Ayudante cocina
+- **Оригинальное название:** Ayudante cocina (ref:8469)
+- **Город:** Laviana (Asturias)
+- **Дата публикации:** 25/11/2026
+- **ID оферты:** 032026008469
+
+## 👉 Откликнуться на вакансию
+**https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008469&ret=B**
+
+_На странице SEPE — раздел «Datos de contacto» (email/телефон) и «Requisitos»._
