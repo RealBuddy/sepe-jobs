@@ -1,5 +1,5 @@
 {
-  "count": 552,
+  "count": 550,
   "failed_sectors": [],
   "offers": [
     {
@@ -316,15 +316,6 @@
       "sector": "SP",
       "title": "Empleada/o del hogar (ref.: 5952) nueva difusion",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005952&ret=B"
-    },
-    {
-      "date": "03/11/2026",
-      "id": "032026005995",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "nueva difusión: montador/a decoración navideña (ref. 5995)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026005995&ret=B"
     },
     {
       "date": "20/11/2026",
@@ -4837,15 +4828,6 @@
     },
     {
       "date": "24/11/2026",
-      "id": "032026008465",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "3 puestos auxiliar de servicios (ref.: 8465)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008465&ret=B"
-    },
-    {
-      "date": "24/11/2026",
       "id": "032026008466",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -4897,6 +4879,15 @@
       "sector": "AO",
       "title": "2 puestos de jefe/a de equipo (ref.: 8471)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008471&ret=B"
+    },
+    {
+      "date": "25/11/2026",
+      "id": "032026008472",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "MO",
+      "title": "Operario/a montaje electrónico (ref: 8472)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008472&ret=B"
     },
     {
       "date": "25/11/2026",
@@ -4960,15 +4951,6 @@
       "sector": "EM",
       "title": "Mediador comunicativo/intérprete de lengua de signos",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=122026009756&ret=B"
-    },
-    {
-      "date": "10/11/2026",
-      "id": "162026011992",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Planificador/a de producción",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=162026011992&ret=B"
     }
   ],
   "sectors": {
@@ -4982,7 +4964,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-24T14:36:19Z"
+      "last_crawled": "2026-11-25T13:56:55Z"
     },
     "AU": {
       "count": 10,
@@ -4997,8 +4979,8 @@
       "last_crawled": "2026-11-25T09:30:25Z"
     },
     "EM": {
-      "count": 27,
-      "last_crawled": "2026-11-24T14:36:19Z"
+      "count": 25,
+      "last_crawled": "2026-11-25T13:56:55Z"
     },
     "EO": {
       "count": 50,
@@ -5026,11 +5008,11 @@
     },
     "IQ": {
       "count": 5,
-      "last_crawled": "2026-11-24T14:36:19Z"
+      "last_crawled": "2026-11-25T13:56:55Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-11-24T14:36:19Z"
+      "last_crawled": "2026-11-25T13:56:55Z"
     },
     "MD": {
       "count": 4,
@@ -5042,7 +5024,7 @@
     },
     "MO": {
       "count": 12,
-      "last_crawled": "2026-11-24T14:36:19Z"
+      "last_crawled": "2026-11-25T13:56:55Z"
     },
     "MR": {
       "count": 20,
@@ -5050,7 +5032,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-11-24T14:36:19Z"
+      "last_crawled": "2026-11-25T13:56:55Z"
     },
     "PA": {
       "count": 1,
@@ -5062,7 +5044,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-24T14:36:19Z"
+      "last_crawled": "2026-11-25T13:56:55Z"
     },
     "SA": {
       "count": 74,
@@ -5085,5 +5067,5 @@
       "last_crawled": "2026-11-25T10:55:12Z"
     }
   },
-  "updated": "2026-11-25T11:58:25Z"
+  "updated": "2026-11-25T13:56:55Z"
 }
