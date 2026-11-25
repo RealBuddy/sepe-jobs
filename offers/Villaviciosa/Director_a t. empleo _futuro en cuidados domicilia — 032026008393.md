@@ -1,7 +1,7 @@
-# Director/a maestro/a t. empleo "futuro en cuidados domiciliarios"
+# Director/a t. empleo "futuro en cuidados domiciliarios"
 
-- **Профессия (ES):** Director/a maestro/a t. empleo "futuro en cuidados domiciliarios"
-- **Оригинальное название:** Director/a maestro/a t. empleo "futuro en cuidados domiciliarios" (ref.8393)
+- **Профессия (ES):** Director/a t. empleo "futuro en cuidados domiciliarios"
+- **Оригинальное название:** Director/a t. empleo "futuro en cuidados domiciliarios" (ref.8393)
 - **Город:** Villaviciosa (Asturias)
 - **Дата публикации:** 23/11/2026
 - **ID оферты:** 032026008393

@@ -1,7 +1,7 @@
-# Director/a taller de empleo del ayto. de parres .nueva difusion
+# Director/a taller de empleo del ayto. de parres . nueva difusión
 
-- **Профессия (ES):** Director/a taller de empleo del ayto. de parres .nueva difusion
-- **Оригинальное название:** Director/a taller de empleo del ayto. de parres (ref. 8401).nueva difusion
+- **Профессия (ES):** Director/a taller de empleo del ayto. de parres . nueva difusión
+- **Оригинальное название:** Director/a taller de empleo del ayto. de parres (ref. 8401). nueva difusión
 - **Город:** Parres (Asturias)
 - **Дата публикации:** 23/11/2026
 - **ID оферты:** 032026008401
