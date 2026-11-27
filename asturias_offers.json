@@ -1,5 +1,5 @@
 {
-  "count": 532,
+  "count": 533,
   "failed_sectors": [],
   "offers": [
     {
@@ -604,6 +604,15 @@
       "sector": "SP",
       "title": "Limpiador/a para la fresneda (ref.:6863)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006863&ret=B"
+    },
+    {
+      "date": "27/11/2026",
+      "id": "032026006873",
+      "municipio": "Morcin",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Empleado/a atención al cliente- retail (ref. 6873)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006873&ret=B"
     },
     {
       "date": "23/11/2026",
@@ -2020,15 +2029,6 @@
     },
     {
       "date": "09/11/2026",
-      "id": "032026008077",
-      "municipio": "Piloña",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Oficial electricista (ref.: 8077)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008077&ret=B"
-    },
-    {
-      "date": "09/11/2026",
       "id": "032026008078",
       "municipio": "Navia",
       "provincia": "Asturias",
@@ -2476,15 +2476,6 @@
       "sector": "DO",
       "title": "Monitor/a de inglés (ref.: 8208)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008208&ret=B"
-    },
-    {
-      "date": "13/11/2026",
-      "id": "032026008209",
-      "municipio": "Aviles",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Técnico/a de alta tensión ( ref. 8209 )",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008209&ret=B"
     },
     {
       "date": "13/11/2026",
@@ -4566,6 +4557,15 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008502&ret=B"
     },
     {
+      "date": "27/11/2026",
+      "id": "032026008503",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Programador/a - programa investigo (ref. 8503)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008503&ret=B"
+    },
+    {
       "date": "26/11/2026",
       "id": "032026008504",
       "municipio": "Ibias",
@@ -4600,6 +4600,15 @@
       "sector": "SP",
       "title": "Lavandero/a para colloto (ref:8507)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008507&ret=B"
+    },
+    {
+      "date": "27/11/2026",
+      "id": "032026008508",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "EM",
+      "title": "Ingeniero/a de digitalización-programa investigo (ref. 8508)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008508&ret=B"
     },
     {
       "date": "26/11/2026",
@@ -4802,7 +4811,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-26T13:35:52Z"
+      "last_crawled": "2026-11-27T13:31:44Z"
     },
     "AU": {
       "count": 9,
@@ -4817,8 +4826,8 @@
       "last_crawled": "2026-11-27T09:24:28Z"
     },
     "EM": {
-      "count": 26,
-      "last_crawled": "2026-11-26T13:35:52Z"
+      "count": 29,
+      "last_crawled": "2026-11-27T13:31:44Z"
     },
     "EO": {
       "count": 46,
@@ -4846,11 +4855,11 @@
     },
     "IQ": {
       "count": 5,
-      "last_crawled": "2026-11-26T13:35:52Z"
+      "last_crawled": "2026-11-27T13:31:44Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-11-26T13:35:52Z"
+      "last_crawled": "2026-11-27T13:31:44Z"
     },
     "MD": {
       "count": 3,
@@ -4861,8 +4870,8 @@
       "last_crawled": "2026-11-27T11:39:46Z"
     },
     "MO": {
-      "count": 12,
-      "last_crawled": "2026-11-26T13:35:52Z"
+      "count": 10,
+      "last_crawled": "2026-11-27T13:31:44Z"
     },
     "MR": {
       "count": 20,
@@ -4870,7 +4879,7 @@
     },
     "MT": {
       "count": 4,
-      "last_crawled": "2026-11-26T13:35:52Z"
+      "last_crawled": "2026-11-27T13:31:44Z"
     },
     "PA": {
       "count": 0,
@@ -4882,7 +4891,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-26T13:35:52Z"
+      "last_crawled": "2026-11-27T13:31:44Z"
     },
     "SA": {
       "count": 83,
@@ -4905,5 +4914,5 @@
       "last_crawled": "2026-11-27T10:34:12Z"
     }
   },
-  "updated": "2026-11-27T11:39:46Z"
+  "updated": "2026-11-27T13:31:44Z"
 }
