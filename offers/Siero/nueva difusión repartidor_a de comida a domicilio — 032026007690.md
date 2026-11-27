@@ -1,9 +1,9 @@
-# Доставка еды на дом
+# nueva difusión repartidor/a de comida a domicilio
 
-- **Профессия (ES):** Repartidor/a de comida a domicilio
-- **Оригинальное название:** Repartidor/a de comida a domicilio (ref. 7690)
+- **Профессия (ES):** nueva difusión repartidor/a de comida a domicilio
+- **Оригинальное название:** nueva difusión repartidor/a de comida a domicilio (ref. 7690)
 - **Город:** Siero (Asturias)
-- **Дата публикации:** 27/10/2026
+- **Дата публикации:** 27/11/2026
 - **ID оферты:** 032026007690
 
 ## 👉 Откликнуться на вакансию

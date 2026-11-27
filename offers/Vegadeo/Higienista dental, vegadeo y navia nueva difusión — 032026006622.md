@@ -1,9 +1,9 @@
-# Higienista dental, vegadeo y navia
+# Higienista dental, vegadeo y navia nueva difusión
 
-- **Профессия (ES):** Higienista dental, vegadeo y navia
-- **Оригинальное название:** Higienista dental, vegadeo y navia (ref. 6622)
+- **Профессия (ES):** Higienista dental, vegadeo y navia nueva difusión
+- **Оригинальное название:** Higienista dental, vegadeo y navia (ref. 6622) nueva difusión
 - **Город:** Vegadeo (Asturias)
-- **Дата публикации:** 01/11/2026
+- **Дата публикации:** 26/11/2026
 - **ID оферты:** 032026006622
 
 ## 👉 Откликнуться на вакансию

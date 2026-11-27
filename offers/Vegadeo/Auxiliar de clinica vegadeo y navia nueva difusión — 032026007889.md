@@ -1,9 +1,9 @@
-# Auxiliar de clinica vegadeo y navia
+# Auxiliar de clinica vegadeo y navia nueva difusión
 
-- **Профессия (ES):** Auxiliar de clinica vegadeo y navia
-- **Оригинальное название:** Auxiliar de clinica vegadeo y navia (ref.7889)
+- **Профессия (ES):** Auxiliar de clinica vegadeo y navia nueva difusión
+- **Оригинальное название:** Auxiliar de clinica vegadeo y navia (ref.7889) nueva difusión
 - **Город:** Vegadeo (Asturias)
-- **Дата публикации:** 03/11/2026
+- **Дата публикации:** 26/11/2026
 - **ID оферты:** 032026007889
 
 ## 👉 Откликнуться на вакансию
