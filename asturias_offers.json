@@ -1,5 +1,5 @@
 {
-  "count": 533,
+  "count": 532,
   "failed_sectors": [],
   "offers": [
     {
@@ -568,6 +568,15 @@
       "sector": "MO",
       "title": "nueva difusión dos montadores/as de estructuras metálicas (ref. 6835)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006835&ret=B"
+    },
+    {
+      "date": "27/11/2026",
+      "id": "032026006839",
+      "municipio": "Llanera",
+      "provincia": "Asturias",
+      "sector": "TC",
+      "title": "nueva difusión: 2 conductores/as de cuba (ref. 6839 )",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026006839&ret=B"
     },
     {
       "date": "22/09/2026",
@@ -1317,15 +1326,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007715&ret=B"
     },
     {
-      "date": "16/11/2026",
-      "id": "032026007721",
-      "municipio": "Mieres",
-      "provincia": "Asturias",
-      "sector": "IA",
-      "title": "Nueva difusión. nutricionista (ref. 7221)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007721&ret=B"
-    },
-    {
       "date": "25/11/2026",
       "id": "032026007722",
       "municipio": "Gijón",
@@ -1381,15 +1381,6 @@
     },
     {
       "date": "29/10/2026",
-      "id": "032026007778",
-      "municipio": "Onis",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Montador/a cubiertas y fachadas metálicas (ref. 7778)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007778&ret=B"
-    },
-    {
-      "date": "29/10/2026",
       "id": "032026007782",
       "municipio": "Onis",
       "provincia": "Asturias",
@@ -1423,15 +1414,6 @@
       "sector": "SP",
       "title": "Personal de limpieza (ref.7801)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007801&ret=B"
-    },
-    {
-      "date": "29/10/2026",
-      "id": "032026007806",
-      "municipio": "Ribadedeva",
-      "provincia": "Asturias",
-      "sector": "IP",
-      "title": "Soldador/a estructuras metálicas ligeras (ref.7806)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007806&ret=B"
     },
     {
       "date": "30/10/2026",
@@ -2386,6 +2368,15 @@
       "sector": "SA",
       "title": "Auxiliar de clínica dental (ref.: 8187)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008187&ret=B"
+    },
+    {
+      "date": "27/11/2026",
+      "id": "032026008188",
+      "municipio": "Siero",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "2 puestos de gerocultor/a (ref 8188.)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008188&ret=B"
     },
     {
       "date": "13/11/2026",
@@ -3613,15 +3604,6 @@
     },
     {
       "date": "20/11/2026",
-      "id": "032026008389",
-      "municipio": "Siero",
-      "provincia": "Asturias",
-      "sector": "SA",
-      "title": "Gerocultor/a (ref:8389)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008389&ret=B"
-    },
-    {
-      "date": "20/11/2026",
       "id": "032026008390",
       "municipio": "Llanes",
       "provincia": "Asturias",
@@ -4765,6 +4747,15 @@
     },
     {
       "date": "27/11/2026",
+      "id": "032026008535",
+      "municipio": "Gijón",
+      "provincia": "Asturias",
+      "sector": "SA",
+      "title": "Gerocultor/a (ref: 8535)",
+      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008535&ret=B"
+    },
+    {
+      "date": "27/11/2026",
       "id": "032026008540",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -4838,8 +4829,8 @@
       "last_crawled": "2026-11-27T10:34:12Z"
     },
     "IA": {
-      "count": 8,
-      "last_crawled": "2026-11-27T11:39:46Z"
+      "count": 7,
+      "last_crawled": "2026-11-28T11:14:54Z"
     },
     "IG": {
       "count": 0,
@@ -4850,8 +4841,8 @@
       "last_crawled": "2026-11-27T10:34:12Z"
     },
     "IP": {
-      "count": 24,
-      "last_crawled": "2026-11-27T11:39:46Z"
+      "count": 22,
+      "last_crawled": "2026-11-28T11:14:54Z"
     },
     "IQ": {
       "count": 5,
@@ -4867,7 +4858,7 @@
     },
     "MN": {
       "count": 0,
-      "last_crawled": "2026-11-27T11:39:46Z"
+      "last_crawled": "2026-11-28T11:14:54Z"
     },
     "MO": {
       "count": 10,
@@ -4875,7 +4866,7 @@
     },
     "MR": {
       "count": 20,
-      "last_crawled": "2026-11-27T11:39:46Z"
+      "last_crawled": "2026-11-28T11:14:54Z"
     },
     "MT": {
       "count": 4,
@@ -4894,25 +4885,25 @@
       "last_crawled": "2026-11-27T13:31:44Z"
     },
     "SA": {
-      "count": 83,
-      "last_crawled": "2026-11-27T11:39:46Z"
+      "count": 84,
+      "last_crawled": "2026-11-28T11:14:54Z"
     },
     "SF": {
       "count": 2,
-      "last_crawled": "2026-11-27T11:39:46Z"
+      "last_crawled": "2026-11-28T11:14:54Z"
     },
     "SP": {
       "count": 93,
       "last_crawled": "2026-11-28T08:40:07Z"
     },
     "TC": {
-      "count": 29,
-      "last_crawled": "2026-11-27T11:39:46Z"
+      "count": 30,
+      "last_crawled": "2026-11-28T11:14:54Z"
     },
     "TH": {
       "count": 66,
       "last_crawled": "2026-11-27T10:34:12Z"
     }
   },
-  "updated": "2026-11-28T08:40:07Z"
+  "updated": "2026-11-28T11:14:54Z"
 }
