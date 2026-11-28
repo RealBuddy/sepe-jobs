@@ -1,5 +1,5 @@
 {
-  "count": 532,
+  "count": 527,
   "failed_sectors": [],
   "offers": [
     {
@@ -1380,15 +1380,6 @@
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007777&ret=B"
     },
     {
-      "date": "29/10/2026",
-      "id": "032026007782",
-      "municipio": "Onis",
-      "provincia": "Asturias",
-      "sector": "MO",
-      "title": "Instalador/a de motores en portones y portillas (ref.7782)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007782&ret=B"
-    },
-    {
       "date": "12/11/2026",
       "id": "032026007792",
       "municipio": "Carreño",
@@ -1567,15 +1558,6 @@
       "sector": "AO",
       "title": "Auxiliar administrativo/a (ref.: 7934)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007934&ret=B"
-    },
-    {
-      "date": "03/11/2026",
-      "id": "032026007935",
-      "municipio": "Gijón",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Delineante (ref.: 7935)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026007935&ret=B"
     },
     {
       "date": "03/11/2026",
@@ -2407,15 +2389,6 @@
     },
     {
       "date": "13/11/2026",
-      "id": "032026008203",
-      "municipio": "Morcin",
-      "provincia": "Asturias",
-      "sector": "MT",
-      "title": "Operario/a de ensamblaje en línea de producción (ref. 8203)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008203&ret=B"
-    },
-    {
-      "date": "13/11/2026",
       "id": "032026008208",
       "municipio": "Oviedo",
       "provincia": "Asturias",
@@ -2521,15 +2494,6 @@
       "sector": "TH",
       "title": "Jefe/a de cocina para restaurante (ref.: 8226)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008226&ret=B"
-    },
-    {
-      "date": "16/11/2026",
-      "id": "032026008227",
-      "municipio": "Castropol",
-      "provincia": "Asturias",
-      "sector": "IQ",
-      "title": "Analista de laboratorio (ref.: 8227)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008227&ret=B"
     },
     {
       "date": "16/11/2026",
@@ -2890,15 +2854,6 @@
       "sector": "AO",
       "title": "Administrativo/a (ref.: 8280)",
       "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008280&ret=B"
-    },
-    {
-      "date": "17/11/2026",
-      "id": "032026008281",
-      "municipio": "Navia",
-      "provincia": "Asturias",
-      "sector": "EM",
-      "title": "Técnico/a auxiliar informática ayto navia programa contratos formativos para la obtención de la práctica profesional (ref.:8281)",
-      "url": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=032026008281&ret=B"
     },
     {
       "date": "17/11/2026",
@@ -4802,7 +4757,7 @@
     },
     "AR": {
       "count": 0,
-      "last_crawled": "2026-11-27T13:31:44Z"
+      "last_crawled": "2026-11-28T12:44:53Z"
     },
     "AU": {
       "count": 9,
@@ -4817,8 +4772,8 @@
       "last_crawled": "2026-11-28T08:40:07Z"
     },
     "EM": {
-      "count": 29,
-      "last_crawled": "2026-11-27T13:31:44Z"
+      "count": 27,
+      "last_crawled": "2026-11-28T12:44:53Z"
     },
     "EO": {
       "count": 46,
@@ -4845,12 +4800,12 @@
       "last_crawled": "2026-11-28T11:14:54Z"
     },
     "IQ": {
-      "count": 5,
-      "last_crawled": "2026-11-27T13:31:44Z"
+      "count": 4,
+      "last_crawled": "2026-11-28T12:44:53Z"
     },
     "IT": {
       "count": 0,
-      "last_crawled": "2026-11-27T13:31:44Z"
+      "last_crawled": "2026-11-28T12:44:53Z"
     },
     "MD": {
       "count": 3,
@@ -4861,16 +4816,16 @@
       "last_crawled": "2026-11-28T11:14:54Z"
     },
     "MO": {
-      "count": 10,
-      "last_crawled": "2026-11-27T13:31:44Z"
+      "count": 9,
+      "last_crawled": "2026-11-28T12:44:53Z"
     },
     "MR": {
       "count": 20,
       "last_crawled": "2026-11-28T11:14:54Z"
     },
     "MT": {
-      "count": 4,
-      "last_crawled": "2026-11-27T13:31:44Z"
+      "count": 3,
+      "last_crawled": "2026-11-28T12:44:53Z"
     },
     "PA": {
       "count": 0,
@@ -4882,7 +4837,7 @@
     },
     "PT": {
       "count": 1,
-      "last_crawled": "2026-11-27T13:31:44Z"
+      "last_crawled": "2026-11-28T12:44:53Z"
     },
     "SA": {
       "count": 84,
@@ -4905,5 +4860,5 @@
       "last_crawled": "2026-11-27T10:34:12Z"
     }
   },
-  "updated": "2026-11-28T11:14:54Z"
+  "updated": "2026-11-28T12:44:53Z"
 }
